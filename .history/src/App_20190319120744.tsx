@@ -15,6 +15,7 @@ export const App = () => {
     return (
         <div>
             <Page />
+
             <Nav active={active} onChange={setActive} />
         </div>
     )
