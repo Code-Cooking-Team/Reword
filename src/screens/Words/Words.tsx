@@ -1,18 +1,13 @@
-import * as React from 'react'
+import React, { useState, useEffect } from 'react'
 import styled from 'styled-components'
 import uuid from 'uuid'
 
 const useList = () => {
-    const [list, setList] = React.useState(
-        JSON.parse(localStorage.getItem('words') || '[]'),
-    )
+    const [list, setList] = useState(JSON.parse(localStorage.getItem('words') || '[]'))
 
-    React.useEffect(
-        () => {
-            localStorage.setItem('words', JSON.stringify(list))
-        },
-        [list],
-    )
+    useEffect(() => {
+        localStorage.setItem('words', JSON.stringify(list))
+    }, [list])
 
     return {
         list,
@@ -21,8 +16,8 @@ const useList = () => {
 }
 
 export const Words = () => {
-    const [newWord, setNewWord] = React.useState('')
-    const [search, setSearch] = React.useState('')
+    const [newWord, setNewWord] = useState('')
+    const [search, setSearch] = useState('')
     const { list, add } = useList()
 
     const searchFilter = el => {
@@ -37,9 +32,11 @@ export const Words = () => {
                 value={search}
                 onChange={e => setSearch(e.target.value)}
             />
-            {list.filter(searchFilter).map((a, index) => (
-                <div key={a.id}>{a.name}</div>
-            ))}
+            <div>
+                {list.filter(searchFilter).map((a, index) => (
+                    <div key={a.id}>{a.name}</div>
+                ))}
+            </div>
             <input
                 type="text"
                 value={newWord}
@@ -52,15 +49,15 @@ export const Words = () => {
                 }}
             >
                 As
-      </Add>
+            </Add>
         </div>
     )
 }
 
 const H1 = styled.h1`
-  background: red;
+    background: red;
 `
 
 const Add = styled.button`
-  background: red;
+    background: red;
 `
