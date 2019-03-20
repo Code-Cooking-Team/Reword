@@ -3,9 +3,11 @@ import { storiesOf } from '@storybook/react'
 import { action } from '@storybook/addon-actions'
 import { withKnobs, text, number } from '@storybook/addon-knobs'
 import { Keyboard } from './Keyboard'
+import styled from 'styled-components'
 
 storiesOf('Keyboard', module)
     .addDecorator(withKnobs)
+    .addDecorator(item => <Decorator>{item()}</Decorator>)
     .add('default', () => (
         <Keyboard word={text('Word', 'Hello')} onPress={action('onPress')} />
     ))
@@ -22,5 +24,12 @@ const percent = (label: string, value: number): number =>
         range: true,
         min: 0,
         max: 1,
-        step: 0.01
+        step: 0.01,
     })
+
+const Decorator = styled.div`
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 0;
+`
