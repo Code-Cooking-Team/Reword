@@ -1,0 +1,35 @@
+{
+    "Import react": {
+        "scope": "javascriptreact,typescriptreact",
+        "prefix": "/ireact",
+        "body": "import React from 'react'"
+    },
+    "React components": {
+        "scope": "javascript,javascriptreact,typescript,typescriptreact",
+        "prefix": ["/component"],
+        "body": [
+            "import React from 'react'",
+            "import styled from 'styled-components'\n",
+            "type ${1:$TM_FILENAME_BASE}Props = {$2}\n",
+            "export const ${1:$TM_FILENAME_BASE} = (props: $1Props) => (",
+            "\t<Container>$3</Container>",
+            ")\n",
+            "const Container = styled.div`\n\t$0\n`"
+        ]
+    },
+    "Hook useState": {
+        "scope": "javascript,javascriptreact,typescript,typescriptreact",
+        "prefix": "/ustate",
+        "body": "const [ $1, set$2 ] = useState($0)"
+    },
+    "Hook useEffect": {
+        "scope": "javascript,javascriptreact,typescript,typescriptreact",
+        "prefix": "/ueffect",
+        "body": "useEffect(() => {$0}, [$1])"
+    },
+    "Styled component": {
+        "scope": "javascript,javascriptreact,typescript,typescriptreact",
+        "prefix": "/sc",
+        "body": "const ${1:Container} = styled.${2:div}`\n\t$0\n`"
+    }
+}

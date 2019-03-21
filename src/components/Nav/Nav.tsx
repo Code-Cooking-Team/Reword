@@ -1,7 +1,8 @@
 import * as React from 'react'
 import styled, { css } from 'styled-components'
-import { white, gray, brand } from '../styles/colors'
-import { barShadow } from '../styles/shadow'
+import { white, gray, brand } from '../../styles/colors'
+import { barShadow } from '../../styles/shadow'
+import { Icon } from '../Icon'
 
 type NavProps = {
     active: string
@@ -15,23 +16,27 @@ export const Nav = (prop: NavProps) => {
                 isActive={prop.active === 'home'}
                 onClick={() => prop.onChange('home')}
             >
+                <Icon name="home" block />
                 Home
             </NavButton>
             <NavButton
                 isActive={prop.active === 'words'}
                 onClick={() => prop.onChange('words')}
             >
+                <Icon name="words" block />
                 Words
             </NavButton>
             <NavButton
                 isActive={prop.active === 'settings'}
                 onClick={() => prop.onChange('settings')}
             >
+                <Icon name="profile" block />
                 Settings
             </NavButton>
         </Container>
     )
 }
+
 const Container = styled.div`
     background: ${white};
     display: flex;
