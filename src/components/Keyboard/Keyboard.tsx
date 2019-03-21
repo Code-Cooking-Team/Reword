@@ -21,7 +21,9 @@ export const Keyboard = (props: KeyboardProps) => (
                         symbol={k.key}
                         visible={k.visible}
                         onClick={() => {
-                            if (k.visible) props.onPress(k.key)
+                            if (k.visible) {
+                                props.onPress(k.key)
+                            }
                         }}
                     />
                 ))}
@@ -41,3 +43,6 @@ const Row = styled.div`
     justify-content: center;
     padding: 10px 5px 0;
 `
+
+export const vibrateOk = () => navigator.vibrate(1)
+export const vibrateBad = () => navigator.vibrate([1, 100, 1, 100, 1])

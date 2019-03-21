@@ -2,7 +2,7 @@ import React from 'react'
 import { storiesOf } from '@storybook/react'
 import { action } from '@storybook/addon-actions'
 import { withKnobs, text, number } from '@storybook/addon-knobs'
-import { Keyboard } from './Keyboard'
+import { Keyboard, vibrateOk, vibrateBad } from './Keyboard'
 import styled from 'styled-components'
 
 storiesOf('Keyboard', module)
@@ -32,6 +32,19 @@ storiesOf('Keyboard', module)
             word={text('word', 'Creativity is intelligence having fun')}
             onPress={action('onPress')}
             fakeKeys={percent('Fake keys', 0.2)}
+        />
+    ))
+    .add('vibration test', () => (
+        <Keyboard
+            word="Hello ,'"
+            onPress={() => {
+                if (Math.random() > 0.2) {
+                    vibrateOk()
+                } else {
+                    vibrateBad()
+                }
+            }}
+            fakeKeys={1}
         />
     ))
 

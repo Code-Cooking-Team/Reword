@@ -1,5 +1,5 @@
 import React from 'react'
-import styled from 'styled-components'
+import styled, { css } from 'styled-components'
 import { brand, white } from '../../styles/colors'
 import { fast } from '../../styles/transitions'
 
@@ -34,7 +34,10 @@ const Container = styled.button<{ visible?: boolean; isSpace?: boolean }>`
     background: none;
     transition: all ${fast};
 
-    &:focus {
+    ${p => p.visible && highlight}
+`
+const highlight = css`
+    &:active {
         outline: none;
         background-color: ${brand};
         color: ${white};
