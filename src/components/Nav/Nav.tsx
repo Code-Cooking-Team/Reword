@@ -3,6 +3,7 @@ import styled, { css } from 'styled-components'
 import { white, gray, brand } from '../../styles/colors'
 import { barShadow } from '../../styles/shadow'
 import { Icon } from '../Icon'
+import { fast } from '../../styles/transitions'
 
 type NavProps = {
     active: string
@@ -77,7 +78,7 @@ const NavButton = styled.button<{ isActive: boolean }>`
 `
 
 const activeCSS = css`
-    transition: all 0.3s ease;
+    transition: all ${fast};
     opacity: 0;
     transform: scale(2);
     background: ${brand};

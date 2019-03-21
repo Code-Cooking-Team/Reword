@@ -27,9 +27,6 @@ export const Keyboard = (props: KeyboardProps) => (
                 ))}
             </Row>
         ))}
-        <Row>
-            <Space onClick={() => props.onPress(' ')} visible />
-        </Row>
     </Container>
 )
 
@@ -43,8 +40,4 @@ const Row = styled.div`
     display: flex;
     justify-content: center;
     padding: 10px 5px 0;
-`
-
-const Space = styled(Key)`
-    width: 50vw;
 `

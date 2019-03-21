@@ -8,12 +8,28 @@ import styled from 'styled-components'
 storiesOf('Keyboard', module)
     .addDecorator(withKnobs)
     .addDecorator(item => <Decorator>{item()}</Decorator>)
-    .add('default', () => (
-        <Keyboard word={text('Word', 'Hello')} onPress={action('onPress')} />
+    .add('single word', () => (
+        <Keyboard word={text('word', 'Hello')} onPress={action('onPress')} />
     ))
-    .add('with fake keys', () => (
+    .add('single word with fake keys', () => (
         <Keyboard
-            word={text('Word', 'Hello')}
+            word={text('word', 'Hello')}
+            onPress={action('onPress')}
+            fakeKeys={percent('Fake keys', 0.2)}
+        />
+    ))
+    .add('sentence', () => (
+        <Keyboard
+            word={text(
+                'word',
+                'A clever person solves a problem, a wise person avoids it'
+            )}
+            onPress={action('onPress')}
+        />
+    ))
+    .add('sentence with fake keys', () => (
+        <Keyboard
+            word={text('word', 'Creativity is intelligence having fun')}
             onPress={action('onPress')}
             fakeKeys={percent('Fake keys', 0.2)}
         />

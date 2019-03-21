@@ -1,6 +1,8 @@
 import seedRandom from 'seed-random'
 
-const KEYS = ['qwertyuiop', 'asdfghjkl', 'zxcvbnm'].map(row => row.split(''))
+const special = "' ,"
+
+const KEYS = ['qwertyuiop', 'asdfghjkl', 'zxcvbnm', special].map(row => row.split(''))
 
 type WordKey = {
     visible: boolean
@@ -20,6 +22,6 @@ const getKey = (key: string, word: string, fakeKeys: number): WordKey => {
 
     return {
         key,
-        visible: word.indexOf(key) !== -1 || fakeKeys > random
+        visible: word.includes(key) || (fakeKeys > random && !special.includes(key)),
     }
 }
