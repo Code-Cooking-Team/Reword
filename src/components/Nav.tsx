@@ -1,5 +1,5 @@
 import * as React from 'react'
-import styled from 'styled-components'
+import styled, { css } from 'styled-components'
 import { white, gray, brand } from '../styles/colors'
 import { barShadow } from '../styles/shadow'
 
@@ -61,10 +61,7 @@ const NavButton = styled.button<{ isActive: boolean }>`
         bottom: -50px;
         left: -50px;
         right: -50px;
-        transition: all ${props => (props.isActive ? 0.3 : 0)}s ease;
-        opacity: ${props => (props.isActive ? 0 : 0.3)};
-        transform: scale(${props => (props.isActive ? 2 : 1)});
-        background: ${props => (props.isActive ? brand : 'rgba(255,255,255,0)')};
+        ${props => (props.isActive ? activeCSS : inActiveCSS)};
     }
     &:active::after {
         transition: opacity 0.6s ease-out, background 0.6s ease-out, transform 1s ease-out;
@@ -72,4 +69,18 @@ const NavButton = styled.button<{ isActive: boolean }>`
         transform: scale(1.2);
         background: ${brand};
     }
+`
+
+const activeCSS = css`
+    transition: all 0.3s ease;
+    opacity: 0;
+    transform: scale(2);
+    background: ${brand};
+`
+
+const inActiveCSS = css`
+    transition: all 0 ease;
+    opacity: 0.3;
+    transform: scale(1);
+    background: rgba(255, 255, 255, 0);
 `
