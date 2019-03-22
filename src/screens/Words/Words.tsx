@@ -11,14 +11,19 @@ const useList = () => {
 
     return {
         list,
-        add: newWord => setList([...list, { name: newWord, id: uuid() }]),
+        add: newWord => {
+            if (newWord) {
+                return setList([...list, { name: newWord, id: uuid() }])
+            }
+        },
+        remove: removeWordId => setList(list.filter(word => word.id != removeWordId)),
     }
 }
 
 export const Words = () => {
     const [newWord, setNewWord] = useState('')
     const [search, setSearch] = useState('')
-    const { list, add } = useList()
+    const { list, add, remove } = useList()
 
     const searchFilter = el => {
         return el.name.indexOf(search) > -1
@@ -34,7 +39,16 @@ export const Words = () => {
             />
             <div>
                 {list.filter(searchFilter).map((a, index) => (
-                    <div key={a.id}>{a.name}</div>
+                    <div key={a.id}>
+                        {a.name}
+                        <Remove
+                            onClick={() => {
+                                remove(a.id)
+                            }}
+                        >
+                            X
+                        </Remove>
+                    </div>
                 ))}
             </div>
             <input
@@ -60,4 +74,8 @@ const H1 = styled.h1`
 
 const Add = styled.button`
     background: red;
+`
+const Remove = styled.button`
+    background: red;
+    padding-left: 2px;
 `
