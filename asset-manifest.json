@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.e11254c5.chunk.css",
-  "main.js": "/static/js/main.6bf0c38f.chunk.js",
-  "main.js.map": "/static/js/main.6bf0c38f.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-  "static/js/2.07a699b4.chunk.js": "/static/js/2.07a699b4.chunk.js",
-  "static/js/2.07a699b4.chunk.js.map": "/static/js/2.07a699b4.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.fe2633d8dc926b0db761d4b4d566fd2e.js": "/precache-manifest.fe2633d8dc926b0db761d4b4d566fd2e.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/main.e11254c5.chunk.css.map": "/static/css/main.e11254c5.chunk.css.map"
+  "main.css": "/Reword/static/css/main.e11254c5.chunk.css",
+  "main.js": "/Reword/static/js/main.066d6b3c.chunk.js",
+  "main.js.map": "/Reword/static/js/main.066d6b3c.chunk.js.map",
+  "runtime~main.js": "/Reword/static/js/runtime~main.0a4bcd27.js",
+  "runtime~main.js.map": "/Reword/static/js/runtime~main.0a4bcd27.js.map",
+  "static/js/2.e4ef62e5.chunk.js": "/Reword/static/js/2.e4ef62e5.chunk.js",
+  "static/js/2.e4ef62e5.chunk.js.map": "/Reword/static/js/2.e4ef62e5.chunk.js.map",
+  "index.html": "/Reword/index.html",
+  "precache-manifest.1a986f99f2424a7b6e332e3de2587bb1.js": "/Reword/precache-manifest.1a986f99f2424a7b6e332e3de2587bb1.js",
+  "service-worker.js": "/Reword/service-worker.js",
+  "static/css/main.e11254c5.chunk.css.map": "/Reword/static/css/main.e11254c5.chunk.css.map"
 }
