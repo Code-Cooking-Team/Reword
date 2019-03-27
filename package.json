@@ -6,12 +6,29 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
+    "test": "react-scripts test --coverage",
     "eject": "react-scripts eject",
+    "lint": "eslint 'src/**/*.{ts,tsx}'",
     "storybook": "start-storybook -p 6006",
     "build:storybook": "build-storybook -o build/storybook",
     "predeploy": "rm -rf dist && npm run build && npm run build:storybook",
     "deploy": "gh-pages -d build"
+  },
+  "lint-staged": {
+    "*.{ts,tsx}": [
+      "prettier --write",
+      "eslint --fix",
+      "git add"
+    ],
+    "*.{md,yml,css}": [
+      "prettier --write",
+      "git add"
+    ]
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
   },
   "dependencies": {
     "react": "^16.8.4",
@@ -36,13 +53,17 @@
     "@types/storybook__addon-viewport": "^4.1.0",
     "@types/storybook__react": "^4.0.1",
     "@types/styled-components": "^4.1.12",
+    "@typescript-eslint/eslint-plugin": "^1.5.0",
+    "@typescript-eslint/parser": "^1.5.0",
     "babel-loader": "^8.0.5",
+    "eslint": "^5.15.3",
+    "eslint-config-prettier": "^4.1.0",
+    "eslint-plugin-react": "^7.12.4",
     "gh-pages": "^2.0.1",
+    "husky": "^1.3.1",
+    "lint-staged": "^8.1.5",
     "react-scripts": "^2.1.8",
     "typescript": "^3.3.4000"
-  },
-  "eslintConfig": {
-    "extends": "react-app"
   },
   "browserslist": [
     ">0.2%",

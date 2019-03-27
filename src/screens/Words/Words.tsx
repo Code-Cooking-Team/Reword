@@ -38,7 +38,7 @@ export const Words = () => {
                 onChange={e => setSearch(e.target.value)}
             />
             <div>
-                {list.filter(searchFilter).map((a, index) => (
+                {list.filter(searchFilter).map(a => (
                     <div key={a.id}>
                         {a.name}
                         <Remove
@@ -75,6 +75,7 @@ const H1 = styled.h1`
 const Add = styled.button`
     background: red;
 `
+
 const Remove = styled.button`
     background: red;
     padding-left: 2px;

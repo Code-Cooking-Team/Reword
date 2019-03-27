@@ -1,0 +1,12 @@
+// VS Code recommended extensions
+// [Extensions panel] → [⋯] → [Show Recommended Extensions]
+// More: https://code.visualstudio.com/docs/editor/extension-gallery#_workspace-recommended-extensions
+{
+    "recommendations": [
+        "editorconfig.editorconfig",
+        "esbenp.prettier-vscode",
+        "dbaeumer.vscode-eslint",
+        "jpoissonnier.vscode-styled-components",
+        "streetsidesoftware.code-spell-checker"
+    ]
+}

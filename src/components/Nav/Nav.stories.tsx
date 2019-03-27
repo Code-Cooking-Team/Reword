@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import { storiesOf } from '@storybook/react'
 import { action } from '@storybook/addon-actions'
-import { withKnobs, text, number, select } from '@storybook/addon-knobs'
+import { withKnobs, select } from '@storybook/addon-knobs'
 import { Nav } from '../Nav'
 import styled from 'styled-components'
 
