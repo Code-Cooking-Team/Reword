@@ -12,7 +12,7 @@ const screens = {
 }
 
 export const App = () => {
-    const [active, setActive] = React.useState('words')
+    const [active, setActive] = React.useState('home')
     const Page = screens[active]
 
     return (

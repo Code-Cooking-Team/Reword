@@ -1,19 +1,16 @@
 import * as React from 'react'
 import styled from 'styled-components'
+import { Logo } from '../../components/Logo'
 
 export const Home = () => {
     return (
         <div>
-            <H1>Home</H1>
+            <Logo />
             <Start>As</Start>
         </div>
     )
 }
 
-const H1 = styled.h1`
-  background: red;
-`
-
 const Start = styled.button`
-  background: red;
+    background: red;
 `
