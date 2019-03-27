@@ -1,1 +1,0 @@
-{"version":3,"file":"main.f5481d575af60e11397c.bundle.js","sources":["webpack:///./src/styles/shadow.ts"],"sourcesContent":["export const barShadow = '0 0 10px rgba(0, 0, 0, 0.1)'\nexport const floatingShadow = '2px 2px 7px rgba(0, 0, 0, 0.1)'\n"],"mappings":"AAAA","sourceRoot":""}
