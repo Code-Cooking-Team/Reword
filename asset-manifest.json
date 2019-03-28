@@ -1,13 +1,13 @@
 {
   "main.css": "/Reword/static/css/main.5fa2116b.chunk.css",
-  "main.js": "/Reword/static/js/main.8439fe53.chunk.js",
-  "main.js.map": "/Reword/static/js/main.8439fe53.chunk.js.map",
+  "main.js": "/Reword/static/js/main.83f1a0a7.chunk.js",
+  "main.js.map": "/Reword/static/js/main.83f1a0a7.chunk.js.map",
   "runtime~main.js": "/Reword/static/js/runtime~main.0a4bcd27.js",
   "runtime~main.js.map": "/Reword/static/js/runtime~main.0a4bcd27.js.map",
-  "static/js/2.5fab8bb7.chunk.js": "/Reword/static/js/2.5fab8bb7.chunk.js",
-  "static/js/2.5fab8bb7.chunk.js.map": "/Reword/static/js/2.5fab8bb7.chunk.js.map",
+  "static/js/2.fbbd2b2e.chunk.js": "/Reword/static/js/2.fbbd2b2e.chunk.js",
+  "static/js/2.fbbd2b2e.chunk.js.map": "/Reword/static/js/2.fbbd2b2e.chunk.js.map",
   "index.html": "/Reword/index.html",
-  "precache-manifest.0f9fd82b9de53adf5018456f3ba02826.js": "/Reword/precache-manifest.0f9fd82b9de53adf5018456f3ba02826.js",
+  "precache-manifest.d949fc7b1dc1e5f4a0ba7ca31725b9ed.js": "/Reword/precache-manifest.d949fc7b1dc1e5f4a0ba7ca31725b9ed.js",
   "service-worker.js": "/Reword/service-worker.js",
   "static/css/main.5fa2116b.chunk.css.map": "/Reword/static/css/main.5fa2116b.chunk.css.map"
 }
