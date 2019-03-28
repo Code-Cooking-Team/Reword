@@ -4,32 +4,35 @@ import { white, gray, brand } from '../../styles/colors'
 import { barShadow } from '../../styles/shadow'
 import { Icon } from '../Icon'
 import { fast } from '../../styles/transitions'
+import { RouteName } from '../../store/types/RouteName'
+
+export const NAV_HEIGHT = 60
 
 type NavProps = {
-    active: string
-    onChange(page: string): void
+    active: RouteName
+    onChange(page: RouteName): void
 }
 
 export const Nav = (prop: NavProps) => {
     return (
         <Container>
             <NavButton
-                isActive={prop.active === 'home'}
-                onClick={() => prop.onChange('home')}
+                isActive={prop.active === RouteName.Home}
+                onClick={() => prop.onChange(RouteName.Home)}
             >
                 <Icon name="home" block />
                 Home
             </NavButton>
             <NavButton
-                isActive={prop.active === 'words'}
-                onClick={() => prop.onChange('words')}
+                isActive={prop.active === RouteName.Words}
+                onClick={() => prop.onChange(RouteName.Words)}
             >
                 <Icon name="words" block />
                 Words
             </NavButton>
             <NavButton
-                isActive={prop.active === 'settings'}
-                onClick={() => prop.onChange('settings')}
+                isActive={prop.active === RouteName.Settings}
+                onClick={() => prop.onChange(RouteName.Settings)}
             >
                 <Icon name="profile" block />
                 Settings
@@ -38,11 +41,11 @@ export const Nav = (prop: NavProps) => {
     )
 }
 
-const Container = styled.div`
+const Container = styled.nav`
     background: ${white};
     display: flex;
     width: 100%;
-    min-height: 60px;
+    min-height: ${NAV_HEIGHT}px;
     justify-content: space-evenly;
     box-shadow: ${barShadow};
     overflow: hidden;

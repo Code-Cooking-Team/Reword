@@ -1,31 +1,39 @@
-import * as React from 'react'
-import { Home } from './screens/Home'
-import { Words } from './screens/Words'
-import { Nav } from './components/Nav'
-import { Settings } from './screens/Settings'
+import React, { ElementType } from 'react'
 import styled from 'styled-components'
+import { Nav, NAV_HEIGHT } from './components/Nav'
+import { Home } from './screens/Home'
+import { Settings } from './screens/Settings'
+import { Words } from './screens/Words'
+import { useRouter } from './store'
+import { RouteName } from './store/types/RouteName'
 
-const screens = {
-    home: Home,
-    words: Words,
-    settings: Settings,
+const screens: Record<RouteName, ElementType> = {
+    [RouteName.Home]: Home,
+    [RouteName.Words]: Words,
+    [RouteName.Settings]: Settings,
 }
 
 export const App = () => {
-    const [active, setActive] = React.useState('home')
-    const Page = screens[active]
+    const { route, setRoute } = useRouter()
+    const Page = screens[route]
 
     return (
-        <div>
-            <Page />
-            <NavPosition>
-                <Nav active={active} onChange={setActive} />
-            </NavPosition>
-        </div>
+        <>
+            <Content>
+                <Page />
+            </Content>
+            <NavContainer>
+                <Nav active={route} onChange={setRoute} />
+            </NavContainer>
+        </>
     )
 }
 
-const NavPosition = styled.div`
+const Content = styled.main`
+    padding-bottom: ${NAV_HEIGHT}px;
+`
+
+const NavContainer = styled.div`
     position: fixed;
     bottom: 0;
     right: 0;
