@@ -19,7 +19,7 @@ export const reducer = (state: State, action: Actions) => {
         case 'WORDS/ADD_WORD':
             return {
                 ...state,
-                words: [...state.words, { id: uuid(), name: action.payload.name }],
+                words: [...state.words, { id: uuid(), ...action.payload }],
             }
 
         case 'WORDS/REMOVE_WORD':

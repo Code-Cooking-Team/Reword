@@ -4,8 +4,8 @@ import { useEffect } from 'react'
 export const useWords = () => {
     const [words] = useGlobalState('words')
 
-    const addWord = (word: string) => {
-        dispatch({ type: 'WORDS/ADD_WORD', payload: { name: word } })
+    const addWord = (name: string, translation: string, example?: string) => {
+        dispatch({ type: 'WORDS/ADD_WORD', payload: { name, translation, example } })
     }
 
     const removeWord = (id: string) => {
