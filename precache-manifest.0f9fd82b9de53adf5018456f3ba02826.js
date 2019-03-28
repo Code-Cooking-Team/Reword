@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "470bba9aa486429c1c59",
+    "revision": "be749762510c0f4723aa",
     "url": "/Reword/static/css/main.5fa2116b.chunk.css"
   },
   {
-    "revision": "470bba9aa486429c1c59",
-    "url": "/Reword/static/js/main.f9598e0c.chunk.js"
+    "revision": "be749762510c0f4723aa",
+    "url": "/Reword/static/js/main.8439fe53.chunk.js"
   },
   {
     "revision": "6993d571fff6cc4f7d44",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/Reword/static/js/2.5fab8bb7.chunk.js"
   },
   {
-    "revision": "436a3a877b3b4abe3fe0fc5d4fe4d818",
+    "revision": "4d348af326dbfafdd92f2746480902cc",
     "url": "/Reword/index.html"
   }
 ];
