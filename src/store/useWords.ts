@@ -12,7 +12,11 @@ export const useWords = () => {
         dispatch({ type: 'WORDS/REMOVE_WORD', payload: { id } })
     }
 
-    return { words, addWord, removeWord }
+    const randomWord = () => {
+        return words[Math.floor(Math.random() * words.length)]
+    }
+
+    return { words, addWord, removeWord, randomWord }
 }
 
 export const useWordsPersist = () => {

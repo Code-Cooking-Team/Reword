@@ -1,6 +1,7 @@
 import React, { ElementType } from 'react'
 import styled from 'styled-components'
 import { Nav, NAV_HEIGHT } from './components/Nav'
+import { Game } from './screens/Game/Game'
 import { Home } from './screens/Home'
 import { Settings } from './screens/Settings'
 import { Words } from './screens/Words'
@@ -11,6 +12,7 @@ const screens: Record<RouteName, ElementType> = {
     [RouteName.Home]: Home,
     [RouteName.Words]: Words,
     [RouteName.Settings]: Settings,
+    [RouteName.Game]: Game,
 }
 
 export const App = () => {
