@@ -1,13 +1,13 @@
 {
   "main.css": "/Reword/main.css",
-  "main.js": "/Reword/main.d69175d35ef2374ac3d8.bundle.js",
+  "main.js": "/Reword/main.1ea9e16d14d6389ba2b6.bundle.js",
   "main.css.map": "/Reword/main.css.map",
-  "main.js.map": "/Reword/main.d69175d35ef2374ac3d8.bundle.js.map",
-  "runtime~main.js": "/Reword/runtime~main.d69175d35ef2374ac3d8.bundle.js",
-  "runtime~main.js.map": "/Reword/runtime~main.d69175d35ef2374ac3d8.bundle.js.map",
-  "vendors~main.js": "/Reword/vendors~main.d69175d35ef2374ac3d8.bundle.js",
-  "vendors~main.js.map": "/Reword/vendors~main.d69175d35ef2374ac3d8.bundle.js.map",
+  "main.js.map": "/Reword/main.1ea9e16d14d6389ba2b6.bundle.js.map",
+  "runtime~main.js": "/Reword/runtime~main.1ea9e16d14d6389ba2b6.bundle.js",
+  "runtime~main.js.map": "/Reword/runtime~main.1ea9e16d14d6389ba2b6.bundle.js.map",
+  "vendors~main.js": "/Reword/vendors~main.1ea9e16d14d6389ba2b6.bundle.js",
+  "vendors~main.js.map": "/Reword/vendors~main.1ea9e16d14d6389ba2b6.bundle.js.map",
   "iframe.html": "/Reword/iframe.html",
-  "precache-manifest.b7f2234869587a07f9a2b4d4a7e06006.js": "/Reword/precache-manifest.b7f2234869587a07f9a2b4d4a7e06006.js",
+  "precache-manifest.c160d640f6aafcee74769583c68184a2.js": "/Reword/precache-manifest.c160d640f6aafcee74769583c68184a2.js",
   "service-worker.js": "/Reword/service-worker.js"
 }
