@@ -10,10 +10,16 @@ export const reducer = (state: State, action: Actions) => {
                 route: action.payload.route,
             }
 
+        case 'WORDS/SET':
+            return {
+                ...state,
+                words: action.payload,
+            }
+
         case 'WORDS/ADD_WORD':
             return {
                 ...state,
-                words: [...state.words, { id: uuid(), name: action.payload.word }],
+                words: [...state.words, { id: uuid(), name: action.payload.name }],
             }
 
         case 'WORDS/REMOVE_WORD':

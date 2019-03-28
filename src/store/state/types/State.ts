@@ -5,7 +5,7 @@ type Word = {
     name: string
 }
 
-type WordsState = Word[]
+export type WordsState = Word[]
 
 export type State = {
     route: RouteName

@@ -1,12 +1,12 @@
 {
     "Export conts function": {
         "scope": "javascript,javascriptreact,typescript,typescriptreact",
-        "prefix": "ecf",
-        "body": "export const ${1:$TM_FILENAME_BASE} = ($1) => $0"
+        "prefix": "/ecf",
+        "body": "export const ${1:$TM_FILENAME_BASE} = ($2) => $0"
     },
     "Re-export": {
         "scope": "javascript,javascriptreact,typescript,typescriptreact",
-        "prefix": "re",
+        "prefix": "/re",
         "body": "export * from './${1:${TM_DIRECTORY/^.+\\/(.*)$/$1/}}'$0"
     }
 }
