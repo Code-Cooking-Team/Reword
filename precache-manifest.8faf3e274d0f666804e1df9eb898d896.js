@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/Reword/static/js/2.8320f1e7.chunk.js"
   },
   {
-    "revision": "734cdbfe74b59c33d0beee838312a730",
+    "revision": "3d6d951e9408d6e7bb5886534cfb5c4a",
     "url": "/Reword/index.html"
   }
 ];
