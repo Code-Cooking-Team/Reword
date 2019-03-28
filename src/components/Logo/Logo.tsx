@@ -22,7 +22,7 @@ export const Logo = () => {
             transform: 'translate(-0.2em)',
         },
     })
-    const sepSpring = useSpring({
+    const pipeSpring = useSpring({
         transform: 'translate(0) scaleX(1)',
         from: {
             transform: 'translate(-1.2em) scaleX(5)',
@@ -32,7 +32,7 @@ export const Logo = () => {
     return (
         <Container>
             <First style={reSpring}>Re</First>
-            <Sep style={sepSpring} />
+            <Pipe style={pipeSpring} />
             <Last style={wordSpring}>word</Last>
         </Container>
     )
@@ -52,7 +52,7 @@ const Last = styled(animated.span)`
     display: inline-block;
 `
 
-const Sep = styled(animated.span)`
+const Pipe = styled(animated.span)`
     display: inline-block;
     height: 1em;
     width: 0.1em;

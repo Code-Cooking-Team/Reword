@@ -58,6 +58,7 @@ const NavButton = styled.button<{ isActive: boolean }>`
     border: none;
     padding: 10px 25px;
     position: relative;
+    line-height: 1.5em;
     &::after {
         content: '';
         display: block;

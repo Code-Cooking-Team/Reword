@@ -24,6 +24,8 @@ const Container = styled.div<{ block: boolean }>`
     display: ${p => (p.block ? 'block' : 'inline-block')};
     vertical-align: middle;
     svg {
+        display: block;
+        margin: auto;
         fill: currentColor;
     }
 `

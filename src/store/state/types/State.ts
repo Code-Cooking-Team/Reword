@@ -1,6 +1,6 @@
 import { RouteName } from '../../types/RouteName'
 
-type Word = {
+export type Word = {
     id: string
     name: string
     translation: string

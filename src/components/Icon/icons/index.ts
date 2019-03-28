@@ -1,3 +1,5 @@
 export * from './home'
-export * from './words'
+export * from './play'
+export * from './plus'
 export * from './profile'
+export * from './words'

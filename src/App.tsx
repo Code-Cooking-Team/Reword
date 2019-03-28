@@ -34,6 +34,7 @@ export const App = () => {
 
 const Content = styled.main`
     padding-bottom: ${NAV_HEIGHT}px;
+    height: 100vh;
 `
 
 const NavContainer = styled.div`
