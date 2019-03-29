@@ -2,7 +2,7 @@
   "name": "reword",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://kacperkozak.github.io/Reword",
+  "homepage": "http://reword.9px.pl/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
