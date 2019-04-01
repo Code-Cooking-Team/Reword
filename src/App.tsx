@@ -34,7 +34,6 @@ export const App = () => {
 
 const Content = styled.main`
     height: calc(100% - ${NAV_HEIGHT}px);
-    max-width: 100%;
     position: relative;
     width: 100%;
     overflow-y: auto;
