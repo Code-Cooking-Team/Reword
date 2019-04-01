@@ -1,0 +1,17 @@
+{
+    "Storybook story": {
+        "scope": "typescript,typescriptreact",
+        "prefix": "/story",
+        "body": [
+            "import { text, withKnobs } from '@storybook/addon-knobs'",
+            "import { storiesOf } from '@storybook/react'",
+            "import React from 'react'",
+            "import { ${1:${TM_FILENAME_BASE/^(.+)\\..*$/${1}/}} } from './${1}'\n",
+            "storiesOf('${1}', module)",
+            "    .addDecorator(withKnobs)",
+            "    .add('default', () => (",
+            "        <${1}>{${0:text('Text', 'Example')}}</${1}>",
+            "    ))"
+        ]
+    }
+}
