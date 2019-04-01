@@ -1,7 +1,7 @@
 import React from 'react'
 import ScaleText from 'react-scale-text'
 import styled from 'styled-components'
-import { brand, muted } from '../../styles/colors'
+import { brand, muted, black } from '../../styles/colors'
 import { Pipe } from './Pipe'
 
 type TypewriterProps = {
@@ -65,7 +65,8 @@ const Letter = styled.span<{ letterState: boolean }>`
     min-width: 25px;
     transition: transform 0.25s cubic-bezier(0.3, 1.61, 0.43, 1.01);
     transform: ${props => (props.letterState ? 'scale(0.5)' : 'scale(1)')};
-    color: ${props => (props.letterState ? 'rgba(255,255,255,0)' : brand)};
+    color: ${props => (props.letterState ? 'rgba(255,255,255,0)' : black)};
+
     &::after {
         content: '*';
         position: absolute;
