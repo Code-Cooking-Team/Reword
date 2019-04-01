@@ -13,8 +13,6 @@ export const Typewriter = (props: TypewriterProps) => {
     const { word, progress } = props
     const typed = word.substr(0, progress)
 
-    console.log(typed)
-
     return (
         <Container>
             <ScaleText widthOnly={true} maxFontSize={74}>
