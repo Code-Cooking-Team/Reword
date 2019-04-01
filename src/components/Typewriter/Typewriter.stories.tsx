@@ -1,8 +1,8 @@
 import { withKnobs, number, text } from '@storybook/addon-knobs'
 import { storiesOf } from '@storybook/react'
 import React from 'react'
-import { Typewriter } from './Typewriter'
 import styled from 'styled-components'
+import { Typewriter } from './Typewriter'
 
 storiesOf('Typewriter', module)
     .addDecorator(withKnobs)

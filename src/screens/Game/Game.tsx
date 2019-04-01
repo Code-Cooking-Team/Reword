@@ -7,6 +7,7 @@ import { Word } from '../../store/state/types/State'
 import { Icon } from '../../components/Icon'
 import { good, white } from '../../styles/colors'
 import { floatingShadow } from '../../styles/shadow'
+import ScaleText from 'react-scale-text'
 
 export const Game = () => {
     const { randomWord } = useWords()
@@ -30,13 +31,17 @@ export const Game = () => {
 
     return (
         <Container>
-            <div>
-                <h1>{word.translation}</h1>
-                <h5>{isComplete ? word.example : '\u00a0'}</h5>
-            </div>
-            <div>
+            <Row>
+                <ScaleText maxFontSize={24}>
+                    <div>
+                        <h1>{word.translation}</h1>
+                        <h5>{isComplete ? word.example : '\u00a0'}</h5>
+                    </div>
+                </ScaleText>
+            </Row>
+            <Row>
                 <Typewriter word={word.name} progress={progress} />
-            </div>
+            </Row>
             <Bottom>
                 <Keyboard word={wordRight} onPress={handleKeyPress} />
                 {isComplete && (
@@ -54,13 +59,19 @@ export const Game = () => {
 }
 
 const Container = styled.div`
-    display: grid;
+    /* display: grid; */
+    /* grid-template-rows: 1fr 2fr auto; */
     height: 100%;
-    grid-template-rows: 1fr 2fr auto;
+    flex-direction: column;
+    display: flex;
     align-items: center;
     justify-items: center;
     text-align: center;
     overflow: hidden;
+`
+const Row = styled.div`
+    width: 100%;
+    flex: 1 0 auto;
 `
 
 const Bottom = styled.div`

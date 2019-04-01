@@ -1,5 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
+import ScaleText from 'react-scale-text'
 import { animated, useSpring } from 'react-spring'
 import { brand, muted } from '../../styles/colors'
 
@@ -15,9 +16,13 @@ export const Typewriter = (props: TypewriterProps) => {
 
     return (
         <Container>
-            <Typed>{typed}</Typed>
-            <Pipe key={typed} />
-            <Stars>{starts}</Stars>
+            <ScaleText widthOnly={true} maxFontSize={74}>
+                <TypeWrapper>
+                    <Typed>{typed}</Typed>
+                    <Pipe key={typed} />
+                    <Stars>{starts}</Stars>
+                </TypeWrapper>
+            </ScaleText>
         </Container>
     )
 }
@@ -26,8 +31,15 @@ const Container = styled.div`
     text-align: center;
     font-size: 74px;
     font-weight: normal;
+    padding: 10px 25px;
+    overflow: hidden;
+    width: 100%;
 `
-
+const TypeWrapper = styled.div`
+    white-space: nowrap;
+    position: relative;
+    width: 100%;
+`
 const Typed = styled.span`
     display: inline-block;
 `

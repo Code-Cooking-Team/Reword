@@ -33,8 +33,11 @@ export const App = () => {
 }
 
 const Content = styled.main`
-    padding-bottom: ${NAV_HEIGHT}px;
-    height: 100vh;
+    height: calc(100% - ${NAV_HEIGHT}px);
+    max-width: 100%;
+    position: relative;
+    width: 100%;
+    overflow-y: auto;
 `
 
 const NavContainer = styled.div`

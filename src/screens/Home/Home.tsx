@@ -36,17 +36,18 @@ export const Home = () => {
 const Container = styled.div`
     display: grid;
     height: 100%;
-    grid-template-rows: 2fr 2fr 2fr;
+    /* grid-template-rows: 2fr 2fr 2fr; */
+    grid-auto-rows: 0.5fr 3fr 1fr;
     align-items: center;
     justify-items: center;
 `
 
 const WordsCount = styled.div`
-    padding: 50px;
+    padding: 25px;
     text-align: center;
 `
 
-const playSize = '45vw'
+const playSize = '45vmin'
 
 const CircleButton = styled.button`
     background: ${white};
