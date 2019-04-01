@@ -6,7 +6,7 @@
     },
     "React components": {
         "scope": "javascript,javascriptreact,typescript,typescriptreact",
-        "prefix": ["/component"],
+        "prefix": "/component",
         "body": [
             "import React from 'react'",
             "import styled from 'styled-components'\n",

@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import styled from 'styled-components'
 import { Keyboard } from '../../components/Keyboard'
 import { Typewriter } from '../../components/Typewriter'
-import { useWords } from '../../store'
+import { useWords, useRouter } from '../../store'
 import { Word } from '../../store/state/types/State'
 import { Icon } from '../../components/Icon'
 import { good, white } from '../../styles/colors'
@@ -10,6 +10,7 @@ import { floatingShadow } from '../../styles/shadow'
 import ScaleText from 'react-scale-text'
 
 export const Game = () => {
+    const { goBack } = useRouter()
     const { randomWord } = useWords()
     const [progress, setProgress] = useState(0)
     const [word, setWord] = useState(randomWord())
@@ -41,6 +42,7 @@ export const Game = () => {
             </Row>
             <Row>
                 <Typewriter word={word.name} progress={progress} />
+                <button onClick={goBack}>Cancel</button>
             </Row>
             <Bottom>
                 <Keyboard word={wordRight} onPress={handleKeyPress} />

@@ -1,8 +1,8 @@
 import React from 'react'
-import styled from 'styled-components'
 import ScaleText from 'react-scale-text'
-import { animated, useSpring } from 'react-spring'
+import styled from 'styled-components'
 import { brand, muted } from '../../styles/colors'
+import { Pipe } from './Pipe'
 
 type TypewriterProps = {
     word: string
@@ -19,7 +19,7 @@ export const Typewriter = (props: TypewriterProps) => {
                 <TypeWrapper>
                     {word.split('').map((w, i) => {
                         return (
-                            <span key={'typed' + w + i}>
+                            <span key={w + i}>
                                 {i === progress && <Pipe key={typed} />}
                                 <Letter letterState={progress <= i}>{w}</Letter>
                             </span>
@@ -41,6 +41,7 @@ const Container = styled.div`
     width: 100%;
     line-height: 2em;
 `
+
 const TypeWrapper = styled.div`
     white-space: nowrap;
     position: relative;
@@ -54,6 +55,7 @@ const TypeWrapper = styled.div`
         position: relative;
     }
 `
+
 const Letter = styled.span<{ letterState: boolean }>`
     display: inline-block;
     text-align: center;
@@ -70,6 +72,7 @@ const Letter = styled.span<{ letterState: boolean }>`
         text-align: center;
         top: 0.5em;
         left: 0;
+        right: 0;
         line-height: 0.5em;
         height: 20px;
         transition: transform 0.25s cubic-bezier(0.3, 1.61, 0.43, 1.01);
@@ -77,23 +80,4 @@ const Letter = styled.span<{ letterState: boolean }>`
         transform: ${props => (props.letterState ? 'scale(2)' : 'scale(0)')};
         opacity: ${props => (props.letterState ? 1 : 0)};
     }
-`
-
-export const Pipe = () => {
-    const pipeSpring = useSpring({
-        transform: 'translate(0) scaleX(1)',
-        from: {
-            transform: 'translate(-0.3em) scaleX(3)',
-        },
-    })
-    return <PipeContainer style={pipeSpring} />
-}
-
-const PipeContainer = styled(animated.span)`
-    display: inline-block;
-    height: 1em;
-    width: 0.1em;
-    margin: 0 -0.05em;
-    vertical-align: middle;
-    background-color: ${brand};
 `

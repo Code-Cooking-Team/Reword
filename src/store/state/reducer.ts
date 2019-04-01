@@ -8,11 +8,20 @@ export const reducer = (state: State, action: Actions) => {
             return {
                 ...state,
                 route: action.payload.route,
+                lastRoutes: [state.route, ...state.lastRoutes],
+            }
+
+        case 'ROUTER/BACK':
+            return {
+                ...state,
+                route: state.lastRoutes[0],
+                lastRoutes: state.lastRoutes.slice(1),
             }
 
         case 'WORDS/SET':
             return {
                 ...state,
+                loading: false,
                 words: action.payload,
             }
 

@@ -8,5 +8,9 @@ export const useRouter = () => {
         dispatch({ type: 'ROUTER/SET_ROUTE', payload: { route } })
     }
 
-    return { route, setRoute }
+    const goBack = () => {
+        dispatch({ type: 'ROUTER/BACK' })
+    }
+
+    return { route, setRoute, goBack }
 }

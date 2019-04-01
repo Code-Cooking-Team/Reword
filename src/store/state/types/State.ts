@@ -10,6 +10,8 @@ export type Word = {
 export type WordsState = Word[]
 
 export type State = {
+    loading: boolean
     route: RouteName
+    lastRoutes: RouteName[]
     words: WordsState
 }
