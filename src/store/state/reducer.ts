@@ -4,6 +4,12 @@ import { State } from './types/State'
 
 export const reducer = (state: State, action: Actions) => {
     switch (action.type) {
+        case 'APP/SET_LOADING':
+            return {
+                ...state,
+                loading: action.payload,
+            }
+
         case 'ROUTER/SET_ROUTE':
             return {
                 ...state,
@@ -21,7 +27,6 @@ export const reducer = (state: State, action: Actions) => {
         case 'WORDS/SET':
             return {
                 ...state,
-                loading: false,
                 words: action.payload,
             }
 

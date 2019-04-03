@@ -14,10 +14,13 @@ export const useWordsPersist = () => {
         const json = localStorage.getItem('words')
         if (json) {
             const wordsFromStorage = JSON.parse(json)
-            // TODO remove ;)
+            // TODO remove timeout ;)
             setTimeout(() => {
                 dispatch({ type: 'WORDS/SET', payload: wordsFromStorage })
+                dispatch({ type: 'APP/SET_LOADING', payload: false })
             }, 500)
+        } else {
+            dispatch({ type: 'APP/SET_LOADING', payload: false })
         }
     }, [])
 }
