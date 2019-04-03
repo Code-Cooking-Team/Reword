@@ -19,10 +19,10 @@ export const Typewriter = (props: TypewriterProps) => {
                 <TypeWrapper>
                     {word.split('').map((w, i) => {
                         return (
-                            <span key={w + i}>
+                            <Segment key={w + i}>
                                 {i === progress && <Pipe key={typed} />}
                                 <Letter letterState={progress <= i}>{w}</Letter>
-                            </span>
+                            </Segment>
                         )
                     })}
                 </TypeWrapper>
@@ -46,14 +46,15 @@ const TypeWrapper = styled.div`
     white-space: nowrap;
     position: relative;
     width: 100%;
-    & > span {
-        display: inline-block;
-        line-height: 1em;
-        height: 90px;
-        margin: 0 1px;
-        vertical-align: middle;
-        position: relative;
-    }
+`
+
+const Segment = styled.span`
+    display: inline-block;
+    line-height: 1em;
+    height: 90px;
+    margin: 0 1px;
+    vertical-align: middle;
+    position: relative;
 `
 
 const Letter = styled.span<{ letterState: boolean }>`

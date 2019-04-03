@@ -41,7 +41,7 @@ export const Game = () => {
                 </ScaleText>
             </Row>
             <Row>
-                <Typewriter word={word.name} progress={progress} />
+                <Typewriter word={word.name} progress={progress} key={word.name} />
                 <button onClick={goBack}>Cancel</button>
             </Row>
             <Bottom>
