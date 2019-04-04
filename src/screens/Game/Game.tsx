@@ -1,5 +1,6 @@
 import React, { useState } from 'react'
 import styled from 'styled-components'
+import KeyHandler, { KEYPRESS } from 'react-key-handler'
 import { Keyboard } from '../../components/Keyboard'
 import { Typewriter } from '../../components/Typewriter'
 import { useWords, useRouter } from '../../store'
@@ -53,6 +54,12 @@ export const Game = () => {
                             Next word
                             <Icon name="play" />
                         </Button>
+
+                        <KeyHandler
+                            keyEventName={KEYPRESS}
+                            keyValue="Enter" // enter
+                            onKeyHandle={handleNextWord}
+                        />
                     </Complete>
                 )}
             </Bottom>

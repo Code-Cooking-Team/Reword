@@ -2,6 +2,7 @@ import React from 'react'
 import styled, { css } from 'styled-components'
 import { brand, white } from '../../styles/colors'
 import { fast } from '../../styles/transitions'
+import KeyHandler, { KEYPRESS } from 'react-key-handler'
 
 interface KeyProps {
     onClick(): void
@@ -16,6 +17,11 @@ export const Key = (props: KeyProps) => (
         isSpace={props.symbol === ' '}
     >
         {props.symbol}
+        <KeyHandler
+            keyEventName={KEYPRESS}
+            keyValue={props.symbol}
+            onKeyHandle={props.onClick}
+        />
     </Container>
 )
 
