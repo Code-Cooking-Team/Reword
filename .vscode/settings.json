@@ -3,5 +3,10 @@
     "eslint.enable": true,
     "eslint.autoFixOnSave": true,
     "eslint.validate": ["javascript", "javascriptreact", "typescript", "typescriptreact"],
-    "cSpell.words": ["asdfghjkl", "qwertyuiop", "zxcvbnm"]
+    "cSpell.words": [
+        "asdfghjkl",
+        "qwertyuiop",
+        "zxcvbnm"
+    ],
+    "typescript.tsdk": "node_modules/typescript/lib"
 }

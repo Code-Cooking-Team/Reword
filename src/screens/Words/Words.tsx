@@ -1,6 +1,10 @@
 import React, { useState } from 'react'
 import styled from 'styled-components'
 import { useWords } from '../../store'
+import { Header } from '../../components/Header'
+import { Search } from '../../components/Search'
+import { FloatingButton } from '../../components/FloatingButton'
+import { WordsItem } from './WordsItem'
 
 export const Words = () => {
     const { words, addWord, removeWord } = useWords()
@@ -19,13 +23,10 @@ export const Words = () => {
 
     return (
         <div>
-            <Header>Words</Header>
-            <input
-                type="search"
-                value={search}
-                onChange={e => setSearch(e.target.value)}
-                placeholder="Search…"
-            />
+            <Header title="Words" iconName="words">
+                <Search value={search} onChange={setSearch} />
+            </Header>
+
             <table>
                 <thead>
                     <tr>
@@ -38,18 +39,11 @@ export const Words = () => {
                     {words
                         .filter(word => word.name.includes(search))
                         .map(word => (
-                            <tr key={word.id}>
-                                <td>
-                                    <b>{word.name}</b>
-                                </td>
-                                <td>
-                                    <i>{word.translation}</i>
-                                </td>
-                                <td>{word.example && <small>{word.example}</small>}</td>
-                                <td>
-                                    <button onClick={() => removeWord(word.id)}>x</button>
-                                </td>
-                            </tr>
+                            <WordsItem
+                                key={word.id}
+                                word={word}
+                                removeWord={removeWord}
+                            />
                         ))}
                 </tbody>
             </table>
@@ -73,11 +67,8 @@ export const Words = () => {
                     onChange={e => setExample(e.target.value)}
                 />
             </div>
-            <AddButton onClick={addNewWord}>Add new word</AddButton>
+            {/* <AddButton onClick={addNewWord}>Add new word</AddButton> */}
+            <FloatingButton onClick={addNewWord} iconName="plus" />
         </div>
     )
 }
-
-const Header = styled.h1``
-
-const AddButton = styled.button``
