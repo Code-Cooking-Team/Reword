@@ -9,8 +9,8 @@
     "test": "react-scripts test --coverage",
     "eject": "react-scripts eject",
     "lint": "eslint 'src/**/*.{ts,tsx}'",
-    "storybook": "start-storybook -p 6006",
-    "build:storybook": "build-storybook -o build/storybook",
+    "storybook": "start-storybook -s ./build -p 6006",
+    "build:storybook": "build-storybook -s ./build -o build/storybook",
     "build:dictionary": "node dictionary",
     "predeploy": "rm -rf dist && npm run build && npm run build:storybook && npm run build:dictionary",
     "deploy": "gh-pages -d build"
