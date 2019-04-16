@@ -3,11 +3,12 @@ import { useDebounce } from '../useDebounce'
 import { DictionaryItem, fetchDictionary } from './fetchDictionary'
 
 export const useDictionary = (query: string) => {
-    const [results, setResults] = useState<DictionaryItem | null>(null)
     const [currentQuery, setCurrentQuery] = useState('')
+
+    const [results, setResults] = useState<DictionaryItem | null>(null)
     const [autocomplete, setAutocomplete] = useState<string[]>([])
 
-    useDebounce(() => setCurrentQuery(query), 400, [query])
+    useDebounce(() => setCurrentQuery(query.toLowerCase()), 400, [query])
 
     useMemo(() => {
         const letter = (currentQuery[0] || '').toLowerCase()
@@ -21,18 +22,18 @@ export const useDictionary = (query: string) => {
                 return
             }
 
-            const results = list.find(item => item.word === query)
-            const ac = list
-                .filter(item => item.word.startsWith(query))
+            const results = list.find(item => item.word.toLowerCase() === currentQuery)
+            const acList = list
+                .filter(item => item.word.toLowerCase().startsWith(currentQuery))
                 .map(item => item.word)
                 .slice(0, 5)
 
             setResults(results)
-            setAutocomplete(ac)
+            setAutocomplete(acList)
         }
 
         run()
-    }, [currentQuery, query])
+    }, [currentQuery])
 
     return { results, autocomplete }
 }
