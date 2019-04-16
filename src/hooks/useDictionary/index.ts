@@ -1,1 +1,1 @@
-export * from './useFindWord'
+export * from './useDictionary'

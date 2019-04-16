@@ -1,7 +1,7 @@
 import { text, withKnobs } from '@storybook/addon-knobs'
 import { storiesOf } from '@storybook/react'
 import React, { useState } from 'react'
-import { useDictionary } from './useFindWord'
+import { useDictionary } from './useDictionary'
 
 storiesOf('Hooks / useDictionary', module)
     .addDecorator(withKnobs)

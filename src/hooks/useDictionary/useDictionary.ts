@@ -10,7 +10,8 @@ export const useDictionary = (query: string) => {
     useDebounce(() => setCurrentQuery(query), 400, [query])
 
     useMemo(() => {
-        const letter = currentQuery[0]
+        const letter = (currentQuery[0] || '').toLowerCase()
+
         const run = async () => {
             const list = await fetchDictionary(letter)
 
