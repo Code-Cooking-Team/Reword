@@ -1,0 +1,7228 @@
+[
+  {
+    "id": "l-l",
+    "word": "l",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "lewy",
+          "lewo"
+        ]
+      },
+      {
+        "gramGrp": "",
+        "texts": [
+          "długość"
+        ]
+      },
+      {
+        "gramGrp": "",
+        "texts": [
+          "linia",
+          "werset"
+        ]
+      },
+      {
+        "gramGrp": "",
+        "texts": [
+          "jezioro"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-L.A.",
+    "word": "L.A.",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "zgromadzenie ustawodawcze"
+        ]
+      },
+      {
+        "gramGrp": "",
+        "texts": [
+          "Los Angeles"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-Lab.",
+    "word": "Lab.",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "Partia Pracy",
+          "Pracy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lab",
+    "word": "lab",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "laboratorium"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-label",
+    "word": "label",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "etykieta"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "etykietować",
+          "oznaczać",
+          "obdarzać etykietą"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-laboratory",
+    "word": "laboratory",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "laboratorium"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-laborious",
+    "word": "laborious",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "pracochłonny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-labour",
+    "word": "labourlabor",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "praca",
+          "siła robocza",
+          "poród"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "pracować",
+          "być ofiarą",
+          "czegoś",
+          "męczyć się",
+          "pocić się",
+          "przy",
+          "nad",
+          "rozwodzić się",
+          "nad czymś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-labourer",
+    "word": "labourerlaborer",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pracownik fizyczny",
+          "pracownik"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-labyrinth",
+    "word": "labyrinth",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "labirynt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lace",
+    "word": "lace",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "koronka",
+          "sznurowadło"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "podprawiać",
+          "zaprawiać"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "sznurować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lacerate",
+    "word": "lacerate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "przecinać",
+          "kaleczyć"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lack",
+    "word": "lack",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "brak",
+          "niedostatek",
+          "komuś brak czegoś",
+          "komuś brakuje czegoś",
+          "komuś brakuje czegoś",
+          "ktoś nie ma czegoś",
+          "nie ma czegoś",
+          "nie brakuje czegoś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lackey",
+    "word": "lackey",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pachołek",
+          "sługus"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-laconic",
+    "word": "laconic",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "lakoniczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lacquer",
+    "word": "lacquer",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "lakier"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "lakierować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lacy",
+    "word": "lacy",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "koronkowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lad",
+    "word": "lad",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "młodzieniec"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-ladder",
+    "word": "ladder",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "drabina",
+          "hierarchia",
+          "oczko"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-laden",
+    "word": "laden",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "obładowany",
+          "czymś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-ladle",
+    "word": "ladle",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "chochla"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "nabierać chochlą",
+          "nabierać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lady",
+    "word": "lady",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pani",
+          "lady",
+          "toaleta damska"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-ladylike",
+    "word": "ladylike",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "dystyngowany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lager",
+    "word": "lager",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "lager "
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lagoon",
+    "word": "lagoon",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "laguna"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lair",
+    "word": "lair",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "legowisko",
+          "pieczara"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lake",
+    "word": "lake",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "jezioro"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lamb",
+    "word": "lamb",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "jagnię",
+          "baranek",
+          "baranina"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lame",
+    "word": "lame",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "kulawy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lament",
+    "word": "lament",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "opłakiwać",
+          "biadać"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "biadanie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lamentable",
+    "word": "lamentable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "opłakany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lamp",
+    "word": "lamp",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "lampa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lamp-post",
+    "word": "lamp-post",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "słup latarni"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lampshade",
+    "word": "lampshade",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "abażur"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-landed",
+    "word": "landed",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "posiadający ziemię"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-landing",
+    "word": "landing",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "podest",
+          "przystań",
+          "lądowanie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-landlady",
+    "word": "landlady",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "gospodyni",
+          "właścicielka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-landlocked",
+    "word": "landlocked",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "otoczony lądem"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-landlord",
+    "word": "landlord",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "gospodarz",
+          "właściciel"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-landmark",
+    "word": "landmark",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "punkt orientacyjny",
+          "moment przełomowy",
+          "punkt zwrotny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-landscape",
+    "word": "landscape",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pejzaż",
+          "krajobraz"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "horyzontalny "
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "kształtować sztucznie pejzaż",
+          "kształtować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-landslide",
+    "word": "landslide",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "miażdżące zwycięstwo",
+          "obsunięcie się ziemi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lane",
+    "word": "lane",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "alejka",
+          "dróżka",
+          "pasmo",
+          "tor"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lang.",
+    "word": "lang.",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "język"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-language",
+    "word": "language",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "język"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-languid",
+    "word": "languid",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "flegmatyczny",
+          "apatyczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-languor",
+    "word": "languor",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ospałość",
+          "apatyczność"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lanky",
+    "word": "lanky",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "kościsty"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lantern",
+    "word": "lantern",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "latarnia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lap",
+    "word": "lap",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kolana",
+          "okrążenie",
+          "runda"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "okrążać",
+          "chlapać",
+          "pluskać",
+          "chłeptać"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "chłeptać łapczywie",
+          "chłonąć łapczywie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lapel",
+    "word": "lapel",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "klapa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lapse",
+    "word": "lapse",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wyskok",
+          "zaćmienie",
+          "odwrócenie",
+          "odbiegnięcie",
+          "upływ"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wpadać",
+          "w coś",
+          "upływać",
+          "kończyć się"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-laptop",
+    "word": "laptop",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "komputer przenośny",
+          "przenośny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-larceny",
+    "word": "larceny",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kradzież"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-larch",
+    "word": "larch",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "modrzew"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lard",
+    "word": "lard",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "smalec"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-larder",
+    "word": "larder",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "spiżarnia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-largely",
+    "word": "largely",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "w większości",
+          "głównie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-large-scale",
+    "word": "large-scale",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "na dużą skalę",
+          "o dużej skali"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lark",
+    "word": "lark",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "skowronek",
+          "ubaw",
+          "dowcip"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "wygłupiać się"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-larva",
+    "word": "larva",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "larwa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-laryngitis",
+    "word": "laryngitis",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zapalenie gardła"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lascivious",
+    "word": "lascivious",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "pożądliwy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-laser",
+    "word": "laser",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "laser"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "laserowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lass",
+    "word": "lass",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "dziewczyna"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lasting",
+    "word": "lasting",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "trwały"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lastly",
+    "word": "lastly",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "na końcu",
+          "w końcu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-last-minute",
+    "word": "last-minute",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "w ostatniej chwili"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-Lat.",
+    "word": "Lat.",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "łac.",
+          "łacina",
+          "łaciński"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lat.",
+    "word": "lat.",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "szerokość"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-latch",
+    "word": "latch",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zasuwa",
+          "zamek"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zamykać "
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-late",
+    "word": "late",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "późno"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "późny",
+          "były",
+          "śp.",
+          "niedawno zmarły",
+          "zmarły",
+          "tak późno jak",
+          "ostatnio"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-latecomer",
+    "word": "latecomer",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "spóźnialski"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lately",
+    "word": "lately",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "ostatnio"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-latent",
+    "word": "latent",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "ukryty"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lateral",
+    "word": "lateral",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "boczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lathe",
+    "word": "lathe",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "tokarka"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "toczyć"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lather",
+    "word": "lather",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "piana"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "pokrywać pianą",
+          "pienić się",
+          "mydlić się"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-latitude",
+    "word": "latitude",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "szerokość geograficzna",
+          "szerokość",
+          "swoboda"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-latrine",
+    "word": "latrine",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "latryna"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-latter",
+    "word": "latter",
+    "trans": [
+      {
+        "gramGrp": "Pron",
+        "texts": [
+          "drugi z dwóch",
+          "drugi"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "ostatni",
+          "ten drugi",
+          "ten ostatni"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-latter-day",
+    "word": "latter-day",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nowoczesny",
+          "współczesny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lattice",
+    "word": "lattice",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kratka",
+          "kratownica"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-laudable",
+    "word": "laudable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "chwalebny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-laugh",
+    "word": "laugh",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "śmiać się",
+          "z"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "śmiech"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "wyśmiewać"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "załatwić rzecz śmiechem"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-laughable",
+    "word": "laughable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "groteskowy",
+          "śmieszny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-laughing_stock",
+    "word": "laughing stock",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pośmiewisko"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-laughter",
+    "word": "laughter",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "śmiech"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-launch",
+    "word": "launch",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wodować",
+          "umieszczać",
+          "wystrzeliwać",
+          "rozpoczynać",
+          "puszczać w ruch",
+          "lansować"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "start",
+          "wylansowanie",
+          "lansowanie",
+          "szalupa",
+          "wodowanie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-launder",
+    "word": "launder",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "prać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-launderette",
+    "word": "launderette",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pralnia samoobsługowa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-laundry",
+    "word": "laundry",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "pranie"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pralnia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-laurel",
+    "word": "laurel",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "laur",
+          "wawrzyn"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lava",
+    "word": "lava",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "lawa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lavatory",
+    "word": "lavatory",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ubikacja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lavender",
+    "word": "lavender",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "lawenda"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lavish",
+    "word": "lavish",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "hojny",
+          "szczodry",
+          "luksusowy"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "obdarowywać",
+          "kogoś czymś",
+          "kogoś czymś",
+          "zarzucać",
+          "kogoś czymś",
+          "kogoś czymś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-law",
+    "word": "law",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "prawo",
+          "ustawa",
+          "władza",
+          "policja"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "prawniczy"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "osoba naruszająca prawo"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "sąd"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-law-abiding",
+    "word": "law-abiding",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "praworządny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lawful",
+    "word": "lawful",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "legalny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lawless",
+    "word": "lawless",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nielegalny",
+          "samowolny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lawn",
+    "word": "lawn",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "trawnik"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lawnmower",
+    "word": "lawnmower",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kosiarka do trawników",
+          "kosiarka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lawsuit",
+    "word": "lawsuit",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "proces sądowy",
+          "postępowanie sądowe"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lawyer",
+    "word": "lawyer",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "prawnik",
+          "adwokat"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lax",
+    "word": "lax",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "luźny",
+          "nieścisły"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-laxative",
+    "word": "laxative",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "środek przeczyszczający"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lay",
+    "word": "lay",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "kłaść",
+          "położyć",
+          "nakrywać",
+          "składać",
+          "zastawiać",
+          "rzucać",
+          "zrzucać",
+          "na",
+          "na"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "świecki",
+          "laicki",
+          "nieprofesjonalny",
+          "chwytać"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "odkładać"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "odkładać"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "wyznaczać",
+          "ustanawiać",
+          "kłaść"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "rzucać się",
+          "na kogoś"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "zwalniać",
+          "przestawać",
+          ",,Odwal się!''"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "wystawiać się na coś",
+          "wystawiać się"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "wykładać",
+          "rozplanowywać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-layabout",
+    "word": "layabout",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "nicpoń"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lay-by",
+    "word": "lay-by",
+    "trans": [
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "zatoka drogi",
+          "zatoka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-layer",
+    "word": "layer",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "warstwa",
+          "powłoka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-layman",
+    "word": "layman",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "nieprofesjonalista",
+          "amator"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-layoff",
+    "word": "layoff",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zwolnienie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-layout",
+    "word": "layout",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "rozmieszczenie",
+          "rozplanowanie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-laze",
+    "word": "laze",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "leniuchować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lazy",
+    "word": "lazy",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "leniwy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lb",
+    "word": "lblibra",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "funt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-LCD",
+    "word": "LCD",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "ekran ciekłokrystaliczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-LEA",
+    "word": "LEA",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "wydział oświaty"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lead",
+    "word": "lead",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "prowadzić",
+          "na",
+          "do",
+          "przewodzić",
+          "doprowadzać"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "prowadzenie",
+          "dobry przykład",
+          "przykład",
+          "smycz",
+          "kabel",
+          "przewód",
+          "główna rola",
+          "wskazówka"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "prowadzący",
+          "wiodący",
+          "przejąć prowadzenie",
+          "iść przodem"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "prowadzić",
+          "do czegoś",
+          "zmierzać",
+          "do czegoś"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ołów",
+          "grafit",
+          "rysik"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-leaden",
+    "word": "leaden",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "ołowiany",
+          "ciężki jak z ołowiu",
+          "ciężki"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-leader",
+    "word": "leader",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "lider",
+          "przywódca",
+          "lider",
+          "prowadzący"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-leadership",
+    "word": "leadership",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kierownictwo"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "cechy dowódcze"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-leading",
+    "word": "leading",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wiodący",
+          "czołowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-leaf",
+    "word": "leaf",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "liść",
+          "pokryty liśćmi"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "przekartkowywać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-leaflet",
+    "word": "leaflet",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ulotka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-leafy",
+    "word": "leafy",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "liściasty",
+          "pokryty zielenią"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-league",
+    "word": "league",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "liga",
+          "związek",
+          "w sprzymierzeniu z kimś",
+          "w sprzymierzeniu z"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-leak",
+    "word": "leak",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "przeciekać",
+          "uciekać",
+          "wyciekać",
+          "przedostawać się",
+          "do"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "przeciek "
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "przedostawać się"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-leaky",
+    "word": "leaky",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieszczelny",
+          "cieknący"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lean",
+    "word": "lean",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "pochylać się",
+          "wychylać się",
+          "opierać się",
+          "opierać",
+          "na",
+          "na",
+          "na",
+          "skłaniać się",
+          "ku",
+          "naciskać",
+          "kogoś",
+          "na kogoś",
+          "kogoś",
+          "na kogoś"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "szczupły",
+          "chudy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-leaning",
+    "word": "leaning",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ciągota",
+          "skłonność",
+          "krzywy",
+          "pochylony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-leap",
+    "word": "leap",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "skakać w górę",
+          "skakać",
+          "przeskakiwać"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "skok",
+          "czegoś"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "rzucać się",
+          "na coś"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "rok przestępny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-learn",
+    "word": "learn",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "uczyć się",
+          "nauczyć się",
+          "dowiadywać się",
+          "o"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-learned",
+    "word": "learned",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "uczony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-learning",
+    "word": "learning",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "głęboka wiedza",
+          "wiedza"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lease",
+    "word": "lease",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "dzierżawa",
+          "najem"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wynajmować",
+          "dzierżawić"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-leash",
+    "word": "leash",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "smycz"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-least",
+    "word": "least",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "najmniej",
+          "najmniejszy",
+          "przynajmniej",
+          "w ogóle",
+          "co najmniej"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-leather",
+    "word": "leather",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "skóra"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-leathery",
+    "word": "leathery",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "skórzasty",
+          "łykowaty"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-leave",
+    "word": "leave",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zostawiać",
+          "opuszczać",
+          "odjeżdżać",
+          "odchodzić",
+          "porzucać",
+          "pozostawiać",
+          "pozostawiać",
+          "coś komuś",
+          "coś komuś"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "urlop",
+          "zwolnienie",
+          "przepustka",
+          "pożegnać się"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "pomijać",
+          "coś"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "opuszczać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-Lebanese",
+    "word": "Lebanese",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "libański"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Libańczyk"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-Lebanon",
+    "word": "Lebanon",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Liban"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lecherous",
+    "word": "lecherous",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "lubieżny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lectern",
+    "word": "lectern",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pulpit"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lecture",
+    "word": "lecture",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wykład"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wykładać",
+          "prawić kazanie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lecturer",
+    "word": "lecturer",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wykładowca",
+          "docent"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-ledge",
+    "word": "ledge",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "półka skalna",
+          "półka",
+          "parapet"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-ledger",
+    "word": "ledger",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "księga główna",
+          "księga rachunkowa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-leech",
+    "word": "leech",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pijawka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-leek",
+    "word": "leek",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "por"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-leer",
+    "word": "leer",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "lubieżny uśmieszek"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "uśmiechać się lubieżnie",
+          "do"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-leeway",
+    "word": "leeway",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "luz",
+          "rezerwa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-left",
+    "word": "left",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "lewa strona"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "lewy"
+        ]
+      },
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "lewo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-left-hand",
+    "word": "left-hand",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "lewostronny",
+          "lewy",
+          "z lewej ręki "
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-left-handed",
+    "word": "left-handed",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "leworęczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-leftist",
+    "word": "leftist",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "lewicowiec"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "lewicowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-left-luggage_office",
+    "word": "left-luggage office",
+    "trans": [
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "biuro rzeczy znalezionych"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-leftover",
+    "word": "leftover",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "pozostały"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "resztki"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-left-wing",
+    "word": "left-wing",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "lewicowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-left-winger",
+    "word": "left-winger",
+    "trans": [
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "lewicowiec"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-leg",
+    "word": "leg",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "noga",
+          "nogawka",
+          "etap",
+          "część"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-legacy",
+    "word": "legacy",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "spadek",
+          "legat",
+          "spuścizna"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-legal",
+    "word": "legal",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "legalny",
+          "prawny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-legality",
+    "word": "legality",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "legalność"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-legalize",
+    "word": "legalize",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "legalizować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-legend",
+    "word": "legend",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "legenda"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-legendary",
+    "word": "legendary",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "legendarny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-leggings",
+    "word": "leggings",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "getry"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-legible",
+    "word": "legible",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "czytelny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-legion",
+    "word": "legion",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "legion",
+          "chmara"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-legislate",
+    "word": "legislate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "ustanawiać prawa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-legislation",
+    "word": "legislation",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ustawodawstwo",
+          "prawodawstwo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-legislative",
+    "word": "legislative",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "legislacyjny",
+          "prawny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-legislature",
+    "word": "legislature",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "legislatura"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-legitimate",
+    "word": "legitimate",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "legalny",
+          "ślubny",
+          "uzasadniony",
+          "właściwy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-Leipzig",
+    "word": "Leipzig",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Lipsk"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-leisure",
+    "word": "leisure",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "czas wolny",
+          "bez pośpiechu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-leisurely",
+    "word": "leisurely",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieśpieszny"
+        ]
+      },
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "nieśpiesznie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lemon",
+    "word": "lemon",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "cytryna"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lemonade",
+    "word": "lemonade",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "lemoniada"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lend",
+    "word": "lend",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "pożyczać",
+          "komuś",
+          "użyczać",
+          "udzielać",
+          "przydawać",
+          "poddawać się",
+          "czemuś",
+          "pomagać komuś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lender",
+    "word": "lender",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kredytodawca"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lengthen",
+    "word": "lengthen",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wydłużać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lengthy",
+    "word": "lengthy",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "długi",
+          "wydłużony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lenient",
+    "word": "lenient",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "pobłażliwy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lens",
+    "word": "lens",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "soczewka",
+          "obiektyw"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-Lent",
+    "word": "Lent",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Wielki Post"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lentil",
+    "word": "lentil",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "soczewica"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-Leo",
+    "word": "Leo",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Lew "
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-leopard",
+    "word": "leopard",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "lampart"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-leotard",
+    "word": "leotard",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "trykot"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-leper",
+    "word": "leper",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "trędowaty"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-leprosy",
+    "word": "leprosy",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "trąd"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lesbian",
+    "word": "lesbian",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "lesbijski"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "lesbijka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-less",
+    "word": "less",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "mniejszy"
+        ]
+      },
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "mniej"
+        ]
+      },
+      {
+        "gramGrp": "Prep",
+        "texts": [
+          "odjąwszy",
+          "coraz mniej",
+          "co najmniej nie",
+          "co najmniej",
+          "ni mniej ni więcej",
+          "nie mniej",
+          "niż"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lessen",
+    "word": "lessen",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zmniejszać się",
+          "zmniejszać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lesser",
+    "word": "lesser",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "mniejszy",
+          "pomniejszy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lesson",
+    "word": "lesson",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "lekcja",
+          "nauka",
+          "korzyść"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lest",
+    "word": "lest",
+    "trans": [
+      {
+        "gramGrp": "Conj",
+        "texts": [
+          "aby nie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-letdown",
+    "word": "letdown",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zawód",
+          "rozczarowanie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lethal",
+    "word": "lethal",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "zabójczy",
+          "dla"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lethargic",
+    "word": "lethargic",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "letargiczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-letter",
+    "word": "letter",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "list",
+          "litera"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "listowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-letterbox",
+    "word": "letterbox",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "skrzynka pocztowa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lettering",
+    "word": "lettering",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "liternictwo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-letter-quality",
+    "word": "letter-quality",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wysoka jakość "
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lettuce",
+    "word": "lettuce",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "sałata"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-let-up",
+    "word": "let-up",
+    "trans": [
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "zelżenie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-leukaemia",
+    "word": "leukaemialeukemia",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "białaczka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-level-headed",
+    "word": "level-headed",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "zrównoważony",
+          "zimnokrwisty"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lever",
+    "word": "lever",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "dźwignia",
+          "uchwyt",
+          "rączka"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "podważać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-leverage",
+    "word": "leverage",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "nacisk",
+          "siła dźwigni"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-levity",
+    "word": "levity",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "lekkomyślność",
+          "płochość"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-levy",
+    "word": "levy",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pobranie"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "pobierać",
+          "ściągać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lewd",
+    "word": "lewd",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "pożądliwy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-liability",
+    "word": "liability",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "podatność",
+          "ciężar",
+          "skaranie boskie",
+          "płatności",
+          "zobowiązania pieniężne",
+          "zobowiązania",
+          "odpowiedzialność"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-liable",
+    "word": "liable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "podatny",
+          "na",
+          "odpowiedzialny",
+          "za",
+          "móc"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-liaise",
+    "word": "liaise",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "współpracować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-liaison",
+    "word": "liaison",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "porozumienie",
+          "łączność",
+          "związek miłosny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-liar",
+    "word": "liar",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kłamca"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lib.",
+    "word": "lib.",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "liberalny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-libel",
+    "word": "libel",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "oszczerstwo",
+          "zniesławienie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-libellous",
+    "word": "libellouslibelous",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "oszczerczy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-liberal",
+    "word": "liberal",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "liberalny",
+          "hojny",
+          "obfity"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "liberał"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-liberate",
+    "word": "liberate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "uwalniać",
+          "oswobadzać",
+          "wyzwalać",
+          "od czegoś",
+          "spod czegoś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-liberated",
+    "word": "liberated",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wyzwolony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-liberation",
+    "word": "liberation",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wyzwolenie",
+          "od czegoś",
+          "spod czegoś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-Libra",
+    "word": "Libra",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Waga "
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-librarian",
+    "word": "librarian",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "bibliotekarz"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-library",
+    "word": "library",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "biblioteka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-Libya",
+    "word": "Libya",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Libia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-Libyan",
+    "word": "Libyan",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "libijski"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Libijczyk"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-licence",
+    "word": "licencelicense",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "licencja",
+          "koncesja",
+          "prawo jazdy",
+          "prawo",
+          "zezwolenie",
+          "abonament",
+          "na licencji"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-license",
+    "word": "license",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wydawać zezwolenie licencję",
+          "wydawać zezwolenie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-licensed",
+    "word": "licensed",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "upoważniony",
+          "zarejestrowany",
+          "koncesjonowany do sprzedaży alkoholu",
+          "koncesjonowany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-licentious",
+    "word": "licentious",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "rozwiązły"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lick",
+    "word": "lick",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "lizać",
+          "przylać",
+          "położyć"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "polizanie",
+          "liźnięcie",
+          "nadawać czemuś ostateczny kształt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lid",
+    "word": "lid",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pokrywka",
+          "powieka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lie-down",
+    "word": "lie-down",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wypoczynek"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-Lieut.",
+    "word": "Lieut.",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "porucznik"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-Lieut.-Col.",
+    "word": "Lieut.-Col.",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "podpułkownik"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lieutenant",
+    "word": "lieutenant",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "porucznik"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-life",
+    "word": "life",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "życie",
+          "żywotność",
+          "ożywiać się",
+          "do końca życia"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "długość życia"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "dożywotnie więzienie"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "kamizelka ratunkowa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lifebelt",
+    "word": "lifebelt",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pas ratunkowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lifeboat",
+    "word": "lifeboat",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "łódź ratunkowa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lifeguard",
+    "word": "lifeguard",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ratownik"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lifeless",
+    "word": "lifeless",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "bez życia",
+          "nieżywotny",
+          "beznamiętny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lifelike",
+    "word": "lifelike",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "jak żywy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lifeline",
+    "word": "lifeline",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "lina ratunkowa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lifelong",
+    "word": "lifelong",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "na całe życie",
+          "na życie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-life-size",
+    "word": "life-size",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "naturalnej wielkości"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lifespan",
+    "word": "lifespan",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "długość życia",
+          "życie",
+          "żywotność",
+          "trwanie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lifetime",
+    "word": "lifetime",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "całe życie",
+          "życie",
+          "trwanie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lift",
+    "word": "lift",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "podnosić się",
+          "podnosić",
+          "znosić",
+          "zrzynać",
+          "z",
+          "zwędzić"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "winda",
+          "podwiezienie",
+          "podwozić kogoś"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "startować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-ligament",
+    "word": "ligament",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wiązadło"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-light",
+    "word": "light",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zapalać",
+          "oświetlać"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "światło",
+          "ogień"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "jasny",
+          "lekki",
+          "jasno",
+          "dzień",
+          "jasno",
+          "z punktu widzenia"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "żarówka"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "światłowód",
+          "kabel światłowodowy"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "pióro świetlne"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "rozświetlać się",
+          "rozświetlać",
+          "zapalać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lighten",
+    "word": "lighten",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "rozjaśniać się",
+          "rozjaśniać",
+          "zmniejszać wagę"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lighter",
+    "word": "lighter",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zapalniczka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-light-headed",
+    "word": "light-headed",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "oszołomiony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-light-hearted",
+    "word": "light-hearted",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "beztroski",
+          "wesoły",
+          "humorystyczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lighthouse",
+    "word": "lighthouse",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "latarnia morska"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lighting",
+    "word": "lighting",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "oświetlenie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lightly",
+    "word": "lightly",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "beztrosko",
+          "lekkomyślnie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lightning",
+    "word": "lightning",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "błyskawica"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "błyskawiczny"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "piorunochron"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "piorunochron"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lightweight",
+    "word": "lightweight",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "lekki"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-light-year",
+    "word": "light-year",
+    "trans": [
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "rok świetlny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-likable",
+    "word": "likablelikeable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "miły",
+          "sympatyczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-likelihood",
+    "word": "likelihood",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "prawdopodobieństwo",
+          "możliwość"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-likely",
+    "word": "likely",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "możliwy",
+          "odpowiedni",
+          "on pewnie to zrobi",
+          "najprawdopodobniej"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-like-minded",
+    "word": "like-minded",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "podobnie myślący"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-liken",
+    "word": "liken",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "przyrównywać",
+          "A do B"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-likeness",
+    "word": "likeness",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "podobieństwo",
+          "do"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-likewise",
+    "word": "likewise",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "podobnie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-liking",
+    "word": "liking",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "upodobanie",
+          "do",
+          "do"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lilac",
+    "word": "lilac",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "bez"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "liliowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lilt",
+    "word": "lilt",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zaśpiew"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lily",
+    "word": "lily",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "lilia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-limb",
+    "word": "limb",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kończyna",
+          "odnóże"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-limber_up",
+    "word": "limber up",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "ćwiczyć",
+          "przygotowywać się"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-limbo",
+    "word": "limbo",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zawieszenie",
+          "zapomnienie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lime",
+    "word": "lime",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wapno",
+          "lipa",
+          "lima",
+          "limeta"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-limelight",
+    "word": "limelight",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "światła rampy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-limerick",
+    "word": "limerick",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "limeryk"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-limitation",
+    "word": "limitation",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ograniczenie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-limited",
+    "word": "limited",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "ograniczony",
+          "o ograniczonej odpowiedzialności"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-limitless",
+    "word": "limitless",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieograniczony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-limousine",
+    "word": "limousine",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "limuzyna"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-limp",
+    "word": "limp",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "kuleć",
+          "kuśtykać"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kulenie",
+          "kuśtykanie"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wiotki",
+          "bezwładny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-linear",
+    "word": "linear",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "linearny",
+          "liniowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-linen",
+    "word": "linen",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "len",
+          "bielizna"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "lniany",
+          "płócienny",
+          "bieliźniany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-liner",
+    "word": "liner",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "liniowiec",
+          "statek transatlantycki",
+          "worek foliowy "
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-linesman",
+    "word": "linesman",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "sędzia liniowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-line-up",
+    "word": "line-up",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "skład",
+          "ugrupowanie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-linger",
+    "word": "linger",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "utrzymywać się",
+          "dalej",
+          "bawić gdzieś",
+          "bawić"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lingerie",
+    "word": "lingerie",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "bielizna damska"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-linguistic",
+    "word": "linguistic",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "językoznawczy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-linguistics",
+    "word": "linguistics",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "językoznawstwo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lining",
+    "word": "lining",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "podszewka",
+          "podbicie",
+          "wyściółka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-link",
+    "word": "link",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "łączyć",
+          "z",
+          "z"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "związek",
+          "pomiędzy",
+          "z",
+          "połączenie",
+          "pomiędzy",
+          "ogniwo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-linkage",
+    "word": "linkage",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "związek"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-links",
+    "word": "links",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "boisko do golfa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-linkup",
+    "word": "linkup",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "połączenie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lion",
+    "word": "lion",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "lew"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lioness",
+    "word": "lioness",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "lwica"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lip",
+    "word": "lip",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "warga"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lip-read",
+    "word": "lip-read",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "czytać z warg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lip-service",
+    "word": "lip-service",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "składać komuś deklaracje bez pokrycia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lipstick",
+    "word": "lipstick",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kredka do ust"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-liquefy",
+    "word": "liquefy",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "stopić",
+          "skroplić"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-liqueur",
+    "word": "liqueur",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "likier"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-liquid",
+    "word": "liquid",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ciecz"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "ciekły",
+          "płynny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-liquid-crystal_display",
+    "word": "liquid-crystal display",
+    "trans": [
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "ekran ciekłokrystaliczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-liquidate",
+    "word": "liquidate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "likwidować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-liquor",
+    "word": "liquor",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "alkohol",
+          "trunek"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-Lisbon",
+    "word": "Lisbon",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Lizbona"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lisp",
+    "word": "lisp",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "seplenić"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "seplenienie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-list",
+    "word": "list",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "lista",
+          "spis"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wypisywać",
+          "wyszczególniać",
+          "umieszczać na liście"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-listen",
+    "word": "listen",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "słuchać się",
+          "słuchać",
+          "kogoś",
+          "nasłuchiwać",
+          "czegoś"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "podsłuchiwać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-listener",
+    "word": "listener",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "słuchacz"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-listless",
+    "word": "listless",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "osowiały"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-litany",
+    "word": "litany",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "litania"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-literacy",
+    "word": "literacy",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "umiejętność czytania i pisania"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-literal",
+    "word": "literal",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "dosłowny",
+          "literalny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-literary",
+    "word": "literary",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "literacki",
+          "poetycki"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-literate",
+    "word": "literate",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "piśmienny",
+          "dobrze wykształcony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-literature",
+    "word": "literature",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "literatura",
+          "piśmiennictwo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-Lithuania",
+    "word": "Lithuania",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Litwa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-Lithuanian",
+    "word": "Lithuanian",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "litewski"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Litwin"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-litigate",
+    "word": "litigate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "procesować się"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-litigation",
+    "word": "litigation",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "spór sądowy",
+          "sprawa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-litre",
+    "word": "litreliter",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "litr"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-litter",
+    "word": "litter",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "śmieci",
+          "miot",
+          "lęg"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zaśmiecać",
+          "czymś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-liturgy",
+    "word": "liturgy",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "liturgia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-live",
+    "word": "live",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "żyć",
+          "mieszkać",
+          "prowadzić",
+          "spędzać"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "zmazywać"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "przeżywać",
+          "przetrwać",
+          "żywić się",
+          "trwać"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "dotrzymywać",
+          "spełniać"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "żywy",
+          "bezpośredni",
+          "pod napięciem",
+          "uzbrojony",
+          "na żywo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-livelihood",
+    "word": "livelihood",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "źródło utrzymania"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lively",
+    "word": "lively",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "żywy",
+          "ożywiony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-liven_up",
+    "word": "liven up",
+    "trans": [
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "ożywiać się",
+          "ożywiać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-liver",
+    "word": "liver",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wątroba"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-livestock",
+    "word": "livestock",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "trzoda"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-livid",
+    "word": "livid",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "rozjuszony",
+          "zsiniały"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-living",
+    "word": "living",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "żyjący",
+          "mieszkalny"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "utrzymanie",
+          "utrzymywać się",
+          "utrzymywać się z czegoś"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "pokój dzienny",
+          "salonik"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lizard",
+    "word": "lizard",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "jaszczurka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-llama",
+    "word": "llama",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "lama"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-LMT",
+    "word": "LMT",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "czas lokalny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-loaded",
+    "word": "loaded",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "załadowany",
+          "obładowany",
+          "naładowany",
+          "nadziany",
+          "podchwytliwy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-loaf",
+    "word": "loaf",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "bochenek"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-loan",
+    "word": "loan",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "pożyczać",
+          "coś komuś"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pożyczka",
+          "kredyt bankowy",
+          "kredyt",
+          "pożyczenie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-loathe",
+    "word": "loathe",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "nie cierpieć"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-loathing",
+    "word": "loathing",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wstręt",
+          "obrzydzenie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lobby",
+    "word": "lobby",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "hall",
+          "westybul",
+          "lobby",
+          "grupa nacisku"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wywierać presję"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lobe",
+    "word": "lobe",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "płatek "
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lobster",
+    "word": "lobster",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "homar"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-local",
+    "word": "local",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "lokalny",
+          "miejscowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-locality",
+    "word": "locality",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "miejsce"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-locate",
+    "word": "locate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wynajdować",
+          "lokować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-location",
+    "word": "location",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "umiejscowienie",
+          "miejsce",
+          "w plenerze"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-loch",
+    "word": "loch",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "jezioro"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lock",
+    "word": "lock",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zamykać na zamek",
+          "zamykać",
+          "wchodzić",
+          "do",
+          "blokować się",
+          "zwierać się"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zamek",
+          "śluza",
+          "lok",
+          "wszystko"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-locker",
+    "word": "locker",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "schowek na bagaż",
+          "schowek"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-locket",
+    "word": "locket",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "medalion"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-locomotive",
+    "word": "locomotive",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "lokomotywa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-locust",
+    "word": "locust",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "szarańcza"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lodge",
+    "word": "lodge",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "domek dozorcy",
+          "domek"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "lokować",
+          "u kogoś",
+          "przebywać",
+          "utkwić",
+          "pozostawać",
+          "składać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lodger",
+    "word": "lodger",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "lokator",
+          "sublokator"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lodging",
+    "word": "lodging",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zakwaterowanie",
+          "wynajęte mieszkanie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-loft",
+    "word": "loft",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "strych"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lofty",
+    "word": "lofty",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wyniosły",
+          "wzniosły"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-loggerheads",
+    "word": "loggerheads",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "kłócić się"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-logic",
+    "word": "logic",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "logika"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-logical",
+    "word": "logical",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "logiczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-logistics",
+    "word": "logistics",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "logistyka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-loins",
+    "word": "loins",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "lędźwie",
+          "genitalia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-loiter",
+    "word": "loiter",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "marudzić",
+          "zwlekać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-loll",
+    "word": "loll",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "rozwalać się",
+          "zwieszać się",
+          "zwieszać",
+          "wywieszać się",
+          "wywieszać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lollipop",
+    "word": "lollipop",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "lizak"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lolly",
+    "word": "lolly",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "lizak",
+          "lody na patyku",
+          "flota"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-London",
+    "word": "London",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Londyn"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "londyński"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-Londoner",
+    "word": "Londoner",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Londyńczyk"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lone",
+    "word": "lone",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "jedyny",
+          "pojedynczy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lonely",
+    "word": "lonely",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "samotny",
+          "osamotniony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-loner",
+    "word": "loner",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "samotnik"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lonesome",
+    "word": "lonesome",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "osamotniony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-long.",
+    "word": "long.",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "długość"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-long-distance",
+    "word": "long-distance",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "długodystansowy",
+          "zamiejscowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-longevity",
+    "word": "longevity",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "długowieczność"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-longitude",
+    "word": "longitude",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "długość geograficzna",
+          "długość"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-long-life",
+    "word": "long-life",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "długotrwały",
+          "o przedłużonej trwałości"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-long-lived",
+    "word": "long-lived",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "długowieczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-long-playing",
+    "word": "long-playing",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "długogrający",
+          "płyta długogrająca analogowa",
+          "płyta długogrająca"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-long-range",
+    "word": "long-range",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "dalekosiężny",
+          "dalekiego zasięgu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-long-sighted",
+    "word": "long-sighted",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "dalekowzroczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-long-standing",
+    "word": "long-standing",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "długotrwały"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-long-term",
+    "word": "long-term",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "długoterminowy",
+          "w ostatecznym rezultacie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-long-winded",
+    "word": "long-winded",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "rozwlekły"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-loo",
+    "word": "loo",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ubikacja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lookout",
+    "word": "lookout",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "czujka",
+          "czata",
+          "miejsce obserwacyjne",
+          "wypatrywać",
+          "wyglądać",
+          "wypatrywać",
+          "wyglądać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-loom",
+    "word": "loom",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zarysowywać się",
+          "wyłaniać się",
+          "nadciągać",
+          "zbierać się"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "krosno",
+          "odgrywać ważną rolę",
+          "budzić duże zaniepokojenie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-loony",
+    "word": "loony",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "szajbnięty"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "szajbus"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-loop",
+    "word": "loop",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pętla"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "obwiązywać",
+          "robić pętlę"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-loophole",
+    "word": "loophole",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "luka",
+          "furtka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-loose",
+    "word": "loose",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "luźny",
+          "sypki",
+          "swobodny",
+          "rozwiązły",
+          "oswobadzać",
+          "oswobadzać się",
+          "nie mieć co ze sobą zrobić"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-loosen",
+    "word": "loosen",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "rozluźniać się",
+          "rozluźniać",
+          "poluźniać się",
+          "poluźniać",
+          "poluzowywać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-loot",
+    "word": "loot",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "łupić",
+          "grabić"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "łup"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lop",
+    "word": "lop",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "odrąbywać "
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lopsided",
+    "word": "lopsided",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "koślawy",
+          "krzywy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lord",
+    "word": "lord",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "lord",
+          "pan",
+          "władca",
+          "Pan Bóg",
+          "Pan",
+          ",,Dobry Boże!''",
+          ",,Boże ty mój!''"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lore",
+    "word": "lore",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "folklor",
+          "tradycja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lorry",
+    "word": "lorry",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ciężarówka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-loser",
+    "word": "loser",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "przegrywający"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pechowiec",
+          "tracić"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-loss",
+    "word": "loss",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "strata",
+          "utrata",
+          "deficyt",
+          "nie wiedzieć co robić",
+          "nie znajdować słów",
+          "nie znajdować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lost",
+    "word": "lost",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "zgubiony",
+          "zgubiony",
+          "bez kogoś",
+          "stracony",
+          "gubić się",
+          ",,Spływaj!''"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "rzeczy zagubione"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lotion",
+    "word": "lotion",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "balsam",
+          "płyn kosmetyczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lottery",
+    "word": "lottery",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "loteria"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-loud",
+    "word": "loud",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "głośny",
+          "hałaśliwy",
+          "co do",
+          "krzyczący"
+        ]
+      },
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "głośno",
+          "na głos"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-loudspeaker",
+    "word": "loudspeaker",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "głośnik"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-Louisiana",
+    "word": "Louisiana",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Louisiana"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lounge",
+    "word": "lounge",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "hall"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "rozkładać się",
+          "rozwalać się"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "ubranie na co dzień"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-louse",
+    "word": "louse",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wesz"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lousy",
+    "word": "lousy",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wszawy",
+          "do dupy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lout",
+    "word": "lout",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "chuligan"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lovable",
+    "word": "lovable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "uroczy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-loveless",
+    "word": "loveless",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "bez miłości",
+          "nie kochany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lovely",
+    "word": "lovely",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "cudowny",
+          "wspaniały"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-love-making",
+    "word": "love-making",
+    "trans": [
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "kochanie się "
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lover",
+    "word": "lover",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kochanek",
+          "miłośnik"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-loving",
+    "word": "loving",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "kochający",
+          "czuły"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-low-cut",
+    "word": "low-cut",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "głęboko wycięty",
+          "wydekoltowany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lower",
+    "word": "lower",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niższy",
+          "dolny"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "opuszczać",
+          "się",
+          "obniżać",
+          "zaniżać",
+          "zniżać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-low-key",
+    "word": "low-key",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "dyskretny",
+          "z rezerwą"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lowlands",
+    "word": "lowlands",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "niziny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lowly",
+    "word": "lowly",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niski",
+          "skromny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-loyal",
+    "word": "loyal",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "lojalny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-loyalty",
+    "word": "loyalty",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "lojalność",
+          "wierność",
+          "przywiązanie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lozenge",
+    "word": "lozenge",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "tabletka do ssania",
+          "tabletka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-LP",
+    "word": "LP",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "płyta długogrająca analogowa",
+          "płyta długogrająca"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-LQ",
+    "word": "LQ",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "wysoka jakość "
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-LSD",
+    "word": "LSD",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "LSD"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-LST",
+    "word": "LST",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "czas lokalny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-Lt.",
+    "word": "Lt.",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "porucznik"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-Lt.-Col.",
+    "word": "Lt.-Col.",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "podpułkownik"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-ltd.",
+    "word": "ltd.",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "z o.o.",
+          "z ograniczoną odpowiedzialnością"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lubricate",
+    "word": "lubricate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "smarować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lucid",
+    "word": "lucid",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "przejrzysty",
+          "zrozumiały",
+          "przytomny",
+          "jasny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-luck",
+    "word": "luck",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "szczęście",
+          "pech",
+          ",,Ale pech''",
+          ",,Powodzenia''"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-luckily",
+    "word": "luckily",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "na szczęście"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lucky",
+    "word": "lucky",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "szczęśliwy",
+          "w",
+          "przynoszący powodzenie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lucrative",
+    "word": "lucrative",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "lukratywny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-ludicrous",
+    "word": "ludicrous",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "groteskowy",
+          "śmieszny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lug",
+    "word": "lug",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "taskać",
+          "tachać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-luggage",
+    "word": "luggage",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "bagaż"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lugubrious",
+    "word": "lugubrious",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "pogrzebowy",
+          "żałobny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lukewarm",
+    "word": "lukewarm",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "letni",
+          "niezainteresowany",
+          "obojętny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lull",
+    "word": "lull",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "przerwa",
+          "okres ciszy"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "ukołysać",
+          "do",
+          "uśpić",
+          "kogoś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lullaby",
+    "word": "lullaby",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kołysanka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lumber",
+    "word": "lumber",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "drewno ścięte",
+          "drewno",
+          "rupiecie"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "gramolić się"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "obarczać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-luminous",
+    "word": "luminous",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "luminescencyjny",
+          "fosforyzujący"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lump",
+    "word": "lump",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kawał",
+          "bryła",
+          "narośl",
+          "guz",
+          "kostka cukru",
+          "kostka"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "traktować jednakowo",
+          "wraz z",
+          "skupiać",
+          "razem",
+          "włączać",
+          "wraz z",
+          "wraz z"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "kwota ogólna"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lumpy",
+    "word": "lumpy",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wyboisty",
+          "grudowaty"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lunacy",
+    "word": "lunacy",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "szaleństwo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lunar",
+    "word": "lunar",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "księżycowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lunatic",
+    "word": "lunatic",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "szaleniec"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "szalony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lunch",
+    "word": "lunch",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "lekki obiad",
+          "obiad",
+          "lunch"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "spożywać obiad"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "przerwa obiadowa"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "pora obiadowa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-luncheon",
+    "word": "luncheon",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "lunch"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lung",
+    "word": "lung",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "płuco"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lunge",
+    "word": "lunge",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "szarpnąć się",
+          "do",
+          "na"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "szarpnięcie się",
+          "szarpnięcie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lurch",
+    "word": "lurch",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zataczać się",
+          "skakać",
+          "od A do B"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zatoczenie się"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lure",
+    "word": "lure",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wabić"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "przynęta"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lurid",
+    "word": "lurid",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "okropny",
+          "krzykliwy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lurk",
+    "word": "lurk",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "czaić się"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-luscious",
+    "word": "luscious",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "smakowity",
+          "rewelacyjny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lush",
+    "word": "lush",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "bujny",
+          "wybujały",
+          "luksusowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lustful",
+    "word": "lustful",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "pożądliwy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lustre",
+    "word": "lustre",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "połysk",
+          "blask"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lusty",
+    "word": "lusty",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "krzepki",
+          "pełen wigoru"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lute",
+    "word": "lute",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "lutnia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-luxuriant",
+    "word": "luxuriant",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wybujały",
+          "bujny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-luxuriate",
+    "word": "luxuriate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "rozkoszować się",
+          "w czymś",
+          "dobrze się czuć"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-luxurious",
+    "word": "luxurious",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "luksusowy",
+          "pełny",
+          "swobodny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-luxury",
+    "word": "luxury",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "luksus"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "luksusowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-LW",
+    "word": "LW",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "fale długie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lynch",
+    "word": "lynch",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "linczować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lynx",
+    "word": "lynx",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ryś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lyre",
+    "word": "lyre",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "lira"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lyric",
+    "word": "lyric",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "liryczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lyrical",
+    "word": "lyrical",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "liryczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-lyrics",
+    "word": "lyrics",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "słowa pieśni",
+          "słowa"
+        ]
+      }
+    ]
+  }
+]

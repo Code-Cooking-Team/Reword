@@ -1,0 +1,11853 @@
+[
+  {
+    "id": "t-T",
+    "word": "T",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "temperatura"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-t.",
+    "word": "t.",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "czas",
+          "okres"
+        ]
+      },
+      {
+        "gramGrp": "",
+        "texts": [
+          "tona"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-ta",
+    "word": "ta",
+    "trans": [
+      {
+        "gramGrp": "Interj",
+        "texts": [
+          "dzięki",
+          "dziękuję"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tab",
+    "word": "tab",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "etykietka",
+          "nalepka",
+          "mieć na oku kogoś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tabby",
+    "word": "tabby",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "bury",
+          "pręgowany"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "buras",
+          "kot pręgowany",
+          "kotka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-table",
+    "word": "table",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "stół",
+          "tabela",
+          "tablica"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "stołowy"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wnosić",
+          "przedkładać"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "spis treści"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tablecloth",
+    "word": "tablecloth",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "obrus"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tablespoon",
+    "word": "tablespoon",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "duża łyżka do nabieranie potraw",
+          "duża łyżka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tablespoonful",
+    "word": "tablespoonful",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "duża łyżka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tablet",
+    "word": "tablet",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "tabletka",
+          "tablica"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tabloid",
+    "word": "tabloid",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "gazeta bulwarowa",
+          "gazeta sensacyjna"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-taboo",
+    "word": "taboo",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "tabu",
+          "zakaz"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "zakazany",
+          "niedozwolony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tabulate",
+    "word": "tabulate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "układać w tabelach"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tacit",
+    "word": "tacit",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "milczący"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-taciturn",
+    "word": "taciturn",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "małomówny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tack",
+    "word": "tack",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "gwóźdź tapicerski",
+          "gwóźdź",
+          "papiak",
+          "fastryga",
+          "podejście"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "przybijać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tackle",
+    "word": "tackle",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "brać się",
+          "za coś",
+          "blokować",
+          "radzić sobie",
+          "z czymś",
+          "zwracać się",
+          "do kogoś z czymś"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "sprzęt",
+          "blokada"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tacky",
+    "word": "tacky",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "paskudny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tact",
+    "word": "tact",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "takt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tactful",
+    "word": "tactful",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "taktowny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tactical",
+    "word": "tactical",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "taktyczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tactics",
+    "word": "tactics",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "taktyka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tactless",
+    "word": "tactless",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nietaktowny",
+          "bez taktu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tadpole",
+    "word": "tadpole",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kijanka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tag",
+    "word": "tag",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "etykieta",
+          "znaczek",
+          "berek"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "iść",
+          "za kimś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tail",
+    "word": "tail",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ogon",
+          "frak",
+          "orzeł",
+          "reszka czy orzeł?"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "śledzić"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "zmniejszać się",
+          "ucichać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tailor",
+    "word": "tailor",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "krawiec męski",
+          "krawiec"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "przysposabiać",
+          "dostosowywać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tailor-made",
+    "word": "tailor-made",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wykonany na zamówienie",
+          "wykonany specjalnie dla kogoś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-taint",
+    "word": "taint",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "psuć"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "skaza"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-Taiwan",
+    "word": "Taiwan",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Tajwan"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-Taiwanese",
+    "word": "Taiwanese",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "tajwański"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Tajwańczyk"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-takeaway",
+    "word": "takeaway",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "jedzenie na wynos",
+          "bar z jedzeniem na wynos"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-takeoff",
+    "word": "takeoff",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "start"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-takeout",
+    "word": "takeout",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "jedzenie na wynos",
+          "bar z jedzeniem na wynos"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-takeover",
+    "word": "takeover",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "przejęcie",
+          "przewrót"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-takings",
+    "word": "takings",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "utarg",
+          "wpływy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-talc",
+    "word": "talctalcum powder",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "talk"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tale",
+    "word": "tale",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "opowieść",
+          "opowiadanie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-talent",
+    "word": "talent",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "talent"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-talented",
+    "word": "talented",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "utalentowany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-talisman",
+    "word": "talisman",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "talizman"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-talk",
+    "word": "talk",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "mówić",
+          "do kogoś o czymś",
+          "do kogoś o czymś",
+          "rozmawiać",
+          "z kimś",
+          "omawiać",
+          "gadać",
+          "plotkować"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "rozmowa",
+          "pogawędka",
+          "mówić o pracy",
+          "mówiąc o czymś",
+          "mówiąc"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "przekonywać"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "wyperswadować komuś",
+          "wyperswadować",
+          "coś"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "omawiać",
+          "dyskutować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-talkative",
+    "word": "talkative",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "gadatliwy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-talker",
+    "word": "talker",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "gaduła"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tall",
+    "word": "tall",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wysoki",
+          "mieć 170 cm wzrostu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tally",
+    "word": "tally",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "rachuba",
+          "rachunek"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zgadzać się"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-talon",
+    "word": "talon",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "szpon"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tame",
+    "word": "tame",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "oswojony",
+          "potulny",
+          "mało ekscytujący"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "oswajać",
+          "ujarzmiać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tamper",
+    "word": "tamper",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "majstrować",
+          "manipulować",
+          "przy czymś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tampon",
+    "word": "tampon",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "tampon"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tan",
+    "word": "tan",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "opalenizna"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "jasnobrązowy"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "opalać się"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tandem",
+    "word": "tandem",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "tandem",
+          "razem"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tang",
+    "word": "tang",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ostry zapach",
+          "ostry smak"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tangent",
+    "word": "tangent",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "styczny"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "styczna",
+          "całkowicie zmieniać kierunek"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tangerine",
+    "word": "tangerine",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "mandarynka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tangible",
+    "word": "tangible",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "konkretny",
+          "namacalny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tangle",
+    "word": "tangle",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "plątanina",
+          "gmatwanina"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zaplątać się",
+          "zaplątać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tank",
+    "word": "tank",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zbiornik",
+          "cysterna",
+          "czołg"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "tankować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tankard",
+    "word": "tankard",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kufel metalowy",
+          "kufel"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tanker",
+    "word": "tanker",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "tankowiec",
+          "cysterna"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tantalize",
+    "word": "tantalizetantalise",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zwodzić"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tantamount",
+    "word": "tantamount",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "równoznaczny",
+          "z czymś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tantrum",
+    "word": "tantrum",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "histeria"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-Tanzania",
+    "word": "Tanzania",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Tanzania"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-Tanzanian",
+    "word": "Tanzanian",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "tanzański"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tap",
+    "word": "tap",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kurek",
+          "kran",
+          "zawór",
+          "stukanie"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "stukać",
+          "postukiwać",
+          "w coś",
+          "o coś",
+          "wykorzystywać",
+          "coś"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "stepowanie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tape",
+    "word": "tape",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "taśma",
+          "kaseta",
+          "szpula z taśmą",
+          "szpula",
+          "tasiemka"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "nagrywać",
+          "przytwierdzać taśmą",
+          "przytwierdzać"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "centymetr "
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "magnetofon szpulowy",
+          "magnetofon"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-taper",
+    "word": "taper",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zwężać się"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "cienka świeca",
+          "świeca"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tapestry",
+    "word": "tapestry",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "arras",
+          "gobelin",
+          "mozaika"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tar",
+    "word": "tar",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "smoła",
+          "dziegieć"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "smołować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tardy",
+    "word": "tardy",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "powolny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-target",
+    "word": "target",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "cel",
+          "zgodnie z założeniami"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tariff",
+    "word": "tariff",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "cło przywozowe"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tarmac",
+    "word": "tarmac",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "asfalt",
+          "makadam",
+          "powierzchnia smołowa asfaltowa",
+          "powierzchnia smołowa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tarnish",
+    "word": "tarnish",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "matować",
+          "matowieć",
+          "brukać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tarpaulin",
+    "word": "tarpaulin",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "płótno żeglarskie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tarragon",
+    "word": "tarragon",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "estragon"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tarry",
+    "word": "tarry",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "pozostawać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tart",
+    "word": "tart",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ciasto nadziewane",
+          "ciasto",
+          "dziwka"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "ostry",
+          "kwaśny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tartar",
+    "word": "tartar",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kamień nazębny",
+          "kamień"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-task",
+    "word": "task",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zadanie",
+          "zajęcie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tassel",
+    "word": "tassel",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pompon"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-taste",
+    "word": "taste",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "smak",
+          "upodobanie",
+          "do czegoś",
+          "posmak",
+          "czegoś"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "próbować",
+          "kosztować",
+          "smakować",
+          "spróbować coś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tasteful",
+    "word": "tasteful",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "gustowny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tasteless",
+    "word": "tasteless",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niegustowny",
+          "niesmaczny",
+          "bez smaku"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tasty",
+    "word": "tasty",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "smakowity"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-ta-ta",
+    "word": "ta-ta",
+    "trans": [
+      {
+        "gramGrp": "Inter",
+        "texts": [
+          "cześć",
+          "pa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-Tatra",
+    "word": "TatraTatras",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Tatry",
+          "Tatry Wysokie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tattered",
+    "word": "tattered",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "obstrzępiony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tatters",
+    "word": "tatters",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "w strzępach"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tattoo",
+    "word": "tattoo",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "tatuować"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "tatuaż",
+          "parada wojskowa",
+          "parada",
+          "werbel "
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "bębnić"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tatty",
+    "word": "tatty",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "brudny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-taunt",
+    "word": "taunt",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "drażnić",
+          "drwić"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "szyderstwo",
+          "drwina"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-Taurus",
+    "word": "Taurus",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Byk "
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-taut",
+    "word": "taut",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "naprężony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tawdry",
+    "word": "tawdry",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "tandetny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tawny",
+    "word": "tawny",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "brunatny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tax",
+    "word": "tax",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "podatek"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "opodatkowywać"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "poborca podatkowy"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "deklaracja podatkowa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-taxable",
+    "word": "taxable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "podlegający opodatkowaniu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-taxation",
+    "word": "taxation",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "system podatkowy",
+          "podatki",
+          "opodatkowanie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tax-free",
+    "word": "tax-free",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wolny od podatku"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-taxi",
+    "word": "taxi",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "taksówka"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "kołować"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "taksówkarz"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "postój taskówek"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "postój taskówek"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-taxpayer",
+    "word": "taxpayer",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "podatnik"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-TB",
+    "word": "TB",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "gruźlica"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tea",
+    "word": "tea",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "herbata",
+          "podwieczorek"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "herbata ekspresowa",
+          "torebka herbaty"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "liść herbaty",
+          "fus herbaty"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-teach",
+    "word": "teach",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "uczyć",
+          "nauczać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-teacher",
+    "word": "teacher",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "nauczyciel"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-teaching",
+    "word": "teaching",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "nauczanie",
+          "nauka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-teacup",
+    "word": "teacup",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "filiżanka herbaty"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-teak",
+    "word": "teak",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "tek",
+          "drzewo tekowe",
+          "drewno tekowe"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-team",
+    "word": "team",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zespół",
+          "drużyna"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-teamwork",
+    "word": "teamwork",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "praca zespołowa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-teapot",
+    "word": "teapot",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "czajniczek",
+          "czajnik do herbaty",
+          "czajnik"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tear",
+    "word": "tear",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "łza"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "rozdzierać się",
+          "rozdzierać",
+          "wyrywać",
+          "pędzić"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "rozdarcie",
+          "wyszarpnąć się",
+          "wyszarpnąć",
+          "rozedrzeć coś"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "rozdzierać"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "odrywać",
+          "kogoś od czegoś"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "gaz łzawiący"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "zrywać"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "drzeć"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tearful",
+    "word": "tearful",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "łzawy",
+          "płaczliwy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tease",
+    "word": "tease",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "drażnić"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-teaspoon",
+    "word": "teaspoon",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "łyżeczka do herbaty",
+          "łyżeczka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-teaspoonful",
+    "word": "teaspoonful",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "łyżeczka do herbaty",
+          "łyżeczka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-teat",
+    "word": "teat",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "sutek",
+          "cycek",
+          "smoczek"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-teatime",
+    "word": "teatime",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pora picia herbaty"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tea-towel",
+    "word": "tea-towel",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ścierka do naczyń",
+          "ścierka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-technical",
+    "word": "technical",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "techniczny",
+          "praktyczny",
+          "fachowy"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "technikum"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-technicality",
+    "word": "technicality",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "strona techniczna",
+          "punkt formalny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-technically",
+    "word": "technically",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "formalnie",
+          "ściśle biorąc",
+          "technicznie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-technician",
+    "word": "technician",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "technik"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-technique",
+    "word": "technique",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "technika"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-technological",
+    "word": "technological",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "technologiczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-technology",
+    "word": "technology",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "technika",
+          "technologia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-teddy",
+    "word": "teddy",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "miś pluszowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tedious",
+    "word": "tedious",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "żmudny",
+          "nudny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-teem",
+    "word": "teem",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "roić się",
+          "od ludzi",
+          "leje jak z cebra"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-teenage",
+    "word": "teenage",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nastoletni"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-teenager",
+    "word": "teenager",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "nastolatek"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-teens",
+    "word": "teens",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": []
+      }
+    ]
+  },
+  {
+    "id": "t-tee-shirt",
+    "word": "tee-shirt",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "koszulka trykotowa",
+          "podkoszulek"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-teeter",
+    "word": "teeter",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "chwiać się",
+          "znajdować się",
+          "na czymś",
+          "nad czymś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-teethe",
+    "word": "teethe",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "ząbkować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-teetotal",
+    "word": "teetotal",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "abstynencki",
+          "nie pijący alkoholu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-teetotaller",
+    "word": "teetotaller",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "abstynent"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-TEFL",
+    "word": "TEFL",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "nauczanie języka angielskiego jako obcego"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tel.",
+    "word": "tel.",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "tel.",
+          "telefon"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-telecommunications",
+    "word": "telecommunications",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "telekomunikacja"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "telekomunikacyjny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-telegram",
+    "word": "telegram",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "telegram"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-telegraph",
+    "word": "telegraph",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "telegraf",
+          "telegraficznie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-telegraphic",
+    "word": "telegraphic",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "telegraficzny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-telepathic",
+    "word": "telepathic",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "telepatyczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-telepathy",
+    "word": "telepathy",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "telepatia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-telephonist",
+    "word": "telephonist",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "telefonista",
+          "telefonistka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-telephoto_lens",
+    "word": "telephoto lens",
+    "trans": [
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "teleobiektyw"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-telescope",
+    "word": "telescope",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "teleskop"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "składać się teleskopowo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-telescopic",
+    "word": "telescopic",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "teleskopowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-teletext",
+    "word": "teletext",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "telegazeta"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-teletype",
+    "word": "teletype",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "dalekopis"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-teletypwriter",
+    "word": "teletypwriter",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "dalekopis"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-televise",
+    "word": "televise",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "nadawać przez telewizję",
+          "nadawać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-television",
+    "word": "television",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "telewizja"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "telewizyjny",
+          "w telewizji"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-telex",
+    "word": "telex",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "dalekopis",
+          "teleks"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "nadawać teleksem",
+          "nadawać dalekopisem"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tell",
+    "word": "tell",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "mówić",
+          "powiedzieć",
+          "dostrzegać",
+          "dawać znać",
+          "oddziaływać",
+          "na kogoś",
+          "rozróżniać",
+          "powiedzieć",
+          "która godzina"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "rozróżniać"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "udzielać nagany",
+          "mówić prawdę"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-teller",
+    "word": "teller",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kasjer"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-telling",
+    "word": "telling",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "skuteczny",
+          "wymowny",
+          "wiele mówiący"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-telltale",
+    "word": "telltale",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "ostrzegawczy",
+          "wymowny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-telly",
+    "word": "telly",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "telewizja",
+          "telewizor"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-temerity",
+    "word": "temerity",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zuchwałość",
+          "czelność"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-temp.",
+    "word": "temp.",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "temperatura"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "tymczasowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-temper",
+    "word": "temper",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "charakter",
+          "nastrój",
+          "humor",
+          "złość",
+          "wściekłość"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "hartować",
+          "utwardzać",
+          "łagodzić",
+          "złościć się",
+          "wściekać się",
+          "wpadać w złość"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-temperament",
+    "word": "temperament",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "temperament"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-temperamental",
+    "word": "temperamental",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "kapryśny",
+          "pełen temperamentu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-temperance",
+    "word": "temperance",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "umiar"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-temperate",
+    "word": "temperate",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "umiarkowany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-temperature",
+    "word": "temperature",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "temperatura"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tempest",
+    "word": "tempest",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "burza"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tempestuous",
+    "word": "tempestuous",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "burzliwy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-temple",
+    "word": "temple",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "świątynia",
+          "skroń"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tempo",
+    "word": "tempo",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "tempo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-temporal",
+    "word": "temporal",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "czasowy",
+          "doczesny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-temporary",
+    "word": "temporary",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "czasowy",
+          "tymczasowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tempt",
+    "word": "tempt",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "kusić",
+          "kusi kogoś",
+          "by coś zrobił"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-temptation",
+    "word": "temptation",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pokusa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-ten",
+    "word": "ten",
+    "trans": [
+      {
+        "gramGrp": "Num",
+        "texts": [
+          "dziesięć"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "Dziesięcioro Przykazań"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tenable",
+    "word": "tenable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "do utrzymania",
+          "mogący być obroniony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tenacious",
+    "word": "tenacious",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieustępliwy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tenancy",
+    "word": "tenancy",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "dzierżawa",
+          "najem"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tenant",
+    "word": "tenant",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "najemca lokalu",
+          "najemca",
+          "dzierżawca"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tend",
+    "word": "tend",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "skłaniać się",
+          "do robienia czegoś",
+          "zajmować się",
+          "opiekować się",
+          "zwykle coś robić",
+          "zazwyczaj chodzę późno spać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tendency",
+    "word": "tendency",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "tendencja",
+          "skłonność"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tender",
+    "word": "tender",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "delikatny",
+          "czuły",
+          "wrażliwy",
+          "dotkliwy"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "oferta przetargowa",
+          "oferta"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "składać",
+          "przedstawiać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tendon",
+    "word": "tendon",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ścięgno"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tendril",
+    "word": "tendril",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wić"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tenement",
+    "word": "tenement",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "dom czynszowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tenet",
+    "word": "tenet",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zasada",
+          "doktryna"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-Tennessee",
+    "word": "Tennessee",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Tennessee"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tenor",
+    "word": "tenor",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "tenor",
+          "sens",
+          "wymowa"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "tenorowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tense",
+    "word": "tense",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "napięty",
+          "naprężony"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "napinać się",
+          "sztywnieć"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "czas"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tension",
+    "word": "tension",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "napięcie",
+          "naprężenie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tent",
+    "word": "tent",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "namiot"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tentacle",
+    "word": "tentacle",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "macka",
+          "czułek"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tentative",
+    "word": "tentative",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "próbny",
+          "tymczasowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tenterhooks",
+    "word": "tenterhooks",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "siedzieć jak na szpilkach",
+          "jak na szpilkach"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tenth",
+    "word": "tenth",
+    "trans": [
+      {
+        "gramGrp": "Num",
+        "texts": [
+          "dziesiąty"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tenuous",
+    "word": "tenuous",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wątły",
+          "subtelny",
+          "słaby"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tenure",
+    "word": "tenure",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "czynsz",
+          "stała posada"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tepid",
+    "word": "tepid",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "letni",
+          "niemrawy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-term",
+    "word": "term",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "termin",
+          "semestr",
+          "okres",
+          "kadencja",
+          "warunki"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "nazywać",
+          "określać",
+          "z punktu widzenia ekonomii",
+          "z punktu widzenia",
+          "w kategoriach ekonomicznych",
+          "w kategoriach",
+          "z punktu widzenia ekonomii",
+          "z punktu widzenia",
+          "w kategoriach ekonomicznych",
+          "w kategoriach",
+          "być w dobrych stosunkach z kimś",
+          "pogodzić się z czymś",
+          "na dłuższą metę",
+          "na krótszą metę"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-terminal",
+    "word": "terminal",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "śmiertelny",
+          "śmiertelnie chory"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "stacja końcowa",
+          "końcówka",
+          "terminal"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-terminate",
+    "word": "terminate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zakańczać",
+          "kończyć trasę",
+          "dalej nie jechać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-terminology",
+    "word": "terminology",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "terminologia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-terminus",
+    "word": "terminus",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "duża stacja końcowa",
+          "stacja końcowa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-termite",
+    "word": "termite",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "termit"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-terrace",
+    "word": "terrace",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zabudowa szeregowa",
+          "szereg domów",
+          "szereg",
+          "taras",
+          "miejsca stojące na stadionie",
+          "miejsca stojące"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-terraced",
+    "word": "terraced",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "z tarasami",
+          "szeregowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-terrain",
+    "word": "terrain",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "teren"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-terrible",
+    "word": "terrible",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "straszny",
+          "okropny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-terrific",
+    "word": "terrific",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "strasznie fajny",
+          "straszny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-terrify",
+    "word": "terrify",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "przerażać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-territorial",
+    "word": "territorial",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "terytorialny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-territory",
+    "word": "territory",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "terytorium",
+          "teren"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-terror",
+    "word": "terror",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "przerażenie",
+          "terror"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-terrorism",
+    "word": "terrorism",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "terroryzm"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-terrorist",
+    "word": "terrorist",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "terrorysta"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-terroristic",
+    "word": "terroristic",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "terrorystyczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-terrorize",
+    "word": "terrorizeterrorise",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "terroryzować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-terror-stricken",
+    "word": "terror-stricken",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "przerażony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-terse",
+    "word": "terse",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "oschły",
+          "krótki"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-TESL",
+    "word": "TESL",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "nauczanie angielskiego jako języka drugiego"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-test",
+    "word": "test",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "sprawdzać",
+          "sprawdzać",
+          "coś u kogoś",
+          "testować"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "test",
+          "sprawdzian",
+          "egzamin",
+          "badanie laboratoryjne",
+          "badanie"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "precedens sądowy"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "spotkanie międzynarodowe"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "próbówka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-testament",
+    "word": "testament",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "testament",
+          "świadek",
+          "czegoś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-testicle",
+    "word": "testicle",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "jądro"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-testify",
+    "word": "testify",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "składać zeznania",
+          "świadczyć",
+          "o czymś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-testimony",
+    "word": "testimony",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zeznanie",
+          "świadectwo",
+          "czegoś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tetanus",
+    "word": "tetanus",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "tężec"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tether",
+    "word": "tether",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "przywiązywać",
+          "gonić resztkami sił"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-Texan",
+    "word": "Texan",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "teksaski"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-Texas",
+    "word": "Texas",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Teksas"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-text",
+    "word": "text",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "tekst"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-textbook",
+    "word": "textbook",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "podręcznik"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-textiles",
+    "word": "textiles",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "przemysł tekstylny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-texture",
+    "word": "texture",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "faktura",
+          "w dotyku"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-Th.",
+    "word": "Th.",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "czwartek"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-Thames",
+    "word": "Thames",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Tamiza"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-than",
+    "word": "than",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "z niż"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-thank",
+    "word": "thank",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "dziękować"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "podziękowania",
+          ",,Dziękuję''",
+          "dzięki czemuś",
+          ",,Bogu dzięki''"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-thankful",
+    "word": "thankful",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "szczęśliwy",
+          "uszczęśliwiony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-thankless",
+    "word": "thankless",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niewdzięczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-Thanksgiving",
+    "word": "Thanksgiving",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "święto dziękczynienia"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "święto dziękczynienia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-that",
+    "word": "that",
+    "trans": [
+      {
+        "gramGrp": "Pron",
+        "texts": [
+          "ten",
+          "tamten",
+          "to",
+          "Ten człowiek czy tamten?",
+          ",,Kto tam?''",
+          ",,Co to takiego?''",
+          "to jest"
+        ]
+      },
+      {
+        "gramGrp": "",
+        "texts": [
+          "że",
+          "Wiedziałem, że kłamie",
+          "który",
+          "jaki",
+          "To jest książka, którą mi pożyczyła",
+          "aż taki",
+          "taki",
+          "aż tak",
+          "tak",
+          "To nie takie złe"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-thatched",
+    "word": "thatched",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "kryty strzechą"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-thaw",
+    "word": "thaw",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "odwilż"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "tajać",
+          "odtajać",
+          "rozmrażać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-theatre",
+    "word": "theatretheater",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "teatr",
+          "sala operacyjna"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-theatre-goer",
+    "word": "theatre-goer",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "teatroman"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-theatrical",
+    "word": "theatrical",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "teatralny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-theft",
+    "word": "theft",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kradzież"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-their",
+    "word": "their",
+    "trans": [
+      {
+        "gramGrp": "Pron",
+        "texts": [
+          "ich"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-theirs",
+    "word": "theirs",
+    "trans": [
+      {
+        "gramGrp": "Pron",
+        "texts": [
+          "ich"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-theme",
+    "word": "theme",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "temat",
+          "sygnał audycji",
+          "sygnał"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "tytułowy"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "melodia przewodnia",
+          "sygnał muzyczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-themselves",
+    "word": "themselves",
+    "trans": [
+      {
+        "gramGrp": "Pron",
+        "texts": [
+          "się",
+          "siebie",
+          "sobie",
+          "sami"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-then",
+    "word": "then",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "wtedy",
+          "później",
+          "więc",
+          "wtedy",
+          "wówczas",
+          "jednak",
+          "ówczesny sekretarz",
+          "ówczesny",
+          "do tej pory",
+          "do tamtej pory",
+          "dotąd",
+          "od tej pory",
+          "od tamtej pory"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-theology",
+    "word": "theology",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "teologia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-theorem",
+    "word": "theorem",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "twierdzenie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-theoretical",
+    "word": "theoretical",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "teoretyczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-theorize",
+    "word": "theorizetheorise",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "teoretyzować",
+          "o czymś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-theory",
+    "word": "theory",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "teoria"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-therapeutic",
+    "word": "therapeutictherapeutical",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "terapeutyczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-therapist",
+    "word": "therapist",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "terapeuta"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-therapy",
+    "word": "therapy",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "terapia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-thereabouts",
+    "word": "thereabouts",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "w pobliżu",
+          "czy coś koło tego"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-thereafter",
+    "word": "thereafter",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "później",
+          "potem"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-thereby",
+    "word": "thereby",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "skutkiem tego",
+          "przez to"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-therefore",
+    "word": "therefore",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "dlatego"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-therein",
+    "word": "therein",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "w tym"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-thermal",
+    "word": "thermal",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "termiczny",
+          "ocieplany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-thermometer",
+    "word": "thermometer",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "termometr"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-thermos",
+    "word": "thermos",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "termos"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-thermostat",
+    "word": "thermostat",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "termostat"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-thesaurus",
+    "word": "thesaurus",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "tezaurus "
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-thesis",
+    "word": "thesis",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "teza",
+          "rozprawa",
+          "praca"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-they",
+    "word": "they",
+    "trans": [
+      {
+        "gramGrp": "Pron",
+        "texts": [
+          "oni",
+          "one"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-thick",
+    "word": "thick",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "gruby",
+          "gęsty",
+          "głęboki",
+          "miało metr głębokości",
+          "przygłupi",
+          "ciemny",
+          "stłumiony",
+          "w samym środku",
+          "w wirze"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-thicken",
+    "word": "thicken",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "gęstnieć",
+          "zagęszczać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-thicket",
+    "word": "thicket",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "gęstwina"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-thickness",
+    "word": "thickness",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "grubość"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-thickset",
+    "word": "thickset",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "krępy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-thick-skinned",
+    "word": "thick-skinned",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "gruboskórny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-thief",
+    "word": "thief",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "złodziej"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-thigh",
+    "word": "thigh",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "udo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-thimble",
+    "word": "thimble",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "naparstek"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-thin",
+    "word": "thin",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "cienki",
+          "chudy",
+          "rzadki"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "przerzedzać się"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "rozrzedzać",
+          "rozwadniać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-thing",
+    "word": "thing",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "rzecz",
+          "coś ",
+          "sprawy",
+          ",,Jak leci?''"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-thingamabob",
+    "word": "thingamabob",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "takie coś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-think",
+    "word": "think",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "myśleć",
+          "o czymś",
+          "o czymś",
+          "przypomnieć sobie",
+          "o czymś",
+          "sądzić",
+          "wymyślić",
+          "coś",
+          "mieć opinię",
+          "o czymś",
+          "o czymś",
+          ",,Tak sądzę''"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "przemyśleć"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "wynajdywać",
+          "wymyślać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-thinker",
+    "word": "thinker",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "myśliciel"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-third",
+    "word": "third",
+    "trans": [
+      {
+        "gramGrp": "Num",
+        "texts": [
+          "trzeci"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "osoba trzecia",
+          "ubezpieczenie od odpowiedzialności cywilnej"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-thirdly",
+    "word": "thirdly",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "po trzecie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-third-rate",
+    "word": "third-rate",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "trzeciorzędny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-thirst",
+    "word": "thirst",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pragnienie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-thirsty",
+    "word": "thirsty",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "spragniony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-thirteen",
+    "word": "thirteen",
+    "trans": [
+      {
+        "gramGrp": "Num",
+        "texts": [
+          "trzynaście"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-thirteenth",
+    "word": "thirteenth",
+    "trans": [
+      {
+        "gramGrp": "Num",
+        "texts": [
+          "trzynasty"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-thirtieth",
+    "word": "thirtieth",
+    "trans": [
+      {
+        "gramGrp": "Num",
+        "texts": [
+          "trzydziesty"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-thirty",
+    "word": "thirty",
+    "trans": [
+      {
+        "gramGrp": "Num",
+        "texts": [
+          "trzydzieści"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-this",
+    "word": "this",
+    "trans": [
+      {
+        "gramGrp": "Pron",
+        "texts": [
+          "ten",
+          "to"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "obecny",
+          "dzisiejszy",
+          "dzisiejszego ranka wstał wcześnie",
+          "najbliższy",
+          "zrobię to w nadchodzącą niedzielę",
+          "tutejszy",
+          "tutejszy kraj",
+          "nasza ojczyzna",
+          "taki",
+          "taki duży"
+        ]
+      },
+      {
+        "gramGrp": "Pron",
+        "texts": [
+          "to",
+          "to John: przedstawiam ci Johna",
+          "tu mówi John"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-thistle",
+    "word": "thistle",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "oset"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-thong",
+    "word": "thong",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "rzemień",
+          "pasek"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-thorn",
+    "word": "thorn",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "cierń",
+          "kolec",
+          "krzak z kolcami",
+          "krzak"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-thorough",
+    "word": "thorough",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "drobiazgowy",
+          "dokładny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-thoroughfare",
+    "word": "thoroughfare",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "arteria"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-though",
+    "word": "though",
+    "trans": [
+      {
+        "gramGrp": "Conj",
+        "texts": [
+          "chociaż"
+        ]
+      },
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "jednak",
+          "jak gdyby"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-thought",
+    "word": "thought",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "myśl",
+          "myślenie",
+          "zamyślenie",
+          "pogląd"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-thoughtful",
+    "word": "thoughtful",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "zamyślony",
+          "troskliwy",
+          "rozważny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-thoughtless",
+    "word": "thoughtless",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "bezmyślny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-thousand",
+    "word": "thousand",
+    "trans": [
+      {
+        "gramGrp": "Num",
+        "texts": [
+          "tysiąc"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-thousandth",
+    "word": "thousandth",
+    "trans": [
+      {
+        "gramGrp": "Num",
+        "texts": [
+          "tysięczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-thread",
+    "word": "thread",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "nić",
+          "gwint",
+          "wątek"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "nawlekać",
+          "przesuwać się"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-threadbare",
+    "word": "threadbare",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wytarty",
+          "wyświechtany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-threat",
+    "word": "threat",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "groźba",
+          "pogróżka",
+          "zagrożenie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-threaten",
+    "word": "threaten",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "grozić",
+          "czymś",
+          "zagrażać",
+          "stwarzać groźbę"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-three",
+    "word": "three",
+    "trans": [
+      {
+        "gramGrp": "Num",
+        "texts": [
+          "trzy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-three-dimensional",
+    "word": "three-dimensional",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "trójwymiarowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-three-quarters",
+    "word": "three-quarters",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "trzy czwarte"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-thresh",
+    "word": "thresh",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "młócić"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-threshold",
+    "word": "threshold",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "próg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-thrift",
+    "word": "thrift",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "oszczędność"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-thrifty",
+    "word": "thrifty",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "oszczędny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-thrill",
+    "word": "thrill",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "dreszcz",
+          "ekscytacja"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "ekscytować",
+          "kogoś",
+          "czymś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-thriller",
+    "word": "thriller",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "dreszczowiec"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-thrive",
+    "word": "thrive",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "prosperować",
+          "rozkwitać",
+          "przy czymś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-throat",
+    "word": "throat",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "gardło",
+          "gardło go boli"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-throb",
+    "word": "throb",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "dudnić",
+          "pulsować"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "dudnienie",
+          "puls"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-throes",
+    "word": "throes",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "w samym środku czegoś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-throne",
+    "word": "throne",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "tron"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-throng",
+    "word": "throng",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ciżba",
+          "rzesza"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "tłoczyć się"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-throttle",
+    "word": "throttle",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "dusić"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "przepustnica"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-throughout",
+    "word": "throughout",
+    "trans": [
+      {
+        "gramGrp": "Prep",
+        "texts": [
+          "przez cały czas",
+          "przez"
+        ]
+      },
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "całkowicie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-throw",
+    "word": "throw",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "rzucać",
+          "zarzucać",
+          "wrzucać",
+          "miotać",
+          "zrzucać",
+          "wpędzać",
+          "angażować",
+          "coś",
+          "wpadać",
+          "w coś",
+          "konsternować",
+          "zbijać z tropu"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "wyrzucać",
+          "odrzucać",
+          "przepuszczać"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "wyrzucać",
+          "odrzucać"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "wymiotować",
+          "zwracać",
+          "wzbijać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-throwaway",
+    "word": "throwaway",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "jednorazowy",
+          "zrobiony mimochodem"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-thrush",
+    "word": "thrush",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "drozd"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-thrust",
+    "word": "thrust",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "pchać",
+          "wpychać",
+          "przepychać się"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pchnięcie",
+          "ciąg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-Thu.",
+    "word": "Thu.",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "czwartek"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-thud",
+    "word": "thud",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "głuchy łomot"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "głucho uderzać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-thug",
+    "word": "thug",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zbir",
+          "łotr"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-thumb",
+    "word": "thumb",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kciuk"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "przekartkowywać",
+          "zatrzymywać samochody na autostopie",
+          "zatrzymywać samochody"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-thumbtack",
+    "word": "thumbtack",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pinezka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-thump",
+    "word": "thump",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "walić",
+          "uderzać z łoskotem",
+          "uderzać"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "uderzenie",
+          "łomot",
+          "grzmotnięcie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-thunder",
+    "word": "thunder",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "grzmot",
+          "piorun"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "grzmieć",
+          "piorunować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-thunderbolt",
+    "word": "thunderbolt",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "uderzenie pioruna"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-thunderous",
+    "word": "thunderous",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "grzmiący",
+          "burzliwy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-thunderstorm",
+    "word": "thunderstorm",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "burza z piorunami",
+          "burza"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-Thursday",
+    "word": "Thursday",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "czwartek"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-thus",
+    "word": "thus",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "toteż",
+          "dlatego",
+          "tak",
+          "w taki sposób"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-thwart",
+    "word": "thwart",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "unicestwić",
+          "stać na przeszkodzie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-thyme",
+    "word": "thyme",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "tymianek"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tiara",
+    "word": "tiara",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "diadem",
+          "tiara"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tic",
+    "word": "tic",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "tik"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tick",
+    "word": "tick",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ptaszek",
+          "znaczek",
+          "cykanie",
+          "tykanie",
+          "kleszcz "
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zaznaczać",
+          "cykać",
+          "tykać",
+          "za momencik"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "zaznaczać",
+          "objeżdżać"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "iść w miarę dobrze"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-ticket",
+    "word": "ticket",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "bilet",
+          "mandat",
+          "etykietka",
+          "paragon",
+          "karta"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tickle",
+    "word": "tickle",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "łaskotać",
+          "łechtać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-ticklish",
+    "word": "ticklish",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "delikatny",
+          "drażliwy",
+          "mający łaskotki"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tidal",
+    "word": "tidal",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "pływowy",
+          "przypływowy",
+          "fala przypływu",
+          "fala pływowa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tide",
+    "word": "tide",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "pływ",
+          "przypływ",
+          "odpływ"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "fala"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "pomóc przetrwać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tidy",
+    "word": "tidy",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "schludny",
+          "czysty",
+          "niezły",
+          "porządkować",
+          "sprzątać"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "uprzątać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tie",
+    "word": "tie",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wiązać",
+          "przywiązywać",
+          "zawiązywać",
+          "związywać się",
+          "związywać",
+          "z czegoś",
+          "z czegoś",
+          "remisować",
+          "iść równo",
+          "z kimś"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "krawat",
+          "związek",
+          "więzy",
+          "remis"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "ograniczać",
+          "mieć związane ręce"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "zawiązywać",
+          "związywać",
+          "przywiązywać",
+          "wiązać się",
+          "z",
+          "mieć cały czas zajęty"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tier",
+    "word": "tier",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "rząd"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tiff",
+    "word": "tiff",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "sprzeczka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tiger",
+    "word": "tiger",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "tygrys"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tight",
+    "word": "tight",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "ciasny",
+          "szczelny",
+          "hermetyczny",
+          "mocny",
+          "naciągnięty",
+          "rygorystyczny",
+          "surowy",
+          "naprężony",
+          "niewystarczający",
+          "zwarty",
+          "zalany",
+          "pijany"
+        ]
+      },
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "mocno",
+          "szczelnie",
+          "hermetycznie"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "rajstopy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tighten",
+    "word": "tighten",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zaciskać się",
+          "zaciskać",
+          "naprężać się",
+          "naprężać",
+          "naciągać",
+          "wzmacniać",
+          "zaostrzać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tight-fisted",
+    "word": "tight-fisted",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "skąpy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tightrope",
+    "word": "tightrope",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "lina do akrobatyki",
+          "lina"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tile",
+    "word": "tile",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "płytka",
+          "dachówka",
+          "kafel"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-till",
+    "word": "till",
+    "trans": [
+      {
+        "gramGrp": "Prep",
+        "texts": [
+          "aż do",
+          "do"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kasa"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "uprawiać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tilt",
+    "word": "tilt",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "przechylać się",
+          "przechylać"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "przechylenie",
+          "pochylenie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-timber",
+    "word": "timber",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "drewno",
+          "belka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-timeless",
+    "word": "timeless",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wieczny",
+          "ponadczasowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-timely",
+    "word": "timely",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "aktualny",
+          "na czas",
+          "w porę"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-timer",
+    "word": "timer",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "minutnik"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-timetable",
+    "word": "timetable",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "rozkład",
+          "rozkład jazdy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-timid",
+    "word": "timid",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieśmiały"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-timing",
+    "word": "timing",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "poczucie czasu",
+          "wyczucie chwili",
+          "synchronizacja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-timpani",
+    "word": "timpani",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kotły"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tin",
+    "word": "tin",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "cyna"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "cynowy"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "puszka"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "puszkować",
+          "konserwować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tinfoil",
+    "word": "tinfoil",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "folia aluminiowa",
+          "staniol"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tinge",
+    "word": "tinge",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "odcień"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zabarwiać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tinged",
+    "word": "tinged",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "zabarwiony",
+          "czymś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tingle",
+    "word": "tingle",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "kłuć",
+          "szczypać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tinker",
+    "word": "tinker",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kotlarz"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "dłubać się",
+          "w czymś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tinkle",
+    "word": "tinkle",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "brzęczeć"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "brzęczenie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tinned",
+    "word": "tinned",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "konserwowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tinny",
+    "word": "tinny",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "jazgotliwy",
+          "przenikliwy",
+          "blaszany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tin-opener",
+    "word": "tin-opener",
+    "trans": [
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "otwieracz do konserw"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tinsel",
+    "word": "tinsel",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "girlanda bożonarodzeniowa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tint",
+    "word": "tint",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "barwa"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "farbować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tinted",
+    "word": "tinted",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "kolorowy",
+          "farbowany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tiny",
+    "word": "tiny",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "malutki"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tip",
+    "word": "tip",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "koniec",
+          "koniuszek",
+          "skuwka",
+          "nasadka",
+          "napiwek",
+          "śmietnisko",
+          "śmieci",
+          "hałda",
+          "poufna rada"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "przechylać",
+          "przekrzywiać",
+          "wysypywać",
+          "dawać napiwek"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "udzielać poufnych informacji"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tip-off",
+    "word": "tip-off",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "poufna informacja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tipped",
+    "word": "tipped",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "zakończony",
+          "czymś",
+          "z filtrem"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tipple",
+    "word": "tipple",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "trunek"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tipsy",
+    "word": "tipsy",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wstawiony",
+          "ululany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tiptoe",
+    "word": "tiptoe",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "iść na palcach",
+          "na czubkach palców"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tire",
+    "word": "tire",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "opona"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "męczyć się",
+          "męczyć",
+          "czymś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tired",
+    "word": "tired",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "zmęczony",
+          "wyczerpany",
+          "robieniem czegoś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tireless",
+    "word": "tireless",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niezmordowany",
+          "niestrudzony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tiresome",
+    "word": "tiresome",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "męczący"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tiring",
+    "word": "tiring",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nużący"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tissue",
+    "word": "tissue",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "tkanka",
+          "chusteczka higieniczna"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "bibułka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tit",
+    "word": "tit",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "sikorka",
+          "wet za wet"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-titbit",
+    "word": "titbittidbit",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "dobry kąsek",
+          "kąsek"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-titillate",
+    "word": "titillate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "łechtać",
+          "podniecać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-titivate",
+    "word": "titivate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wysztafirować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-title",
+    "word": "title",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "tytuł"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-titled",
+    "word": "titled",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "utytułowany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-title-holder",
+    "word": "title-holder",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zdobywca tytułu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-titter",
+    "word": "titter",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "chichotać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tittle-tattle",
+    "word": "tittle-tattle",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "plotka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-titular",
+    "word": "titular",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "tytularny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-to",
+    "word": "to",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "kochać"
+        ]
+      },
+      {
+        "gramGrp": "Prep",
+        "texts": [
+          "aby",
+          "żeby",
+          "stanął, aby na nią spojrzeć",
+          "pokazał Johnowi list",
+          "do",
+          "na",
+          "po ",
+          "z",
+          "ku",
+          "dla",
+          "za",
+          "za dziesięć ósma",
+          "od ... do ...",
+          "z ... do ...",
+          "byli już w Niemczech",
+          "byli już w",
+          "tam i z powrotem",
+          "tam i sam"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-toad",
+    "word": "toad",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ropucha"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-toadstool",
+    "word": "toadstool",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "grzyb trujący"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-toaster",
+    "word": "toaster",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "opiekacz do grzanek",
+          "opiekacz"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tobacco",
+    "word": "tobacco",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "tytoń"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tobacconist",
+    "word": "tobacconist",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "sklep z papierosami"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-today",
+    "word": "today",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "dzisiaj",
+          "obecnie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-toddle",
+    "word": "toddle",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "dreptać "
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-toddler",
+    "word": "toddler",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pędrak",
+          "małe dziecko"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-toddy",
+    "word": "toddy",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "grog"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-to-do",
+    "word": "to-do",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wrzawa",
+          "zamieszanie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-toe",
+    "word": "toe",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "palec u nogi",
+          "palec",
+          "stosować się do wytycznych"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-toenail",
+    "word": "toenail",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "paznokieć palca nogi",
+          "paznokieć"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-toffee",
+    "word": "toffee",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "toffi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-together",
+    "word": "together",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "razem",
+          "łącznie",
+          "chodzić w parze"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-toil",
+    "word": "toil",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "trudzić się"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "trud"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-toilet",
+    "word": "toilet",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "toaleta",
+          "ubikacja",
+          "miska klozetowa",
+          "miska"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "toaletowy",
+          "papier toaletowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-toiletries",
+    "word": "toiletries",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "przybory toaletowe"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-token",
+    "word": "token",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kupon",
+          "żeton",
+          "oznaka",
+          "symbol"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "symboliczny",
+          "tym samym"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-Tokyo",
+    "word": "Tokyo",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Tokio"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tolerable",
+    "word": "tolerable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "znośny",
+          "do wytrzymania"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tolerance",
+    "word": "tolerance",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wyrozumiałość",
+          "tolerancja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tolerant",
+    "word": "tolerant",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "tolerancyjny",
+          "wobec czegoś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tolerate",
+    "word": "tolerate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "tolerować",
+          "znosić"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-toll",
+    "word": "toll",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "bić",
+          "w dzwon"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "myto",
+          "opłata ",
+          "straty",
+          "ilość ofiar śmiertelnych",
+          "zbierać żniwo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tomato",
+    "word": "tomato",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pomidor"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tomb",
+    "word": "tomb",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "grobowiec"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tomboy",
+    "word": "tomboy",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "chłopczyca"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tombstone",
+    "word": "tombstone",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "płyta nagrobna"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tomcat",
+    "word": "tomcat",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kocur"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tomorrow",
+    "word": "tomorrow",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "jutro"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-ton",
+    "word": "ton",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "tona "
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tone",
+    "word": "tone",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ton",
+          "dźwięk",
+          "sygnał",
+          "koloryt",
+          "tonacja"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "tonować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tone-deaf",
+    "word": "tone-deaf",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niemuzykalny",
+          "bez słuchu muzycznego"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tongs",
+    "word": "tongs",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "szczypce"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tongue",
+    "word": "tongue",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "język",
+          "przymrużyć oko",
+          "trzymać język za zębami"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tongue-tied",
+    "word": "tongue-tied",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "zapomnieć języka za zębami"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tongue-twister",
+    "word": "tongue-twister",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wyrażenie trudne do wymówienia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tonic",
+    "word": "tonic",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "tonik",
+          "środek tonizujący",
+          "odżywka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tonight",
+    "word": "tonight",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "dzisiaj wieczorem",
+          "wieczorem"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "dzisiejszy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tonnage",
+    "word": "tonnage",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "tonaż"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tonne",
+    "word": "tonne",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "tona "
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tonsil",
+    "word": "tonsil",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "migdałek"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tonsillitis",
+    "word": "tonsillitis",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zapalenie migdałków"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-too",
+    "word": "too",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "też",
+          "także",
+          "zbyt",
+          "za",
+          "aż zbyt",
+          "aż nazbyt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tool",
+    "word": "tool",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "narzędzie",
+          "przestawać pracować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-toot",
+    "word": "toot",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "trąbić"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zatrąbienie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tooth",
+    "word": "tooth",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ząb"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-toothache",
+    "word": "toothache",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ból zęba"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-toothbrush",
+    "word": "toothbrush",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "szczoteczka do zębów"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-toothpaste",
+    "word": "toothpaste",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pasta do zębów"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-toothpick",
+    "word": "toothpick",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wykałaczka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-top-heavy",
+    "word": "top-heavy",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "przeciążony na górze"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-topic",
+    "word": "topic",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "temat",
+          "zagadnienie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-topical",
+    "word": "topical",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "aktualny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-top-level",
+    "word": "top-level",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "na najwyższym szczeblu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-topmost",
+    "word": "topmost",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "najwyższy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-topping",
+    "word": "topping",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wierzch",
+          "polewa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-topple",
+    "word": "topple",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "przewracać się",
+          "obalać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-top-secret",
+    "word": "top-secret",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "ściśle tajny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-top-up",
+    "word": "top-up",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "dolewka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-torch",
+    "word": "torch",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "latarka",
+          "pochodnia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-torment",
+    "word": "torment",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "męka",
+          "udręka"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "męczyć",
+          "dręczyć"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tormentor",
+    "word": "tormentor",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "dręczyciel"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-torn",
+    "word": "torn",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "rozdarty"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tornado",
+    "word": "tornado",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "tornado"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-torpedo",
+    "word": "torpedo",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "torpeda"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "torpedować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-torrent",
+    "word": "torrent",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "potok"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-torso",
+    "word": "torso",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "tors"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tortoise",
+    "word": "tortoise",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "żółw"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tortoiseshell",
+    "word": "tortoiseshell",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "szylkret"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tortuous",
+    "word": "tortuous",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "kręty",
+          "zawiły"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-torture",
+    "word": "torture",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "tortura"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "torturować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-Tory",
+    "word": "Tory",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "torys"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-toss",
+    "word": "toss",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "rzucać się",
+          "rzucać",
+          "wstrząsać",
+          "przewracać",
+          "rzucać monetę",
+          "rzucać"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "szarpnięcie",
+          "rzucenie monetą",
+          "rzucenie"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "losować",
+          "rozstrzygać przez rzut monety",
+          "coś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tot",
+    "word": "tot",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "berbeć",
+          "dzidziuś",
+          "kieliszeczek"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-total",
+    "word": "total",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ogólna liczba"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "ogólny",
+          "całkowity",
+          "totalny"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "podliczać ogółem",
+          "wynosić ogółem",
+          "ogółem"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-totalitarian",
+    "word": "totalitarian",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "totalitarny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-totter",
+    "word": "totter",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zataczać się",
+          "chwiać się"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-touch",
+    "word": "touch",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "dotykać się",
+          "dotykać",
+          "stykać się",
+          "kontaktować się",
+          "poruszać",
+          "wzruszać"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "dotyk",
+          "akcent",
+          "podejście",
+          "odrobina",
+          "być w kontakcie z kimś",
+          "pozostawać w kontakcie z kimś",
+          "być w kontakcie",
+          "pozostawać w kontakcie",
+          "być na bieżąco z czymś",
+          "nie być na bieżąco z czymś",
+          "być na bieżąco",
+          "nie być na bieżąco",
+          "kontaktować się z kimś",
+          "tracić kontakt z kimś",
+          "tracić kontakt",
+          "w dotyku",
+          "na dotyk"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "lądować",
+          "wodować"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "poruszać",
+          "wspominać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-touchdown",
+    "word": "touchdown",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "lądowanie",
+          "wodowanie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-touching",
+    "word": "touching",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wzruszający",
+          "poruszający"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-touchy",
+    "word": "touchy",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "drażliwy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tough",
+    "word": "tough",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "twardy",
+          "ciężki"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-toughen",
+    "word": "toughen",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wzmacniać",
+          "utwardzać",
+          "twardnieć"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-toupee",
+    "word": "toupee",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "mała peruka",
+          "peruka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tour",
+    "word": "tour",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "podróż",
+          "objazd",
+          "wycieczka",
+          "zwiedzanie"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "objeżdżać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tourism",
+    "word": "tourism",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "turystyka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tourist",
+    "word": "tourist",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "turysta"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tournament",
+    "word": "tournament",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "turniej"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tousled",
+    "word": "tousled",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "rozczochrany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tout",
+    "word": "tout",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "reklamować",
+          "chodzić",
+          "za czymś"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "konik",
+          "sprzedawca biletów"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tow",
+    "word": "tow",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "holować"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "holowanie",
+          "hol",
+          "na holu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-toward",
+    "word": "towardtowards",
+    "trans": [
+      {
+        "gramGrp": "Prep",
+        "texts": [
+          "w kierunku",
+          "w stronę",
+          "wobec",
+          "pod",
+          "pod koniec września",
+          "w pobliżu",
+          "na",
+          "w celu",
+          "co do"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-towel",
+    "word": "towel",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ręcznik"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-towelling",
+    "word": "towelling",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "tkanina froté"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tower",
+    "word": "tower",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wieża"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "górować"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "wieżowiec"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-towering",
+    "word": "towering",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wyniosły"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-towpath",
+    "word": "towpath",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ścieżka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-towrope",
+    "word": "towrope",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "lina holownicza"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-toxic",
+    "word": "toxic",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "toksyczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-toy",
+    "word": "toy",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zabawka"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "bawić się",
+          "chodzić",
+          "koło czegoś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tr.",
+    "word": "tr.",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "tłum.",
+          "tłumaczony"
+        ]
+      },
+      {
+        "gramGrp": "",
+        "texts": [
+          "tłum.",
+          "tłumaczenie"
+        ]
+      },
+      {
+        "gramGrp": "",
+        "texts": [
+          "przechodni"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-trace",
+    "word": "trace",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wyśledzić",
+          "prześledzić",
+          "odbijać ",
+          "kopiować"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ślad"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tracing",
+    "word": "tracing",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kopia "
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-track",
+    "word": "track",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "szlak",
+          "tor",
+          "ścieżka",
+          "bieżnia",
+          "ślady",
+          "trop"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "tropić",
+          "wiedzieć, co się z kimś dzieje",
+          "nie wiedzieć, co się z kimś dzieje"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "wytropić"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tracker",
+    "word": "tracker",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "tropiciel"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tracksuit",
+    "word": "tracksuit",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "dres"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tract",
+    "word": "tract",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "traktat",
+          "obszar"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tractor",
+    "word": "tractor",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "traktor",
+          "podajnik"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-trade",
+    "word": "trade",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "handel",
+          "zawód",
+          "dziedzina"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "handlować",
+          "przehandlować",
+          "A na B"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "handlowy",
+          "firmowy",
+          "nazwa firmowa",
+          "z zawodu"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "handlować",
+          "czymś"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "nazwa firmowa"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "związek zawodowy"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "związkowiec",
+          "działacz związku zawodowego"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-trademark",
+    "word": "trademark",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "znak firmowy",
+          "cecha typowa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-trader",
+    "word": "trader",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "handlarz",
+          "kupiec"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tradesman",
+    "word": "tradesman",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "handlowiec"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tradition",
+    "word": "tradition",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "tradycja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-traditional",
+    "word": "traditional",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "tradycyjny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-traffic",
+    "word": "traffic",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "ruch drogowy",
+          "ruch",
+          "handel"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "handlować",
+          "czymś"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "światła drogowe"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tragedy",
+    "word": "tragedy",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "tragedia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tragic",
+    "word": "tragic",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "tragiczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-trail",
+    "word": "trail",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ścieżka",
+          "szlak",
+          "ślad",
+          "smuga"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "ciągnąć się",
+          "ciągnąć",
+          "wlec za sobą",
+          "wlec",
+          "tracić punkty",
+          "tracić"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-trailer",
+    "word": "trailer",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "przyczepa ",
+          "zapowiedź"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-train",
+    "word": "train",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pociąg",
+          "kolejka",
+          "tren"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "tresować",
+          "trenować",
+          "ćwiczyć",
+          "do czegoś",
+          "na coś",
+          "szkolić się",
+          "szkolić",
+          "na coś",
+          "jako coś",
+          "pociągiem",
+          "koleją"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-trained",
+    "word": "trained",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "szkolony",
+          "wykwalifikowany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-trainee",
+    "word": "trainee",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "praktykant"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-trainer",
+    "word": "trainer",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "trener",
+          "treser",
+          "trampki"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-traipse",
+    "word": "traipse",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "włóczyć się",
+          "ciągnąć się"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-trait",
+    "word": "trait",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "cecha"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-traitor",
+    "word": "traitor",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zdrajca"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tram",
+    "word": "tram",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "tramwaj"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tramp",
+    "word": "tramp",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "tramp",
+          "włóczęga"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wlec się",
+          "stąpać",
+          "po czymś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-trample",
+    "word": "trample",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "deptać",
+          "nadepnąć",
+          "na coś",
+          "zdeptywać",
+          "coś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-trampoline",
+    "word": "trampoline",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "trampolina"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-trance",
+    "word": "trance",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "trans"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tranquil",
+    "word": "tranquil",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "spokojny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-trans.",
+    "word": "trans.",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "tłum.",
+          "tłumaczony"
+        ]
+      },
+      {
+        "gramGrp": "",
+        "texts": [
+          "tłum.",
+          "tłumaczenie"
+        ]
+      },
+      {
+        "gramGrp": "",
+        "texts": [
+          "przechodni"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-transact",
+    "word": "transact",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "przeprowadzać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-transaction",
+    "word": "transaction",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "transakcja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-transcend",
+    "word": "transcend",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "przekraczać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-transcendental",
+    "word": "transcendental",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "transcendentny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-transcribe",
+    "word": "transcribe",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "transkrybować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-transcript",
+    "word": "transcript",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zapis",
+          "transkrypcja",
+          "odpis"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-transfer",
+    "word": "transfer",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "przenosić",
+          "na coś",
+          "przelać",
+          "przerzucać"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "przeniesienie",
+          "transfer",
+          "przelanie",
+          "kalkomania",
+          "naklejka samoprzylepna",
+          "naklejka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-transform",
+    "word": "transform",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "przekształcać",
+          "transformować",
+          "z A na B",
+          "z A w B"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-transformer",
+    "word": "transformer",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "transformator"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-transfuse",
+    "word": "transfuse",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "przetaczać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-transfusion",
+    "word": "transfusion",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "transfuzja",
+          "przetoczenie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-transient",
+    "word": "transient",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "efemeryczny",
+          "przelotny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-transistor",
+    "word": "transistor",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "tranzystor"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-transit",
+    "word": "transit",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "tranzyt",
+          "w tranzycie",
+          "przejazdem"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-transition",
+    "word": "transition",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "przejście",
+          "zmiana"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-transitive",
+    "word": "transitive",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "przechodni"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-transitory",
+    "word": "transitory",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "przejściowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-transl.",
+    "word": "transl.",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "tłum.",
+          "tłumaczony"
+        ]
+      },
+      {
+        "gramGrp": "",
+        "texts": [
+          "tłum.",
+          "tłumaczenie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-translate",
+    "word": "translate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "tłumaczyć",
+          "przekładać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-translation",
+    "word": "translation",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "tłumaczenie",
+          "przekład"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-translator",
+    "word": "translator",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "tłumacz"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-transmission",
+    "word": "transmission",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "przenoszenie",
+          "przesyłanie",
+          "transmisja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-transmit",
+    "word": "transmit",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "przesyłać",
+          "przenosić",
+          "na kogoś",
+          "transmitować",
+          "przekazywać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-transmitter",
+    "word": "transmitter",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "przekaźnik"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-transparency",
+    "word": "transparency",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "przezroczystość",
+          "przezrocze"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-transparent",
+    "word": "transparent",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "przezroczysty",
+          "przejrzysty",
+          "oczywisty"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-transpire",
+    "word": "transpire",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "okazywać się",
+          "zachodzić"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-transplant",
+    "word": "transplant",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "przeszczepiać",
+          "przesadzać kwiaty",
+          "przesadzać"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "przeszczep"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-transport",
+    "word": "transport",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "transport",
+          "przewóz",
+          "środek transportu"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "transportować",
+          "przewozić"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-transportation",
+    "word": "transportation",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "transport"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-transverse",
+    "word": "transverse",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "poprzeczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-transvestite",
+    "word": "transvestite",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "transwestyta"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-trap",
+    "word": "trap",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pułapka",
+          "potrzask"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "chwytać w potrzask",
+          "chwytać",
+          "zamknąć w pułapce",
+          "zamknąć",
+          "zwabiać",
+          "znęcać w pułapkę",
+          "znęcać",
+          "przechwytywać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-trapdoor",
+    "word": "trapdoor",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zapadnia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-trapeze",
+    "word": "trapeze",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "trapez"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-trapper",
+    "word": "trapper",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "traper"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-trappings",
+    "word": "trappings",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "atrybuty",
+          "ornamenty"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-trash",
+    "word": "trash",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "śmieci",
+          "szmira",
+          "kicz"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-trashcan",
+    "word": "trashcan",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kubeł na śmieci"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-trashy",
+    "word": "trashy",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "bezwartościowy",
+          "kiczowaty"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-trauma",
+    "word": "trauma",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "uraz",
+          "stres",
+          "cierpienie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-traumatic",
+    "word": "traumatic",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "traumatyczny",
+          "urazowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-travel",
+    "word": "travel",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "podróżować",
+          "jeździć",
+          "przenosić się",
+          "przenosić"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "podróż"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "biuro podróży"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "pracownik biura podróży"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-traverse",
+    "word": "traverse",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "przecinać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-travesty",
+    "word": "travesty",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "trawestacja",
+          "parodia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-trawler",
+    "word": "trawler",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "trawler"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tray",
+    "word": "tray",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "taca"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-treacherous",
+    "word": "treacherous",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "zdradliwy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-treachery",
+    "word": "treachery",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zdrada"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-treacle",
+    "word": "treacle",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "syrop"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tread",
+    "word": "tread",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "deptać",
+          "nadepnąć",
+          "wdeptywać",
+          "stąpać"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "stąpanie",
+          "bieżnik"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-treas.",
+    "word": "treas.",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "skarbnik"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-treason",
+    "word": "treason",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zdrada"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-treasure",
+    "word": "treasure",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "skarb"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "cenić"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-treasurer",
+    "word": "treasurer",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "skarbnik"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-treasury",
+    "word": "treasury",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "skarbnica",
+          "skarb państwa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-treat",
+    "word": "treat",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "traktować",
+          "leczyć",
+          "poddawać działaniu",
+          "nasycać",
+          "fundować",
+          "stawiać"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "szczególna uroczystość"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-treatise",
+    "word": "treatise",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "rozprawa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-treatment",
+    "word": "treatment",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "leczenie",
+          "terapia",
+          "traktowanie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-treaty",
+    "word": "treaty",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "traktat"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-treble",
+    "word": "treble",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "potrójny",
+          "sopranowy",
+          "wiolinowy",
+          "wysoki"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "sopran",
+          "dyszkant"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "potrajać się"
+        ]
+      },
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "trzykrotnie",
+          "trzy razy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tree",
+    "word": "tree",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "drzewo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-treetop",
+    "word": "treetop",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "korona drzewa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-trek",
+    "word": "trek",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "podróżować"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "podróż"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tremble",
+    "word": "tremble",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "drżeć"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tremendous",
+    "word": "tremendous",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "ogromny",
+          "niebywały"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tremor",
+    "word": "tremor",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "drżenie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-trench",
+    "word": "trench",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "rów",
+          "okop"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-trend",
+    "word": "trend",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "trend",
+          "tendencja",
+          "kierunek"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-trendy",
+    "word": "trendy",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "modny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-trepidation",
+    "word": "trepidation",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "przestrach",
+          "niepokój"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-trespass",
+    "word": "trespass",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wtargnąć",
+          "wchodzić",
+          "na czyjś grunt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-trespasser",
+    "word": "trespasser",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "człowiek naruszający cudzy teren",
+          "naruszający cudzy teren",
+          ",,Wstęp surowo wzbroniony''"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tress",
+    "word": "tress",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "warkocz"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-triangle",
+    "word": "triangle",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "trójkąt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-triangular",
+    "word": "triangular",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "trójkątny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tribal",
+    "word": "tribal",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "plemienny",
+          "szczepowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tribe",
+    "word": "tribe",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "plemię",
+          "szczep"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tribesman",
+    "word": "tribesman",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "członek szczepu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tribunal",
+    "word": "tribunal",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "trybunał"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tributary",
+    "word": "tributary",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "dopływ"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tribute",
+    "word": "tribute",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "hołd",
+          "danina"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-trice",
+    "word": "trice",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "w mgnieniu oka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-trick",
+    "word": "trick",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "oszukiwać",
+          "zwodzić"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "sztuczka",
+          "trik"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "trikowy",
+          "zwodniczy",
+          "zrobić komuś kawał",
+          "coś załatwia sprawę"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-trickery",
+    "word": "trickery",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "oszustwo",
+          "podstęp"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-trickle",
+    "word": "trickle",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "ciec strużką",
+          "ciec",
+          "sączyć się"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "strużka",
+          "wątły strumyczek",
+          "strumyczek"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tricky",
+    "word": "tricky",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "podstępny",
+          "podchwytliwy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-trifle",
+    "word": "trifle",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "drobiazg",
+          "bagatela",
+          "przekładaniec",
+          "ciasto biszkoptowe",
+          "nieco",
+          "odrobinę"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-trifling",
+    "word": "trifling",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieważny",
+          "nieznaczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-trigger",
+    "word": "trigger",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "język spustowy",
+          "cyngiel"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wywoływać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-trilogy",
+    "word": "trilogy",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "trylogia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-trimming",
+    "word": "trimming",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ozdóbka",
+          "przystrojenie",
+          "dodatki"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-trinket",
+    "word": "trinket",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "świecidełko",
+          "ozdóbka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-trio",
+    "word": "trio",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "trio"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-trip",
+    "word": "trip",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wycieczka",
+          "wyjazd",
+          "wyprawa",
+          "przeżycie"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "potykać się",
+          "podstawiać nogę",
+          "na wyjeździe",
+          "w podróży"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "podstawiać nogę",
+          "przewracać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tripartite",
+    "word": "tripartite",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "trójstronny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tripe",
+    "word": "tripe",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "flaki",
+          "szmira"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-triple",
+    "word": "triple",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "potrójny"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "potrajać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-triplets",
+    "word": "triplets",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "trojaczki"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tripod",
+    "word": "tripod",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "statyw"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-trite",
+    "word": "trite",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "banalny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-triumph",
+    "word": "triumph",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "triumf"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "triumfować",
+          "nad kimś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-triumphal",
+    "word": "triumphal",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "triumfalny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-trivia",
+    "word": "trivia",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "banały"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-trivial",
+    "word": "trivial",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nie znaczący",
+          "banalny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-trolley",
+    "word": "trolley",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wózek",
+          "barek ruchomy",
+          "barek",
+          "trolejbus",
+          "tramwaj",
+          "pantograf"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-trombone",
+    "word": "trombone",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "puzon"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-troop",
+    "word": "troop",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "oddział",
+          "wojsko"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "przegrupowywać się"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-trooper",
+    "word": "trooper",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "żołnierz"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-trophy",
+    "word": "trophy",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "trofeum"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tropic",
+    "word": "tropic",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zwrotnik",
+          "tropiki",
+          "tropik"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tropical",
+    "word": "tropical",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "tropikalny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-trot",
+    "word": "trot",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "kłusować"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "biec",
+          "kłus",
+          "bieg",
+          "pod rząd"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-trouble",
+    "word": "trouble",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "problem",
+          "kłopot",
+          "zmartwienie",
+          "konflikt",
+          "zaburzenie"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "martwić",
+          "niepokoić",
+          "kłopotać",
+          "mieć problemy",
+          "coś nie przedstawia żadnych problemów",
+          "kłopotać się zrobieniem czegoś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-troubled",
+    "word": "troubled",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "zmartwiony",
+          "zakłopotany",
+          "zaburzony",
+          "zachwiany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-troublemaker",
+    "word": "troublemaker",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "sprawca kłopotów"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-troublesome",
+    "word": "troublesome",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "kłopotliwy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-trough",
+    "word": "trough",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "koryto",
+          "spadek"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-troupe",
+    "word": "troupe",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "trupa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-trousers",
+    "word": "trousers",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "spodnie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-trout",
+    "word": "trout",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pstrąg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-trowel",
+    "word": "trowel",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "łopatka ogrodnicza",
+          "łopatka",
+          "kielnia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-truancy",
+    "word": "truancy",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wagary"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-truant",
+    "word": "truant",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wagarowicz",
+          "chodzić na wagary"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-truce",
+    "word": "truce",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "rozejm"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-truck",
+    "word": "truck",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ciężarówka",
+          "wagon towarowy",
+          "lora"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-truculent",
+    "word": "truculent",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wojowniczy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-trudge",
+    "word": "trudge",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "iść z trudem",
+          "stąpać z trudem"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ciężki marsz"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-true",
+    "word": "true",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "prawdziwy",
+          "równy",
+          "wierny",
+          "spełniać się"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-truffle",
+    "word": "truffle",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "trufel"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-truly",
+    "word": "truly",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "naprawdę",
+          ",,Z poważaniem''"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-trump",
+    "word": "trump",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "atut"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-trumpet",
+    "word": "trumpet",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "trąbka"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "trąbić"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-trumpeter",
+    "word": "trumpeter",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "trębacz"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-truncate",
+    "word": "truncate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "obcinać",
+          "okaleczać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-truncheon",
+    "word": "truncheon",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pałka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-trundle",
+    "word": "trundle",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "toczyć się",
+          "toczyć"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-trunk",
+    "word": "trunk",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pień",
+          "tułów",
+          "trąba",
+          "kufer",
+          "bagażnik",
+          "kąpielówki"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-trust",
+    "word": "trust",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wierzyć",
+          "wierzyć",
+          "że ktoś coś zrobi",
+          "zaufać",
+          "komuś",
+          "powierzyć",
+          "komuś coś",
+          "mieć zaufanie",
+          "do czegoś"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zaufanie",
+          "trust"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-trustee",
+    "word": "trustee",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "powiernik",
+          "zarządca"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-trustful",
+    "word": "trustful",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "ufny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-trusting",
+    "word": "trusting",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "ufny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-trustworthy",
+    "word": "trustworthy",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "godny zaufania"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-trusty",
+    "word": "trusty",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "zaufany",
+          "ulubiony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-truth",
+    "word": "truth",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "prawda"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-truthful",
+    "word": "truthful",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "prawdziwy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-try",
+    "word": "try",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "próbować",
+          "wypróbowywać",
+          "starać się",
+          "o coś",
+          "sądzić",
+          "kogoś",
+          "kogoś za coś"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "próba"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "próbować",
+          "przymierzać"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "wypróbowywać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-trying",
+    "word": "trying",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "dojmujący",
+          "ciężki"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-T-shirt",
+    "word": "T-shirt",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "koszulka trykotowa",
+          "podkoszulka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-TU",
+    "word": "TU",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "związek zawodowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-Tu.",
+    "word": "Tu.",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "wtorek"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tub",
+    "word": "tub",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kadź",
+          "zbiornik",
+          "wanna"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tuba",
+    "word": "tuba",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "tuba"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tubby",
+    "word": "tubby",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "przysadzisty"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tube",
+    "word": "tube",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "rura",
+          "przewód",
+          "tubka",
+          "metro",
+          "dętka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tuber",
+    "word": "tuber",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "bulwa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tubercular",
+    "word": "tubercular",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "gruźliczy"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "gruźlik"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tuberculosis",
+    "word": "tuberculosis",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "gruźlica"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tubing",
+    "word": "tubing",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "rury",
+          "system rur"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tubular",
+    "word": "tubular",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "rurkowy",
+          "rurowaty"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tuck",
+    "word": "tuck",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wpychać",
+          "wsadzać"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "fałda"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "odkładać",
+          "chować"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "opatulać",
+          "zawijać",
+          "wpychać do środka",
+          "napychać się"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "opatulać",
+          "zawijać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-Tues.",
+    "word": "Tues.",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "wtorek"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-Tuesday",
+    "word": "Tuesday",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wtorek"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tuft",
+    "word": "tuft",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kępka",
+          "pęczek"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tug",
+    "word": "tug",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "ciągnąć",
+          "za coś"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pociągnięcie",
+          "holownik"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tuition",
+    "word": "tuition",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "nauka",
+          "czesne"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tulip",
+    "word": "tulip",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "tulipan"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tumbler",
+    "word": "tumbler",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "szklanka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tummy",
+    "word": "tummy",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "brzuszek"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tumour",
+    "word": "tumourtumor",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "guz",
+          "nowotwór"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tumult",
+    "word": "tumult",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wrzawa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tuna",
+    "word": "tunatuna fish",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "tuńczyk"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tuneful",
+    "word": "tuneful",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "melodyjny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tunic",
+    "word": "tunic",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "bluza",
+          "góra "
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-Tunisia",
+    "word": "Tunisia",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Tunezja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-Tunisian",
+    "word": "Tunisian",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "tunezyjski"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Tunezyjczyk"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tunnel",
+    "word": "tunnel",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "tunel"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "drążyć tunel"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-turban",
+    "word": "turban",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "turban"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-turbine",
+    "word": "turbine",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "turbina"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-turbulent",
+    "word": "turbulent",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "burzliwy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-turf",
+    "word": "turf",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "darń",
+          "murawa"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "pokrywać darnią"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "wyrzucać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-turgid",
+    "word": "turgid",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "napuszony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-Turk",
+    "word": "Turk",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Turek"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-Turkey",
+    "word": "Turkey",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Turcja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-turkey",
+    "word": "turkey",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "indyk"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-Turkish",
+    "word": "Turkish",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "turecki"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-turmoil",
+    "word": "turmoil",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "niepokój"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-turning",
+    "word": "turning",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "przecznica"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "punkt zwrotny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-turnip",
+    "word": "turnip",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "rzepa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-turnout",
+    "word": "turnout",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "frekwencja",
+          "publiczność"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-turnover",
+    "word": "turnover",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "fluktuacja kadr",
+          "fluktuacja",
+          "obrót",
+          "przerób"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-turntable",
+    "word": "turntable",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "talerz gramofonu",
+          "talerz"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-turn-up",
+    "word": "turn-up",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "mankiet"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-turpentine",
+    "word": "turpentine",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "terpentyna"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-turquoise",
+    "word": "turquoise",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "turkusowy"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "turkus"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-turret",
+    "word": "turret",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wieżyczka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-turtle",
+    "word": "turtle",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "żółw"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-turtleneck",
+    "word": "turtleneck",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "golf",
+          "półgolf"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tusk",
+    "word": "tusk",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kieł"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tussle",
+    "word": "tussle",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "szamotać się",
+          "szarpać się"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "szamotanina",
+          "szarpanina"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tut",
+    "word": "tut",
+    "trans": [
+      {
+        "gramGrp": "Inter",
+        "texts": [
+          "no no"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tutor",
+    "word": "tutor",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "nauczyciel",
+          "korepetytor"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "uczyć",
+          "dawać korepetycje",
+          "prowadzić seminarium"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tutorial",
+    "word": "tutorial",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "seminarium"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "seminaryjny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tuxedo",
+    "word": "tuxedo",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "smoking"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-TV",
+    "word": "TV",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "TV",
+          "w telewizji"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-twaddle",
+    "word": "twaddle",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "bzdury"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-twang",
+    "word": "twang",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "brzęk",
+          "brzęknięcie"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "brzęczeć",
+          "brzdąkać",
+          "czymś",
+          "w coś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tweed",
+    "word": "tweed",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "tweed"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tweet",
+    "word": "tweet",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "ćwierkać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tweezers",
+    "word": "tweezers",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pinceta"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-twelfth",
+    "word": "twelfth",
+    "trans": [
+      {
+        "gramGrp": "Num",
+        "texts": [
+          "dwunasty"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-twelve",
+    "word": "twelve",
+    "trans": [
+      {
+        "gramGrp": "Num",
+        "texts": [
+          "dwanaście"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-twentieth",
+    "word": "twentieth",
+    "trans": [
+      {
+        "gramGrp": "Num",
+        "texts": [
+          "dwudziesty"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-twenty",
+    "word": "twenty",
+    "trans": [
+      {
+        "gramGrp": "Num",
+        "texts": [
+          "dwadzieścia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-twice",
+    "word": "twice",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "dwa razy",
+          "dwukrotnie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-twiddle",
+    "word": "twiddle",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "kręcić",
+          "obracać",
+          "czymś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-twig",
+    "word": "twig",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "gałązka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-twilight",
+    "word": "twilight",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zmierzch",
+          "zmrok"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-twin",
+    "word": "twin",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "bliźniak"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "bliźniaczy",
+          "podwójny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-twine",
+    "word": "twine",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "sznur",
+          "linka"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "okręcać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-twinge",
+    "word": "twinge",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "szarpiący ból",
+          "uczucie",
+          "odczucie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-twinkle",
+    "word": "twinkle",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "mrugać",
+          "migotać"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "migotanie",
+          "błysk"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-twirl",
+    "word": "twirl",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "kręcić się",
+          "kręcić",
+          "obracać się",
+          "obracać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-twist",
+    "word": "twist",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wykręcać się",
+          "wykręcać",
+          "obracać się",
+          "obracać",
+          "odkręcać",
+          "nakręcać",
+          "wić się"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "obrót",
+          "skręt",
+          "wykręcenie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-twit",
+    "word": "twit",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "dureń"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-twitch",
+    "word": "twitch",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "tik",
+          "skurcz"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "drgać",
+          "szarpać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-twitter",
+    "word": "twitter",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "ćwierkać",
+          "świergotać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-two",
+    "word": "two",
+    "trans": [
+      {
+        "gramGrp": "Num",
+        "texts": [
+          "dwa",
+          "na dwoje"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-two-faced",
+    "word": "two-faced",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "dwulicowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-two-way",
+    "word": "two-way",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "dwustronny",
+          "nadawczo-odbiorczy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tycoon",
+    "word": "tycoon",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "magnat"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-type",
+    "word": "type",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "rodzaj",
+          "typ",
+          "druk",
+          "czcionka"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "pisać na maszynie",
+          "pisać",
+          "drukować",
+          "wpisywać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-typecast",
+    "word": "typecast",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "grać zawsze ten sam typ postaci"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-typewriter",
+    "word": "typewriter",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "maszyna do pisania"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-typewritten",
+    "word": "typewritten",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "napisane na maszynie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-typhoid",
+    "word": "typhoid",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "tyfus",
+          "dur brzuszny",
+          "dur"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-typhoon",
+    "word": "typhoon",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "tajfun"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-typhus",
+    "word": "typhus",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "tyfus",
+          "dur plamisty"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-typical",
+    "word": "typical",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "typowy",
+          "dla czegoś",
+          "charakterystyczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-typically",
+    "word": "typically",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "zazwyczaj",
+          "typowo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-typify",
+    "word": "typify",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "uosabiać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-typist",
+    "word": "typist",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "maszynistka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tyrannical",
+    "word": "tyrannical",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "tyrański"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tyranny",
+    "word": "tyranny",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "tyrania"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tyrant",
+    "word": "tyrant",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "tyran"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-tyre",
+    "word": "tyretire",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "opona"
+        ]
+      }
+    ]
+  }
+]

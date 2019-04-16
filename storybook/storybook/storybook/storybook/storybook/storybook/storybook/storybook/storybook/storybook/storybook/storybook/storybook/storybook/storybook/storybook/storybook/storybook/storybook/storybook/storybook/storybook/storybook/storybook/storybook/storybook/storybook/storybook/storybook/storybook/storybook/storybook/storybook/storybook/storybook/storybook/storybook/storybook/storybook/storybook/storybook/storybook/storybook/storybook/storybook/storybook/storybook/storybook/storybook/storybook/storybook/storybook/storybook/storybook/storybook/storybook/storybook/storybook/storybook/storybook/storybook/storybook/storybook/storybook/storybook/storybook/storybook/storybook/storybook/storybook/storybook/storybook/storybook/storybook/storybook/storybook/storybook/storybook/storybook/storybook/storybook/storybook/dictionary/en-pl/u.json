@@ -1,0 +1,4610 @@
+[
+  {
+    "id": "u-ubiquitous",
+    "word": "ubiquitous",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wszechobecny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-udder",
+    "word": "udder",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wymię"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-Uganda",
+    "word": "Uganda",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Uganda"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-Ugandan",
+    "word": "Ugandan",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "ugandyjski"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Ugandyjczyk"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-ugly",
+    "word": "ugly",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "brzydki",
+          "paskudny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-Ukrainian",
+    "word": "Ukrainian",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "ukraiński"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Ukrainiec"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-ulcer",
+    "word": "ulcer",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wrzód"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-ult.",
+    "word": "ult.ultimo",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "ubiegłego miesiąca"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-ulterior",
+    "word": "ulterior",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "dalszy",
+          "ukryty motyw"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-ultimate",
+    "word": "ultimate",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "ostateczny",
+          "najwyższy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-ultimately",
+    "word": "ultimately",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "ostatecznie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-ultimatum",
+    "word": "ultimatum",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ultimatum"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-ultraviolet",
+    "word": "ultraviolet",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "ultrafioletowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-umbilical_cord",
+    "word": "umbilical cord",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pępowina"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-umbrella",
+    "word": "umbrella",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "parasol"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-umpire",
+    "word": "umpire",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "sędzia"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "sędziować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-umpteen",
+    "word": "umpteen",
+    "trans": [
+      {
+        "gramGrp": "Num",
+        "texts": [
+          "tysiąc",
+          "niezliczona ilość"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-UN",
+    "word": "UN",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "ONZ"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unabashed",
+    "word": "unabashed",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nie zbity z tropu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unabated",
+    "word": "unabated",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nie słabnący",
+          "niezmniejszony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unable",
+    "word": "unable",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "nie potrafić zrobić czegoś",
+          "nie móc zrobić czegoś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unacceptable",
+    "word": "unacceptable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nie do przyjęcia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unaccompanied",
+    "word": "unaccompanied",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "bez opieki",
+          "bez towarzyszenia instrumentu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unaccountable",
+    "word": "unaccountable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nie wyjaśniony",
+          "nie do wyjaśnienia",
+          "niewytłumaczalny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unaccustomed",
+    "word": "unaccustomed",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieprzywykły",
+          "niezwyczajny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unanimous",
+    "word": "unanimous",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "jednogłośny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unarmed",
+    "word": "unarmed",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieuzbrojony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unassuming",
+    "word": "unassuming",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "bezpretensjonalny",
+          "skromny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unattached",
+    "word": "unattached",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nie związany",
+          "z czymś",
+          "samotny",
+          "nie związany małżeństwem"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unattended",
+    "word": "unattended",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "bez opieki"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unauthorized",
+    "word": "unauthorized",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieupoważniony",
+          "bez upoważnienia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unavoidable",
+    "word": "unavoidable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nie do uniknięcia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unaware",
+    "word": "unaware",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "być nieświadomym czegoś",
+          "nie zdawać sobie sprawy z czegoś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unawares",
+    "word": "unawares",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "zastawać kogoś nieprzygotowanym"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unbearable",
+    "word": "unbearable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nie do zniesienia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unbeatable",
+    "word": "unbeatable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nie do pokonania",
+          "nie do prześcignięcia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unbelievable",
+    "word": "unbelievable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niewiarygodny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unborn",
+    "word": "unborn",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nienarodzony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unbounded",
+    "word": "unbounded",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "bezgraniczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unbroken",
+    "word": "unbroken",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "bez zakłóceń",
+          "bez przerwy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unbutton",
+    "word": "unbutton",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "rozpinać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-uncalled-for",
+    "word": "uncalled-for",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieproszony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-uncanny",
+    "word": "uncanny",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "zadziwiający",
+          "zagadkowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unceasing",
+    "word": "unceasing",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieustanny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unceremonious",
+    "word": "unceremonious",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "bezceremonialny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-uncertain",
+    "word": "uncertain",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niepewny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-uncertainty",
+    "word": "uncertainty",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "niepewność",
+          "wątpliwość"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unchallenged",
+    "word": "unchallenged",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niekwestionowalny",
+          "niekwestionowany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unchecked",
+    "word": "unchecked",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niepohamowany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-uncivilized",
+    "word": "uncivilizeduncivilised",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "barbarzyński",
+          "nieludzki"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-uncle",
+    "word": "uncle",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wujek",
+          "wuj",
+          "stryjek",
+          "stryj"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unclear",
+    "word": "unclear",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niejasny",
+          "nie wiedzieć czegoś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-uncomfortable",
+    "word": "uncomfortable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niewygodny",
+          "niepewny",
+          "źle się czujący"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-uncommitted",
+    "word": "uncommitted",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "neutralny",
+          "niezaangażowany",
+          "nie związany",
+          "z czymś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-uncommon",
+    "word": "uncommon",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niepospolity",
+          "rzadki"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-uncomprehending",
+    "word": "uncomprehending",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nie pojmujący"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-uncompromising",
+    "word": "uncompromising",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "bezkompromisowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unconcerned",
+    "word": "unconcerned",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niezainteresowany",
+          "nie troszczący się"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unconditional",
+    "word": "unconditional",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "bezwarunkowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unconscious",
+    "word": "unconscious",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieprzytomny",
+          "nie zdający sobie sprawy",
+          "z czegoś",
+          "podświadomy"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "podświadomość"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-uncontrolled",
+    "word": "uncontrolled",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niekontrolowany",
+          "niepowstrzymany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-uncork",
+    "word": "uncork",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "odkorkować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-uncountable",
+    "word": "uncountable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niepoliczalny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-uncouth",
+    "word": "uncouth",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieokrzesany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-uncover",
+    "word": "uncover",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "odkrywać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-undaunted",
+    "word": "undaunted",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niezastraszony",
+          "nie powstrzymany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-undecided",
+    "word": "undecided",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niezdecydowany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-undeniable",
+    "word": "undeniable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niezaprzeczalny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-undercarriage",
+    "word": "undercarriage",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "podwozie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-underclothes",
+    "word": "underclothes",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "bielizna"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-undercover",
+    "word": "undercover",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "tajny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-undercurrent",
+    "word": "undercurrent",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ukryty nurt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-undercut",
+    "word": "undercut",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "sprzedawać taniej",
+          "niż ktoś",
+          "podcinać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-underdeveloped",
+    "word": "underdeveloped",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "słabo rozwinięty"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-underdog",
+    "word": "underdog",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "słabsza strona"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-underdone",
+    "word": "underdone",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niedopieczony",
+          "niedogotowany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-underestimate",
+    "word": "underestimate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "niedoceniać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-underfed",
+    "word": "underfed",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niedożywiony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-underfoot",
+    "word": "underfoot",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "pod stopami",
+          "pod nogami"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-undergo",
+    "word": "undergo",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "przechodzić",
+          "poddawać się"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-undergraduate",
+    "word": "undergraduate",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "student"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-underground",
+    "word": "underground",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "podziemny",
+          "w podziemiu",
+          "metro"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-undergrowth",
+    "word": "undergrowth",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "poszycie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-underhand",
+    "word": "underhand",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "potajemny",
+          "skryty"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-underlie",
+    "word": "underlie",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "znajdować się u podstaw"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-underline",
+    "word": "underline",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "podkreślać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-underling",
+    "word": "underling",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "podwładny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-undermine",
+    "word": "undermine",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "podkopywać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-underneath",
+    "word": "underneath",
+    "trans": [
+      {
+        "gramGrp": "Prep",
+        "texts": [
+          "pod"
+        ]
+      },
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "pod spodem"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "dolny",
+          "spodni"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "spód"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-underpaid",
+    "word": "underpaid",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niedopłacany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-underpants",
+    "word": "underpants",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "majtki",
+          "kalesony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-underpass",
+    "word": "underpass",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "przejście podziemne",
+          "przejazd"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-underprivileged",
+    "word": "underprivileged",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "upośledzony",
+          "nie mający przywilejów"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-underrate",
+    "word": "underrate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "nie doceniać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-undershirt",
+    "word": "undershirt",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "podkoszulek",
+          "koszulka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-underside",
+    "word": "underside",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "spód"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-understaffed",
+    "word": "understaffed",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "mieć za mało personelu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-understand",
+    "word": "understand",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "rozumieć",
+          "pojmować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-understandable",
+    "word": "understandable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "zrozumiały"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-understanding",
+    "word": "understanding",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "rozumienie",
+          "pojmowanie",
+          "zrozumienie",
+          "zgoda",
+          "porozumienie"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wyrozumiały"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-understatement",
+    "word": "understatement",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "niedomówienie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-understudy",
+    "word": "understudy",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "dubler"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-undertake",
+    "word": "undertake",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "podejmować się",
+          "zobowiązywać się",
+          "do czegoś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-undertaker",
+    "word": "undertaker",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "przedsiębiorca pogrzebowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-undertaking",
+    "word": "undertaking",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "przedsięwzięcie",
+          "zobowiązanie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-undertone",
+    "word": "undertone",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "nuta",
+          "odcień",
+          "półgłosem"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-undervalue",
+    "word": "undervalue",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "niedoceniać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-underwater",
+    "word": "underwater",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "podwodny",
+          "podmorski"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-underway",
+    "word": "underway",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "być w trakcie",
+          "trwać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-underwear",
+    "word": "underwear",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "bielizna"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-underweight",
+    "word": "underweight",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "niedowaga"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-underworld",
+    "word": "underworld",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "podziemie",
+          "świat przestępczy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-underwriter",
+    "word": "underwriter",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "agent ubezpieczeniowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-undesirable",
+    "word": "undesirable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niepożądany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-undies",
+    "word": "undies",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "bielizna"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-undo",
+    "word": "undo",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "rozwiązywać",
+          "rozpinać",
+          "niszczyć",
+          "zaprzeczać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-undoing",
+    "word": "undoing",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "klęska",
+          "ruina"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-undone",
+    "word": "undone",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "rozwiązany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-undoubted",
+    "word": "undoubted",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niezaprzeczalny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-undress",
+    "word": "undress",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "rozbierać się",
+          "rozbierać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-undue",
+    "word": "undue",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nadmierny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-undulate",
+    "word": "undulate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "falować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unduly",
+    "word": "unduly",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "nadmiernie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unearth",
+    "word": "unearth",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "odkopywać",
+          "wydobywać na światło dzienne"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unearthly",
+    "word": "unearthly",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieziemski",
+          "nieludzki"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unease",
+    "word": "unease",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "niepokój"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-uneasy",
+    "word": "uneasy",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niespokojny",
+          "niepewny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unemployed",
+    "word": "unemployed",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "bezrobotny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unemployment",
+    "word": "unemployment",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "bezrobocie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unending",
+    "word": "unending",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nie kończący się"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unequivocal",
+    "word": "unequivocal",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niedwuznaczny",
+          "jasny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unerring",
+    "word": "unerring",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieomylny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-uneven",
+    "word": "uneven",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nierówny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-uneventful",
+    "word": "uneventful",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "jednostajny",
+          "bez wydarzeń"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unexpected",
+    "word": "unexpected",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niespodziewany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unfailing",
+    "word": "unfailing",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niezawodny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unfair",
+    "word": "unfair",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niesprawiedliwy",
+          "wobec kogoś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unfaithful",
+    "word": "unfaithful",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niewierny",
+          "wobec kogoś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unfamiliar",
+    "word": "unfamiliar",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieznajomy",
+          "nie zaznajomiony",
+          "z czymś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unfasten",
+    "word": "unfasten",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "rozpinać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unfavourable",
+    "word": "unfavourableunfavorable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niekorzystny",
+          "nie sprzyjający"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unfeeling",
+    "word": "unfeeling",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieczuły"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unfit",
+    "word": "unfit",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nie w formie",
+          "niezdatny",
+          "do czegoś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unfold",
+    "word": "unfold",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "rozwijać się",
+          "rozwijać",
+          "odsłaniać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unforeseen",
+    "word": "unforeseen",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieprzewidziany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unforgettable",
+    "word": "unforgettable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niezapomniany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unforgivable",
+    "word": "unforgivable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niewybaczalny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unfortunate",
+    "word": "unfortunate",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieszczęśliwy",
+          "nie mający powodzenia",
+          "nieszczęsny",
+          "niedobry"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unfounded",
+    "word": "unfounded",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "bezpodstawny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unfriendly",
+    "word": "unfriendly",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieprzyjazny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unfurnished",
+    "word": "unfurnished",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nie umeblowany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-ungainly",
+    "word": "ungainly",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niezgrabny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unhappy",
+    "word": "unhappy",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieszczęśliwy",
+          "niezadowolony",
+          "z czegoś",
+          "nieszczęsny",
+          "pożałowania godny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unharmed",
+    "word": "unharmed",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nienaruszony",
+          "bez uszczerbku"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unhealthy",
+    "word": "unhealthy",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niezdrowy",
+          "chorobliwy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unheard-of",
+    "word": "unheard-of",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niesłychany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-UNICEF",
+    "word": "UNICEF",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "Fundusz Narodów Zjednoczonych Pomocy Dzieciom"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unicorn",
+    "word": "unicorn",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "jednorożec"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unification",
+    "word": "unification",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zjednoczenie",
+          "unifikacja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-uniform",
+    "word": "uniform",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "mundur"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "jednolity"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-uniformity",
+    "word": "uniformity",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ujednolicenie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unify",
+    "word": "unify",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "jednoczyć",
+          "unifikować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unilateral",
+    "word": "unilateral",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "jednostronny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-uninhabitable",
+    "word": "uninhabitable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nie nadający się do zamieszkania"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-uninhabited",
+    "word": "uninhabited",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niezamieszkany",
+          "niezamieszkały"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unique",
+    "word": "unique",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "unikalny",
+          "unikatowy",
+          "wyłączny",
+          "ograniczony",
+          "do czegoś",
+          "wyjątkowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unisex",
+    "word": "unisex",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "obupłciowy",
+          "dla obu płci"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unison",
+    "word": "unison",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "zgodnie",
+          "unisono"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unit",
+    "word": "unit",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "jednostka",
+          "całość",
+          "grupa",
+          "zespół"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-Unitarian",
+    "word": "Unitarian",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "unitariański"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "unitarianin"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unite",
+    "word": "unite",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "jednoczyć się",
+          "jednoczyć"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unity",
+    "word": "unity",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "jedność"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-univ.",
+    "word": "univ.",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "uniwersytet"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-universal",
+    "word": "universal",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "powszechny",
+          "uniwersalny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-universe",
+    "word": "universe",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "wszechświat"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-university",
+    "word": "university",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "uniwersytet"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unjust",
+    "word": "unjust",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niesprawiedliwy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unjustified",
+    "word": "unjustified",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niezrozumiały",
+          "nieuzasadniony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unkempt",
+    "word": "unkempt",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "źle utrzymany",
+          "rozczochrany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unkind",
+    "word": "unkind",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niedobry",
+          "okrutny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unknown",
+    "word": "unknown",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieznany",
+          "nieznajomy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unlawful",
+    "word": "unlawful",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "bezprawny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unleaded",
+    "word": "unleaded",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "bezołowiowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unleash",
+    "word": "unleash",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "uwalniać",
+          "spuszczać ze smyczy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unless",
+    "word": "unless",
+    "trans": [
+      {
+        "gramGrp": "Conj",
+        "texts": [
+          "jeżeli nie",
+          "o ile nie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unlike",
+    "word": "unlike",
+    "trans": [
+      {
+        "gramGrp": "Prep",
+        "texts": [
+          "w przeciwieństwie do",
+          "w odróżnieniu od"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niepodobny",
+          "do kogoś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unlikely",
+    "word": "unlikely",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieprawdopodobny",
+          "mało prawdopodobny",
+          "jest mało prawdopodobne",
+          "że coś się skończy",
+          "że coś się"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unlit",
+    "word": "unlit",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niezapalony",
+          "nieoświetlony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unload",
+    "word": "unload",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wyładowywać",
+          "pozbywać się",
+          "czegoś wobec kogoś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unlock",
+    "word": "unlock",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "otwierać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unlucky",
+    "word": "unlucky",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "pechowy",
+          "nie mieć szczęścia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unmade",
+    "word": "unmade",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieposłany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unmarked",
+    "word": "unmarked",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieoznaczony",
+          "nieruszony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unmistakable",
+    "word": "unmistakable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "łatwy do poznania",
+          "niewątpliwy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unmitigated",
+    "word": "unmitigated",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niepoprawny",
+          "całkowity"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unnecessary",
+    "word": "unnecessary",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "zbędny",
+          "niepotrzebny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unnerve",
+    "word": "unnerve",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "odbierać odwagę"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unnoticed",
+    "word": "unnoticed",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niezauważony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-UNO",
+    "word": "UNO",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "ONZ"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unobtrusive",
+    "word": "unobtrusive",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nie narzucający się"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unofficial",
+    "word": "unofficial",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieoficjalny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unorthodox",
+    "word": "unorthodox",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieortodoksyjny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unpack",
+    "word": "unpack",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "rozpakowywać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unpaid",
+    "word": "unpaid",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "bezpłatny",
+          "niezapłacony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unpalatable",
+    "word": "unpalatable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nie do przełknięcia",
+          "nie do przyjęcia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unparalleled",
+    "word": "unparalleled",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niezrównany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unpleasant",
+    "word": "unpleasant",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieprzyjemny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unplug",
+    "word": "unplug",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wyłączać z sieci",
+          "wyłączać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unprecedented",
+    "word": "unprecedented",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "bezprecedensowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unpredictable",
+    "word": "unpredictable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nie do przewidzenia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unprofitable",
+    "word": "unprofitable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niezyskowny",
+          "niedochodowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unqualified",
+    "word": "unqualified",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niewykwalifikowany",
+          "bez kwalifikacji",
+          "kompletny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unquestionable",
+    "word": "unquestionable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niekwestionowany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unravel",
+    "word": "unravel",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "rozplątywać się",
+          "rozplątywać",
+          "rozwikływać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unreal",
+    "word": "unreal",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nierealny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unrealistic",
+    "word": "unrealistic",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nierealistyczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unreasonable",
+    "word": "unreasonable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nierozsądny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unrecognizable",
+    "word": "unrecognizableunrecognisable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nierozpoznawalny",
+          "nie do odróżnienia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unrelated",
+    "word": "unrelated",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nie związany",
+          "z czymś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unrelenting",
+    "word": "unrelenting",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieustanny",
+          "bez skrupułów"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unreliable",
+    "word": "unreliable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieodpowiedzialny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unremitting",
+    "word": "unremitting",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieustanny",
+          "niestrudzony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unreserved",
+    "word": "unreserved",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "całkowity",
+          "bez zastrzeżeń"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unrest",
+    "word": "unrest",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "niepokój"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unrewarding",
+    "word": "unrewarding",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nie dający satysfakcji"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unripe",
+    "word": "unripe",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niedojrzały"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unrivalled",
+    "word": "unrivalled",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niezrównany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unroll",
+    "word": "unroll",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "rozwijać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unruly",
+    "word": "unruly",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieposłuszny",
+          "niesforny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unsafe",
+    "word": "unsafe",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niebezpieczny",
+          "niepewny",
+          "zagrożony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unsatisfactory",
+    "word": "unsatisfactory",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niezadowalający"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unsavoury",
+    "word": "unsavouryunsavory",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "odrażający"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unscathed",
+    "word": "unscathed",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nie draśnięty"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unscrew",
+    "word": "unscrew",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "odkręcać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unscrupulous",
+    "word": "unscrupulous",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "bez skrupułów"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unseen",
+    "word": "unseen",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nie widziany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unsettled",
+    "word": "unsettled",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieustabilizowany",
+          "rozkojarzony",
+          "nierozstrzygnięty"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unshakable",
+    "word": "unshakable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niezachwiany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unshaven",
+    "word": "unshaven",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieogolony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unsightly",
+    "word": "unsightly",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieładny",
+          "mało atrakcyjny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unskilled",
+    "word": "unskilled",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niewykwalifikowany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unsophisticated",
+    "word": "unsophisticated",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieskomplikowany",
+          "prosty",
+          "niewyrafinowany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unsound",
+    "word": "unsound",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "błędny",
+          "zagrożony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unspeakable",
+    "word": "unspeakable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niewypowiedziany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unspecified",
+    "word": "unspecified",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niewyszczególniony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unstable",
+    "word": "unstable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niestabilny",
+          "źle przymocowany",
+          "rozchwiany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unsteady",
+    "word": "unsteady",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niepewny",
+          "roztrzęsiony",
+          "niestabilny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unsuccessful",
+    "word": "unsuccessful",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieudany",
+          "bezowocny",
+          "bez powodzenia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unsuitable",
+    "word": "unsuitable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieodpowiedni",
+          "do czegoś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unsuited",
+    "word": "unsuited",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieodpowiedni",
+          "do czegoś",
+          "do czegoś",
+          "niedobrany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unsure",
+    "word": "unsure",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niepewny",
+          "czegoś",
+          "czegoś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unsympathetic",
+    "word": "unsympathetic",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieczuły",
+          "nie współczujący"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-untangle",
+    "word": "untangle",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "rozplątywać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-untapped",
+    "word": "untapped",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nienaruszony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-untenable",
+    "word": "untenable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nie do obrony",
+          "nie do utrzymania"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unthinkable",
+    "word": "unthinkable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nie do pomyślenia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-untidy",
+    "word": "untidy",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niechlujny",
+          "zaniedbany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-untie",
+    "word": "untie",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "rozwiązywać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-until",
+    "word": "until",
+    "trans": [
+      {
+        "gramGrp": "Prep",
+        "texts": [
+          "aż do",
+          "do"
+        ]
+      },
+      {
+        "gramGrp": "Conj",
+        "texts": [
+          "dopóki"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-untimely",
+    "word": "untimely",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "przedwczesny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-untold",
+    "word": "untold",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niewypowiedziany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-untoward",
+    "word": "untoward",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niekorzystny",
+          "niedobry"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-untranslatable",
+    "word": "untranslatable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieprzetłumaczalny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-untreated",
+    "word": "untreated",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieleczony",
+          "nieoczyszczony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unused",
+    "word": "unused",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieużywany"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieprzywykły",
+          "do czegoś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unusual",
+    "word": "unusual",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niezwykły"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unusually",
+    "word": "unusually",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "niezwykle",
+          "co niezwykłe"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unveil",
+    "word": "unveil",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "odsłonić",
+          "ukazać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unwary",
+    "word": "unwary",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieostrożny",
+          "nie spodziewający się niczego złego",
+          "nie spodziewający się"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unwelcome",
+    "word": "unwelcome",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieproszony",
+          "niepożądany",
+          "przykry"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unwell",
+    "word": "unwell",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "chory",
+          "niedysponowany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unwieldy",
+    "word": "unwieldy",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieporęczny",
+          "niemrawy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unwilling",
+    "word": "unwilling",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niechętny",
+          "aby coś zrobić"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unwind",
+    "word": "unwind",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "odprężyć się",
+          "rozwijać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unwise",
+    "word": "unwise",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niemądry"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unwitting",
+    "word": "unwitting",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "bezwolny",
+          "nieświadomy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unworkable",
+    "word": "unworkable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niepraktyczny",
+          "nie do przeprowadzenia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unworthy",
+    "word": "unworthy",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niegodny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unwrap",
+    "word": "unwrap",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "rozpakowywać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unwritten",
+    "word": "unwritten",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niepisany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-unzip",
+    "word": "unzip",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "rozpinać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-up-and-coming",
+    "word": "up-and-coming",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wybijający się w górę"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-upbringing",
+    "word": "upbringing",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wychowanie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-update",
+    "word": "update",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "modernizować",
+          "aktualizować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-upheaval",
+    "word": "upheaval",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "niepokój",
+          "przewrót społeczny",
+          "przewrót"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-uphill",
+    "word": "uphill",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "do góry",
+          "w górę"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "ciężki",
+          "jak pod górę"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-uphold",
+    "word": "uphold",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "podtrzymywać",
+          "utrzymywać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-upholstered",
+    "word": "upholstered",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "tapicerowany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-upholstery",
+    "word": "upholstery",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "tapicerka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-upkeep",
+    "word": "upkeep",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "koszty utrzymania"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-upland",
+    "word": "upland",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wysoko położony"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "tereny wysoko położone"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-upon",
+    "word": "upon",
+    "trans": [
+      {
+        "gramGrp": "Prep",
+        "texts": [
+          "na",
+          "po",
+          "za",
+          "rząd za rzędem"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-upper",
+    "word": "upper",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "górny"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wierzch buta",
+          "wierzch",
+          "mieć przewagę w czymś"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "warstwa wyższa",
+          "burżuazja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-uppermost",
+    "word": "uppermost",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "najwyższy",
+          "najwyżej",
+          "najważniejszy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-upright",
+    "word": "upright",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wyprostowany",
+          "pionowy",
+          "prawy",
+          "uczciwy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-uprising",
+    "word": "uprising",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "powstanie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-uproar",
+    "word": "uproar",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wrzawa",
+          "tumult",
+          "zamieszanie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-uproot",
+    "word": "uproot",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wykorzeniać się",
+          "wykorzeniać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-upshot",
+    "word": "upshot",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "wynik",
+          "rezultat"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-upstairs",
+    "word": "upstairs",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "na górę",
+          "do góry ",
+          "na górze "
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "górny"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "góra"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-upstart",
+    "word": "upstart",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "nowicjusz"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-upstream",
+    "word": "upstream",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "w górę rzeki",
+          "w górę",
+          "w górze rzeki",
+          "w górze"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-upsurge",
+    "word": "upsurge",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wzrost"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-uptake",
+    "word": "uptake",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "szybko coś łapać",
+          "wolno coś łapać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-uptight",
+    "word": "uptight",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "spięty"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-up-to-date",
+    "word": "up-to-date",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nowoczesny",
+          "zorientowany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-uptown",
+    "word": "uptown",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "od centrum śródmieścia",
+          "od centrum"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "dzielnice poza śródmieściem"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-upturn",
+    "word": "upturn",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "hossa",
+          "zwyżka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-upturned",
+    "word": "upturned",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "zadarty",
+          "odwrócony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-upward",
+    "word": "upward",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "górny",
+          "do góry"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-upwards",
+    "word": "upwards",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "do góry",
+          "w górę",
+          "ponad"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-uranium",
+    "word": "uranium",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "uran"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-urban",
+    "word": "urban",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "miejski"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-urbane",
+    "word": "urbane",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "kurtuazyjny",
+          "uprzejmy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-urchin",
+    "word": "urchin",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "łobuz"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-urge",
+    "word": "urge",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "popęd",
+          "żądza"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "przynaglać",
+          "zalecać",
+          "kłaść nacisk",
+          "na coś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-urgency",
+    "word": "urgency",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "nagła potrzeba"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-urgent",
+    "word": "urgent",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "pilny",
+          "naglący",
+          "natarczywy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-urinal",
+    "word": "urinal",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pisuar"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-urinate",
+    "word": "urinate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "oddawać mocz"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-urine",
+    "word": "urine",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "mocz"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-urn",
+    "word": "urn",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "urna",
+          "termos na kawę",
+          "termos"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-Uruguay",
+    "word": "Uruguay",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Urugwaj"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-Uruguayan",
+    "word": "Uruguayan",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "urugwajski"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Urugwajczyk"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-usable",
+    "word": "usable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "zdatny do użycia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-USAF",
+    "word": "USAF",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "siły powietrzne USA"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-usage",
+    "word": "usage",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "użycie języka",
+          "użycie",
+          "znaczenie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-useful",
+    "word": "useful",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "użyteczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-useless",
+    "word": "useless",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "bezużyteczny",
+          "beznadziejny",
+          "w czymś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-user",
+    "word": "user",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "użytkownik"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-usher",
+    "word": "usher",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "prowadzić na miejsce"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "bileter"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-usherette",
+    "word": "usherette",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "bileterka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-USN",
+    "word": "USN",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "marynarka USA"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-USS",
+    "word": "USS",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "statek USA",
+          "okręt USA"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-USSR",
+    "word": "USSR",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "ZSRR"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-usual",
+    "word": "usual",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "zwyczajny",
+          "zwyczajowy",
+          "jak zwykle"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-usually",
+    "word": "usually",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "zazwyczaj"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-usurer",
+    "word": "usurer",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "lichwiarz"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-usurp",
+    "word": "usurp",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "uzurpować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-usury",
+    "word": "usury",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "lichwa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-Utah",
+    "word": "Utah",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Utah"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-utensil",
+    "word": "utensil",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "przybór",
+          "przyrząd"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-uterus",
+    "word": "uterus",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "macica"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-utilitarian",
+    "word": "utilitarian",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "użytkowy",
+          "utylitarny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-utility",
+    "word": "utility",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "użyteczność",
+          "usługa komunalna",
+          "przedsiębiorstwo użyteczności publicznej"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-utilize",
+    "word": "utilizeutilise",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "posiłkować się",
+          "stosować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-utmost",
+    "word": "utmost",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "najwyższy",
+          "robić co się da"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-utopia",
+    "word": "utopia",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "utopia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-utopian",
+    "word": "utopian",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "utopijny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-utter",
+    "word": "utter",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wypowiadać",
+          "wydawać"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "całkowity",
+          "kompletny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-utterance",
+    "word": "utterance",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wypowiedź"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u-U-turn",
+    "word": "U-turn",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zawrócenie samochodu",
+          "zawrócenie",
+          "zawracać"
+        ]
+      }
+    ]
+  }
+]

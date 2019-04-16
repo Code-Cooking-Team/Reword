@@ -1,0 +1,10192 @@
+[
+  {
+    "id": "e-E",
+    "word": "E",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "wschód",
+          "wschodni"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-each",
+    "word": "each",
+    "trans": [
+      {
+        "gramGrp": "Pron",
+        "texts": [
+          "każdy",
+          "z"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "sztuka",
+          "kosztują po 5 dolarów sztuka",
+          "siebie",
+          "się",
+          "siebie wzajemnie",
+          "się wzajemnie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-eager",
+    "word": "eager",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "chętny",
+          "do",
+          "gorąco pragnący",
+          "czegoś",
+          "ktoś bardzo chce coś zrobić"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-eagle",
+    "word": "eagle",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "orzeł"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-ear",
+    "word": "ear",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ucho",
+          "słuch",
+          "kłos",
+          "mieć uszy szeroko otwarte",
+          "ze słuchu",
+          "być głuchym na coś",
+          "nie zwracać uwagi na coś",
+          "chętnie kogoś wysłuchiwać",
+          "kogoś wysłuchiwać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-eardrum",
+    "word": "eardrum",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "bębenek uszny",
+          "bębenek"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-earl",
+    "word": "earl",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "hrabia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-earlier",
+    "word": "earlier",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wcześniej",
+          "wcześniej"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-earlobe",
+    "word": "earlobe",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "płatek ucha"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-earmarked",
+    "word": "earmarked",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "zarezerwowany",
+          "odłożony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-earn",
+    "word": "earn",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zarabiać na",
+          "zarabiać",
+          "wypracować",
+          "przynosić",
+          "zasłużyć na"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-earnest",
+    "word": "earnest",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "poważny",
+          "zasadniczy",
+          "poważny",
+          "poważnie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-earnings",
+    "word": "earnings",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zarobki"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-earphone",
+    "word": "earphone",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "słuchawka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-earplug",
+    "word": "earplug",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zatyczka do ucha"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-earring",
+    "word": "earring",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kolczyk"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-earshot",
+    "word": "earshot",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "w zasięgu słuchu",
+          "poza zasięgiem słuchu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-earsplitting",
+    "word": "earsplitting",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "rozdzierający uszy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-earthen",
+    "word": "earthen",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "gliniany",
+          "ziemny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-earthenware",
+    "word": "earthenware",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "gliniany"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wyroby gliniane"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-earthly",
+    "word": "earthly",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "ziemski",
+          "nie ma najmniejszego powodu",
+          "najmniejszego powodu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-earthquake",
+    "word": "earthquake",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "trzęsienie ziemi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-earthworm",
+    "word": "earthworm",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "dżdżownica"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-earthy",
+    "word": "earthy",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "bezwstydny",
+          "rubaszny",
+          "ziemisty"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-ease",
+    "word": "ease",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "łatwość",
+          "dostatek"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "łagodzić",
+          "załagadzać",
+          "słabnąć",
+          "zmniejszać się",
+          "zmniejszać",
+          "postępować delikatnie",
+          "postępować ostrożnie",
+          "postępować łagodnie",
+          "poluzować śrubę",
+          "swobodny",
+          "swobodnie"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "skrępowany",
+          ",,Spocznij!''"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "zmniejszać się",
+          "słabnąć"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-easel",
+    "word": "easel",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "sztalugi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-easily",
+    "word": "easily",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "łatwo",
+          "z pewnością"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-east",
+    "word": "east",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wschód"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wschodni"
+        ]
+      },
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "na wschód"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-Easter",
+    "word": "Easter",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Wielkanoc"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "jajko wielkanocne"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-easterly",
+    "word": "easterly",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wschodni",
+          "wysunięty na wschód"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-eastern",
+    "word": "eastern",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wschodni"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-eastward",
+    "word": "eastward",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "na wschód"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wschodni"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-easy",
+    "word": "easy",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "łatwy"
+        ]
+      },
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "łatwo"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "swobodny",
+          "na luzie",
+          "łatwiej powiedzieć niż zrobić",
+          "nie przejmować się",
+          "dać sobie z czymś spokój"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "fotel"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-easy-going",
+    "word": "easy-going",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "spokojny",
+          "łagodny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-eat",
+    "word": "eat",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "jeść",
+          "żreć",
+          "wyżerać"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "wżerać się w"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "jeść na mieście "
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "zjadać",
+          "wyjadać do końca",
+          "wyjadać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-eatable",
+    "word": "eatable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "jadalny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-eater",
+    "word": "eater",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "ktoś",
+          "kto wolno je",
+          "kto je"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-eaves",
+    "word": "eaves",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "okap domu",
+          "okap"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-eavesdrop",
+    "word": "eavesdrop",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "podsłuchiwać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-ebb",
+    "word": "ebb",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "odpływać",
+          "opadać"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "odpływ",
+          "opadanie",
+          "w dołku",
+          "przypływy i odpływy czegoś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-ebony",
+    "word": "ebony",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "heban"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "hebanowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-ebullient",
+    "word": "ebullient",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "entuzjastyczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-EC",
+    "word": "EC",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "Wspólnota Europejska"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-eccentric",
+    "word": "eccentric",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "ekscentryczny"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ekscentryk"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-ecclesiastical",
+    "word": "ecclesiastical",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "eklezjastyczny",
+          "kościelny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-echo",
+    "word": "echo",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "echo",
+          "odgłos"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "odbijać się",
+          "powtarzać jak echo",
+          "powtarzać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-éclair",
+    "word": "éclaireclair",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "eklerka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-eclectic",
+    "word": "eclectic",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "eklektyczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-eclipse",
+    "word": "eclipse",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zaćmienie",
+          "zmierzch",
+          "upadek"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "przesłaniać",
+          "odsuwać w cień"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-ecologist",
+    "word": "ecologist",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ekolog"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-ecology",
+    "word": "ecology",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ekologia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-economic",
+    "word": "economic",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "ekonomiczny",
+          "gospodarczy",
+          "zyskowny"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ekonomia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-economical",
+    "word": "economical",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "oszczędny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-economist",
+    "word": "economist",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ekonomista"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-economize",
+    "word": "economize",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "oszczędzać",
+          "na"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-economy",
+    "word": "economy",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "gospodarka",
+          "ekonomia",
+          "oszczędność"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "oszczędny",
+          "tani",
+          "najtańsza klasa",
+          "oszczędzać",
+          "robić oszczędności"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-ecstasy",
+    "word": "ecstasy",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ekstaza",
+          "zachwyt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-ecstatic",
+    "word": "ecstatic",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "ekstatyczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-ecumenical",
+    "word": "ecumenical",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "ekumeniczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-ecumenism",
+    "word": "ecumenism",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ekumenizm"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-eczema",
+    "word": "eczema",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "egzema"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-ed.",
+    "word": "ed.",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "wyd.",
+          "wydanie"
+        ]
+      },
+      {
+        "gramGrp": "",
+        "texts": [
+          "red.",
+          "redaktor"
+        ]
+      },
+      {
+        "gramGrp": "",
+        "texts": [
+          "wykształcenie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-eddy",
+    "word": "eddy",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wirować"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wir"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-edge",
+    "word": "edge",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "krawędź",
+          "brzeg",
+          "ostrze",
+          "ostry ton",
+          "zła nuta",
+          "w czyimś głosie",
+          "przewaga",
+          "nad"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "obramować",
+          "tworzyć ramy powoli",
+          "tworzyć ramy",
+          "od",
+          "sunąć powoli",
+          "do",
+          "odsuwać się powoli",
+          "odsuwać się",
+          "od",
+          "na krawędzi rozpaczy",
+          "zdenerwowany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-edgeways",
+    "word": "edgeways",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "ku krawędzi",
+          "ktoś nie może wtrącić słowa",
+          "ktoś nie może wtrącić ani słowa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-edging",
+    "word": "edging",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "obramowanie",
+          "obszycie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-edgy",
+    "word": "edgy",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "drażliwy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-edible",
+    "word": "edible",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "jadalny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-edict",
+    "word": "edict",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "edykt",
+          "rozporządzenie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-edifice",
+    "word": "edifice",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "budynek",
+          "gmach",
+          "struktura"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-edify",
+    "word": "edify",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "pouczać",
+          "działać budująco"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-Edinburgh",
+    "word": "Edinburgh",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Edynburg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-edit",
+    "word": "edit",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "redagować",
+          "montować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-edit.",
+    "word": "edit.",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "wyd.",
+          "wydanie"
+        ]
+      },
+      {
+        "gramGrp": "",
+        "texts": [
+          "red.",
+          "redaktor"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-edition",
+    "word": "edition",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wydanie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-editor",
+    "word": "editor",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "redaktor naczelny",
+          "redaktor",
+          "montażysta"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-editorial",
+    "word": "editorial",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "redakcyjny"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "artykuł wstępny od redakcji",
+          "artykuł wstępny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-editorship",
+    "word": "editorship",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "redakcja",
+          "redagowanie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-EDP",
+    "word": "EDP",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "elektroniczne opracowanie danych"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-educ.",
+    "word": "educ.",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "wykształcenie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-educate",
+    "word": "educate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "kształcić",
+          "pouczać",
+          "informować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-education",
+    "word": "education",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "szkolnictwo",
+          "wykształcenie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-educational",
+    "word": "educational",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "edukacyjny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-educationalist",
+    "word": "educationalist",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "metodyk"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-educator",
+    "word": "educator",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wychowawca",
+          "nauczyciel"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-EEC",
+    "word": "EEC",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "EWG Europejska Wspólnota Gospodarcza",
+          "EWG"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-eel",
+    "word": "eel",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "węgorz"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-eerie",
+    "word": "eerie",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niesamowity",
+          "dziwny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-efface",
+    "word": "efface",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wymazywać",
+          "ścierać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-effect",
+    "word": "effect",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "skutek",
+          "rezultat",
+          "efekt",
+          "wpływ",
+          "na coś"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wpływać",
+          "powodować",
+          "dla efektu",
+          "w rezultacie",
+          "w tym sensie, że",
+          "w tym sensie",
+          "wchodzić w życie",
+          "zostać wprowadzonym w życie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-effective",
+    "word": "effective",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "efektywny",
+          "faktyczny",
+          "rzeczywisty",
+          "obowiązujący",
+          "ważny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-effeminate",
+    "word": "effeminate",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "zniewieściały"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-efficient",
+    "word": "efficient",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wydajny",
+          "efektywny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-effigy",
+    "word": "effigy",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wizerunek",
+          "statua",
+          "spalić czyjąś kukłę"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-effluent",
+    "word": "effluent",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ściek"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-effort",
+    "word": "effort",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wysiłek",
+          "dokonanie",
+          "wyczyn",
+          "podejmować wysiłek zrobienia czegoś",
+          "coś jest warte zachodu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-effortless",
+    "word": "effortless",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "bez wysiłku"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-effrontery",
+    "word": "effrontery",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "bezczelność",
+          "grubiaństwo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-EFL",
+    "word": "EFL",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "angielski jako język obcy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-EFTA",
+    "word": "EFTA",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "Europejskie Stowarzyszenie Wolnego Handlu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-e.g.",
+    "word": "e.g.exempli gratia",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "np.",
+          "na przykład"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-egalitarian",
+    "word": "egalitarian",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "egalitarny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-egg",
+    "word": "egg",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "jajko"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "podbechtywać",
+          "podjudzać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-eggcup",
+    "word": "eggcup",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kieliszek do jajek"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-egghead",
+    "word": "egghead",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "jajogłowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-eggplant",
+    "word": "eggplant",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "bakłażan"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-eggshell",
+    "word": "eggshell",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "skorupka jajka",
+          "skorupka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-egoist",
+    "word": "egoist",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "egoistyczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-egoistic",
+    "word": "egoisticegoistical",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "egoistyczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-Egypt",
+    "word": "Egypt",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Egipt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-Egyptian",
+    "word": "Egyptian",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "egipski"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Egipcjanin"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-eh",
+    "word": "eh",
+    "trans": [
+      {
+        "gramGrp": "Pron",
+        "texts": [
+          "co?",
+          "nie?",
+          "e?",
+          "jak?"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-eiderdown",
+    "word": "eiderdown",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pierzyna"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-eight",
+    "word": "eight",
+    "trans": [
+      {
+        "gramGrp": "Num",
+        "texts": [
+          "osiem"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-eighteen",
+    "word": "eighteen",
+    "trans": [
+      {
+        "gramGrp": "Num",
+        "texts": [
+          "osiemnaście"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-eighteenth",
+    "word": "eighteenth",
+    "trans": [
+      {
+        "gramGrp": "Num",
+        "texts": [
+          "osiemnasty"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-eighth",
+    "word": "eighth",
+    "trans": [
+      {
+        "gramGrp": "Num",
+        "texts": [
+          "ósmy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-eightieth",
+    "word": "eightieth",
+    "trans": [
+      {
+        "gramGrp": "Num",
+        "texts": [
+          "osiemdziesiąty"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-eighty",
+    "word": "eighty",
+    "trans": [
+      {
+        "gramGrp": "Num",
+        "texts": [
+          "osiemdziesiąt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-Eire",
+    "word": "Eire",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Irlandia Republika Irlandzka",
+          "Irlandia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-either",
+    "word": "either",
+    "trans": [
+      {
+        "gramGrp": "Pron",
+        "texts": [
+          "jeden z dwóch",
+          "jeden",
+          "któryś",
+          "z",
+          "weź jeden z nich",
+          "każdy",
+          "jakikolwiek",
+          "z",
+          "można wziąć jakikolwiek",
+          "żaden",
+          "nie chce żadnego"
+        ]
+      },
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "także",
+          "też",
+          "oni także nie umieją pływać"
+        ]
+      },
+      {
+        "gramGrp": "Pron",
+        "texts": [
+          "oba",
+          "znajdują się po obu stronach pomieszczenia",
+          "albo ... albo ...",
+          "w każdym bądź razie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-eject",
+    "word": "eject",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wyrzucać",
+          "usuwać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-eke_out",
+    "word": "eke out",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "podtrzymywać",
+          "uzupełniać",
+          "ledwo zarabiać",
+          "na życie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-elaborate",
+    "word": "elaborate",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "skomplikowany"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "rozszerzać",
+          "coś",
+          "uzupełniać",
+          "coś",
+          "opracowywać w szczegółach",
+          "opracowywać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-elapse",
+    "word": "elapse",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "upływać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-elastic",
+    "word": "elastic",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "guma"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "elastyczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-elated",
+    "word": "elated",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "podniecony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-elation",
+    "word": "elation",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "podniecenie",
+          "uniesienie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-elbow",
+    "word": "elbow",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "łokieć"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "odpychać łokciem",
+          "odpychać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-elder",
+    "word": "elder",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "starszy"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "starsi",
+          "starszyzna",
+          "starcy",
+          "bez czarny",
+          "bez"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-elderly",
+    "word": "elderly",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "starszy",
+          "starsi",
+          "starodawny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-eldest",
+    "word": "eldest",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "najstarszy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-elect",
+    "word": "elect",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wybierać",
+          "jako",
+          "na",
+          "do",
+          "chcieć"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-election",
+    "word": "election",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wybory",
+          "wybór"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-elector",
+    "word": "elector",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wyborca"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-electoral",
+    "word": "electoral",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wyborczy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-electorate",
+    "word": "electorate",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "elektorat"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-electric",
+    "word": "electric",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "elektryczny",
+          "naelektryzowany"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "krzesło elektryczne"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "wstrząs elektryczny",
+          "porażenie prądem"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-electrical",
+    "word": "electrical",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "elektryczny",
+          "energetyczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-electrician",
+    "word": "electrician",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "elektryk"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-electricity",
+    "word": "electricity",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "elektryczność"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-electrify",
+    "word": "electrify",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "elektryzować",
+          "elektryfikować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-electrocute",
+    "word": "electrocute",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "śmiertelnie porazić prądem",
+          "się"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-electrode",
+    "word": "electrode",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "elektroda"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-electron",
+    "word": "electron",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "elektron"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-electronic",
+    "word": "electronic",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "elektroniczny"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "poczta elektroniczna"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-electronics",
+    "word": "electronics",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "elektronika",
+          "sprzęt elektroniczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-elegant",
+    "word": "elegant",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "elegancki",
+          "wytworny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-elegy",
+    "word": "elegy",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "elegia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-element",
+    "word": "element",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "element",
+          "składnik",
+          "podstawy",
+          "ugrupowania",
+          "elementy",
+          "doza",
+          "cień",
+          "pierwiastek",
+          "grzałka",
+          "spirala ",
+          "żywioł",
+          "niepogoda",
+          "być w swoim żywiole"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-elemental",
+    "word": "elemental",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "żywiołowy",
+          "niepohamowany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-elementary",
+    "word": "elementary",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "elementarny",
+          "podstawowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-elephant",
+    "word": "elephant",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "słoń"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-elevate",
+    "word": "elevate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wywyższać",
+          "wynosić",
+          "do",
+          "do",
+          "wznosić",
+          "podnosić"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-elevated",
+    "word": "elevated",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wysoko postawiony",
+          "wzniosły",
+          "podwyższony",
+          "wyniosły"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-elevation",
+    "word": "elevation",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wyniesienie",
+          "wzniesienie",
+          "na",
+          "do",
+          "wzniesienie",
+          "wysokość"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-elevator",
+    "word": "elevator",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "winda"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-eleven",
+    "word": "eleven",
+    "trans": [
+      {
+        "gramGrp": "Num",
+        "texts": [
+          "jedenaście"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-eleventh",
+    "word": "eleventh",
+    "trans": [
+      {
+        "gramGrp": "Num",
+        "texts": [
+          "jedenasty",
+          "pięć minut przed dwunastą"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-elf",
+    "word": "elf",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "elf",
+          "krasnoludek"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-elicit",
+    "word": "elicit",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wywoływać",
+          "ze strony",
+          "wydobywać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-eligible",
+    "word": "eligible",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "kwalifikujący się",
+          "do",
+          "nadający się do małżeństwa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-eliminate",
+    "word": "eliminate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "eliminować",
+          "usuwać",
+          "z"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-elite",
+    "word": "elite",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "elita"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "elitarny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-elitism",
+    "word": "elitism",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "elitarność"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-elixir",
+    "word": "elixir",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "eliksir"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-elk",
+    "word": "elk",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "łoś",
+          "wapiti"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-ellipse",
+    "word": "ellipse",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "elipsa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-elliptic",
+    "word": "ellipticelliptical",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "eliptyczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-elm",
+    "word": "elm",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wiąz"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-elocution",
+    "word": "elocution",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "dobra wymowa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-elongated",
+    "word": "elongated",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wydłużony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-elope",
+    "word": "elope",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "uciekać, by wziąć ślub",
+          "uciekać",
+          "z"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-eloquent",
+    "word": "eloquent",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wymowny",
+          "elokwentny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-else",
+    "word": "else",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "inny",
+          "jeszcze",
+          "gdzie indziej",
+          "nic innego",
+          "co jeszcze",
+          "albo też",
+          "albo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-elsewhere",
+    "word": "elsewhere",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "gdzie indziej",
+          "gdziekolwiek"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-elucidate",
+    "word": "elucidate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wyjaśniać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-elude",
+    "word": "elude",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "umykać",
+          "unikać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-elusive",
+    "word": "elusive",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieuchwytny",
+          "trudny do uchwycenia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-emaciated",
+    "word": "emaciated",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wychudzony",
+          "wyniszczony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-E-mail",
+    "word": "E-mailemail",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "poczta elektroniczna"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-emanate",
+    "word": "emanate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "emanować",
+          "od",
+          "z",
+          "wypływać",
+          "pochodzić"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-emancipate",
+    "word": "emancipate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "emancypować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-emancipation",
+    "word": "emancipation",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "emancypacja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-embalm",
+    "word": "embalm",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "balsamować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-embankment",
+    "word": "embankment",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "nasyp",
+          "nabrzeże"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-embargo",
+    "word": "embargo",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "embargo",
+          "na"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "nakładać embargo",
+          "na"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-embark",
+    "word": "embark",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zaczynać",
+          "na coś",
+          "na coś",
+          "puszczać się",
+          "na",
+          "na",
+          "wsiadać",
+          "wchodzić",
+          "na",
+          "na pokład"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-embarrass",
+    "word": "embarrass",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "kłopotać",
+          "zawstydzać",
+          "stwarzać problemy",
+          "stwarzać kłopoty"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-embarrassed",
+    "word": "embarrassed",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "zakłopotany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-embarrassing",
+    "word": "embarrassing",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "kłopotliwy",
+          "krępujący"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-embarrassment",
+    "word": "embarrassment",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zakłopotanie",
+          "skrępowanie",
+          "kłopot",
+          "powód skrępowania"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-embassy",
+    "word": "embassy",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ambasada"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-embattled",
+    "word": "embattled",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "osaczony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-embedded",
+    "word": "embedded",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "uwięzły",
+          "w",
+          "zakorzeniony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-embellish",
+    "word": "embellish",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "upiększać",
+          "przystrajać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-ember",
+    "word": "ember",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "żar",
+          "niewygasły węgiel",
+          "niewygasły drewno"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-embezzle",
+    "word": "embezzle",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "sprzeniewierzać",
+          "przywłaszczać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-embitter",
+    "word": "embitter",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "gorzknieć"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-emblazoned",
+    "word": "emblazoned",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "ozdobiony",
+          "czymś",
+          "uwidoczniony",
+          "na czymś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-emblem",
+    "word": "emblem",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "godło",
+          "oznaka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-embodiment",
+    "word": "embodiment",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "uosobienie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-embody",
+    "word": "embody",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "ucieleśniać",
+          "włączać",
+          "uwzględniać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-emboldened",
+    "word": "emboldened",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "ośmielony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-embossed",
+    "word": "embossed",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "tłoczony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-embrace",
+    "word": "embrace",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "obejmować",
+          "ściskać"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "uścisk"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "obejmować",
+          "zawierać",
+          "przystawać",
+          "do czegoś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-embroider",
+    "word": "embroider",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wyszywać",
+          "haftować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-embroidery",
+    "word": "embroidery",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wyszywanie",
+          "haftowanie",
+          "haft",
+          "ornament"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-embroil",
+    "word": "embroil",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wdawać się"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-embryo",
+    "word": "embryo",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "embrion",
+          "zarodek"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-embryonic",
+    "word": "embryonic",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "zarodkowy",
+          "embrionalny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-emerald",
+    "word": "emerald",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "szmaragd"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "szmaragdowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-emerge",
+    "word": "emerge",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wyłaniać się",
+          "wychodzić",
+          "z",
+          "z",
+          "pojawiać się"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-emergency",
+    "word": "emergency",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "nagły wypadek",
+          "wypadek"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "przymusowy",
+          "ratowniczy",
+          "ratunkowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-emergent",
+    "word": "emergent",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "pojawiający się",
+          "wyłaniający się"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-emigrate",
+    "word": "emigrate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "emigrować",
+          "do",
+          "z"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-emigration",
+    "word": "emigration",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "emigracja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-émigré",
+    "word": "émigréemigre",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "emigrant polityczny",
+          "emigrant",
+          "uchodźca"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-eminence",
+    "word": "eminence",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "znakomitość",
+          "eminencja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-eminent",
+    "word": "eminent",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wybitny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-eminently",
+    "word": "eminently",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "w większości",
+          "przeważnie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-emissary",
+    "word": "emissary",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "emisariusz"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-emission",
+    "word": "emission",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "emisja",
+          "wydzielanie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-emit",
+    "word": "emit",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wydzielać",
+          "emitować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-emotion",
+    "word": "emotion",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "emocja",
+          "uczucie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-emotional",
+    "word": "emotional",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "emocjonalny",
+          "uczuciowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-emotive",
+    "word": "emotive",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "odwołujący się do uczuć"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-Emp.",
+    "word": "Emp.",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "cesarz"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "cesarstwo"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "cesarzowa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-empathy",
+    "word": "empathy",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wczucie się",
+          "empatia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-emperor",
+    "word": "emperor",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "cesarz",
+          "imperator"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-emphasis",
+    "word": "emphasis",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "znaczenie",
+          "nacisk",
+          "akcent",
+          "przycisk"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-emphasize",
+    "word": "emphasize",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "podkreślać",
+          "kłaść nacisk"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-emphatic",
+    "word": "emphatic",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "dobitny",
+          "stanowczy",
+          "emfatyczny",
+          "wyrazisty"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-empire",
+    "word": "empire",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "imperium",
+          "cesarstwo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-empirical",
+    "word": "empirical",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "empiryczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-empiricism",
+    "word": "empiricism",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "empiria"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-employ",
+    "word": "employ",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zatrudniać",
+          "jako",
+          "używać",
+          "posługiwać się"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-employee",
+    "word": "employee",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pracownik"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-employer",
+    "word": "employer",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pracodawca"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-employment",
+    "word": "employment",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zatrudnienie",
+          "praca"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-empower",
+    "word": "empower",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "upoważniać",
+          "przyznawać prawo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-empress",
+    "word": "empress",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "cesarzowa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-emptiness",
+    "word": "emptiness",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pustka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-empty",
+    "word": "empty",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "pusty"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "opróżniać się",
+          "opróżniać",
+          "usuwać",
+          "wylewać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-empty-handed",
+    "word": "empty-handed",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "z pustymi rękoma"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-emulate",
+    "word": "emulate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "naśladować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-enable",
+    "word": "enable",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "pozwalać",
+          "umożliwiać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-enact",
+    "word": "enact",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "nadawać moc prawną",
+          "odgrywać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-enamel",
+    "word": "enamel",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "emalia",
+          "szkliwo"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "emaliować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-enamoured",
+    "word": "enamouredenamored",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "rozmiłowany",
+          "w"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-enc.",
+    "word": "enc.",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "zał.",
+          "załączony"
+        ]
+      },
+      {
+        "gramGrp": "",
+        "texts": [
+          "zał.",
+          "załącznik"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-encapsulate",
+    "word": "encapsulate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zwięźle obejmować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-encase",
+    "word": "encase",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "okrywać",
+          "zamykać",
+          "w"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-enchanted",
+    "word": "enchanted",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "oczarowany",
+          "zaczarowany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-encircle",
+    "word": "encircle",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "otaczać",
+          "okrążać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-encl.",
+    "word": "encl.",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "zał.",
+          "załączony"
+        ]
+      },
+      {
+        "gramGrp": "",
+        "texts": [
+          "zał.",
+          "załącznik"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-enclave",
+    "word": "enclave",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "enklawa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-enclose",
+    "word": "enclose",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zawierać",
+          "otaczać",
+          "w",
+          "czymś",
+          "załączać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-enclosure",
+    "word": "enclosure",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ogrodzony teren",
+          "załącznik"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-encode",
+    "word": "encode",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "kodować",
+          "szyfrować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-encompass",
+    "word": "encompass",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "obejmować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-encore",
+    "word": "encore",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "bis",
+          "bisować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-encounter",
+    "word": "encounter",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "napotykać",
+          "doznawać"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "spotkanie",
+          "doznanie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-encourage",
+    "word": "encourage",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zachęcać",
+          "ośmielać",
+          "popierać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-encouraging",
+    "word": "encouraging",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "ośmielający",
+          "zachęcający"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-encroach",
+    "word": "encroach",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "naruszać",
+          "coś",
+          "coś",
+          "wedrzeć się",
+          "wtargnąć",
+          "do",
+          "na"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-encrusted",
+    "word": "encrusted",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "inkrustowany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-encumber",
+    "word": "encumber",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "obarczać",
+          "krępować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-encumbrance",
+    "word": "encumbrance",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "obciążenie",
+          "skrępowanie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-encyclopedia",
+    "word": "encyclopediaencyclopaedia",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "encyklopedia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-end",
+    "word": "end",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "koniec",
+          "zakończenie",
+          "kres",
+          "czegoś",
+          "czegoś",
+          "cel"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "kończyć się",
+          "kończyć",
+          "czymś",
+          "czymś",
+          "czymś",
+          "przy końcu",
+          "kończyć się",
+          "na samym końcu",
+          "w końcu",
+          "wiązać koniec z końcem",
+          "bez końca",
+          "bez przerwy"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "kończyć"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-endanger",
+    "word": "endanger",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zagrażać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-endear",
+    "word": "endear",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "czynić miłym",
+          "dla",
+          "być miłym",
+          "dla"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-endeavour",
+    "word": "endeavourendeavor",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "usiłować",
+          "próbować"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "usiłowanie",
+          "wysiłek",
+          "próba"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-endemic",
+    "word": "endemic",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "endemiczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-ending",
+    "word": "ending",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zakończenie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-endless",
+    "word": "endless",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "bezustanny",
+          "nieskończony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-endorse",
+    "word": "endorse",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "popierać",
+          "żyrować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-endow",
+    "word": "endow",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "obdarzać",
+          "obdarowywać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-endurable",
+    "word": "endurable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wytrzymały"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-endurance",
+    "word": "endurance",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wytrzymałość"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-endure",
+    "word": "endure",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wytrzymywać",
+          "trwać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-enemy",
+    "word": "enemy",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wróg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-energetic",
+    "word": "energetic",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "energiczny",
+          "dynamiczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-energy",
+    "word": "energy",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "energia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-enfold",
+    "word": "enfold",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "otaczać",
+          "czymś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-enforce",
+    "word": "enforce",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wprowadzać w życie",
+          "wymuszać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-Eng.",
+    "word": "Eng.",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "Anglia"
+        ]
+      },
+      {
+        "gramGrp": "",
+        "texts": [
+          "angielski"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-eng.",
+    "word": "eng.",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "inż.",
+          "inżynier"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-engage",
+    "word": "engage",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "angażować się",
+          "angażować",
+          "w",
+          "w",
+          "zajmować",
+          "zatrudniać",
+          "angażować",
+          "zajmować kogoś rozmową"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-engaged",
+    "word": "engaged",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zaręczony",
+          "z kimś",
+          "zajęty"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-engagement",
+    "word": "engagement",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "spotkanie",
+          "engagement",
+          "zaręczyny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-engender",
+    "word": "engender",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "powodować",
+          "rodzić"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-engine",
+    "word": "engine",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "silnik",
+          "lokomotywa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-engineering",
+    "word": "engineering",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "inżynieria"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-England",
+    "word": "England",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Anglia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-Englander",
+    "word": "Englander",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Anglik"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-English",
+    "word": "English",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "angielski"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "język angielski",
+          "Anglicy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-Englishman",
+    "word": "Englishman",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Anglik"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-Englishwoman",
+    "word": "Englishwoman",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Angielka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-engrave",
+    "word": "engrave",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "grawerować",
+          "wryć się",
+          "w"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-engraving",
+    "word": "engraving",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "rycina",
+          "grafika"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-engrossed",
+    "word": "engrossed",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "pogrążony",
+          "zatopiony",
+          "w"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-engulf",
+    "word": "engulf",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "ogarniać",
+          "pochłaniać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-enhance",
+    "word": "enhance",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "polepszać",
+          "zwiększać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-enigma",
+    "word": "enigma",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zagadka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-enigmatic",
+    "word": "enigmatic",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "enigmatyczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-enjoy",
+    "word": "enjoy",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "lubić",
+          "coś robić",
+          "podobać się",
+          "książka mu się podobała",
+          "cieszyć się",
+          "mieć",
+          "dobrze się bawić"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-enjoyable",
+    "word": "enjoyable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "przyjemny",
+          "miły"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-enjoyment",
+    "word": "enjoyment",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "radość",
+          "przyjemność"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-enlargement",
+    "word": "enlargement",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "powiększenie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-enlighten",
+    "word": "enlighten",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "oświecać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-enlightenment",
+    "word": "enlightenment",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "oświecenie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-enlist",
+    "word": "enlist",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zaciągać się",
+          "zaciągać",
+          "do",
+          "do",
+          "zdobywać",
+          "zdobywać czyjąś pomoc"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-enliven",
+    "word": "enliven",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "ożywiać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-enmity",
+    "word": "enmity",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wrogość"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-ennoble",
+    "word": "ennoble",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "uszlachetniać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-enormity",
+    "word": "enormity",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ogrom"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-enormous",
+    "word": "enormous",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "gigantyczny",
+          "ogromny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-enough",
+    "word": "enough",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "wystarczająco",
+          "wystarczy mieć 20 dolarów",
+          "to jest wystarczająco duże",
+          "dość",
+          "pchać dość mocno",
+          "to dość dziwne",
+          "to dziwne",
+          "już dość"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-enrage",
+    "word": "enrage",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "rozwścieczać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-enrich",
+    "word": "enrich",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wzbogacać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-enrol",
+    "word": "enrolenroll",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zapisywać się",
+          "zapisywać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-en_route",
+    "word": "en route",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "po drodze",
+          "w drodze"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-ensign",
+    "word": "ensign",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "flaga",
+          "bandera",
+          "chorąży"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-enslave",
+    "word": "enslave",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "czynić niewolnikiem",
+          "zniewalać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-ensue",
+    "word": "ensue",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "następować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-ensure",
+    "word": "ensureinsure",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zapewniać",
+          "gwarantować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-entail",
+    "word": "entail",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "pociągać za sobą"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-entangle",
+    "word": "entangle",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zaplątywać się",
+          "w",
+          "wplątywać się"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-entanglement",
+    "word": "entanglement",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "poplątanie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-enter",
+    "word": "enter",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wchodzić",
+          "do czegoś",
+          "wstępować",
+          "pojawiać się",
+          "wchodzić",
+          "brać udział",
+          "wprowadzać",
+          "wpisywać",
+          "do"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "przystępować",
+          "do czegoś",
+          "uczestniczyć",
+          "w czymś",
+          "mieć rolę"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-enterprise",
+    "word": "enterprise",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "firma",
+          "przedsiębiorstwo",
+          "interes",
+          "przedsięwzięcie",
+          "sektor",
+          "gospodarka",
+          "przedsiębiorczość"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-enterprising",
+    "word": "enterprising",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "przedsiębiorczy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-entertain",
+    "word": "entertain",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zabawiać",
+          "przyjmować",
+          "ugaszczać",
+          "żywić",
+          "mieć"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-entertainer",
+    "word": "entertainer",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "artysta kabaretowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-entertainment",
+    "word": "entertainment",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "rozrywka",
+          "występ"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-enthuse",
+    "word": "enthuse",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "entuzjazmować się",
+          "czymś",
+          "czymś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-enthusiasm",
+    "word": "enthusiasm",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "entuzjazm",
+          "dla",
+          "co do",
+          "zainteresowanie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-enthusiast",
+    "word": "enthusiast",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "entuzjasta"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-enthusiastic",
+    "word": "enthusiastic",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "entuzjastyczny",
+          "co do"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-entice",
+    "word": "entice",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wabić",
+          "nęcić"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-entire",
+    "word": "entire",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "cały",
+          "całkowity"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-entirety",
+    "word": "entirety",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "w całości"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-entitle",
+    "word": "entitle",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "tytułować",
+          "upoważniać",
+          "do"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-entitled",
+    "word": "entitled",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "zatytułowany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-entitlement",
+    "word": "entitlement",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "prawo",
+          "do"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-entity",
+    "word": "entity",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "jednostka",
+          "całostka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-entourage",
+    "word": "entourage",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "świta"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-entrails",
+    "word": "entrails",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wnętrzności"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-entrance",
+    "word": "entrance",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wejście",
+          "prawo wejścia",
+          "dostęp"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "oczarowywać",
+          "wprawiać w trans"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-entrant",
+    "word": "entrant",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "nowoprzyjęty",
+          "uczestnik"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-entrenched",
+    "word": "entrenched",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "zakorzeniony",
+          "wpojony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-entrepreneur",
+    "word": "entrepreneur",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "przedsiębiorca"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-entrust",
+    "word": "entrust",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "powierzać",
+          "coś komuś",
+          "komuś coś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-entry",
+    "word": "entry",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zgłoszenie",
+          "uczestnictwo",
+          "wpis",
+          "wejście",
+          "prawo wejścia",
+          "wjazdu",
+          "hasło",
+          "wstęp wzbroniony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-entwine",
+    "word": "entwine",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "splatać",
+          "z",
+          "z"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-enumerate",
+    "word": "enumerate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wyliczać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-enunciate",
+    "word": "enunciate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "starannie wymawiać",
+          "wyłuszczać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-envelop",
+    "word": "envelop",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "otulać",
+          "spowijać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-envelope",
+    "word": "envelope",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "koperta"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-enviable",
+    "word": "enviable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "godny zazdrości"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-envious",
+    "word": "envious",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "zazdrosny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-environment",
+    "word": "environment",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "otoczenie",
+          "środowisko",
+          "przyroda",
+          "środowisko naturalne"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-environmental",
+    "word": "environmental",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "przyrodniczy",
+          "dotyczący środowiska"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-environmentalist",
+    "word": "environmentalist",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ochroniarz przyrody",
+          "ochroniarz",
+          "ekolog"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-envisage",
+    "word": "envisage",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "przewidywać",
+          "wyobrażać sobie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-envoy",
+    "word": "envoy",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wysłannik dyplomatyczny",
+          "wysłannik",
+          "poseł"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-envy",
+    "word": "envy",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zazdrościć"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zazdrość",
+          "przedmiot zazdrości dla kogoś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-ephemeral",
+    "word": "ephemeral",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "efemeryczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-epic",
+    "word": "epic",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "epopeja"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "epicki",
+          "bohaterski"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-epidemic",
+    "word": "epidemic",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "epidemia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-epilepsy",
+    "word": "epilepsy",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "epilepsja",
+          "padaczka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-epileptic",
+    "word": "epileptic",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "chory na padaczkę",
+          "epileptyk"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "padaczkowy",
+          "epileptyczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-epilogue",
+    "word": "epilogue",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "epilog"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-Episcopal",
+    "word": "Episcopal",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "Episkopalny Kościół",
+          "Episkopalny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-episcopal",
+    "word": "episcopal",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "biskupi",
+          "episkopalny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-Episcopalian",
+    "word": "Episcopalian",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "episkopalny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-episode",
+    "word": "episode",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "epizod",
+          "zdarzenie",
+          "odcinek"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-epitaph",
+    "word": "epitaph",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "epitafium",
+          "napis nagrobny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-epithet",
+    "word": "epithet",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "epitet",
+          "określenie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-epitome",
+    "word": "epitome",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "wzór",
+          "uosobienie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-epitomize",
+    "word": "epitomizeepitomise",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "obrazować",
+          "przedstawiać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-epoch",
+    "word": "epoch",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "epoka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-equable",
+    "word": "equable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "zrównoważony",
+          "spokojny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-equal",
+    "word": "equal",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "równy",
+          "czemuś",
+          "jednakowy",
+          "ktoś równorzędny",
+          "równorzędny",
+          "przysposobiony",
+          "do",
+          "zdolny sprostać",
+          "czemuś"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "równać się",
+          "dorównywać",
+          "na równych prawach"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-equality",
+    "word": "equality",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "równość"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-equalize",
+    "word": "equalize",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zrównywać się",
+          "zrównywać",
+          "dorównywać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-equally",
+    "word": "equally",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "równo",
+          "tak samo",
+          "jednakowo",
+          "równie",
+          "w tym samym stopniu",
+          "tak samo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-equanimity",
+    "word": "equanimity",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pogoda ducha",
+          "opanowanie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-equate",
+    "word": "equate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zrównywać",
+          "z",
+          "z"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-equation",
+    "word": "equation",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "równanie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-equator",
+    "word": "equator",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "równik"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-equatorial",
+    "word": "equatorial",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "równikowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-equestrian",
+    "word": "equestrian",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "jeździecki",
+          "konny"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "jeździec"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-equidistant",
+    "word": "equidistant",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "odległy równo",
+          "od"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-equilibrium",
+    "word": "equilibrium",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "równowaga"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-equinox",
+    "word": "equinox",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zrównanie dnia z nocą",
+          "równonoc"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-equip",
+    "word": "equip",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "ekwipować się",
+          "ekwipować",
+          "zaopatrywać się",
+          "zaopatrywać",
+          "w",
+          "wyposażać",
+          "w",
+          "dawać",
+          "przygotowywać",
+          "kogoś do czegoś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-equipment",
+    "word": "equipment",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wyposażenie",
+          "ekwipunek",
+          "sprzęt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-equitable",
+    "word": "equitable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "sprawiedliwy",
+          "słuszny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-equity",
+    "word": "equity",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "sprawiedliwość",
+          "słuszność"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-equivalence",
+    "word": "equivalence",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "równoważność",
+          "ekwiwalencja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-equivalent",
+    "word": "equivalent",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "ekwiwalentny",
+          "odpowiadający"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ekwiwalent",
+          "odpowiednik",
+          "czegoś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-equivocal",
+    "word": "equivocal",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "dwuznaczny",
+          "niejednoznaczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-equivocate",
+    "word": "equivocate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wyrażać się dwuznacznie",
+          "niejasno"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-ER",
+    "word": "ERElizabeth Regina",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "Królowa Elżbieta"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-er",
+    "word": "er",
+    "trans": [
+      {
+        "gramGrp": "Interj",
+        "texts": [
+          "e..."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-era",
+    "word": "era",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "era",
+          "okres"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-eradicate",
+    "word": "eradicate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wykorzeniać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-erase",
+    "word": "erase",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "usuwać",
+          "wymazywać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-eraser",
+    "word": "eraser",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "gumka do wymazywania",
+          "gumka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-erect",
+    "word": "erect",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wznosić",
+          "montować",
+          "składać"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wyprostowany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-erection",
+    "word": "erection",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wzniesienie",
+          "erekcja",
+          "wzwód"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-erode",
+    "word": "erode",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "podminowywać",
+          "podkopywać",
+          "poddawać erozji",
+          "wydrążać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-erosion",
+    "word": "erosion",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "erozja"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "stopniowe zanikanie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-erotic",
+    "word": "erotic",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "erotyczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-eroticism",
+    "word": "eroticism",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "erotyzm",
+          "erotyka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-err",
+    "word": "err",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "błądzić",
+          "popełniać błędy",
+          "błądzić jest rzeczą ludzką",
+          "grzeszyć nadmiarem czegoś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-errand",
+    "word": "errand",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "sprawunek",
+          "biegać na posyłki",
+          "biegać na posyłki"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-erratic",
+    "word": "erratic",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "zmienny",
+          "kapryśny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-erroneous",
+    "word": "erroneous",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "błędny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-error",
+    "word": "error",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "błąd",
+          "przez pomyłkę"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-erudite",
+    "word": "erudite",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "erudycyjny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-erupt",
+    "word": "erupt",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wybuchać",
+          "wrzeć",
+          "eksplodować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-eruption",
+    "word": "eruption",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wybuch"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-escalate",
+    "word": "escalate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wzmagać się",
+          "wzmagać",
+          "wzrastać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-escalator",
+    "word": "escalator",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ruchome schody"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-escapade",
+    "word": "escapade",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "eskapada"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-escape",
+    "word": "escape",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "unikać",
+          "czegoś",
+          "uciekać",
+          "z",
+          "do",
+          "wychodzić cało",
+          "wychodzić",
+          "umykać",
+          "uchodzić"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ucieczka",
+          "z",
+          "od",
+          "wyjście "
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-escapism",
+    "word": "escapism",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "eskapizm"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-escort",
+    "word": "escort",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "eskorta",
+          "eskortujący"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "eskortować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-ESL",
+    "word": "ESL",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "angielski jako drugi język"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-esoteric",
+    "word": "esoteric",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "ezoteryczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-esp.",
+    "word": "esp.",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "szczególnie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-especial",
+    "word": "especial",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "specjalny",
+          "szczególny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-especially",
+    "word": "especially",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "w szczególności",
+          "szczególnie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-espionage",
+    "word": "espionage",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "szpiegostwo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-Esq.",
+    "word": "Esq.",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "pan"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-esquire",
+    "word": "esquire",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pan"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-essay",
+    "word": "essay",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wypracowanie",
+          "esej"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-essayist",
+    "word": "essayist",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "eseista"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-essence",
+    "word": "essence",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "istota",
+          "podstawa",
+          "esencja",
+          "w zasadzie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-essentially",
+    "word": "essentially",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "w zasadzie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-est.",
+    "word": "est.",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "założony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-establish",
+    "word": "establish",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zakładać",
+          "ustanawiać",
+          "ustalać",
+          "jako",
+          "zyskiwać uznanie",
+          "urządzać się",
+          "pojawiać się"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-establishment",
+    "word": "establishment",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "założenie",
+          "firma",
+          "zakład",
+          "establishment",
+          "grupa rządząca"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-esteem",
+    "word": "esteem",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "szacunek",
+          "respekt",
+          "mieć kogoś w wielkim poważaniu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-estimate",
+    "word": "estimate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "szacować",
+          "oceniać"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "szacunek",
+          "ocena",
+          "kosztorys"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-estimation",
+    "word": "estimation",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ocena",
+          "szacunek",
+          "oszacowanie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-Estonia",
+    "word": "Estonia",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Estonia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-Estonian",
+    "word": "Estonian",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "estoński"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Estończyk"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-estranged",
+    "word": "estranged",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "odseparowany",
+          "od",
+          "odosobniony",
+          "pokłócony",
+          "z"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-estuary",
+    "word": "estuary",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ujście"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-ETA",
+    "word": "ETA",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "szacowany czas przybycia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-etc.",
+    "word": "etc.et cetera",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "itd.",
+          "itp."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-etch",
+    "word": "etch",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "grawerować",
+          "wytrawiać "
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-eternal",
+    "word": "eternal",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wieczny",
+          "odwieczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-eternity",
+    "word": "eternity",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wieczność",
+          "wiek",
+          "wieki"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-ether",
+    "word": "ether",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "eter"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-ethic",
+    "word": "ethic",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "etos",
+          "etyka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-ethical",
+    "word": "ethical",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "etyczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-Ethiopia",
+    "word": "Ethiopia",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Etiopia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-Ethiopian",
+    "word": "Ethiopian",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "etiopski"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Etiop"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-ethnic",
+    "word": "ethnic",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "etniczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-etiquette",
+    "word": "etiquette",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "etykieta"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-Eucharist",
+    "word": "Eucharist",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "eucharystia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-eucharistic",
+    "word": "eucharistic",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "eucharystyczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-eulogy",
+    "word": "eulogy",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "panegiryk",
+          "utwór pochwalny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-eunuch",
+    "word": "eunuch",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "eunuch"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-euphemism",
+    "word": "euphemism",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "eufemizm"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-euphoria",
+    "word": "euphoria",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "euforia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-euphoric",
+    "word": "euphoric",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "euforyczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-Europe",
+    "word": "Europe",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Europa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-European",
+    "word": "European",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "europejski"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Europejczyk"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-euthanasia",
+    "word": "euthanasia",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "eutanazja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-evacuate",
+    "word": "evacuate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "ewakuować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-evade",
+    "word": "evade",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "unikać",
+          "czegoś",
+          "uchylać się",
+          "od czegoś",
+          "odchylać się",
+          "umykać",
+          "przed kimś",
+          "przed czymś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-evaluate",
+    "word": "evaluate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "oceniać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-evaluation",
+    "word": "evaluation",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ocena",
+          "oszacowanie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-evangelical",
+    "word": "evangelical",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "ewangeliczny",
+          "ewangelicki",
+          "protestancki"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-evangelist",
+    "word": "evangelist",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ewangelista"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-evaporate",
+    "word": "evaporate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "parować",
+          "wyparowywać",
+          "odparowywać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-evasion",
+    "word": "evasion",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "uchylanie się",
+          "od",
+          "wykręt",
+          "wykręcanie się"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-evasive",
+    "word": "evasive",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wykrętny",
+          "wymijający",
+          "wykonywać manewr wymijający"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-eve",
+    "word": "eve",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "przeddzień",
+          "wigilia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-even",
+    "word": "even",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "nawet",
+          "jeszcze"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "stały",
+          "równy",
+          "równomierny",
+          "wyrównany",
+          "równie prawdopodobny",
+          "pięćdziesięcioprocentowy",
+          "parzysty",
+          "jeżeli nawet",
+          "choćby",
+          "a jednak",
+          "w każdym razie",
+          "porachować się",
+          "z"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "wyrównywać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-evening",
+    "word": "evening",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wieczór"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "zajęcia zaoczne",
+          "szkoła wieczorowa"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "strój wieczorowy",
+          "suknia wieczorowa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-event",
+    "word": "event",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wydarzenie",
+          "zdarzenie",
+          "dyscyplina",
+          "spotkanie",
+          "w wypadku, gdy",
+          "w wypadku",
+          "w każdym razie",
+          "w każdym razie",
+          "w końcowym rozrachunku"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-eventful",
+    "word": "eventful",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "pełen wydarzeń",
+          "doniosły"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-eventual",
+    "word": "eventual",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "ostateczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-eventuality",
+    "word": "eventuality",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "możliwość",
+          "ewentualność"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-ever",
+    "word": "ever",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "kiedykolwiek",
+          "wciąż",
+          "zawsze",
+          "przeważnie",
+          "-że",
+          "-ż",
+          "czemuż",
+          "któż",
+          "kiedyż",
+          "od kiedy",
+          "od tego czasu",
+          "niezwykle"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-evergreen",
+    "word": "evergreen",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "roślina wiecznie zielona"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-everlasting",
+    "word": "everlasting",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wieczny",
+          "trwały"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-every",
+    "word": "every",
+    "trans": [
+      {
+        "gramGrp": "Pron",
+        "texts": [
+          "każdy",
+          "co",
+          "co dwa miesiące"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wszelki",
+          "co drugi dzień",
+          "co drugi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-everybody",
+    "word": "everybody",
+    "trans": [
+      {
+        "gramGrp": "Pron",
+        "texts": [
+          "każdy",
+          "wszyscy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-everyday",
+    "word": "everyday",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "codzienny",
+          "zwykły"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-everyone",
+    "word": "everyone",
+    "trans": [
+      {
+        "gramGrp": "Pron",
+        "texts": [
+          "każdy",
+          "wszyscy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-everyplace",
+    "word": "everyplace",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "wszędzie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-everything",
+    "word": "everything",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wszystko"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-everywhere",
+    "word": "everywhere",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "wszędzie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-evict",
+    "word": "evict",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "eksmitować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-eviction",
+    "word": "eviction",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "eksmisja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-evidence",
+    "word": "evidence",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "dowód",
+          "dowody",
+          "świadczyć",
+          "przed",
+          "być na widoku",
+          "być jasno widocznym"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-evident",
+    "word": "evident",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "oczywisty",
+          "widoczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-evil",
+    "word": "evil",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "zły "
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zło"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-evocation",
+    "word": "evocation",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ewokacja",
+          "przywołąnie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-evocative",
+    "word": "evocative",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "przywołujący",
+          "coś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-evoke",
+    "word": "evoke",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "przywoływać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-evolution",
+    "word": "evolution",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ewolucja",
+          "rozwój"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-evolve",
+    "word": "evolve",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "ewoluować",
+          "przekształcać się",
+          "przekształcać",
+          "z A w B",
+          "rozwijać się",
+          "rozwijać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-ewe",
+    "word": "ewe",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "owca "
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-exacerbate",
+    "word": "exacerbate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "pogarszać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-exact",
+    "word": "exact",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "dokładny"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wymagać",
+          "czegoś od kogoś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-exacting",
+    "word": "exacting",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wymagający"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-exactly",
+    "word": "exactly",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "dokładnie",
+          "zupełnie",
+          ",,Właśnie''",
+          "niezupełnie",
+          "nie całkiem"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-exaggerate",
+    "word": "exaggerate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "przesadzać",
+          "wyolbrzymiać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-exalt",
+    "word": "exalt",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "podnosić",
+          "pobudzać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-exalted",
+    "word": "exalted",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wysoki",
+          "egzaltowany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-exam",
+    "word": "exam",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "egzamin"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-examination",
+    "word": "examination",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "egzamin",
+          "analiza",
+          "badanie",
+          "oględziny",
+          "rozpatrzenie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-examine",
+    "word": "examine",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "oglądać",
+          "badać",
+          "rozpatrywać",
+          "egzaminować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-examiner",
+    "word": "examiner",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "egzaminator"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-example",
+    "word": "example",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "przykład",
+          "na przykład",
+          "stanowić wzór",
+          "iść za czyimś przykładem",
+          "ukarać kogoś dla przykładu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-exasperate",
+    "word": "exasperate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "dręczyć",
+          "rozjątrzać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-exc.",
+    "word": "exc.",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "z wyjątkiem"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-excavate",
+    "word": "excavate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wykopywać",
+          "przeprowadzać wykopaliska"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-excavation",
+    "word": "excavation",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wykopaliska"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-exceed",
+    "word": "exceed",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "przekraczać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-exceedingly",
+    "word": "exceedingly",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "niezwykle"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-excel",
+    "word": "excel",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "przodować",
+          "w",
+          "w"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-excellence",
+    "word": "excellence",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "doskonałość",
+          "przodowanie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-Excellency",
+    "word": "Excellency",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Ekscelencja",
+          "Wasza Ekscelencja",
+          "Jego Ekscelencja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-excellent",
+    "word": "excellent",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "znakomity",
+          "doskonały"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-except",
+    "word": "except",
+    "trans": [
+      {
+        "gramGrp": "Prep",
+        "texts": [
+          "z wyjątkiem"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wyłączyć",
+          "zrobić wyjątek",
+          "wyjąwszy",
+          "oprócz"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-excepted",
+    "word": "excepted",
+    "trans": [
+      {
+        "gramGrp": "Prep",
+        "texts": [
+          "z wyjątkiem",
+          "wyjąwszy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-excepting",
+    "word": "excepting",
+    "trans": [
+      {
+        "gramGrp": "Prep",
+        "texts": [
+          "z wyjątkiem",
+          "oprócz",
+          "prócz"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-exception",
+    "word": "exception",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wyjątek",
+          "od",
+          "mieć zastrzeżenia do",
+          "z wyjątkiem czegoś",
+          "z wyjątkiem",
+          "bez wyjątku"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-exceptional",
+    "word": "exceptional",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wyjątkowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-excerpt",
+    "word": "excerpt",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wyjątek",
+          "z czegoś",
+          "fragment"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-excess",
+    "word": "excess",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nadmierny",
+          "zbyteczny"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "nadmiar",
+          "ekscesy",
+          "ponad",
+          "do przesytu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-excessive",
+    "word": "excessive",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nadmierny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-exchange",
+    "word": "exchange",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wymieniać się",
+          "wymieniać"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wymiana",
+          "giełda",
+          "giełda towarowa",
+          "wymiana zdań",
+          "centrala",
+          "w zamian za"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "kurs wymiany"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "centrala telefoniczna"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-excise",
+    "word": "excise",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "akcyza",
+          "opłata akcyzowa"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wycinać",
+          "amputować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-excitable",
+    "word": "excitable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "ekscytujący się",
+          "pobudliwy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-excite",
+    "word": "excite",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "ekscytować",
+          "wzniecać",
+          "podniecać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-excitement",
+    "word": "excitement",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "podniecenie",
+          "ekscytacja",
+          "atrakcja",
+          "podnieta"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-excl.",
+    "word": "excl.",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wyłączny"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wyłączając"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-exclaim",
+    "word": "exclaim",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wykrzykiwać",
+          "zakrzykiwać",
+          "nad",
+          "nad"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-exclamation",
+    "word": "exclamation",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "okrzyk"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "wykrzyknik"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-exclude",
+    "word": "exclude",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "pomijać",
+          "nie włączać",
+          "czegoś do",
+          "wykluczać",
+          "wykluczać",
+          "kogoś z czegoś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-excluding",
+    "word": "excluding",
+    "trans": [
+      {
+        "gramGrp": "Prep",
+        "texts": [
+          "z wyjątkiem"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-exclusion",
+    "word": "exclusion",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wydalenie",
+          "niedopuszczanie",
+          "pominięcie",
+          "z wyłączeniem czegoś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-exclusive",
+    "word": "exclusive",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "eksluzywny",
+          "wyłączny",
+          "wzajemnie się wyłączający"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-excommunicate",
+    "word": "excommunicate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wyklinać",
+          "ekskomunikować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-excrement",
+    "word": "excrement",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "stolec",
+          "ekskrementy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-excrete",
+    "word": "excrete",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wydzielać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-excruciating",
+    "word": "excruciating",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "przenikliwy",
+          "dręczący",
+          "przygniatający"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-excursion",
+    "word": "excursion",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wyprawa",
+          "wycieczka",
+          "do",
+          "wypad"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-excusable",
+    "word": "excusable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wybaczalny",
+          "do wybaczenia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-excuse",
+    "word": "excuse",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "usprawiedliwienie",
+          "wymówka"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "usprawiedliwiać",
+          "się",
+          "wybaczać",
+          "komuś coś",
+          "zwalniać",
+          "z",
+          "przepraszam",
+          "czy mogę przeprosić na moment?"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-execute",
+    "word": "execute",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "poddawać egzekucji",
+          "tracić",
+          "wykonywać",
+          "przeprowadzać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-execution",
+    "word": "execution",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "egzekucja",
+          "wykonywanie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-executioner",
+    "word": "executioner",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kat"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-executive",
+    "word": "executive",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wyższy urzędnik",
+          "menadżer",
+          "egzekutywa",
+          "organ wykonawczy"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "zarządzający",
+          "wykonawczy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-executor",
+    "word": "executor",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "egzekutor"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-exemplary",
+    "word": "exemplary",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "przykładowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-exemplify",
+    "word": "exemplify",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "stanowić przykład",
+          "podawać przykład",
+          "podawać przykłady"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-exempt",
+    "word": "exempt",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "zwolniony",
+          "z"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zwalniać",
+          "z"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-exercise",
+    "word": "exercise",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ćwiczenie",
+          "ruch fizyczny",
+          "ruch",
+          "sprawowanie",
+          "wywieranie"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "ćwiczyć",
+          "sprawować",
+          "wywierać"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "zeszyt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-exert",
+    "word": "exert",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wywierać",
+          "wysilać się"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-exertion",
+    "word": "exertion",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wysiłek"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-exhale",
+    "word": "exhale",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wydychać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-exhaust",
+    "word": "exhaust",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wyczerpywać"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "rura wydechowa",
+          "spaliny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-exhaustion",
+    "word": "exhaustion",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wyczerpanie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-exhaustive",
+    "word": "exhaustive",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wyczerpujący"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-exhibit",
+    "word": "exhibit",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wykazywać",
+          "przedstawiać",
+          "pokazywać",
+          "eksponować"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "eksponat",
+          "dowód rzeczowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-exhibition",
+    "word": "exhibition",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wystawa",
+          "ekspozycja",
+          "przedstawianie",
+          "robić z siebie przedstawienie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-exhibitionism",
+    "word": "exhibitionism",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ekshibicjonizm"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-exhibitionist",
+    "word": "exhibitionist",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ekshibicjonista"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-exhibitor",
+    "word": "exhibitor",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wystawca"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-exhilarate",
+    "word": "exhilarate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "rozradować się",
+          "rozradować",
+          "rozweselić się",
+          "rozweselić"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-exhort",
+    "word": "exhort",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "nawoływać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-exhume",
+    "word": "exhume",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "ekshumować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-exile",
+    "word": "exile",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wygnanie",
+          "wygnaniec"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "skazywać na wygnanie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-exist",
+    "word": "exist",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "istnieć"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-existence",
+    "word": "existence",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "istnienie",
+          "egzystencja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-existential",
+    "word": "existential",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "egzystencjalny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-exit",
+    "word": "exit",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wyjście",
+          "wyjazd"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wychodzić",
+          "z",
+          "wychodzić"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-exodus",
+    "word": "exodus",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "eksodus"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-exonerate",
+    "word": "exonerate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "oczyszczać",
+          "uwalniać",
+          "od"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-exorbitant",
+    "word": "exorbitant",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wygórowany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-exorcise",
+    "word": "exorciseexorcize",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "egzorcyzmować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-exorcism",
+    "word": "exorcism",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "egzorcyzm"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-exotic",
+    "word": "exotic",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "egzotyczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-expanse",
+    "word": "expanse",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "przestwór",
+          "bezmiar"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-expansion",
+    "word": "expansion",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "rozrost",
+          "ekspansja",
+          "rozszerzenie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-expansionism",
+    "word": "expansionism",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ekspansjonizm"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-expansionist",
+    "word": "expansionist",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "ekspansywny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-expansive",
+    "word": "expansive",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wylewny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-expatriate",
+    "word": "expatriate",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "emigrant"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-expect",
+    "word": "expect",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "spodziewać się",
+          "oczekiwać",
+          "spodziewać się dziecka",
+          "spodziewać się",
+          "sądzę",
+          "myślę",
+          "sądzę, że",
+          "myślę, że"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-expectancy",
+    "word": "expectancy",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "nadzieja",
+          "widoki"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-expectant",
+    "word": "expectant",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wyczekujący",
+          "spodziewający się dziecka",
+          "spodziewający się"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-expectation",
+    "word": "expectation",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "oczekiwanie",
+          "wyczekiwanie",
+          "spodziewanie się"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-expediency",
+    "word": "expediency",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "korzyść",
+          "to, co korzystne"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-expedient",
+    "word": "expedient",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "środek"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "stosowny",
+          "dogodny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-expedite",
+    "word": "expedite",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "przyśpieszyć"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-expedition",
+    "word": "expedition",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ekspedycja",
+          "wyprawa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-expel",
+    "word": "expel",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wydalać",
+          "usuwać",
+          "kogoś skądś",
+          "wyrzucać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-expend",
+    "word": "expend",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wydatkować",
+          "zużywać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-expendable",
+    "word": "expendable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "zbyteczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-expenditure",
+    "word": "expenditure",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wydatki",
+          "zużycie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-expense",
+    "word": "expense",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "nakłady",
+          "wydatki",
+          "dieta",
+          "zwrot kosztów",
+          "czyimś kosztem",
+          "na czyjś koszt",
+          "ponosić wielkie koszty"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-expensive",
+    "word": "expensive",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "kosztowny",
+          "drogi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-experience",
+    "word": "experience",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "doświadczenie",
+          "praktyka",
+          "znajomość",
+          "przeżycie",
+          "fakt"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "przeżywać",
+          "doświadczać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-experienced",
+    "word": "experienced",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "doświadczony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-experiment",
+    "word": "experiment",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "eksperyment",
+          "doświadczenie"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "eksperymentować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-experimental",
+    "word": "experimental",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "eksperymentalny",
+          "doświadczalny",
+          "próbny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-expert",
+    "word": "expert",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ekspert",
+          "znawca"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wyspecjalizowany",
+          "specjalistyczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-expertise",
+    "word": "expertise",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wiedza specjalistyczne",
+          "umiejętności specjalistyczne"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-expiate",
+    "word": "expiate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "odpokutowywać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-expiration",
+    "word": "expiration",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "utrata ważności"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-expire",
+    "word": "expire",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "tracić ważność",
+          "wyzionąć ducha"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-expiry_date",
+    "word": "expiry date",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "data ważności"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-explain",
+    "word": "explain",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wyjaśniać",
+          "coś komuś"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "usprawiedliwiać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-explanation",
+    "word": "explanation",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wyjaśnienie",
+          "objaśnienie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-explanatory",
+    "word": "explanatory",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "objaśniający",
+          "wyjaśniający"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-explicable",
+    "word": "explicable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wytłumaczalny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-explicit",
+    "word": "explicit",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "otwarty",
+          "szczery",
+          "jednoznaczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-explode",
+    "word": "explode",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "eksplodować",
+          "wybuchać",
+          "wzrastać wybuchowo",
+          "wybuchać",
+          "gniewem",
+          "dyskredytować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-exploitation",
+    "word": "exploitation",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wyzysk",
+          "wykorzystywanie",
+          "eksploatacja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-exploitative",
+    "word": "exploitative",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wyzyskujący"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-exploiter",
+    "word": "exploiter",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wyzyskiwacz"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-exploratory",
+    "word": "exploratory",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "badawczy",
+          "rozpoznawczy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-explore",
+    "word": "explore",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "badać",
+          "przeszukiwać",
+          "penetrować",
+          "analizować",
+          "przedyskutowywać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-explorer",
+    "word": "explorer",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "badacz",
+          "eksplorator"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-explosion",
+    "word": "explosion",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "eksplozja",
+          "wybuch",
+          "gwałtowny przyrost"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-explosive",
+    "word": "explosive",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "środek wybuchowy",
+          "materiał wybuchowy",
+          "wybuchowy",
+          "rozrywający się",
+          "rozrywający",
+          "oszałamiający"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-exponent",
+    "word": "exponent",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "przedstawiciel",
+          "orędownik",
+          "wyraziciel",
+          "wykładnik"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-exponential",
+    "word": "exponential",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wykładniczy",
+          "raptowny",
+          "zdwojony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-export",
+    "word": "export",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "eksportować",
+          "rozpowszechniać"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "eksport",
+          "artykuły eksportowe"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-exporter",
+    "word": "exporter",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "eksporter"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-expose",
+    "word": "expose",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "odsłaniać",
+          "wystawiać",
+          "na coś",
+          "narażać się",
+          "narażać",
+          "na",
+          "demaskować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-exposé",
+    "word": "exposéexpose",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zdemaskowanie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-exposition",
+    "word": "exposition",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "przedstawienie",
+          "wykład"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-exposure",
+    "word": "exposure",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wystawienie się",
+          "wystawienie",
+          "ekspozycja",
+          "na",
+          "pokazywanie",
+          "opisywanie",
+          "zdemaskowanie",
+          "zdjęcie",
+          "kadr"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-expound",
+    "word": "expound",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "przedstawiać",
+          "objaśniać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-express",
+    "word": "express",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wyrażać się",
+          "wyrażać",
+          "przedstawiać",
+          "jako"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wyraźny",
+          "ekspresowy"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ekspres"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-expression",
+    "word": "expression",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wyrażenie",
+          "wyraz czegoś",
+          "wyraz",
+          "przejaw",
+          "przykład",
+          "ekspresja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-expressionless",
+    "word": "expressionless",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "bez wyrazu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-expressive",
+    "word": "expressive",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wyrazisty",
+          "dotyczący wypowiadania się"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-expressway",
+    "word": "expressway",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "autostrada",
+          "droga szybkiego ruchu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-expropriate",
+    "word": "expropriate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "konfiskować",
+          "zabierać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-expulsion",
+    "word": "expulsion",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wydalenie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-exquisite",
+    "word": "exquisite",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "przepiękny",
+          "nadzwyczajny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-ext.",
+    "word": "ext.",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "zewnętrzny"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "zewnątrz"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wewnętrzny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-extend",
+    "word": "extend",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "rozpościerać się",
+          "rozpościerać",
+          "ciągnąć się",
+          "rozciągać się",
+          "rozciągać",
+          "powiększać",
+          "przedłużać",
+          "wyciągać",
+          "przedstawiać",
+          "oferować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-extension",
+    "word": "extension",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "dobudówka",
+          "powiększenie",
+          "przedłużenie",
+          "rozszerzenie",
+          "numer wewnętrzny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-extensive",
+    "word": "extensive",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "rozległy",
+          "ogromny",
+          "obszerny",
+          "szczegółowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-extent",
+    "word": "extent",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "rozmiar",
+          "pod wieloma względami",
+          "w pewnym stopniu",
+          "w jakiej mierze",
+          "w tej mierze",
+          "w tym stopniu",
+          "w jakim"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-extenuate",
+    "word": "extenuate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "łagodzić"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-exterior",
+    "word": "exterior",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zewnętrzna powierzchnia",
+          "powierzchowność",
+          "wygląd zewnętrzny"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "zewnętrzny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-exterminate",
+    "word": "exterminate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "eksterminować",
+          "wybijać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-extermination",
+    "word": "extermination",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "eksterminacja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-external",
+    "word": "external",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "zewnętrzny"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "aspekty zewnętrzne"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-extinct",
+    "word": "extinct",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wymarły",
+          "nieczynny",
+          "wygasły"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-extinction",
+    "word": "extinction",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wymarcie",
+          "wygaśnięcie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-extinguish",
+    "word": "extinguish",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "gasić",
+          "zacierać",
+          "niweczyć"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-extinguisher",
+    "word": "extinguisher",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "gaśnica"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-extol",
+    "word": "extol",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wychwalać",
+          "wysławiać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-extort",
+    "word": "extort",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wymuszać",
+          "zdzierać",
+          "pieniądze z"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-extortionate",
+    "word": "extortionate",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nadmierny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-extra",
+    "word": "extra",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "dodatkowy",
+          "dodatkowo",
+          "niezwykle"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "dodatek",
+          "opłata dodatkowa",
+          "statysta"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-extract",
+    "word": "extract",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wydobywać",
+          "wyciągać"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wycinek",
+          "wyimek",
+          "wyciąg",
+          "ekstrakt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-extraction",
+    "word": "extraction",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pochodzenie",
+          "wydobywanie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-extractor",
+    "word": "extractor",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "wentylator okienny",
+          "wentylator"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-extra-curricular",
+    "word": "extra-curricular",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nadobowiązkowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-extradite",
+    "word": "extradite",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "poddawać ekstradycji"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-extradition",
+    "word": "extradition",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ekstradycja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-extramarital",
+    "word": "extramarital",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "pozamałżeński"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-extra-mural",
+    "word": "extra-mural",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "zaoczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-extraneous",
+    "word": "extraneous",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "poboczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-extraordinary",
+    "word": "extraordinary",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nadzwyczajny",
+          "niezwykły"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-extravagance",
+    "word": "extravagance",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "rozrzutność",
+          "luksus"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-extravagant",
+    "word": "extravagant",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "rozrzutny",
+          "luksusowy",
+          "kosztowny",
+          "zmanierowany",
+          "przesadny",
+          "niepraktyczny",
+          "ekstrawagancki"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-extravaganza",
+    "word": "extravaganza",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ekstrawagancja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-extremist",
+    "word": "extremist",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ekstremista"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-extremity",
+    "word": "extremity",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kraniec",
+          "kończyna",
+          "członek",
+          "krańcowy stan",
+          "ostateczność",
+          "krańcowość"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-extricate",
+    "word": "extricate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wydobywać",
+          "uwalniać",
+          "się z"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-extrovert",
+    "word": "extrovert",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ekstrawertyk"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "ekstrawertyczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-extrude",
+    "word": "extrude",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wyciskać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-exuberant",
+    "word": "exuberant",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "pełen życia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-exude",
+    "word": "exude",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "emanować",
+          "wydzielać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-exult",
+    "word": "exult",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "radować się",
+          "czymś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-exultant",
+    "word": "exultant",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "rozradowany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-eye",
+    "word": "eye",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "oko",
+          "do"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "mierzyć wzrokiem",
+          "na czyichś oczach",
+          "rzucać okiem na coś",
+          "przyciągać czyjś wzrok",
+          "wypłakiwać oczy",
+          "przyglądać się komuś",
+          "mieć oczy otwarte",
+          "mieć oczy otwarte",
+          "mieć na kogoś oko",
+          "więcej niż by się zdawało",
+          "otworzyć komuś oczy",
+          "zgadzać się w poglądach",
+          "zgadzać się",
+          "zamykać oczy na coś",
+          "na czyichś oczach",
+          "siedzieć w czymś po uszy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-eyeball",
+    "word": "eyeball",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "gałka oczna"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-eyebrow",
+    "word": "eyebrow",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "brew",
+          "krzywić się na coś",
+          "krzywić się na",
+          "marszczyć brew na coś",
+          "marszczyć brew na"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-eye-catching",
+    "word": "eye-catching",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "przykuwający wzrok"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-eyelash",
+    "word": "eyelash",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "rzęsa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-eyelid",
+    "word": "eyelid",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "powieka",
+          "nawet nie mrugnąć okiem"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-eye-opener",
+    "word": "eye-opener",
+    "trans": [
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "rewelacja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-eye-shadow",
+    "word": "eye-shadow",
+    "trans": [
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "cień do powiek"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-eyesight",
+    "word": "eyesight",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wzrok"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-eyesore",
+    "word": "eyesore",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "okropieństwo",
+          "brzydactwo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e-eye-witness",
+    "word": "eye-witness",
+    "trans": [
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "naoczny świadek"
+        ]
+      }
+    ]
+  }
+]

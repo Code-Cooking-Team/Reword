@@ -1,0 +1,10984 @@
+[
+  {
+    "id": "i-I",
+    "word": "I",
+    "trans": [
+      {
+        "gramGrp": "Pron",
+        "texts": [
+          "ja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-i.",
+    "word": "i.",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "wyspa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-ib.",
+    "word": "ib.ibidem",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "tamże"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-Iberian",
+    "word": "Iberian",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "iberyjski"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-ic",
+    "word": "i/c",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "pod kierownictwem"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-ICBM",
+    "word": "ICBM",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "międzykontynentalny pocisk rakietowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-ice",
+    "word": "ice",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "lód"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "lody"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zamrażać",
+          "lukrować",
+          "pokrywać polewą",
+          "przełamywać lody"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "obladzać się"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-ice-box",
+    "word": "ice-box",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "lodówka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-ice-cold",
+    "word": "ice-cold",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "lodowaty"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-ice-cream",
+    "word": "ice-cream",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "lody"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-Iceland",
+    "word": "Iceland",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Islandia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-Icelandic",
+    "word": "Icelandic",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "islandzki"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-icicle",
+    "word": "icicle",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "sopel"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-icing",
+    "word": "icing",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "polewa",
+          "lukier",
+          "niekonieczny dodatek"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-icon",
+    "word": "icon",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ikona",
+          "ikona",
+          "piktogram"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-icy",
+    "word": "icy",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "lodowaty",
+          "oblodzony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-Idaho",
+    "word": "Idaho",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Idaho"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-idea",
+    "word": "idea",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pomysł",
+          "idea",
+          "pojęcie",
+          "o czymś",
+          "wrażenie",
+          "że",
+          "powinno się zrobić coś",
+          "powinno się",
+          "nie mieć pojęcia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-ideal",
+    "word": "ideal",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ideał"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "idealny",
+          "do"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-idealization",
+    "word": "idealization",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "idealizacja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-idealize",
+    "word": "idealizeidealise",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "idealizować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-ideally",
+    "word": "ideally",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "w ideale",
+          "idealnie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-identical",
+    "word": "identical",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "identyczny",
+          "jednakowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-identification",
+    "word": "identification",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "identyfikacja",
+          "zaświadczenie tożsamości",
+          "utożsamianie się",
+          "z"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-identify",
+    "word": "identify",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "identyfikować",
+          "wyróżniać",
+          "dostrzegać",
+          "utożsamiać",
+          "z"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-identity",
+    "word": "identity",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "tożsamość"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "dowód tożsamości"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-ideological",
+    "word": "ideological",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "ideologiczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-ideology",
+    "word": "ideology",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ideologia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-idiocy",
+    "word": "idiocy",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "idiotyzm"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-idiom",
+    "word": "idiom",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "idiom",
+          "idiomatyzm",
+          "styl"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-idiomatic",
+    "word": "idiomatic",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "idiomatyczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-idiosyncrasy",
+    "word": "idiosyncrasy",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "osobliwość"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-idiosyncratic",
+    "word": "idiosyncratic",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "osobliwy",
+          "jedyny w swoim rodzaju"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-idiot",
+    "word": "idiot",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "idiota"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-idiotic",
+    "word": "idiotic",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "idiotyczny",
+          "kretyński"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-idle",
+    "word": "idle",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "bezczynny",
+          "bezrobotny",
+          "pusty",
+          "czczy"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "zabijać czas"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-idler",
+    "word": "idler",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "próżniak"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-idol",
+    "word": "idol",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "idol",
+          "bałwan",
+          "bożek"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-idolatry",
+    "word": "idolatry",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "bałwochwalstwo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-idolize",
+    "word": "idolizeidolise",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "ubóstwiać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-idyll",
+    "word": "idyll",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "idylla"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-idyllic",
+    "word": "idyllic",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "idylliczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-i.e.",
+    "word": "i.e.id est",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "tj.",
+          "to jest"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-igloo",
+    "word": "igloo",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "igloo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-ignite",
+    "word": "ignite",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zapalać się",
+          "zapalać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-ignition",
+    "word": "ignition",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zapłon"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-ignoble",
+    "word": "ignoble",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niegodny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-ignominious",
+    "word": "ignominious",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "haniebny",
+          "niegodny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-ignoramus",
+    "word": "ignoramus",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ignorant"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-ignorance",
+    "word": "ignorance",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "nieświadomość",
+          "ignorancja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-ignorant",
+    "word": "ignorant",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieświadomy",
+          "czegoś",
+          "ignorancki"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-ignore",
+    "word": "ignore",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "ignorować",
+          "pomijać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-ikon",
+    "word": "ikon",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ikona"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-ill",
+    "word": "ill",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "chory",
+          "na",
+          "niedobry",
+          "szkodliwy"
+        ]
+      },
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "źle",
+          "niedobrze"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zło",
+          "złe strony",
+          "zachorować",
+          "źle się o kimś wyrażać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-illegal",
+    "word": "illegal",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nielegalny",
+          "bezprawny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-illegible",
+    "word": "illegible",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieczytelny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-illegitimate",
+    "word": "illegitimate",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieślubny",
+          "bezprawny",
+          "bez mocy prawnej"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-ill-fated",
+    "word": "ill-fated",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niepomyślny",
+          "dramatyczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-illicit",
+    "word": "illicit",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nielegalny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-Illinois",
+    "word": "Illinois",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Illinois"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-Illinoisan",
+    "word": "Illinoisan",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "illinojski"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-illiteracy",
+    "word": "illiteracy",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "analfabetyzm"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-illiterate",
+    "word": "illiterate",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niepiśmienny"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "analfabeta"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-illness",
+    "word": "illness",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "choroba"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-illogical",
+    "word": "illogical",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nielogiczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-ill-treat",
+    "word": "ill-treat",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "maltretować",
+          "znęcać się"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-illuminate",
+    "word": "illuminate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "oświetlać",
+          "rozjaśniać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-illumination",
+    "word": "illumination",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "oświetlenie",
+          "iluminacja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-illusion",
+    "word": "illusion",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "złudzenie",
+          "iluzja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-illusory",
+    "word": "illusory",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "iluzoryczny",
+          "złudny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-illustrate",
+    "word": "illustrate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "ilustrować",
+          "unaoczniać",
+          "obrazować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-illustration",
+    "word": "illustration",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ilustracja",
+          "zobrazowanie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-illustrative",
+    "word": "illustrative",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "poglądowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-illustrious",
+    "word": "illustrious",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "znamienity"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-ill-will",
+    "word": "ill-will",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wrogość"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-ILO",
+    "word": "ILO",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "MOP",
+          "Międzynarodowa Organizacja Pracy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-image",
+    "word": "image",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "obraz",
+          "opinia",
+          "odbiór"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-imagery",
+    "word": "imagery",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "obrazowanie",
+          "motywy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-imaginable",
+    "word": "imaginable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wyobrażalny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-imaginary",
+    "word": "imaginary",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wyimaginowany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-imagination",
+    "word": "imagination",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wyobraźnia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-imaginative",
+    "word": "imaginative",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "pełen wyobraźni"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-imagine",
+    "word": "imagine",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wyobrażać sobie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-imbalance",
+    "word": "imbalance",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "nierównowaga"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-imbecile",
+    "word": "imbecile",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "imbecyl"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "imbecylny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-imbue",
+    "word": "imbue",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "przesycać",
+          "nasycać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-IMF",
+    "word": "IMF",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "Międzynarodowy Fundusz Walutowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-imitate",
+    "word": "imitate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "imitować",
+          "naśladować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-imitation",
+    "word": "imitation",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "imitacja",
+          "naśladowanie"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "sztuczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-imitative",
+    "word": "imitative",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "naśladowczy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-imitator",
+    "word": "imitator",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "naśladowca"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-immaculate",
+    "word": "immaculate",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieskazitelny",
+          "bezbłędny",
+          "bez zarzutu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-immaterial",
+    "word": "immaterial",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "bez znaczenia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-immature",
+    "word": "immature",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niedojrzały"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-immeasurable",
+    "word": "immeasurable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niezmierny",
+          "bezmierny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-immediacy",
+    "word": "immediacy",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "naoczność",
+          "bezpośredniość"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-immediate",
+    "word": "immediate",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "natychmiastowy",
+          "naglący",
+          "najbliższy",
+          "bezpośredni"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-immediately",
+    "word": "immediately",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "natychmiast",
+          "od razu jak",
+          "od razu",
+          "bezpośrednio"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-immemorial",
+    "word": "immemorial",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "odwieczny",
+          "od niepamiętnych czasów"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-immense",
+    "word": "immense",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "ogromny",
+          "gigantyczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-immensely",
+    "word": "immensely",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "niezwykle"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-immensity",
+    "word": "immensity",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ogrom"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-immerse",
+    "word": "immerse",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zanurzać się",
+          "zanurzać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-immersion",
+    "word": "immersion",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zanurzenie"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "grzałka do wody",
+          "grzałka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-immigrant",
+    "word": "immigrant",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "imigrant"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-immigration",
+    "word": "immigration",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "imigracja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-imminent",
+    "word": "imminent",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "bliski",
+          "nadciągający"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-immobile",
+    "word": "immobile",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieruchomy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-immobilize",
+    "word": "immobilizeimmobilise",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "unieruchamiać",
+          "krępować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-immodest",
+    "word": "immodest",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieskromny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-immoral",
+    "word": "immoral",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niemoralny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-immortal",
+    "word": "immortal",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieśmiertelny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-immortalize",
+    "word": "immortalizeimmortalise",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "uwieczniać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-immovable",
+    "word": "immovable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieprzenośny",
+          "nieruchomy",
+          "niewzruszony",
+          "nieugięty"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-immune",
+    "word": "immune",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "odporny",
+          "na",
+          "na"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-immunity",
+    "word": "immunity",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "odporność",
+          "na",
+          "na",
+          "immunitet",
+          "nietykalność",
+          "od"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-immunize",
+    "word": "immunizeimmunise",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "uodparniać się",
+          "uodparniać",
+          "przeciw"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-immutable",
+    "word": "immutable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niezmienny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-imp",
+    "word": "imp",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "chochlik"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-impact",
+    "word": "impact",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "uderzenie",
+          "wpływ",
+          "wrażenie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-impair",
+    "word": "impair",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "osłabiać",
+          "nadwerężać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-impale",
+    "word": "impale",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "nabijać",
+          "nasadzać",
+          "na"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-impart",
+    "word": "impart",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "przekazywać",
+          "komuś",
+          "dodawać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-impartial",
+    "word": "impartial",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "obiektywny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-impassable",
+    "word": "impassable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieprzejezdny",
+          "nie do przebycia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-impasse",
+    "word": "impasse",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "impas",
+          "pat"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-impassioned",
+    "word": "impassioned",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "roznamiętniony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-impassive",
+    "word": "impassive",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "obojętny",
+          "spokojny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-impatience",
+    "word": "impatience",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "niecierpliwość",
+          "brak cierpliwości"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-impatient",
+    "word": "impatient",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niecierpliwy",
+          "nie mieć cierpliwości do",
+          "nie móc doczekać się zrobienia czegoś",
+          "nie móc doczekać się aby coś się zdarzyło"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-impeccable",
+    "word": "impeccable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieskazitelny",
+          "doskonały"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-impede",
+    "word": "impede",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "hamować",
+          "zakłócać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-impediment",
+    "word": "impediment",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "czynnik hamujący",
+          "zakłócający",
+          "w"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-impending",
+    "word": "impending",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nadciągający"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-impenetrable",
+    "word": "impenetrable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieprzenikniony",
+          "niedostępny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-imperative",
+    "word": "imperative",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niezbędny",
+          "naglący",
+          "tryb rozkazujący",
+          "rozkazujący"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "nakaz",
+          "imperatyw"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-imperceptible",
+    "word": "imperceptible",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niedostrzegalny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-imperfect",
+    "word": "imperfect",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niedoskonały",
+          "aspekt niedokonany",
+          "niedokonany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-imperfection",
+    "word": "imperfection",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "niedoskonałość",
+          "skaza"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-imperial",
+    "word": "imperial",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "imperialny",
+          "cesarski",
+          "anglosaski"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-imperialism",
+    "word": "imperialism",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "imperializm"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-imperialist",
+    "word": "imperialist",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "imperialista"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "imperialistyczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-imperil",
+    "word": "imperil",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zagrażać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-imperious",
+    "word": "imperious",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "władczy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-impersonal",
+    "word": "impersonal",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "bezosobowy",
+          "nieosobowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-impersonate",
+    "word": "impersonate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "podszywać się",
+          "pod kogoś",
+          "udawać",
+          "imitować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-impersonation",
+    "word": "impersonation",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "personifikacja",
+          "uosobianie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-impertinent",
+    "word": "impertinent",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "impertynencki"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-imperturbable",
+    "word": "imperturbable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niewzruszony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-impervious",
+    "word": "impervious",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niepodatny",
+          "na",
+          "nieprzenikliwy",
+          "nieprzesiąkliwy",
+          "dla"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-impetuous",
+    "word": "impetuous",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "porywczy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-impetus",
+    "word": "impetus",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "impet",
+          "impuls"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-impinge",
+    "word": "impinge",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "oddziaływać",
+          "na",
+          "na",
+          "wdzierać się",
+          "do",
+          "do"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-implacable",
+    "word": "implacable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieubłagany",
+          "nieprzejednany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-implant",
+    "word": "implant",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wszczepiać",
+          "przeszczepiać",
+          "do",
+          "w"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "przeszczep"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-implausible",
+    "word": "implausible",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niewiarygodny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-implement",
+    "word": "implement",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "urzeczywistniać",
+          "przeprowadzać"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "narzędzie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-implementation",
+    "word": "implementation",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "przeprowadzenie",
+          "urzeczywistnienie",
+          "implementacja",
+          "wdrożenie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-implicate",
+    "word": "implicate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wplątywać",
+          "wmieszać",
+          "w",
+          "do",
+          "dawać do zrozumienia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-implication",
+    "word": "implication",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "implikacja",
+          "domniemanie",
+          "skojarzenie",
+          "aluzja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-implicit",
+    "word": "implicit",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "implicytny",
+          "domniemany",
+          "sugerujący",
+          "absolutny",
+          "bez zastrzeżeń"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-implore",
+    "word": "implore",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "błagać",
+          "ubłagiwać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-imply",
+    "word": "imply",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "sugerować",
+          "oznaczać",
+          "implikować",
+          "pociągać za sobą"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-impolite",
+    "word": "impolite",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niegrzeczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-impolitic",
+    "word": "impolitic",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niedyplomatyczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-imponderable",
+    "word": "imponderable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nie dający się oszacować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-import",
+    "word": "import",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "importować"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "import",
+          "importowany produkt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-importance",
+    "word": "importance",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ważność",
+          "znaczenie",
+          "waga"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-important",
+    "word": "important",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "ważny",
+          "znaczący"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-importer",
+    "word": "importer",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "importer"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-impose",
+    "word": "impose",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "narzucać",
+          "na",
+          "na",
+          "nakładać",
+          "wymierzać",
+          "powodować",
+          "narzucać się",
+          "komuś",
+          "komuś",
+          "komuś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-imposing",
+    "word": "imposing",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "imponujący"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-imposition",
+    "word": "imposition",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "narzucenie",
+          "narzucanie się",
+          "nałożenie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-impossible",
+    "word": "impossible",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niemożliwy",
+          "beznadziejny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-impostor",
+    "word": "impostorimposter",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "oszust"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-impotence",
+    "word": "impotence",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "impotencja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-impotent",
+    "word": "impotent",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "bezsilny",
+          "impotentny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-impound",
+    "word": "impound",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "rekwirować",
+          "konfiskować",
+          "zajmować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-impoverish",
+    "word": "impoverish",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zubażać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-impracticable",
+    "word": "impracticable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niewykonalny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-impractical",
+    "word": "impractical",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niepraktyczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-imprecise",
+    "word": "imprecise",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niedokładny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-impregnable",
+    "word": "impregnable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nie do zdobycia",
+          "nieprzenikniony",
+          "na"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-impregnate",
+    "word": "impregnate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "impregnować",
+          "czymś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-impresario",
+    "word": "impresario",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "impresario"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-impress",
+    "word": "impress",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wywierać wrażenie",
+          "dawać do zrozumienia",
+          "komuś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-impression",
+    "word": "impression",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wrażenie",
+          "satyryczne przedstawienie",
+          "sprawiać wrażenie",
+          "sprawiać silne wrażenie",
+          "mieć wrażenie",
+          "że"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-impressionable",
+    "word": "impressionable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "łatwo ulegający wpływom"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-impressive",
+    "word": "impressive",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "robiący wrażenie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-imprint",
+    "word": "imprint",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "znamię",
+          "odcisk"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wrywać się",
+          "w",
+          "w",
+          "odciskać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-imprison",
+    "word": "imprison",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "uwięzić"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-imprisonment",
+    "word": "imprisonment",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "uwięzienie",
+          "więzienie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-improbable",
+    "word": "improbable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieprawdopodobny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-impromptu",
+    "word": "impromptu",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "improwizowany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-improper",
+    "word": "improper",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niewłaściwy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-improve",
+    "word": "improve",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "poprawiać się",
+          "poprawiać",
+          "polepszać się",
+          "polepszać",
+          "doskonalić",
+          "się",
+          "ulepszać",
+          "coś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-improvement",
+    "word": "improvement",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "polepszenie",
+          "ulepszenie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-improvisation",
+    "word": "improvisation",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "improwizacja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-improvise",
+    "word": "improvise",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "improwizować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-imprudent",
+    "word": "imprudent",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nierozważny",
+          "z czyjejś strony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-impudence",
+    "word": "impudence",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "bezczelność"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-impudent",
+    "word": "impudent",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "bezczelny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-impulse",
+    "word": "impulse",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "impuls",
+          "nagle"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-impulsive",
+    "word": "impulsive",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "impulsywny",
+          "żywiołowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-impunity",
+    "word": "impunity",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "bezkarność",
+          "bezkarnie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-impure",
+    "word": "impure",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieczysty"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-impurity",
+    "word": "impurity",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zanieczyszczenie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-in.",
+    "word": "in.",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "cal"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inability",
+    "word": "inability",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "niemożność"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inaccessible",
+    "word": "inaccessible",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niedostępny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inaccuracy",
+    "word": "inaccuracy",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "niedokładność",
+          "nieścisłość"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inaccurate",
+    "word": "inaccurate",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niedokładny",
+          "nieścisły"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inaction",
+    "word": "inaction",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "bezczynność"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inactive",
+    "word": "inactive",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "bezczynny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inadequacy",
+    "word": "inadequacy",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "niski poziom",
+          "nieudolność",
+          "brak"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inadequate",
+    "word": "inadequate",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieodpowiedni",
+          "niewystarczający"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inadvertent",
+    "word": "inadvertent",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niechcący"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inadvertently",
+    "word": "inadvertently",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "niechcący"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inadvisable",
+    "word": "inadvisable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nierozsądny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inalienable",
+    "word": "inalienable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niezbywalny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inane",
+    "word": "inane",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niemądry",
+          "bezmyślny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inanimate",
+    "word": "inanimate",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieżywotny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inapplicable",
+    "word": "inapplicable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieodpowiedni"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inappropriate",
+    "word": "inappropriate",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieodpowiedni"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inarticulate",
+    "word": "inarticulate",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieartykułowany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inasmuch_as",
+    "word": "inasmuch asin as much",
+    "trans": [
+      {
+        "gramGrp": "Conj",
+        "texts": [
+          "na tyle, na ile",
+          "jako że"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inattention",
+    "word": "inattention",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "nieuwaga"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inattentive",
+    "word": "inattentive",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieuważny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inaudible",
+    "word": "inaudible",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niesłyszalny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inaugural",
+    "word": "inaugural",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "inauguracyjny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inaugurate",
+    "word": "inaugurate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "inaugurować",
+          "wprowadzać na stanowisko",
+          "wprowadzać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inauguration",
+    "word": "inauguration",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "inauguracja",
+          "wprowadzenie na stanowisko",
+          "wprowadzenie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inborn",
+    "word": "inborn",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wrodzony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inbred",
+    "word": "inbred",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wrodzony",
+          "zakorzeniony",
+          "blisko spokrewniony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inbuilt",
+    "word": "inbuilt",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wszczepiony",
+          "wbudowany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inc.",
+    "word": "inc.",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "o osobowości prawnej"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-incalculable",
+    "word": "incalculable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieobliczalny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-incapable",
+    "word": "incapable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niezdolny",
+          "niezdatny do niczego",
+          "niezdatny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-incapacitate",
+    "word": "incapacitate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "obezwładniać",
+          "uniemożliwiać",
+          "komuś zrobienie czegoś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-incapacity",
+    "word": "incapacity",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "niezdolność"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-incarcerate",
+    "word": "incarcerate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "uwięzić"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-incarnation",
+    "word": "incarnation",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wcielenie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-incautious",
+    "word": "incautious",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieostrożny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-incendiary",
+    "word": "incendiary",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "zapalający"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-incense",
+    "word": "incense",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kadzidło"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "rozjuszać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-incentive",
+    "word": "incentive",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "bodziec"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-incessant",
+    "word": "incessant",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieustanny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-incest",
+    "word": "incest",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kazirodztwo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-incestuous",
+    "word": "incestuous",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "kazirodczy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inch",
+    "word": "inch",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "cal "
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "posuwać się ostrożnie",
+          "posuwać się"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-incidence",
+    "word": "incidence",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zasięg występowania",
+          "zasięg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-incident",
+    "word": "incident",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "incydent"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-incidental",
+    "word": "incidental",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "uboczny",
+          "towarzyszący"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-incidentally",
+    "word": "incidentally",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "przypadkowo",
+          "tak w ogóle"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-incinerator",
+    "word": "incinerator",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "piec do spalania śmieci"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-incision",
+    "word": "incision",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "nacięcie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-incisive",
+    "word": "incisive",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "cięty"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-incite",
+    "word": "incite",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "pobudzać",
+          "podżegać",
+          "do"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inclination",
+    "word": "inclination",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "inklinacja",
+          "skłonność"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-incline",
+    "word": "incline",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "stok",
+          "pochyłość"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "skłaniać",
+          "pochylać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inclined",
+    "word": "inclined",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "skłonny",
+          "nachylony",
+          "opadający",
+          "ku"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-include",
+    "word": "include",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zawierać",
+          "włączać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-included",
+    "word": "included",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "włączając",
+          "włącznie",
+          "ze mną włącznie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-including",
+    "word": "including",
+    "trans": [
+      {
+        "gramGrp": "Prep",
+        "texts": [
+          "włączając",
+          "włącznie",
+          "z czymś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inclusion",
+    "word": "inclusion",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "włączenie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inclusive",
+    "word": "inclusive",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "włącznie"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "globalny",
+          "ryczałtowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-incoherent",
+    "word": "incoherent",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niespójny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-income",
+    "word": "income",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "dochód",
+          "dochody"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-incoming",
+    "word": "incoming",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nadchodzący",
+          "przybywający",
+          "wstępujący",
+          "następujący"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "przypływ"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-incomparable",
+    "word": "incomparable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niezrównany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-incompatible",
+    "word": "incompatible",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niezgodny",
+          "niekompatybilny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-incompetent",
+    "word": "incompetent",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niesprawny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-incomplete",
+    "word": "incomplete",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niekompletny",
+          "niepełny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-incomprehensible",
+    "word": "incomprehensible",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niepojęty",
+          "dla"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-incomprehension",
+    "word": "incomprehension",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "niezrozumienie",
+          "niepojmowanie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inconceivable",
+    "word": "inconceivable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niewyobrażalny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inconclusive",
+    "word": "inconclusive",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nie rozstrzygnięty",
+          "niezakończony",
+          "nie rozstrzygający"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-incongruity",
+    "word": "incongruity",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "niedostosowanie się",
+          "niedostosowanie",
+          "niedopasowanie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-incongruous",
+    "word": "incongruous",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nie pasujący",
+          "wyróżniający się"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inconsequential",
+    "word": "inconsequential",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "bez znaczenia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inconsiderable",
+    "word": "inconsiderable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niepokaźny",
+          "nieznaczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inconsiderate",
+    "word": "inconsiderate",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "bezceremonialny",
+          "bez względów"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inconsistency",
+    "word": "inconsistency",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "niezgodność",
+          "niespójność"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inconsistent",
+    "word": "inconsistent",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niekonsekwentny",
+          "sprzeczny ze sobą",
+          "sprzeczny",
+          "niespójny",
+          "niezgodny",
+          "z"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inconspicuous",
+    "word": "inconspicuous",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niezauważalny",
+          "nie rzucający się w oczy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-incontinence",
+    "word": "incontinence",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "nieutrzymywanie "
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inconvenience",
+    "word": "inconvenience",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "niedogodność",
+          "niewygoda",
+          "kłopot"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "przysparzać niewygód",
+          "przydawać kłopotów"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inconvenient",
+    "word": "inconvenient",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niewygodny",
+          "niedogodny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-incorporate",
+    "word": "incorporate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wcielać",
+          "włączać",
+          "do",
+          "w",
+          "posiadać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-incorporated",
+    "word": "incorporated",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "o osobowości prawnej"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-incorrect",
+    "word": "incorrect",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niepoprawny",
+          "niewłaściwy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-incorrigible",
+    "word": "incorrigible",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niepoprawny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-incorruptible",
+    "word": "incorruptible",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieprzekupny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-increase",
+    "word": "increase",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wzrastać",
+          "zwiększać się",
+          "zwiększać"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wzrost",
+          "hossa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-increasingly",
+    "word": "increasingly",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "coraz bardziej"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-incredible",
+    "word": "incredible",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niewiarygodny",
+          "niebywały",
+          "nieprawdopodobny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-incredulous",
+    "word": "incredulous",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niedowierzający",
+          "sceptyczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-increment",
+    "word": "increment",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "premia",
+          "dodatek płacowy",
+          "dodatek"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-incriminate",
+    "word": "incriminate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "inkryminować",
+          "obciążać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-incubate",
+    "word": "incubate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wysiadywać",
+          "inkubować się",
+          "inkubować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-incubator",
+    "word": "incubator",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "inkubator"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-incur",
+    "word": "incur",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zaciągać",
+          "robić",
+          "narażać się",
+          "na coś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-incurable",
+    "word": "incurable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieuleczalny",
+          "niepoprawny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-incursion",
+    "word": "incursion",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wypad",
+          "wtargnięcie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-indebted",
+    "word": "indebted",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "zobowiązany",
+          "komuś",
+          "zadłużony",
+          "w"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-indecency",
+    "word": "indecency",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "nieprzyzwoitość"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-indecent",
+    "word": "indecent",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieprzywoity",
+          "niegodny",
+          "uwłaczający"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-indecision",
+    "word": "indecision",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "niezdecydowanie",
+          "niepewność"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-indecisive",
+    "word": "indecisive",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niezdecydowany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-indeed",
+    "word": "indeed",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "faktycznie",
+          "naprawdę",
+          "doprawdy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-indefinable",
+    "word": "indefinable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieuchwytny",
+          "nieokreślony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-indefinite",
+    "word": "indefinite",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieokreślony"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "przedimek nieokreślony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-indefinitely",
+    "word": "indefinitely",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "aż do odwołania"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-indelible",
+    "word": "indelible",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niezmywalny",
+          "niezatarty"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-indemnify",
+    "word": "indemnify",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "płacić odszkodowanie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-indent",
+    "word": "indent",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "obijać",
+          "robić wgłębienie",
+          "wcinać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-independence",
+    "word": "independence",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "niezależność",
+          "niepodległość"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-independent",
+    "word": "independent",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niezależny",
+          "od",
+          "niepodległy",
+          "prywatny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-indescribable",
+    "word": "indescribable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieopisany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-indestructible",
+    "word": "indestructible",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niezniszczalny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-indeterminate",
+    "word": "indeterminate",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieokreślony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-index",
+    "word": "index",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "indeks"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "indeksować"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "palec wskazujący"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-India",
+    "word": "India",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Indie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-Indian",
+    "word": "Indian",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "indyjski",
+          "indiański"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Hindus",
+          "Indianin"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-Indiana",
+    "word": "Indiana",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Indiana"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-Indianian",
+    "word": "Indianian",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "ze stanu Indiana"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-indicate",
+    "word": "indicate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wskazywać",
+          "nadmieniać",
+          "sygnalizować "
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-indication",
+    "word": "indication",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "znak"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-indicative",
+    "word": "indicative",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wskazujący",
+          "na",
+          "tryb oznajmujący"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-indicator",
+    "word": "indicator",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wskaźnik",
+          "kierunkowskaz"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-indict",
+    "word": "indict",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "postawić w stan oskarżenia",
+          "z powodu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-indictment",
+    "word": "indictment",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "oskarżenie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-indifferent",
+    "word": "indifferent",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "obojętny",
+          "na",
+          "mierny",
+          "przeciętny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-indigenous",
+    "word": "indigenous",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "rodzimy",
+          "dla",
+          "w",
+          "miejscowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-indigestible",
+    "word": "indigestible",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niestrawny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-indigestion",
+    "word": "indigestion",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "niestrawność"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-indignant",
+    "word": "indignant",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "oburzony",
+          "wzburzony",
+          "co do"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-indignation",
+    "word": "indignation",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "oburzenie",
+          "wzburzenie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-indignity",
+    "word": "indignity",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zniewaga",
+          "obraza"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-indirect",
+    "word": "indirect",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "pośredni",
+          "okrężny",
+          "nie bezpośredni"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "dopełnienie dalsze"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-indiscreet",
+    "word": "indiscreet",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niedyskretny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-indiscretion",
+    "word": "indiscretion",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "niedyskrecja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-indiscriminate",
+    "word": "indiscriminate",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niewybredny",
+          "ogólny",
+          "bez wyboru"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-indispensable",
+    "word": "indispensable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieodzowny",
+          "dla",
+          "w"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-indisputable",
+    "word": "indisputable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niezaprzeczalny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-indistinct",
+    "word": "indistinct",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niewyraźny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-indistinguishable",
+    "word": "indistinguishable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieodróżnialny",
+          "od"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-individual",
+    "word": "individual",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "indywidualny",
+          "osobisty"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "jednostka",
+          "osobnik"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "jednostkowy",
+          "osobniczy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-individualist",
+    "word": "individualist",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "indywidualista"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-individuality",
+    "word": "individuality",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "indywidualność"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-individually",
+    "word": "individually",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "indywidualnie",
+          "pojedynczo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-indivisible",
+    "word": "indivisible",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niepodzielny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-indoctrinate",
+    "word": "indoctrinate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "indoktrynować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-indolent",
+    "word": "indolent",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "leniwy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-Indonesia",
+    "word": "Indonesia",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Indonezja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-Indonesian",
+    "word": "Indonesian",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "indonezyjski"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Indonezyjczyk"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-indoor",
+    "word": "indoor",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "pokojowy",
+          "domowy",
+          "pod przykryciem"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-indoors",
+    "word": "indoors",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "wewnątrz"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-indubitable",
+    "word": "indubitable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niezaprzeczalny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-induce",
+    "word": "induce",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wywoływać",
+          "zachęcać",
+          "skłaniać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inducement",
+    "word": "inducement",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zachęta"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-indulge",
+    "word": "indulge",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "oddawać się",
+          "czemuś",
+          "dogadzać",
+          "komuś",
+          "sobie",
+          "spełniać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-indulgence",
+    "word": "indulgence",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pobłażliwość",
+          "dogadzanie sobie",
+          "dogadzanie",
+          "słabość",
+          "luksus",
+          "oddanie",
+          "zaangażowanie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-indulgent",
+    "word": "indulgent",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "pobłażliwy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-industrial",
+    "word": "industrial",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "przemysłowy",
+          "zindustrializowany",
+          "robotniczy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-industrialist",
+    "word": "industrialist",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "przemysłowiec"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-industrialization",
+    "word": "industrialization",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "industrializacja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-industrialize",
+    "word": "industrializeindustrialise",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "industrializować",
+          "uprzemysławiać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-industrious",
+    "word": "industrious",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "pracowity"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-industry",
+    "word": "industry",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "przemysł",
+          "pracowitość"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inedible",
+    "word": "inedible",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niejadalny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-ineffective",
+    "word": "ineffective",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieskuteczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-ineffectual",
+    "word": "ineffectual",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieefektywny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inefficiency",
+    "word": "inefficiency",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "niesprawność",
+          "nieefektywność"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inefficient",
+    "word": "inefficient",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niewydajny",
+          "nieefektywny",
+          "energiochłonny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inelegant",
+    "word": "inelegant",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieelegancki"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-ineligible",
+    "word": "ineligible",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nie nadający się",
+          "do"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inept",
+    "word": "inept",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niedorzeczny",
+          "nieumiejętny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inequality",
+    "word": "inequality",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "nierówność",
+          "niejednakowość",
+          "niedopasowanie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-ineradicable",
+    "word": "ineradicable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nie do wykorzenienia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inert",
+    "word": "inert",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "bezwładny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inertia",
+    "word": "inertia",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "apatia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inescapable",
+    "word": "inescapable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieunikniony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inessential",
+    "word": "inessential",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieistotny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inestimable",
+    "word": "inestimable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieoszacowany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inevitable",
+    "word": "inevitable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieuchronny",
+          "nie do uniknięcia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inexact",
+    "word": "inexact",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niedokładny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inexcusable",
+    "word": "inexcusable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niewybaczalny",
+          "nieusprawiedliwiony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inexhaustible",
+    "word": "inexhaustible",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niewyczerpany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inexorable",
+    "word": "inexorable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieubłagany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inexpensive",
+    "word": "inexpensive",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niedrogi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inexperience",
+    "word": "inexperience",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "brak doświadczenia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inexperienced",
+    "word": "inexperienced",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niedoświadczony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inexplicable",
+    "word": "inexplicable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niewytłumaczalny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inexpressible",
+    "word": "inexpressible",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niewyrażalny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inextricable",
+    "word": "inextricable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nierozerwalny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-infallible",
+    "word": "infallible",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieomylny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-infamous",
+    "word": "infamous",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niesławny",
+          "o złej sławie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-infamy",
+    "word": "infamy",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "niesława"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-infancy",
+    "word": "infancy",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "niemowlęctwo",
+          "dzieciństwo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-infant",
+    "word": "infant",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "dziecko małe",
+          "dziecko",
+          "niemowlę"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-infantile",
+    "word": "infantile",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "dziecięcy",
+          "dziecinny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-infantry",
+    "word": "infantry",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "piechota"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-infatuated",
+    "word": "infatuated",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "zadurzony",
+          "w"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-infatuation",
+    "word": "infatuation",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zadurzenie",
+          "zaślepienie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-infect",
+    "word": "infect",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "infekować",
+          "zarażać",
+          "czymś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-infection",
+    "word": "infection",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zakażenie",
+          "infekcja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-infectious",
+    "word": "infectious",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "zaraźliwy",
+          "infekcyjny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-infer",
+    "word": "infer",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wysnuć wnioski",
+          "wnioskować",
+          "z",
+          "sugerować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inference",
+    "word": "inference",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wniosek",
+          "wnioskowanie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inferior",
+    "word": "inferior",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "gorszy",
+          "niż"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "podwładny",
+          "osoba o niższym statusie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-infernal",
+    "word": "infernal",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "piekielny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inferno",
+    "word": "inferno",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "piekło",
+          "morze ognia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-infertile",
+    "word": "infertile",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niepłodny",
+          "bezpłodny",
+          "nieurodzajny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-infertility",
+    "word": "infertility",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "bezpłodność",
+          "nieurodzajność"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-infested",
+    "word": "infested",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "opanowany",
+          "przez"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-infidel",
+    "word": "infidel",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niewierny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-infidelity",
+    "word": "infidelity",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zdrada",
+          "niewierność"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-in-fighting",
+    "word": "in-fighting",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wewnętrzne rozgrywki"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-infiltrate",
+    "word": "infiltrate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "przenikać",
+          "do"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-infinite",
+    "word": "infinite",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieskończony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-infinitive",
+    "word": "infinitive",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "bezokolicznik"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-infinity",
+    "word": "infinity",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "nieskończoność"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-infirm",
+    "word": "infirm",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "słaby",
+          "niedołężny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-infirmary",
+    "word": "infirmary",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "szpital"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inflame",
+    "word": "inflame",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "rozjuszać",
+          "rozogniać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inflamed",
+    "word": "inflamed",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "zaogniony",
+          "rozogniony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inflammable",
+    "word": "inflammable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "łatwopalny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inflammation",
+    "word": "inflammation",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zapalenie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inflate",
+    "word": "inflate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "nadmuchiwać",
+          "nadymać się",
+          "nadymać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inflated",
+    "word": "inflated",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nadmuchiwany",
+          "nadęty",
+          "rozdęty",
+          "zawyżony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inflation",
+    "word": "inflation",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "inflacja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inflationary",
+    "word": "inflationary",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "inflacyjny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inflect",
+    "word": "inflect",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "odmieniać się",
+          "odmieniać"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "odmienny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inflexible",
+    "word": "inflexible",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niezmienny",
+          "sztywny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inflict",
+    "word": "inflict",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wymierzać",
+          "narzucać",
+          "coś komuś",
+          "coś komuś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-influence",
+    "word": "influence",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wpływ",
+          "czynnik"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wpływać",
+          "mieć wpływ",
+          "na kogoś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-influential",
+    "word": "influential",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wpływowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-influenza",
+    "word": "influenza",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "grypa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-influx",
+    "word": "influx",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "napływ"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inform",
+    "word": "inform",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "informować",
+          "zawiadamiać",
+          "o"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-informal",
+    "word": "informal",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieformalny",
+          "luźny",
+          "nieoficjalny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-informant",
+    "word": "informant",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "informator",
+          "donosiciel"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-information",
+    "word": "information",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "informacja",
+          "wiadomości"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-informative",
+    "word": "informative",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "informacyjny",
+          "pouczający"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-informed",
+    "word": "informed",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "dobrze poinformowany",
+          "kompetentny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-informer",
+    "word": "informer",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "donosiciel"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-infra-red",
+    "word": "infra-red",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "podczerwony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-infrequent",
+    "word": "infrequent",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "rzadki",
+          "nieczęsty"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-infringe",
+    "word": "infringe",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "łamać",
+          "naruszać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-infringement",
+    "word": "infringement",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "naruszenie",
+          "złamanie",
+          "czegoś",
+          "czegoś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-infuriate",
+    "word": "infuriate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "rozwścieczać",
+          "doprowadzać do furii"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-ingenious",
+    "word": "ingenious",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "przemyślny",
+          "pomysłowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-ingenuity",
+    "word": "ingenuity",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pomysłowość"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-ingenuous",
+    "word": "ingenuous",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niewinny",
+          "prostolinijny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-ingratiate",
+    "word": "ingratiate",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "wkradać się w czyjeś łaski",
+          "wkradać się w łaski"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-ingratitude",
+    "word": "ingratitude",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "niewdzięczność"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-ingredient",
+    "word": "ingredient",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "składnik"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inhabit",
+    "word": "inhabit",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zamieszkiwać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inhabitant",
+    "word": "inhabitant",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "mieszkaniec"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inhale",
+    "word": "inhale",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wdychać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inherent",
+    "word": "inherent",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieodłączny",
+          "od",
+          "wrodzony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inherit",
+    "word": "inherit",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "dziedziczyć",
+          "z",
+          "od"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inheritance",
+    "word": "inheritance",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "dziedzictwo",
+          "dziedziczenie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inhibit",
+    "word": "inhibit",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "powstrzymywać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inhibition",
+    "word": "inhibition",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "hamulec",
+          "zahamowanie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inhospitable",
+    "word": "inhospitable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niegościnny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inhuman",
+    "word": "inhuman",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieludzki"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inhumane",
+    "word": "inhumane",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieludzki",
+          "niehumanitarny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inimitable",
+    "word": "inimitable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niepowtarzalny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-iniquitous",
+    "word": "iniquitous",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niegodziwy",
+          "krzywdzący"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-iniquity",
+    "word": "iniquity",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "niegodziwość"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-initial",
+    "word": "initial",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "początkowy"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "inicjał"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "parafować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-initiate",
+    "word": "initiate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "inicjować",
+          "zaczynać",
+          "wprowadzać",
+          "w",
+          "do"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-initiative",
+    "word": "initiative",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "inicjatywa",
+          "prowadzenie",
+          "przewaga",
+          "przedsięwzięcie",
+          "samodzielność",
+          "przedsiębiorczość",
+          "podejmować przedsięwzięcie",
+          "brać inicjatywę",
+          "działać z własnej inicjatywy",
+          "z własnej inicjatywy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inject",
+    "word": "inject",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wstrzykiwać",
+          "w",
+          "wprowadzać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-injection",
+    "word": "injection",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zastrzyk"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-injunction",
+    "word": "injunction",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zalecenie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-injure",
+    "word": "injure",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "ranić",
+          "się"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-injury",
+    "word": "injury",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "rana",
+          "obrażenie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-injustice",
+    "word": "injustice",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "niesprawiedliwość",
+          "być dla kogoś niesprawiedliwym"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-ink",
+    "word": "ink",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "atrament"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-ink-jet",
+    "word": "ink-jet",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "atramentowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inkling",
+    "word": "inkling",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "przypuszczać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inlaid",
+    "word": "inlaid",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wykładany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inland",
+    "word": "inland",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "w głąb lądu"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "lądowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-in-laws",
+    "word": "in-laws",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "teściowie",
+          "rodzina teściów"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inlet",
+    "word": "inlet",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zatoka",
+          "odnoga morska",
+          "odnoga"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inmate",
+    "word": "inmate",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pensjonariusz",
+          "mieszkaniec"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inn",
+    "word": "inn",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zajazd",
+          "karczma"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-innate",
+    "word": "innate",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wrodzony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inner",
+    "word": "inner",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wewnętrzny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-innocence",
+    "word": "innocence",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "niewinność",
+          "naiwność"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-innocent",
+    "word": "innocent",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niewinny",
+          "prostolinijny",
+          "naiwny"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "naiwna osoba"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-innocuous",
+    "word": "innocuous",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieszkodliwy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-innovation",
+    "word": "innovation",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "innowacja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-innuendo",
+    "word": "innuendo",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "przytyk",
+          "aluzja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-innumerable",
+    "word": "innumerable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieprzeliczony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inoculate",
+    "word": "inoculate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "szczepić ochronnie",
+          "szczepić",
+          "czymś przeciwko"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inopportune",
+    "word": "inopportune",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niestosowny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inordinate",
+    "word": "inordinate",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieumiarkowany",
+          "nadmierny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inorganic",
+    "word": "inorganic",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieorganiczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-input",
+    "word": "input",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wprowadzanie",
+          "wejście"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wejściowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inquest",
+    "word": "inquest",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "śledztwo",
+          "badanie przyczyny zgonu",
+          "badanie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inquire",
+    "word": "inquireenquire",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "dowiadywać się",
+          "zasięgać informacji"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "pytać się o coś",
+          "pytać się"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "badać coś",
+          "badać",
+          "dociekać czegoś",
+          "dociekać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inquiring",
+    "word": "inquiring",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wnikliwy",
+          "dociekliwy",
+          "badawczy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inquiry",
+    "word": "inquiryenquiry",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zapytanie",
+          "dociekanie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inquisitive",
+    "word": "inquisitive",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "ciekawski",
+          "wścibski"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inroads",
+    "word": "inroads",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "dawać się odczuć gdzieś",
+          "dawać się odczuć"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-insane",
+    "word": "insane",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "szalony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-insanitary",
+    "word": "insanitary",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niehigieniczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-insanity",
+    "word": "insanity",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "szaleństwo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-insatiable",
+    "word": "insatiable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieposkromiony",
+          "nienasycony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inscribe",
+    "word": "inscribe",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "ryć",
+          "grawerować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inscription",
+    "word": "inscription",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "napis"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inscrutable",
+    "word": "inscrutable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieprzenikliwy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-insect",
+    "word": "insect",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "owad"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-insecticide",
+    "word": "insecticide",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "środek owadobójczy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-insecure",
+    "word": "insecure",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niepewny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-insecurity",
+    "word": "insecurity",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "niepewność"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-insensitive",
+    "word": "insensitive",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niewrażliwy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inseparable",
+    "word": "inseparable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieodłączny",
+          "od"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-insert",
+    "word": "insert",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wsuwać",
+          "wkładać",
+          "wstawiać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-insertion",
+    "word": "insertion",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wstawka",
+          "wstawienie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inshore",
+    "word": "inshore",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "przybrzeżny"
+        ]
+      },
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "przy brzegu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-insidious",
+    "word": "insidious",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "podstępny",
+          "zdradliwy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-insight",
+    "word": "insight",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wgląd",
+          "pojmowanie",
+          "czegoś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-insignificant",
+    "word": "insignificant",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieważny",
+          "nie liczący się"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-insincere",
+    "word": "insincere",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieszczery"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-insinuate",
+    "word": "insinuate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "insynuować",
+          "wkręcać się",
+          "w",
+          "do"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-insipid",
+    "word": "insipid",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "banalny",
+          "mdły"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-insist",
+    "word": "insist",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "upierać się",
+          "przy",
+          "nalegać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-insistence",
+    "word": "insistence",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "naleganie",
+          "upieranie się",
+          "przy czymś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-insistent",
+    "word": "insistent",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "uporczywy",
+          "nalegający",
+          "natarczywy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-insofar_as",
+    "word": "insofar as",
+    "trans": [
+      {
+        "gramGrp": "Conj",
+        "texts": [
+          "na tyle",
+          "na ile"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-insolent",
+    "word": "insolent",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "bezczelny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-insoluble",
+    "word": "insoluble",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nierozwiązalny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-insolvent",
+    "word": "insolvent",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niewypłacalny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-insomnia",
+    "word": "insomnia",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "bezsenność"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inspect",
+    "word": "inspect",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "badać",
+          "oglądać",
+          "kontrolować",
+          "przeprowadzać inspekcję"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inspection",
+    "word": "inspection",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kontrola",
+          "inspekcja",
+          "badanie",
+          "oględziny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inspector",
+    "word": "inspector",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "inspektor",
+          "kontroler"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inspiration",
+    "word": "inspiration",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "inspiracja",
+          "natchnienie",
+          "pierwowzór",
+          "źródło pomysłów"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inspire",
+    "word": "inspire",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "pobudzać",
+          "skłaniać",
+          "natchnąć",
+          "budzić",
+          "coś u kogoś",
+          "inspirować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inspired",
+    "word": "inspired",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "natchniony",
+          "błyskotliwy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inst.",
+    "word": "inst.",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "b.m.",
+          "bieżącego miesiąca"
+        ]
+      },
+      {
+        "gramGrp": "",
+        "texts": [
+          "instytut"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-instability",
+    "word": "instability",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "niestabilność"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-install",
+    "word": "install",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "instalować",
+          "umieszczać",
+          "kogoś jako",
+          "lokować się"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-installation",
+    "word": "installation",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "instalacja",
+          "zainstalowanie",
+          "podłączenie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-instance",
+    "word": "instance",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "przypadek",
+          "na przykład",
+          "przede wszystkim"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-instantaneous",
+    "word": "instantaneous",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "natychmiastowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-instep",
+    "word": "instep",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "śródstopie",
+          "wnętrze stopy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-instigate",
+    "word": "instigate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "podjudzać",
+          "poduszczać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-instigation",
+    "word": "instigation",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "poduszczenie",
+          "za czyimś podszeptem"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-instigator",
+    "word": "instigator",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "sprawca moralny",
+          "sprawca"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-instil",
+    "word": "instilinstill",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zaszczepiać",
+          "wywoływać",
+          "u kogoś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-instinct",
+    "word": "instinct",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "instynkt",
+          "reakcja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-instinctive",
+    "word": "instinctive",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "instynktowny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-institute",
+    "word": "institute",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "instytut"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wprowadzać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-institution",
+    "word": "institution",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "instytucja",
+          "zakład"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-instruct",
+    "word": "instruct",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "instruować",
+          "nauczać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-instruction",
+    "word": "instruction",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "nauka",
+          "nauczanie",
+          "pouczenie",
+          "instrukcja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-instructive",
+    "word": "instructive",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "pouczający",
+          "kształcący"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-instructor",
+    "word": "instructor",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "instruktor"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-instrument",
+    "word": "instrument",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "instrument",
+          "przyrząd",
+          "narzędzie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-instrumental",
+    "word": "instrumental",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "instrumentalny",
+          "przyczyniać się do czegoś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-insubordinate",
+    "word": "insubordinate",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niesubordynowany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-insubordination",
+    "word": "insubordination",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "niesubordynacja",
+          "nieposłuszeństwo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-insufferable",
+    "word": "insufferable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieznośny",
+          "nie do wytrzymania"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-insufficient",
+    "word": "insufficient",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niewystarczający",
+          "do"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-insular",
+    "word": "insular",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "odizolowany",
+          "prowincjonalny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-insulate",
+    "word": "insulate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "izolować",
+          "przed",
+          "przed"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-insulation",
+    "word": "insulation",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "izolacja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-insult",
+    "word": "insult",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "obrażać",
+          "urażać"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "obraza",
+          "wyzwisko"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-insuperable",
+    "word": "insuperable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieprzezwyciężalny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-insurance",
+    "word": "insurance",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ubezpieczenie",
+          "zabezpieczenie",
+          "przeciwko",
+          "odszkodowanie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-insure",
+    "word": "insure",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "ubezpieczać",
+          "się",
+          "zabezpieczać się",
+          "zabezpieczać",
+          "przeciw"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-insurgent",
+    "word": "insurgent",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "powstaniec"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-insurmountable",
+    "word": "insurmountable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niepokonany",
+          "nieprzezwyciężony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-insurrection",
+    "word": "insurrection",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "powstanie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-int.",
+    "word": "int.",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "wnętrze"
+        ]
+      },
+      {
+        "gramGrp": "",
+        "texts": [
+          "wewnętrzny"
+        ]
+      },
+      {
+        "gramGrp": "",
+        "texts": [
+          "międzynarodowy"
+        ]
+      },
+      {
+        "gramGrp": "",
+        "texts": [
+          "nieprzechodni"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-intact",
+    "word": "intact",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nietknięty"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-intake",
+    "word": "intake",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zużycie",
+          "przyjmowanie",
+          "nabór"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-intangible",
+    "word": "intangible",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieuchwytny",
+          "trudny do opisu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-integer",
+    "word": "integer",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "liczba całkowita"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-integral",
+    "word": "integral",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "integralny",
+          "dla",
+          "w"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-integrate",
+    "word": "integrate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "integrować",
+          "się",
+          "z",
+          "w",
+          "scalać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-integrated",
+    "word": "integrated",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "zintegrowany"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "układ scalony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-integrity",
+    "word": "integrity",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "prawość",
+          "integralność",
+          "prawy człowiek"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-intellect",
+    "word": "intellect",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "intelekt",
+          "inteligencja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-intellectual",
+    "word": "intellectual",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "intelektualny",
+          "intelektualistyczny"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "intelektualista"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-intelligence",
+    "word": "intelligence",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "inteligencja",
+          "wywiad"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-intelligent",
+    "word": "intelligent",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "inteligentny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-intelligible",
+    "word": "intelligible",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "zrozumiały"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-intend",
+    "word": "intend",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zamierzać",
+          "planować",
+          "przeznaczać",
+          "na"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-intense",
+    "word": "intense",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "gwałtowny",
+          "silny",
+          "poważny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-intensify",
+    "word": "intensify",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "intensyfikować się",
+          "intensyfikować",
+          "wzmagać się",
+          "wzmagać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-intensity",
+    "word": "intensity",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "intensywność"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-intensive",
+    "word": "intensive",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "intensywny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-intent",
+    "word": "intent",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zamierzenie"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "uważny",
+          "zdecydowany",
+          "na",
+          "do",
+          "pod każdym względem"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-intention",
+    "word": "intention",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zamiar"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-intentional",
+    "word": "intentional",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "intencjonalny",
+          "rozmyślny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-interact",
+    "word": "interact",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "oddziaływać",
+          "wzajemnie na siebie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-interactive",
+    "word": "interactive",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "interakcyjny",
+          "wzajemny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-intercede",
+    "word": "intercede",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "interweniować",
+          "wstawiać się",
+          "za A u B"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-intercept",
+    "word": "intercept",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zatrzymywać",
+          "przechwytywać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-interchange",
+    "word": "interchange",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wymiana",
+          "wjazd na autostradę",
+          "wjazd"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-interchangeable",
+    "word": "interchangeable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wymienny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-intercom",
+    "word": "intercom",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "interkom ",
+          "domofon"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-intercontinental",
+    "word": "intercontinental",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "międzykontynentalny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-intercourse",
+    "word": "intercourse",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "stosunek płciowy",
+          "stosunek"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-interdependent",
+    "word": "interdependent",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "współzależny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-interest",
+    "word": "interest",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zainteresowanie",
+          "hobby",
+          "interes",
+          "przy",
+          "w",
+          "udziały",
+          "oprocentowanie",
+          "odsetki"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "interesować",
+          "zainteresowywać",
+          "coś interesującego",
+          "interesującego",
+          "na korzyść",
+          "w interesie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-interesting",
+    "word": "interesting",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "interesujący"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-interface",
+    "word": "interface",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "interfejs",
+          "sprzęg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-interfere",
+    "word": "interfere",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "mieszać się",
+          "do",
+          "kolidować",
+          "z",
+          "przeszkadzać",
+          "w",
+          "brać się",
+          "do",
+          "tykać się",
+          "czegoś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-interference",
+    "word": "interference",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "interwencja",
+          "w",
+          "mieszanie się",
+          "do",
+          "interferencja radiowa",
+          "interferencja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-interim",
+    "word": "interim",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "tymczasowy",
+          "czasowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-interior",
+    "word": "interior",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wnętrze"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wewnętrzny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-interject",
+    "word": "interject",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wtrącać się",
+          "wtrącać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-interjection",
+    "word": "interjection",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "uwaga",
+          "wtrącenie się",
+          "wtrącenie",
+          "wykrzyknik"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-interlock",
+    "word": "interlock",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wiązać",
+          "się ze sobą",
+          "zespalać się",
+          "zespalać",
+          "zaplatać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-interloper",
+    "word": "interloper",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "intruz"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-interlude",
+    "word": "interlude",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "przerwa",
+          "interludium"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-intermarriage",
+    "word": "intermarriage",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "małżeństwo mieszane"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-intermediary",
+    "word": "intermediary",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pośrednik"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-intermediate",
+    "word": "intermediate",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "pośredni",
+          "średni"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-interminable",
+    "word": "interminable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nie kończący się"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-intermission",
+    "word": "intermission",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "przerwa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-intermittent",
+    "word": "intermittent",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "okresowy",
+          "przerywany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-intern",
+    "word": "intern",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "internować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-internal",
+    "word": "internal",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wewnętrzny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-internally",
+    "word": "internally",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wewnątrz"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wewnętrzny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-international",
+    "word": "international",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "międzynarodowy"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "spotkanie międzynarodowe"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-internment",
+    "word": "internment",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "internowanie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-interplay",
+    "word": "interplay",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wzajemne oddziaływanie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-interpret",
+    "word": "interpret",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "interpretować",
+          "rozumieć",
+          "przekładać",
+          "tłumaczyć",
+          "coś z A na B"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-interpretation",
+    "word": "interpretation",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "interpretacja",
+          "przekład ustny",
+          "przekład"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-interpreter",
+    "word": "interpreter",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "tłumacz ustny",
+          "tłumacz"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-interrelate",
+    "word": "interrelate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wiązać się",
+          "wiązać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-interrogate",
+    "word": "interrogate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "przesłuchiwać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-interrogation",
+    "word": "interrogation",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "przesłuchanie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-interrogative",
+    "word": "interrogative",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "pytający"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-interrogator",
+    "word": "interrogator",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "śledczy",
+          "przesłuchujący"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-interrupt",
+    "word": "interrupt",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "przerywać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-interruption",
+    "word": "interruption",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "przerwanie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-intersect",
+    "word": "intersect",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "przecinać się",
+          "przecinać",
+          "być pociętym"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-intersection",
+    "word": "intersection",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "skrzyżowanie",
+          "A z B",
+          "przecięcie",
+          "punkt przecięcia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-intersperse",
+    "word": "intersperse",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "przemieszać",
+          "przetykać",
+          "czymś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-intertwine",
+    "word": "intertwine",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "splatać się",
+          "splatać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-interval",
+    "word": "interval",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "przerwa",
+          "interwał",
+          "w odstępach czasu",
+          "w odstępach",
+          "miejscami"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-intervene",
+    "word": "intervene",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "interweniować",
+          "ingerować",
+          "w",
+          "wchodzić w słowo",
+          "przeszkadzać",
+          "przechodzić"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-intervening",
+    "word": "intervening",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "pośredni",
+          "znajdujący się pośrodku"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-interview",
+    "word": "interview",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wywiad",
+          "rozmowa kwalifikacyjna"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "przeprowadzać wywiad",
+          "z kimś",
+          "przeprowadzać rozmowę kwalifikacyjną",
+          "z kimś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-intestinal",
+    "word": "intestinal",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "jelitowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-intestine",
+    "word": "intestine",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "jelito"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-intimacy",
+    "word": "intimacy",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "intymność",
+          "pomiędzy",
+          "z"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-intimate",
+    "word": "intimate",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "intymny",
+          "serdeczny",
+          "bliski",
+          "ścisły",
+          "rozległy"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "bliski przyjaciel",
+          "przyjaciel",
+          "być w intymnych stosunkach z kimś",
+          "być w intymnych stosunkach"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "dawać do zrozumienia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-intimidate",
+    "word": "intimidate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zastraszać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-intimidation",
+    "word": "intimidation",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zastraszenie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-into",
+    "word": "into",
+    "trans": [
+      {
+        "gramGrp": "Prep",
+        "texts": [
+          "do",
+          "do domu",
+          "w",
+          "długo w nocy",
+          "zbadanie wypadku",
+          "na",
+          "rozerwać na 8 kawałków",
+          "tłumaczyć na angielski",
+          "lubić coś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-intolerable",
+    "word": "intolerable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieznośny",
+          "nie do wytrzymania"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-intolerant",
+    "word": "intolerant",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nietolerancyjny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-intonation",
+    "word": "intonation",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "intonacja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-intone",
+    "word": "intone",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "intonować",
+          "recytować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-intoxicated",
+    "word": "intoxicated",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "pijany",
+          "upojony",
+          "czymś",
+          "czymś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-intoxicating",
+    "word": "intoxicating",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "alkoholowy",
+          "oszałamiający"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-intoxication",
+    "word": "intoxication",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "upojenie alkoholowe",
+          "upojenie się",
+          "oszołomienie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-intr.",
+    "word": "intr.",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "nieprzechodni"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-intractable",
+    "word": "intractable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "oporny",
+          "uparty",
+          "niepodatny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-intransitive",
+    "word": "intransitive",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieprzechodni"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-intrepid",
+    "word": "intrepid",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieustraszony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-intricacy",
+    "word": "intricacy",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "skomplikowanie",
+          "zawiłość"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-intricate",
+    "word": "intricate",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "zawiły"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-intrigue",
+    "word": "intrigue",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "intryga"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "intrygować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-intrinsic",
+    "word": "intrinsic",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "zasadniczy",
+          "podstawowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-intro",
+    "word": "intro",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "wstęp"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-introduce",
+    "word": "introduce",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "przedstawiać",
+          "się",
+          "komuś",
+          "wprowadzać",
+          "do",
+          "w"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-introduction",
+    "word": "introduction",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wprowadzenie",
+          "wprowadzenie",
+          "do",
+          "przedmowa",
+          "wstęp",
+          "przedstawienie",
+          "prezentacja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-introductory",
+    "word": "introductory",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wstępny",
+          "wprowadzający"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-introspection",
+    "word": "introspection",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "introspekcja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-introspective",
+    "word": "introspective",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "rozmyślający nad sobą",
+          "rozmyślający"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-introvert",
+    "word": "introvert",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "introwertyk"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-intrude",
+    "word": "intrude",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "przeszkadzać",
+          "komuś",
+          "mieszać się",
+          "do czegoś",
+          "naruszać",
+          "coś",
+          "wdzierać się",
+          "na czegoś",
+          "do czegoś",
+          "nachodzić",
+          "kogoś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-intruder",
+    "word": "intruder",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "intruz",
+          "natręt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-intrusion",
+    "word": "intrusion",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "najście",
+          "wdzieranie się"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-intrusive",
+    "word": "intrusive",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "natrętny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-intuition",
+    "word": "intuition",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "intuicja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-intuitive",
+    "word": "intuitive",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "intuicyjny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inundate",
+    "word": "inundate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zatapiać",
+          "zasypywać",
+          "kogoś czymś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-invade",
+    "word": "invade",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "najeżdżać",
+          "przeprowadzać inwazję",
+          "opanowywać",
+          "naruszać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-invalid",
+    "word": "invalid",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "inwalida",
+          "kaleka"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "inwalidzki"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieważny",
+          "nie wiążący",
+          "bezpodstawny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-invalidate",
+    "word": "invalidate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "unieważniać",
+          "znosić"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-invaluable",
+    "word": "invaluable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieoceniony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-invariable",
+    "word": "invariable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niezmienny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-invasion",
+    "word": "invasion",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "inwazja",
+          "najście",
+          "najazd"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-invective",
+    "word": "invective",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "inwektywa",
+          "obelga"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-invent",
+    "word": "invent",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wynajdować",
+          "wymyślać",
+          "wynaleźć"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-invention",
+    "word": "invention",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wynalazek",
+          "wynalezienie",
+          "wymysł",
+          "inwencja",
+          "fantazja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inventive",
+    "word": "inventive",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wynalazczy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inventor",
+    "word": "inventor",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wynalazca"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inventory",
+    "word": "inventory",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "inwentarz",
+          "spis"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inverse",
+    "word": "inverse",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "odwrotny"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "inwersja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-invert",
+    "word": "invert",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "odwracać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-invertebrate",
+    "word": "invertebrate",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "bezkręgowiec"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inverted_commas",
+    "word": "inverted commas",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "cudzysłów"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-invest",
+    "word": "invest",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "inwestować",
+          "obdarzać",
+          "kogoś czymś",
+          "nakładać",
+          "coś na kogoś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-investigate",
+    "word": "investigate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "przeprowadzać dochodzenie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-investigation",
+    "word": "investigation",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "dochodzenie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-investigator",
+    "word": "investigator",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "prowadzący dochodzenie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-investment",
+    "word": "investment",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "inwestowanie",
+          "inwestycja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-investor",
+    "word": "investor",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "inwestor"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-invidious",
+    "word": "invidious",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nienawistny",
+          "nierówny",
+          "niekorzystny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-invigorating",
+    "word": "invigorating",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "pobudzający",
+          "ożywczy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-invincible",
+    "word": "invincible",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niepokonany",
+          "niezwyciężony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-invisible",
+    "word": "invisible",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niewidoczny",
+          "dla",
+          "niewidzialny",
+          "ukryty"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-invitation",
+    "word": "invitation",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zaproszenie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-invite",
+    "word": "invite",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zapraszać",
+          "kogoś na",
+          "kogoś na",
+          "zachęcać",
+          "skłaniać",
+          "wyzywać ",
+          "przyzywać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inviting",
+    "word": "inviting",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "zachęcający"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-invoice",
+    "word": "invoice",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "faktura"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-invoke",
+    "word": "invoke",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "powoływać się na",
+          "przywoływać",
+          "wywoływać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-involuntary",
+    "word": "involuntary",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "mimowolny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-involve",
+    "word": "involve",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "obejmować",
+          "wciągać",
+          "dotyczyć",
+          "pociągać za sobą",
+          "odnosić się",
+          "do czegoś",
+          "tyczyć się",
+          "czegoś",
+          "wplątywać",
+          "wmieszywać",
+          "kogoś w",
+          "kogoś do",
+          "angażować się",
+          "w",
+          "w"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-involved",
+    "word": "involved",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "zaabsorbowany",
+          "w",
+          "z",
+          "wciągnięty",
+          "wplątany",
+          "zawiły",
+          "pogmatwany",
+          "odnośny",
+          "zainteresowany",
+          "o który chodzi",
+          "człowiek, o którego chodzi",
+          "wiązać się z kimś",
+          "zaczynać romansować z kimś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-involvement",
+    "word": "involvement",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zaangażowanie",
+          "w",
+          "przy",
+          "wciągnięcie",
+          "wplątanie",
+          "odniesienie",
+          "stosunki",
+          "do",
+          "do",
+          "romans",
+          "z"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-invulnerable",
+    "word": "invulnerable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niezniszczalny",
+          "nie do zranienia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inward",
+    "word": "inward",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wewnętrzny",
+          "do środka",
+          "do wewnątrz",
+          "dośrodkowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-inwards",
+    "word": "inwards",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "do środka",
+          "do wewnątrz"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-iodine",
+    "word": "iodine",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "jod",
+          "jodyna"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-ion",
+    "word": "ion",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "jon"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-iota",
+    "word": "iota",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "jota",
+          "nie zmienić się ani na jotę"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-IOU",
+    "word": "IOU",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "jestem winien"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-Iowa",
+    "word": "Iowa",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Iowa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-IQ",
+    "word": "IQ",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "iloraz inteligencji"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-IRA",
+    "word": "IRA",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "Irlandzka Armia Republikańska"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-Iran",
+    "word": "Iran",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Iran"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-Iranian",
+    "word": "Iranian",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "irański"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Irańczyk"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-Iraq",
+    "word": "Iraq",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Irak"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-Iraqi",
+    "word": "Iraqi",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "iracki"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-irascible",
+    "word": "irascible",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "drażliwy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-irate",
+    "word": "irate",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "rozgniewany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-Ire.",
+    "word": "Ire.",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "Irlandia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-Ireland",
+    "word": "Ireland",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Irlandia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-iridescent",
+    "word": "iridescent",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "opalizujący"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-iris",
+    "word": "iris",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "tęczówka",
+          "irys",
+          "kosaciec"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-Irish",
+    "word": "Irish",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "irlandzki",
+          "Irlandczycy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-Irishman",
+    "word": "Irishman",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Irlandczyk"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-Irishwoman",
+    "word": "Irishwoman",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Irlandka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-irksome",
+    "word": "irksome",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "dokuczliwy",
+          "uciążliwy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-iron",
+    "word": "iron",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "żelazo",
+          "żelazko"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "żelazny",
+          "nieugięty"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "prasować"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "wygładzać",
+          "pokonywać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-ironic",
+    "word": "ironicironical",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "ironiczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-ironically",
+    "word": "ironically",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "jak na ironię",
+          "ironicznie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-ironing_board",
+    "word": "ironing board",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "deska do prasowania"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-irony",
+    "word": "irony",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ironia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-irrational",
+    "word": "irrational",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "irracjonalny",
+          "nielogiczny",
+          "nierozumny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-irreconcilable",
+    "word": "irreconcilable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nie do pogodzenia",
+          "nieprzejednany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-irreducible",
+    "word": "irreducible",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieredukowalny",
+          "nieprzekazywalny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-irrefutable",
+    "word": "irrefutable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niezbity"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-irregular",
+    "word": "irregular",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieregularny",
+          "nieprawidłowy",
+          "nieregulaminowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-irregularity",
+    "word": "irregularity",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "nieregularność",
+          "nieprawidłowość"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-irrelevance",
+    "word": "irrelevance",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "brak związku"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-irrelevant",
+    "word": "irrelevant",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieistotny",
+          "bez związku",
+          "co do",
+          "zbyteczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-irreligious",
+    "word": "irreligious",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niereligijny",
+          "nie wierzący"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-irreparable",
+    "word": "irreparable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieodwracalny",
+          "niepowetowany",
+          "nie do naprawienia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-irreplaceable",
+    "word": "irreplaceable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niezastąpiony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-irrepressible",
+    "word": "irrepressible",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieokiełznany",
+          "nie do pognębienia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-irreproachable",
+    "word": "irreproachable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nienaganny",
+          "bez zarzutu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-irresistible",
+    "word": "irresistible",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieodparty",
+          "nieprzeparty",
+          "nie do odparcia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-irresolute",
+    "word": "irresolute",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niezdecydowany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-irrespective",
+    "word": "irrespective",
+    "trans": [
+      {
+        "gramGrp": "Prep",
+        "texts": [
+          "niezależnie",
+          "od"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-irresponsible",
+    "word": "irresponsible",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieodpowiedzialny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-irretrievable",
+    "word": "irretrievable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieodwracalny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-irreverent",
+    "word": "irreverent",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "lekceważący",
+          "bez szacunku"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-irrevocable",
+    "word": "irrevocable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieodwołalny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-irrigate",
+    "word": "irrigate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "irygować",
+          "nawadniać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-irrigation",
+    "word": "irrigation",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "irygacja",
+          "nawodnienie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-irritable",
+    "word": "irritable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nerwowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-irritant",
+    "word": "irritant",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "środek drażniący"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-irritate",
+    "word": "irritate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "irytować",
+          "podrażniać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-irritation",
+    "word": "irritation",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "irytacja",
+          "podrażnienie",
+          "środek drażniący"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-is.",
+    "word": "is.",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "wyspa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-Islam",
+    "word": "Islam",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "islam"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-Islamic",
+    "word": "Islamic",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "muzułmański"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-island",
+    "word": "island",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wyspa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-islander",
+    "word": "islander",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wyspiarz"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-isle",
+    "word": "isle",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wyspa",
+          "ostrów"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-isolate",
+    "word": "isolate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "izolować",
+          "wyobcowywać",
+          "wyobcowywać",
+          "się",
+          "wyodrębniać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-isolation",
+    "word": "isolation",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "odosobnienie",
+          "osamotnienie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-Israel",
+    "word": "Israel",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Izrael"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-Israeli",
+    "word": "Israeli",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "izraelski"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Izraelczyk"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-issue",
+    "word": "issue",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zagadnienie",
+          "problem",
+          "sprawa",
+          "numer"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wydawać",
+          "wydawać",
+          "coś komuś",
+          "coś komuś",
+          "dobiegać",
+          "dochodzić",
+          "z",
+          "pod dyskusją",
+          "w centrum dyskusji",
+          "robić z czegoś sprawę"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-isthmus",
+    "word": "isthmus",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "przesmyk"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-it",
+    "word": "it",
+    "trans": [
+      {
+        "gramGrp": "Pron",
+        "texts": [
+          "to",
+          "on",
+          "ona",
+          "ono",
+          "pada",
+          "jest",
+          "ciepło jest dzisiaj",
+          "ciepło",
+          "to",
+          "to ja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-Italian",
+    "word": "Italian",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "włoski"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Włoch"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-italics",
+    "word": "italics",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kursywa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-Italy",
+    "word": "Italy",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Włochy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-itch",
+    "word": "itch",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "swędzieć",
+          "będzie cię swędziało",
+          "mieć chrapkę",
+          "świerzbi mnie, aby pójść"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "swędzenie",
+          "chrapka",
+          "wielka ochota"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-itchy",
+    "word": "itchy",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "swędzący"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-item",
+    "word": "item",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pozycja",
+          "sprawa",
+          "artykuł",
+          "wiadomość"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-itemize",
+    "word": "itemizeitemise",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "sporządzać listę"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-itinerant",
+    "word": "itinerant",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wędrowny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-itinerary",
+    "word": "itinerary",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "plan podróży",
+          "marszruta"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-its",
+    "word": "its",
+    "trans": [
+      {
+        "gramGrp": "Pron",
+        "texts": [
+          "jego",
+          "jej",
+          "ich",
+          "swój "
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-itself",
+    "word": "itself",
+    "trans": [
+      {
+        "gramGrp": "Pron",
+        "texts": [
+          "się",
+          "siebie",
+          "sam",
+          "sama rama",
+          "sam w sobie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-ITV",
+    "word": "ITV",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "Telewizja Niezależna"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-ivory",
+    "word": "ivory",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kość słoniowa "
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-ivy",
+    "word": "ivy",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "bluszcz"
+        ]
+      }
+    ]
+  }
+]

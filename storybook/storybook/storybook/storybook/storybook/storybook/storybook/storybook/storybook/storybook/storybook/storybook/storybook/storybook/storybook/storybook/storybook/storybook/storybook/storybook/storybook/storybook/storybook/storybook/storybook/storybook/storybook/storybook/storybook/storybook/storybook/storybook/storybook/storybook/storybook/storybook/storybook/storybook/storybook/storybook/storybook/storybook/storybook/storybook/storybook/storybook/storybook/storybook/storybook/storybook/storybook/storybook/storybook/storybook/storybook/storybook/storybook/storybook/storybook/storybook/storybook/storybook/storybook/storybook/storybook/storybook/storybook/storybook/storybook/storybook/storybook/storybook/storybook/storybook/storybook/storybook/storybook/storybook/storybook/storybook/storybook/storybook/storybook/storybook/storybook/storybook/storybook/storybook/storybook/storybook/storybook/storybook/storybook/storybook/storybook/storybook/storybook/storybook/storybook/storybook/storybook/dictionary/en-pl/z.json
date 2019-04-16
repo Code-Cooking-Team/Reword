@@ -1,0 +1,362 @@
+[
+  {
+    "id": "z-Zaire",
+    "word": "Zaire",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Zair"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "z-Zairean",
+    "word": "Zairean",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "zairski"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "z-Zambia",
+    "word": "Zambia",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Zambia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "z-Zambian",
+    "word": "Zambian",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "zambijski"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "z-zany",
+    "word": "zany",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "dziwaczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "z-zeal",
+    "word": "zeal",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zapał"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "z-zealous",
+    "word": "zealous",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "zapalony",
+          "fanatyczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "z-zebra",
+    "word": "zebra",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zebra"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "zebra",
+          "przejście dla pieszych"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "z-zenith",
+    "word": "zenith",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zenit"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "z-zero",
+    "word": "zero",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zero"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "zerowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "z-zest",
+    "word": "zest",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "radość życia",
+          "przyjemność"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "z-zigzag",
+    "word": "zigzag",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zygzak"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "poruszać się zygzakiem"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "z-Zimbabwe",
+    "word": "Zimbabwe",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Zimbabwe"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "z-zinc",
+    "word": "zinc",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "cynk"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "z-Zion",
+    "word": "Zion",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Syjon"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "z-Zionism",
+    "word": "Zionism",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "syjonizm"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "z-Zionist",
+    "word": "Zionist",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "syjonista"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "z-zip",
+    "word": "zip",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zamek błyskawiczny"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zamykać na zamek błyskawiczny",
+          "zamykać"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "kod pocztowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "z-zipper",
+    "word": "zipper",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zamek błyskawiczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "z-zodiac",
+    "word": "zodiac",
+    "trans": [
+      {
+        "gramGrp": "",
+        "texts": [
+          "zodiak"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "z-zombie",
+    "word": "zombie",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "żywy trup"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "z-zone",
+    "word": "zone",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "strefa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "z-zoo",
+    "word": "zoo",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zoo",
+          "ogród zoologiczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "z-zoology",
+    "word": "zoology",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zoologia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "z-zoom",
+    "word": "zoom",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "mknąć",
+          "szybować"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "najeżdżać"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "obiektyw ze zmienną ogniskową"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "z-zucchini",
+    "word": "zucchini",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "cukinia"
+        ]
+      }
+    ]
+  }
+]
