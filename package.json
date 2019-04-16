@@ -11,7 +11,8 @@
     "lint": "eslint 'src/**/*.{ts,tsx}'",
     "storybook": "start-storybook -p 6006",
     "build:storybook": "build-storybook -o build/storybook",
-    "predeploy": "rm -rf dist && npm run build && npm run build:storybook",
+    "build:dictionary": "node dictionary",
+    "predeploy": "rm -rf dist && npm run build && npm run build:storybook && npm run build:dictionary",
     "deploy": "gh-pages -d build"
   },
   "lint-staged": {
@@ -60,6 +61,7 @@
     "@typescript-eslint/eslint-plugin": "^1.6.0",
     "@typescript-eslint/parser": "^1.6.0",
     "babel-loader": "^8.0.5",
+    "cheerio": "^1.0.0-rc.3",
     "eslint": "^5.16.0",
     "eslint-config-prettier": "^4.1.0",
     "eslint-plugin-react": "^7.12.4",
