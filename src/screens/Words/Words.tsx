@@ -5,11 +5,13 @@ import { Header } from '../../components/Header'
 import { Search } from '../../components/Search'
 import { FloatingButton } from '../../components/FloatingButton'
 import { WordsItem } from './WordsItem'
+import { Modal } from '../../components/Modal'
 
 export const Words = () => {
     const { words, addWord, removeWord } = useWords()
     const [search, setSearch] = useState('')
 
+    const [showModal, setShowModal] = useState(false)
     const [word, setWord] = useState('')
     const [translation, setTranslation] = useState('')
     const [example, setExample] = useState('')
@@ -26,7 +28,6 @@ export const Words = () => {
             <Header title="Words" iconName="words">
                 <Search value={search} onChange={setSearch} />
             </Header>
-
             <table>
                 <thead>
                     <tr>
@@ -47,28 +48,43 @@ export const Words = () => {
                         ))}
                 </tbody>
             </table>
-            <div>
-                Word:
-                <input type="text" value={word} onChange={e => setWord(e.target.value)} />
-            </div>
-            <div>
-                Translation:
-                <input
-                    type="text"
-                    value={translation}
-                    onChange={e => setTranslation(e.target.value)}
-                />
-            </div>
-            <div>
-                Example:
-                <input
-                    type="text"
-                    value={example}
-                    onChange={e => setExample(e.target.value)}
-                />
-            </div>
-            {/* <AddButton onClick={addNewWord}>Add new word</AddButton> */}
-            <FloatingButton onClick={addNewWord} iconName="plus" />
+            <FloatingButton onClick={() => setShowModal(!showModal)} iconName="plus" />
+            {showModal && (
+                <Modal
+                    footer={() => (
+                        <>
+                            <button onClick={() => setShowModal(false)}>Close</button>
+                            <button onClick={addNewWord}>Zapisz</button>
+                        </>
+                    )}
+                    close={() => setShowModal(false)}
+                >
+                    <div>
+                        Word:
+                        <input
+                            type="text"
+                            value={word}
+                            onChange={e => setWord(e.target.value)}
+                        />
+                    </div>
+                    <div>
+                        Translation:
+                        <input
+                            type="text"
+                            value={translation}
+                            onChange={e => setTranslation(e.target.value)}
+                        />
+                    </div>
+                    <div>
+                        Example:
+                        <input
+                            type="text"
+                            value={example}
+                            onChange={e => setExample(e.target.value)}
+                        />
+                    </div>
+                </Modal>
+            )}
         </div>
     )
 }
