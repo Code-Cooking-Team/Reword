@@ -6,6 +6,7 @@ import { Search } from '../../components/Search'
 import { FloatingButton } from '../../components/FloatingButton'
 import { WordsItem } from './WordsItem'
 import { Modal } from '../../components/Modal'
+import { Input } from '../../components/Input'
 
 export const Words = () => {
     const { words, addWord, removeWord } = useWords()
@@ -60,11 +61,11 @@ export const Words = () => {
                     close={() => setShowModal(false)}
                 >
                     <div>
-                        Word:
-                        <input
+                        <Input
                             type="text"
                             value={word}
-                            onChange={e => setWord(e.target.value)}
+                            onChange={val => setWord(val)}
+                            placeholder="Word:"
                         />
                     </div>
                     <div>

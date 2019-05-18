@@ -1,7 +1,7 @@
 import { keyframes, css } from 'styled-components'
 const fadeUpKeyframes = keyframes`
   from {
-    transform: translateY(60px) scale(0.8);
+    transform: translateY(80px);
     opacity: 0;
   }
 
@@ -10,9 +10,8 @@ const fadeUpKeyframes = keyframes`
     opacity: 1;
   }
 `
-
 export const fadeUpAnimation = css`
-    animation: ${fadeUpKeyframes} 0.4s ease forwards;
+    animation: ${fadeUpKeyframes} 0.4s cubic-bezier(0.29, 0.87, 0.54, 0.99) forwards;
 `
 
 const fadeInKeyframes = keyframes`
@@ -25,5 +24,5 @@ const fadeInKeyframes = keyframes`
   }
 `
 export const fadeInAnimation = css`
-    animation: ${fadeInKeyframes} 0.4s ease forwards;
+    animation: ${fadeInKeyframes} 0.4s cubic-bezier(0.29, 0.87, 0.54, 0.99) forwards;
 `
