@@ -62,26 +62,24 @@ export const Words = () => {
                 >
                     <div>
                         <Input
-                            type="text"
                             value={word}
-                            onChange={val => setWord(val)}
-                            placeholder="Word:"
+                            onChange={setWord}
+                            placeholder="Word"
+                            autoFocus
                         />
                     </div>
                     <div>
                         <Input
-                            type="text"
                             value={translation}
-                            onChange={value => setTranslation(value)}
-                            placeholder="Translation:"
+                            onChange={setTranslation}
+                            placeholder="Translation"
                         />
                     </div>
                     <div>
                         <Input
-                            type="text"
                             value={example}
-                            onChange={value => setExample(value)}
-                            placeholder="Example:"
+                            onChange={setExample}
+                            placeholder="Example"
                         />
                     </div>
                 </Modal>

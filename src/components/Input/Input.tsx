@@ -1,41 +1,36 @@
 import React, { useState } from 'react'
 import styled from 'styled-components'
-import { muted, gray, brand } from '../../styles/colors'
-
-// const [inputCorrect, inputSetCorrect] = useState(false)
-// const [inputFocus, inputSetFocus] = useState(false)
+import { brand, muted } from '../../styles/colors'
 
 type InputProps = {
     value: string
-    type: string
+    type?: string
     placeholder: string
     onChange: (value: string) => void
+    autoFocus?: boolean
 }
 
 export const Input = (props: InputProps) => {
-    const [inputState, inputStateSet] = useState({
-        focus: false,
-        correct: props.value != '',
-    })
+    const { value, type = 'text', placeholder, onChange, autoFocus } = props
+
+    const [focus, setFocus] = useState(false)
 
     return (
-        <Label focus={inputState.focus}>
-            <LabelName correct={inputState.correct}>{props.placeholder}</LabelName>
+        <Label active={focus}>
+            <LabelName move={value !== ''}>{placeholder}</LabelName>
             <InputStyled
-                type={props.type}
-                value={props.value}
-                onChange={e => {
-                    inputStateSet({ ...inputState, correct: e.target.value != '' })
-                    return props.onChange(e.target.value)
-                }}
-                onFocus={e => inputStateSet({ ...inputState, focus: true })}
-                onBlur={e => inputStateSet({ ...inputState, focus: false })}
+                type={type}
+                value={value}
+                onChange={event => onChange(event.target.value)}
+                onFocus={() => setFocus(true)}
+                onBlur={() => setFocus(false)}
+                autoFocus={autoFocus}
             />
         </Label>
     )
 }
 
-const Label = styled.label<{ focus: boolean }>`
+const Label = styled.label<{ active: boolean }>`
     position: relative;
     display: block;
     &:after {
@@ -47,13 +42,12 @@ const Label = styled.label<{ focus: boolean }>`
         height: 2px;
         opacity: 1;
         transition: transform 0.25s ease-out;
-        transform: scaleX(${props => (props.focus ? 1 : 0)});
+        transform: scaleX(${props => (props.active ? 1 : 0)});
         background: ${brand};
-        /* background: ${props => (props.focus ? brand : gray)}; */
     }
 `
 
-const LabelName = styled.span<{ correct: boolean }>`
+const LabelName = styled.span<{ move: boolean }>`
     position: absolute;
     top: 9px;
     left: 0px;
@@ -61,9 +55,9 @@ const LabelName = styled.span<{ correct: boolean }>`
     transition: transform 0.15s ease-out;
     color: ${muted};
     cursor: text;
-    transform-origin: 0 0; //top left dla skali
+    transform-origin: 0 0; // top left for scale
     transform: ${props =>
-        props.correct ? `translateY(-17px) scale(0.8)` : `translate(0px)`};
+        props.move ? `translateY(-17px) scale(0.8)` : `translate(0px)`};
 `
 
 const InputStyled = styled.input`
@@ -74,7 +68,4 @@ const InputStyled = styled.input`
     width: 100%;
     margin: 15px 0;
     border-bottom: 2px solid ${muted};
-    /* &:focus {
-        border-bottom-color: ${brand};
-    } */
 `
