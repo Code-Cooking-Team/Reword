@@ -10,7 +10,11 @@
 button:active,
 button:focus,
 a:active,
-a:focus {
+a:focus,
+input:active,
+input:focus,
+textarea:active,
+textarea:focus {
     background-image: none;
     outline: 0;
     -webkit-box-shadow: none;

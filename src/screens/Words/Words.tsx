@@ -69,19 +69,19 @@ export const Words = () => {
                         />
                     </div>
                     <div>
-                        Translation:
-                        <input
+                        <Input
                             type="text"
                             value={translation}
-                            onChange={e => setTranslation(e.target.value)}
+                            onChange={value => setTranslation(value)}
+                            placeholder="Translation:"
                         />
                     </div>
                     <div>
-                        Example:
-                        <input
+                        <Input
                             type="text"
                             value={example}
-                            onChange={e => setExample(e.target.value)}
+                            onChange={value => setExample(value)}
+                            placeholder="Example:"
                         />
                     </div>
                 </Modal>
