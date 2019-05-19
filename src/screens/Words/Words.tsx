@@ -55,7 +55,7 @@ export const Words = () => {
                     footer={() => (
                         <>
                             <button onClick={() => setShowModal(false)}>Close</button>
-                            <button onClick={addNewWord}>Zapisz</button>
+                            <button onClick={addNewWord}>Save</button>
                         </>
                     )}
                     close={() => setShowModal(false)}

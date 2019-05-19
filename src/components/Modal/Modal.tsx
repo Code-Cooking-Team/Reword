@@ -3,6 +3,7 @@ import styled from 'styled-components'
 import { fadeInAnimation, fadeUpAnimation } from '../../styles/animation'
 import ReactDOM from 'react-dom'
 import { white } from '../../styles/colors'
+import { floatingShadow } from '../../styles/shadow'
 
 type ModalProps = {
     children?: ReactNode
@@ -37,7 +38,9 @@ const ModalBox = styled.div`
     overflow-y: auto;
     background: ${white};
     border-radius: 4px;
-    z-index: 999999;
+    z-index: 1000;
+    padding: 15px;
+    box-shadow: ${floatingShadow};
     ${fadeUpAnimation};
 `
 

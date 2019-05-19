@@ -1,6 +1,9 @@
-import React from 'react'
+import React, { useState } from 'react'
 import styled from 'styled-components'
 import { muted, gray, brand } from '../../styles/colors'
+
+// const [inputFocus, inputSetFocus] = useState(false)
+// const [inputCorrect, inputSetCorrect] = useState(false)
 
 type InputProps = {
     value: string
@@ -16,6 +19,8 @@ export const Input = (props: InputProps) => (
             type={props.type}
             value={props.value}
             onChange={e => props.onChange(e.target.value)}
+            // onFocus={e => inputSetFocus(true)}
+            // onBlur={e => inputSetFocus(false)}
         />
     </Label>
 )
@@ -23,6 +28,15 @@ export const Input = (props: InputProps) => (
 const Label = styled.label`
     position: relative;
     display: block;
+    &:after {
+        content: '';
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        height: 2px;
+        opacity: 1;
+    }
 `
 
 const LabelName = styled.span`
@@ -37,5 +51,9 @@ const InputStyled = styled.input`
     display: block;
     width: 100%;
     margin: 10px 0;
+    transition: border 0.2s ease-out;
     border-bottom: 2px solid ${gray};
+    &:focus {
+        border-bottom-color: ${brand};
+    }
 `
