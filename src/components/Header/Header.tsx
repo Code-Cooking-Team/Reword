@@ -10,10 +10,19 @@ type HeaderProps = {
 
 export const Header = (props: HeaderProps) => {
     return (
-        <header>
+        <HeaderWrapper>
             <Icon name={props.iconName} size="large" />
             <h1>{props.title}</h1>
             {props.children}
-        </header>
+        </HeaderWrapper>
     )
 }
+
+const HeaderWrapper = styled.header`
+    display: flex;
+    min-height: 260px;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+`

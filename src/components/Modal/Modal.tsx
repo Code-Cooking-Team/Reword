@@ -33,8 +33,8 @@ const ModalBox = styled.div`
     bottom: 15px;
     margin: 0 auto auto;
     /* Ease way to change modal size :) */
-    width: calc(100vw - 30px);
-    max-height: calc(100vh - 30px);
+    width: calc(100vw - 20px);
+    max-height: calc(100vh - 20px);
     overflow-y: auto;
     background: ${white};
     border-radius: 4px;
