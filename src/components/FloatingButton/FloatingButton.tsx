@@ -3,6 +3,7 @@ import styled from 'styled-components'
 import { IconName, Icon } from '../Icon'
 import { brand, white } from '../../styles/colors'
 import { floatingShadow } from '../../styles/shadow'
+import { NAV_HEIGHT } from '../Nav'
 
 type FloatingButtonProps = {
     onClick: () => void
@@ -17,14 +18,15 @@ export const FloatingButton = (props: FloatingButtonProps) => (
 
 const Button = styled.button`
     position: fixed;
-    bottom: 100px;
-    right: 10px;
+    bottom: ${NAV_HEIGHT + 15}px;
+    right: 15px;
     padding: 12px;
     border: 2px solid ${white};
     color: ${brand};
     box-shadow: ${floatingShadow};
     border-radius: 50%;
     background: ${white};
+    transition: 0.2s;
     &:active {
         border-color: ${brand};
     }

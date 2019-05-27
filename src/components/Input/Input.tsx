@@ -5,13 +5,14 @@ import { brand, muted } from '../../styles/colors'
 type InputProps = {
     value: string
     type?: string
+    name?: string
     placeholder: string
     onChange: (value: string) => void
     autoFocus?: boolean
 }
 
 export const Input = (props: InputProps) => {
-    const { value, type = 'text', placeholder, onChange, autoFocus } = props
+    const { value, type = 'text', placeholder, onChange, autoFocus, name } = props
 
     const [focus, setFocus] = useState(false)
 
@@ -25,6 +26,7 @@ export const Input = (props: InputProps) => {
                 onFocus={() => setFocus(true)}
                 onBlur={() => setFocus(false)}
                 autoFocus={autoFocus}
+                name={name}
             />
         </Label>
     )
