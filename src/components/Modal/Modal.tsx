@@ -1,11 +1,13 @@
 import React, { ReactNode } from 'react'
-import styled from 'styled-components'
-import { fadeInAnimation, fadeUpAnimation } from '../../styles/animation'
 import ReactDOM from 'react-dom'
+import Transition, { TransitionStatus } from 'react-transition-group/Transition'
+import styled from 'styled-components'
+import { fadeInOutAnimation, fadeUpDownAnimation } from '../../styles/animations'
 import { white } from '../../styles/colors'
 import { floatingShadow } from '../../styles/shadow'
 
 type ModalProps = {
+    show: boolean
     children?: ReactNode
     footer?: () => ReactNode
     close?: () => void
@@ -13,26 +15,29 @@ type ModalProps = {
 
 export const Modal = (props: ModalProps) => {
     return ReactDOM.createPortal(
-        <>
-            <ModalBox>
-                {props.children}
-                {props.footer && props.footer()}
-            </ModalBox>
-            <Overlay onClick={props.close} />
-        </>,
+        <Transition in={props.show} timeout={1000}>
+            {status => (
+                <>
+                    <ModalBox status={status}>
+                        {props.children}
+                        {props.footer && props.footer()}
+                    </ModalBox>
+                    <Overlay status={status} onClick={props.close} />
+                </>
+            )}
+        </Transition>,
         modalRoot
     )
 }
 
 const modalRoot = document.getElementById('modals')
 
-const ModalBox = styled.div`
+const ModalBox = styled.div<{ status: TransitionStatus }>`
     position: fixed;
     left: 0;
     right: 0;
     bottom: 15px;
     margin: 0 auto auto;
-    /* Ease way to change modal size :) */
     width: calc(100vw - 20px);
     max-height: calc(100vh - 20px);
     overflow-y: auto;
@@ -41,10 +46,10 @@ const ModalBox = styled.div`
     z-index: 1000;
     padding: 15px;
     box-shadow: ${floatingShadow};
-    ${fadeUpAnimation};
+    ${p => fadeUpDownAnimation(p.status)};
 `
 
-const Overlay = styled.div`
+const Overlay = styled.div<{ status: TransitionStatus }>`
     position: fixed;
     top: 0;
     left: 0;
@@ -52,5 +57,5 @@ const Overlay = styled.div`
     bottom: 0;
     background: rgba(0, 0, 0, 0.1);
     z-index: 100;
-    ${fadeInAnimation};
+    ${p => fadeInOutAnimation(p.status)};
 `

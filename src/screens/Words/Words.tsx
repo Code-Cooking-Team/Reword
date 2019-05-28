@@ -1,12 +1,11 @@
 import React, { useState } from 'react'
-import styled from 'styled-components'
-import { useWords } from '../../store'
-import { Header } from '../../components/Header'
-import { Search } from '../../components/Search'
 import { FloatingButton } from '../../components/FloatingButton'
-import { WordsItem } from './WordsItem'
-import { Modal } from '../../components/Modal'
+import { Header } from '../../components/Header'
 import { Input } from '../../components/Input'
+import { Modal } from '../../components/Modal'
+import { Search } from '../../components/Search'
+import { useWords } from '../../store'
+import { WordsItem } from './WordsItem'
 
 export const Words = () => {
     const { words, addWord, removeWord } = useWords()
@@ -50,40 +49,30 @@ export const Words = () => {
                 </tbody>
             </table>
             <FloatingButton onClick={() => setShowModal(!showModal)} iconName="plus" />
-            {showModal && (
-                <Modal
-                    footer={() => (
-                        <>
-                            <button onClick={() => setShowModal(false)}>Close</button>
-                            <button onClick={addNewWord}>Save</button>
-                        </>
-                    )}
-                    close={() => setShowModal(false)}
-                >
-                    <div>
-                        <Input
-                            value={word}
-                            onChange={setWord}
-                            placeholder="Word"
-                            autoFocus
-                        />
-                    </div>
-                    <div>
-                        <Input
-                            value={translation}
-                            onChange={setTranslation}
-                            placeholder="Translation"
-                        />
-                    </div>
-                    <div>
-                        <Input
-                            value={example}
-                            onChange={setExample}
-                            placeholder="Example"
-                        />
-                    </div>
-                </Modal>
-            )}
+            <Modal
+                show={showModal}
+                footer={() => (
+                    <>
+                        <button onClick={() => setShowModal(false)}>Close</button>
+                        <button onClick={addNewWord}>Save</button>
+                    </>
+                )}
+                close={() => setShowModal(false)}
+            >
+                <div>
+                    <Input value={word} onChange={setWord} placeholder="Word" />
+                </div>
+                <div>
+                    <Input
+                        value={translation}
+                        onChange={setTranslation}
+                        placeholder="Translation"
+                    />
+                </div>
+                <div>
+                    <Input value={example} onChange={setExample} placeholder="Example" />
+                </div>
+            </Modal>
         </div>
     )
 }
