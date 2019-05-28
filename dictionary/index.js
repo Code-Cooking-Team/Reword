@@ -5,17 +5,18 @@ const cheerioLoad = require('cheerio').load
 
 const alphabet = 'abcdefghijklmnopqrstuvwxyz'.split('')
 
-const OUTPUT = path.resolve(__dirname, '../build/dictionary')
+const OUTPUT = path.resolve(__dirname, '../public/dictionary')
+const OUTPUT_EN_PL = `${OUTPUT}/en-pl`
 
 const getDataFilePath = letter => path.resolve(__dirname, `./data/en-pl/${letter}.xml`)
-const getSaveFilePath = letter => `${OUTPUT}/en-pl/${letter}.json`
+const getSaveFilePath = letter => `${OUTPUT_EN_PL}/${letter}.json`
 
-try {
+if (!fs.existsSync(OUTPUT_EN_PL)) {
     fs.mkdirSync(OUTPUT)
-    fs.mkdirSync(`${OUTPUT}/en-pl`)
-} catch (_) {
-    console.log(`Cannot create ${OUTPUT} dir`)
+    fs.mkdirSync(OUTPUT_EN_PL)
 }
+
+let total = 0
 
 alphabet.forEach(letter => {
     const xmlFile = fs.readFileSync(getDataFilePath(letter), 'utf-8')
@@ -29,6 +30,8 @@ alphabet.forEach(letter => {
         const mainGramGrp = entry.find('>gramGrp>pos').text()
         const trans = []
 
+        if (word.length <= 3) return
+
         entry.find('>sense').each((i, el) => {
             const sense = $(el)
             const gramGrp = sense.find('>gramGrp>pos').text() || mainGramGrp
@@ -36,13 +39,21 @@ alphabet.forEach(letter => {
                 .find('cit[type="trans"]>quote')
                 .map((i, el) => $(el).text())
                 .get()
+
+            if (!gramGrp.trim()) return
+
             trans.push({ gramGrp, texts })
         })
+
+        if (!trans.length) return
 
         data.push({ id, word, trans })
     })
 
     console.log(`${letter}: ${data.length} words`)
+    total += data.length
 
     fs.writeFileSync(getSaveFilePath(letter), JSON.stringify(data, null, 2))
 })
+
+console.log(`--------------\nTotal: ${total} words`)

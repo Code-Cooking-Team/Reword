@@ -1,13 +1,4 @@
-export type DictionaryItem = {
-    id: string
-    word: string
-    trans: DictionaryTrans[]
-}
-
-type DictionaryTrans = {
-    gramGrp: string
-    texts: string[]
-}
+import { DictionaryItem } from './types'
 
 const alphabet = 'abcdefghijklmnopqrstuvwxyz'.split('')
 const cache = {}

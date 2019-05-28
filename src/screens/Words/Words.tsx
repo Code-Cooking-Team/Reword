@@ -4,8 +4,12 @@ import { Header } from '../../components/Header'
 import { Input } from '../../components/Input'
 import { Modal } from '../../components/Modal'
 import { Search } from '../../components/Search'
+import { useDictionary } from '../../hooks/useDictionary'
+import { DictionaryTrans } from '../../hooks/useDictionary/types'
 import { useWords } from '../../store'
 import { WordsItem } from './WordsItem'
+import styled from 'styled-components'
+import { light } from '../../styles/colors'
 
 export const Words = () => {
     const { words, addWord, removeWord } = useWords()
@@ -16,12 +20,16 @@ export const Words = () => {
     const [translation, setTranslation] = useState('')
     const [example, setExample] = useState('')
 
+    const { results } = useDictionary(word)
+
     const addNewWord = () => {
         addWord(word.trim(), translation.trim(), example.trim())
         setWord('')
         setTranslation('')
         setExample('')
     }
+
+    const getTrans = (trans: DictionaryTrans[]) => trans.map(t => t.texts[0]).join(', ')
 
     return (
         <div>
@@ -60,8 +68,23 @@ export const Words = () => {
                 close={() => setShowModal(false)}
             >
                 <div>
-                    <Input value={word} onChange={setWord} placeholder="Word" />
+                    <Input value={word} placeholder="Word" onChange={setWord} />
                 </div>
+                {!translation && (
+                    <div>
+                        {results.map(item => (
+                            <AutocompleteItem
+                                key={item.id}
+                                onClick={() => {
+                                    setWord(item.word)
+                                    setTranslation(getTrans(item.trans))
+                                }}
+                            >
+                                <b>{item.word}</b> - {getTrans(item.trans)}
+                            </AutocompleteItem>
+                        ))}
+                    </div>
+                )}
                 <div>
                     <Input
                         value={translation}
@@ -76,3 +99,13 @@ export const Words = () => {
         </div>
     )
 }
+
+const AutocompleteItem = styled.button`
+    display: block;
+    width: 100%;
+    padding: 1em 0;
+    border: none;
+    border-bottom: 1px solid ${light};
+    text-align: left;
+    font-size: 14px;
+`
