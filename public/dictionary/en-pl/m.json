@@ -1,0 +1,11278 @@
+[
+  {
+    "id": "m-macabre",
+    "word": "macabre",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "makabryczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-macaroni",
+    "word": "macaroni",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "makaron rurki"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-Macedonia",
+    "word": "Macedonia",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Macedonia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-Macedonian",
+    "word": "Macedonian",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "macedoński"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Macedończyk"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-machete",
+    "word": "machete",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "maczeta"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-machine",
+    "word": "machine",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "maszyna",
+          "aparat"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "obrabiać maszynowo",
+          "obrabiać"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "karabin maszynowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-machinery",
+    "word": "machinery",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "urządzenia mechaniczne",
+          "maszyny",
+          "maszyneria",
+          "mechanizm"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-macintosh",
+    "word": "macintosh",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "płaszcz przeciwdeszczowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mackerel",
+    "word": "mackerel",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "makrela"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mackintosh",
+    "word": "mackintosh",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "płaszcz przeciwdeszczowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-madden",
+    "word": "madden",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "rozwścieczać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-made",
+    "word": "made",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "zrobiony",
+          "z"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-made-to-measure",
+    "word": "made-to-measure",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "zrobiony na zamówienie",
+          "zrobiony na miarę"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-madly",
+    "word": "madly",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "szalenie",
+          "szaleńczo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-madman",
+    "word": "madman",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "szaleniec",
+          "wariat"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-madness",
+    "word": "madness",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "szaleństwo",
+          "obłęd"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-Madrid",
+    "word": "Madrid",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Madryt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-magazine",
+    "word": "magazine",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "magazyn",
+          "miesięcznik"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-maggot",
+    "word": "maggot",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "czerw"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-magic",
+    "word": "magic",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "magia",
+          "czary",
+          "czar"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "magiczny",
+          "czarodziejski"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-magical",
+    "word": "magical",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "czarodziejski",
+          "magiczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-magician",
+    "word": "magician",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "iluzjonista",
+          "prestidigitator",
+          "czarownik"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-magistrate",
+    "word": "magistrate",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "sędzia pokoju"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-magnanimous",
+    "word": "magnanimous",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wielkoduszny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-magnate",
+    "word": "magnate",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "magnat"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-magnet",
+    "word": "magnet",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "magnes"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-magnetic",
+    "word": "magnetic",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "magnetyczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-magnification",
+    "word": "magnification",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "powiększenie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-magnificent",
+    "word": "magnificent",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wspaniały"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-magnify",
+    "word": "magnify",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "powiększać",
+          "wyolbrzymiać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-magnitude",
+    "word": "magnitude",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wielkość",
+          "duży rozmiar",
+          "rozmiar"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-magpie",
+    "word": "magpie",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "sroka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mahogany",
+    "word": "mahogany",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "mahoń"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-maid",
+    "word": "maid",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pokojówka",
+          "służąca"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-maiden",
+    "word": "maiden",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "panna",
+          "dziewica"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "dziewiczy"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "nazwisko panieńskie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mail",
+    "word": "mail",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "poczta"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wysyłać pocztą",
+          "wysyłać",
+          "pocztą"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "zamówienie pocztowe"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mailbox",
+    "word": "mailbox",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "skrzynka pocztowa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mailman",
+    "word": "mailman",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "listonosz"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-maim",
+    "word": "maim",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "okaleczać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-Maine",
+    "word": "Maine",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Maine"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mainframe",
+    "word": "mainframe",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "komputer główny duży",
+          "komputer główny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mainland",
+    "word": "mainland",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kontynent"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "kontynentalny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mainly",
+    "word": "mainly",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "głównie",
+          "zasadniczo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mainspring",
+    "word": "mainspring",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "główna przyczyna sprężyna",
+          "główna przyczyna"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mainstay",
+    "word": "mainstay",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "podstawa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mainstream",
+    "word": "mainstream",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "główny nurt"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "najważniejszy",
+          "uważany za podstawowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-maintain",
+    "word": "maintain",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "utrzymywać",
+          "kogoś",
+          "konserwować",
+          "coś",
+          "dbać",
+          "o coś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-maintenance",
+    "word": "maintenance",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "utrzymanie",
+          "konserwacja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-maisonette",
+    "word": "maisonette",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "małe mieszkanie dwupoziomowe",
+          "mieszkanie dwupoziomowe"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-maize",
+    "word": "maize",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kukurydza"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-majestic",
+    "word": "majestic",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "majestatyczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-major",
+    "word": "major",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "główny",
+          "durowy",
+          "dur",
+          "majorowy"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "major"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "pełnoletni"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "specjalizować się",
+          "w"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-majority",
+    "word": "majority",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "większość",
+          "pełnoletność",
+          "stanowić większość"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-make-believe",
+    "word": "make-believe",
+    "trans": [
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "udawanie",
+          "poza"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-maker",
+    "word": "maker",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "producent"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-makeshift",
+    "word": "makeshift",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "doraźny",
+          "tymczasowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-make-up",
+    "word": "make-up",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "makijaż",
+          "charakter",
+          "skład"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-making",
+    "word": "making",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wytwarzanie",
+          "produkcja",
+          "w zalążku",
+          "rozwijający się",
+          "mieć zadatki na coś",
+          "mieć zadatki czegoś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-maladjusted",
+    "word": "maladjusted",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niedostosowany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-malady",
+    "word": "malady",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "choroba"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-malaise",
+    "word": "malaise",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "niepokój"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-malaria",
+    "word": "malaria",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "malaria"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-Malay",
+    "word": "Malay",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "malajski"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Malaj"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-Malaysia",
+    "word": "Malaysia",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Malezja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-Malaysian",
+    "word": "Malaysian",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "malezyjski"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-male",
+    "word": "male",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "samiec",
+          "męski osobnik",
+          "mężczyzna"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "męski"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-malevolent",
+    "word": "malevolent",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieżyczliwy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-malfunction",
+    "word": "malfunction",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "źle funkcjonować"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "niesprawność"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-malice",
+    "word": "malice",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "złośliwość"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-malicious",
+    "word": "malicious",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "złośliwy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-malign",
+    "word": "malign",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "oczerniać",
+          "zniesławiać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-malignant",
+    "word": "malignant",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "złośliwy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-malinger",
+    "word": "malinger",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "symulować chorobę"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mallet",
+    "word": "mallet",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "młotek drewniany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-malnutrition",
+    "word": "malnutrition",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "niedożywienie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-malpractice",
+    "word": "malpractice",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "zaniedbanie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-malt",
+    "word": "malt",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "słód",
+          "słodowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-maltreat",
+    "word": "maltreat",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "maltretować",
+          "znęcać się"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mammal",
+    "word": "mammal",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ssak"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mammoth",
+    "word": "mammoth",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "mamut"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "gigantyczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-manage",
+    "word": "manage",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zdołać",
+          "podołać",
+          "kierować",
+          "dawać sobie radę"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-manageable",
+    "word": "manageable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wykonalny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-management",
+    "word": "management",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kierownictwo",
+          "zarządzanie",
+          "kontrola",
+          "władza"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-manager",
+    "word": "manager",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "dyrektor",
+          "kierownik",
+          "menadżer"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-managerial",
+    "word": "managerial",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "kierowniczy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mandarin",
+    "word": "mandarin",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "mandarynka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mandate",
+    "word": "mandate",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "poparcie",
+          "upoważnienie",
+          "mandat",
+          "zadanie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mandatory",
+    "word": "mandatory",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nakazany prawem"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mane",
+    "word": "mane",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "grzywa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-manfully",
+    "word": "manfully",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "namiętnie",
+          "z determinacją"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mangle",
+    "word": "mangle",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "szarpać"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "magiel"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mango",
+    "word": "mango",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "mango"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-manhandle",
+    "word": "manhandle",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "poturbować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-manhole",
+    "word": "manhole",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "właz"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-manhood",
+    "word": "manhood",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "męskość",
+          "dojrzałość"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-man-hour",
+    "word": "man-hour",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "roboczogodzina"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-manhunt",
+    "word": "manhunt",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pościg",
+          "obława"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mania",
+    "word": "mania",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "mania",
+          "czegoś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-maniac",
+    "word": "maniac",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "maniak"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-manic",
+    "word": "manic",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "maniakalny",
+          "szaleńczy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-manicure",
+    "word": "manicure",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "pielęgnować paznokcie",
+          "pielęgnować"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pielęgnacja paznokci",
+          "pielęgnacja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-manifest",
+    "word": "manifest",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "oczywisty",
+          "unaoczniony"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "przedstawiać",
+          "przejawiać",
+          "się"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-manifestation",
+    "word": "manifestation",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "przejaw",
+          "objaw"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-manifesto",
+    "word": "manifesto",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "manifest"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-manifold",
+    "word": "manifold",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "różnoraki"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-manila",
+    "word": "manilamanilla",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "papier pakowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-manipulate",
+    "word": "manipulate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "manipulować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-manipulation",
+    "word": "manipulation",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "manipulacja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mankind",
+    "word": "mankind",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ludzkość"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-manly",
+    "word": "manly",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "męski"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-man-made",
+    "word": "man-made",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "przekształcony przez człowieka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-manner",
+    "word": "manner",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "sposób",
+          "usposobienie",
+          "rodzaj",
+          "maniery",
+          "że tak powiem"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mannerism",
+    "word": "mannerism",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zmanierowanie",
+          "dziwactwo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-manoeuvre",
+    "word": "manoeuvremaneuver",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "manewr"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "manewrować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-manor",
+    "word": "manor",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "dwór obronny",
+          "dwór",
+          "majątek"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-manpower",
+    "word": "manpower",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "siła robocza"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mansion",
+    "word": "mansion",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "rezydencja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-manslaughter",
+    "word": "manslaughter",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zabójstwo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mantelpiece",
+    "word": "mantelpiece",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "półka nad kominkiem"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mantle",
+    "word": "mantle",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "płaszcz"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-manual",
+    "word": "manual",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "ręczny"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "instrukcja",
+          "podręcznik"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-manufacture",
+    "word": "manufacture",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "produkować",
+          "preparować"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "produkcja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-manufacturer",
+    "word": "manufacturer",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "producent"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-manure",
+    "word": "manure",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "gnój"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-manuscript",
+    "word": "manuscript",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "rękopis"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-many",
+    "word": "many",
+    "trans": [
+      {
+        "gramGrp": "Det",
+        "texts": [
+          "wiele",
+          "dużo",
+          "bardzo wiele",
+          "bardzo dużo",
+          "ile",
+          "tyle ..., ile"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-maple",
+    "word": "maple",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "klon"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-marathon",
+    "word": "marathon",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "maraton"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "maratoński"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-marauder",
+    "word": "marauder",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "maruder",
+          "rabuś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-marauding",
+    "word": "marauding",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "rabujący",
+          "plądrujący"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-marble",
+    "word": "marble",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "marmur",
+          "kulka",
+          "gra w kulki",
+          "kulki"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-March",
+    "word": "March",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "marzec"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-march",
+    "word": "march",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "marsz",
+          "pochód"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "maszerować",
+          "wyprowadzać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mare",
+    "word": "mare",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kobyła",
+          "klacz"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-margarine",
+    "word": "margarine",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "margaryna"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-margin",
+    "word": "margin",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "margines",
+          "przewaga",
+          "krawędź",
+          "brzeg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-marginal",
+    "word": "marginal",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "marginesowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-marigold",
+    "word": "marigold",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "nagietek"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-marijuana",
+    "word": "marijuana",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "marihuana"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-marina",
+    "word": "marina",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "przystań"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-marinate",
+    "word": "marinate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "marynować się",
+          "marynować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-marine",
+    "word": "marine",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "morski"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "żołnierz piechoty morskiej",
+          "marynarz"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-marital",
+    "word": "marital",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "małżeński"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "stan cywilny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-maritime",
+    "word": "maritime",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "morski"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-marjoram",
+    "word": "marjoram",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "majeranek"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mark",
+    "word": "mark",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ślad",
+          "plama",
+          "punkt",
+          "stopień",
+          "poziom",
+          "granica",
+          "marka"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zostawiać ślady",
+          "na czymś",
+          "oznaczać",
+          "oceniać",
+          "wyznaczać",
+          "stanowić",
+          "być",
+          "uhonorowywać",
+          "cechować",
+          "błyskawicznie",
+          "zabijać czas"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-marked",
+    "word": "marked",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wyraźny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-marker",
+    "word": "marker",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "znak",
+          "znacznik"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-market",
+    "word": "market",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "targ",
+          "rynek"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wypuszczać na rynek",
+          "dostępny na rynku",
+          "dostępny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-marketable",
+    "word": "marketable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "rynkowy",
+          "dający się sprzedać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-marketing",
+    "word": "marketing",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "marketing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-marksman",
+    "word": "marksman",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "strzelec wyborowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-marmalade",
+    "word": "marmalade",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "marmolada z owoców cytrusowych"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-maroon",
+    "word": "maroon",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "kasztanowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-marooned",
+    "word": "marooned",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "odcięty od świata"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-marquee",
+    "word": "marquee",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "duży namiot"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-marquis",
+    "word": "marquismarquess",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "markiz"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-marriage",
+    "word": "marriage",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "małżeństwo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-married",
+    "word": "married",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "żonaty",
+          "zamężna",
+          "z",
+          "małżeński",
+          "żenić się",
+          "wychodzić za mąż"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-marrow",
+    "word": "marrow",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "szpik",
+          "kabaczek"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-marry",
+    "word": "marry",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "pobierać się",
+          "żenić się",
+          "wychodzić za mąż",
+          "udzielać ślubu",
+          "żenić"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-marsh",
+    "word": "marsh",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "bagno"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-marshal",
+    "word": "marshal",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zbierać razem"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "marszałek",
+          "dowódca okręgowej policji",
+          "dowódca",
+          "mistrz ceremonii"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-marshy",
+    "word": "marshy",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "bagnisty"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-martial",
+    "word": "martial",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wojskowy",
+          "militarny"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "sztuki walki"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-martyr",
+    "word": "martyr",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "męczennik"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-martyrdom",
+    "word": "martyrdom",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "męczeństwo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-marvel",
+    "word": "marvel",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zadziwiać się",
+          "czymś"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "dziw"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-marvellous",
+    "word": "marvellousmarvelous",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "cudowny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-Maryland",
+    "word": "Maryland",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Maryland"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-marzipan",
+    "word": "marzipan",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "marcepan"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mascara",
+    "word": "mascara",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "tusz do rzęs"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mascot",
+    "word": "mascot",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "maskotka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-masculine",
+    "word": "masculine",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "męski",
+          "zmaskulinizowany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mash",
+    "word": "mash",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "tłuc"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mask",
+    "word": "mask",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "maska"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "maskować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-masochism",
+    "word": "masochism",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "masochizm"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-masochist",
+    "word": "masochist",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "masochista"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mason",
+    "word": "mason",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kamieniarz"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-masonry",
+    "word": "masonry",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kamieniarstwo",
+          "murarka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-masquerade",
+    "word": "masquerade",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "maskarada"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "podawać się",
+          "za",
+          "jako"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-Massachusetts",
+    "word": "Massachusetts",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Massachusetts"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-massacre",
+    "word": "massacre",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "masakra"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "masakrować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-massage",
+    "word": "massage",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "masować"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "masaż"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-massive",
+    "word": "massive",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "masywny",
+          "wielki",
+          "rozległy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mass-produce",
+    "word": "mass-produce",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "produkować na masową skalę"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mast",
+    "word": "mast",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "maszt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-master",
+    "word": "master",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pan",
+          "nauczyciel",
+          "profesor",
+          "mistrz",
+          "majster",
+          "magister",
+          "magister nauk humanistycznych",
+          "magister",
+          "panicz",
+          "mistrz"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "opanowywać",
+          "nadrzędny",
+          "mistrz ceremonii",
+          "konferansjer"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-masterful",
+    "word": "masterful",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "władczy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-masterly",
+    "word": "masterly",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "mistrzowski"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mastermind",
+    "word": "mastermind",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "planować",
+          "przeprowadzać"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "dusza",
+          "główny organizator"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-masterpiece",
+    "word": "masterpiece",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "arcydzieło"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mastery",
+    "word": "mastery",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "biegłość",
+          "w czymś",
+          "w czymś",
+          "panowanie",
+          "nad czymś",
+          "nad czymś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-masturbate",
+    "word": "masturbate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "onanizować się"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-masturbation",
+    "word": "masturbation",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "masturbacja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-Masuria",
+    "word": "Masuria",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Mazury"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-Masurian",
+    "word": "Masurian",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "mazurski"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-match",
+    "word": "match",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "mecz",
+          "równy przeciwnik",
+          "zapałka"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "odpowiadać",
+          "dopasowywać",
+          "z",
+          "do",
+          "pasować do siebie",
+          "pasować",
+          "dorównywać",
+          "nie równać się z czymś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-matchbox",
+    "word": "matchbox",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pudełko zapałek"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-matching",
+    "word": "matching",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "odpowiadający",
+          "pasujący"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-matchless",
+    "word": "matchless",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niedościgniony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mate",
+    "word": "mate",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kumpel",
+          "mat",
+          "partner seksualny"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "parzyć się"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-material",
+    "word": "material",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "materiał"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "materialny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-materialism",
+    "word": "materialism",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "materializm"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-materialistic",
+    "word": "materialistic",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "materialistyczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-materialize",
+    "word": "materializematerialise",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "materializować się"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-maternal",
+    "word": "maternal",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "matczyny",
+          "macierzyński"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-maternity",
+    "word": "maternity",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "macierzyński",
+          "położniczy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-math",
+    "word": "math",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "matma",
+          "matma"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mathematical",
+    "word": "mathematical",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "matematyczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mathematician",
+    "word": "mathematician",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "matematyk"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mathematics",
+    "word": "mathematics",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "matematyka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-matinée",
+    "word": "matinéematinee",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "przedstawienie",
+          "popołudniówka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mating",
+    "word": "mating",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "rozrodczy",
+          "godowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-matriculate",
+    "word": "matriculate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "immatrykulować się"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-matriculation",
+    "word": "matriculation",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "immatrykulacja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-matrimonial",
+    "word": "matrimonial",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "matrymonialny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-matrimony",
+    "word": "matrimony",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "małżeństwo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-matrix",
+    "word": "matrix",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "matryca"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-matron",
+    "word": "matron",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "siostra przełożona",
+          "siostra",
+          "pielęgniarka",
+          "matrona"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-matt",
+    "word": "matt",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "matowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-matted",
+    "word": "matted",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "zmierzwiony",
+          "skołtuniony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-matter",
+    "word": "matter",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "sprawa",
+          "materia",
+          "substancja",
+          "ropa"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "mieć znaczenie",
+          "liczyć się",
+          "dla kogoś",
+          "literatura",
+          "piśmiennictwo",
+          "druk",
+          "czy coś się dzieje?",
+          "nieważne",
+          "w sprawie",
+          "jeśli chodzi o",
+          "jeśli o to chodzi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-matter-of-fact",
+    "word": "matter-of-fact",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "rzeczowy",
+          "chłodny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-matting",
+    "word": "matting",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "mata"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mattress",
+    "word": "mattress",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "materac"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mature",
+    "word": "mature",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "dojrzewać"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "dojrzały"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-maturity",
+    "word": "maturity",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "dojrzałość",
+          "dorosłość"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-maudlin",
+    "word": "maudlin",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "sentymentalny",
+          "rzewny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-maul",
+    "word": "maul",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "szarpać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mausoleum",
+    "word": "mausoleum",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "mauzoleum"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mauve",
+    "word": "mauve",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "fiołkowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-maverick",
+    "word": "maverick",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "samotnik",
+          "dysydent"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niezależny",
+          "dysydencki"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-maxi",
+    "word": "maxi",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "maxi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-maxim",
+    "word": "maxim",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "maksyma"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-maximize",
+    "word": "maximizemaximise",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zwiększać maksymalnie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-maximum",
+    "word": "maximum",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "maksymalny"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "maksimum"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-maybe",
+    "word": "maybe",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "być może",
+          "może"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mayonnaise",
+    "word": "mayonnaise",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "majonez"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mayor",
+    "word": "mayor",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "burmistrz"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-maze",
+    "word": "maze",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "labirynt",
+          "gmatwanina"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mead",
+    "word": "mead",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "miód pitny",
+          "miód"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-meadow",
+    "word": "meadow",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "łąka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-meagre",
+    "word": "meagremeager",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "skąpy",
+          "niewielki"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-meal",
+    "word": "meal",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "posiłek"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mealtime",
+    "word": "mealtime",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pora posiłku"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mean",
+    "word": "mean",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "znaczyć",
+          "oznaczać",
+          "Co to znaczy",
+          "Co to oznacza?",
+          "znaczyć",
+          "mieć znaczenie",
+          "dla kogoś",
+          "Ten dom wiele dla niego znaczy",
+          "mieć na myśli",
+          "poprzez",
+          "Co masz na myśli, gdy to mówisz?",
+          "O co ci chodzi, gdy to mówisz?",
+          "chcieć",
+          "zamierzać",
+          "zamierzałem do ciebie zadzwonić",
+          "nie żartować",
+          "Wychodzę. Nie żartuję"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "skąpy",
+          "podły",
+          "małostkowy",
+          "wielkość przeciętna",
+          "przeciętna",
+          "średnia"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "umiar",
+          "powściągliwość",
+          "coś ma być",
+          "coś ma na celu zrobienie czegoś",
+          "coś ma na celu",
+          "coś jest przeznaczone dla kogoś",
+          "ktoś ma coś robić",
+          "ktoś ma coś zrobić",
+          "to znaczy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-meander",
+    "word": "meander",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "meandrować",
+          "wić się",
+          "kręcić się",
+          "wędrować"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "meander"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-meaning",
+    "word": "meaning",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "znaczenie",
+          "sens"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-meaningful",
+    "word": "meaningful",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "znaczący",
+          "posiadający znaczenie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-meaningless",
+    "word": "meaningless",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "bezsensowny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-means",
+    "word": "means",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "sposób",
+          "środki finansowe",
+          "pieniądze",
+          "przy pomocy",
+          "dzięki",
+          "ależ oczywiście",
+          "żadnym sposobem"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-meanwhile",
+    "word": "meanwhile",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "tymczasem"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-measles",
+    "word": "measles",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "odra"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-measly",
+    "word": "measly",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nędzny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-measurable",
+    "word": "measurable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "dostrzegalny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-measure",
+    "word": "measure",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "mierzyć",
+          "odmierzać"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "miara",
+          "porcja",
+          "przedsiębrać kroki"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-measured",
+    "word": "measured",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "odmierzony",
+          "rozważny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-measurement",
+    "word": "measurement",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wymiar",
+          "rozmiar",
+          "pomiar",
+          "kroki"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-meat",
+    "word": "meat",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "mięso"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mechanic",
+    "word": "mechanic",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "mechanik"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mechanical",
+    "word": "mechanical",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "mechaniczny",
+          "techniczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mechanics",
+    "word": "mechanics",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "mechanika",
+          "technika"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mechanism",
+    "word": "mechanism",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "mechanizm",
+          "sposób"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mechanize",
+    "word": "mechanizemechanise",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "mechanizować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-medal",
+    "word": "medal",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "medal",
+          "odznaczenie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-medallion",
+    "word": "medallion",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "medalion"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-medallist",
+    "word": "medallistmedalist",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "medalista"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-meddle",
+    "word": "meddle",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "mieszać się",
+          "do",
+          "do"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mediate",
+    "word": "mediate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "pośredniczyć",
+          "w czymś",
+          "pomiędzy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-medical",
+    "word": "medical",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "lekarski"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "oględziny lekarskie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-medication",
+    "word": "medication",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "lekarstwo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-medicinal",
+    "word": "medicinal",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "leczniczy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-medicine",
+    "word": "medicine",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "medycyna",
+          "lekarstwo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-medieval",
+    "word": "medievalmediaeval",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "średniowieczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mediocre",
+    "word": "mediocre",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "pośledni",
+          "mierny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-meditate",
+    "word": "meditate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "rozmyślać",
+          "nad",
+          "nad",
+          "oddawać się medytacji"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-meditation",
+    "word": "meditation",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "medytacja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-Mediterranean",
+    "word": "Mediterranean",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "śródziemnomorski",
+          "Morze Śródziemne"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-medium",
+    "word": "medium",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "średni"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "środek",
+          "materiał",
+          "medium"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-meek",
+    "word": "meek",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "potulny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-meet",
+    "word": "meet",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "spotykać się",
+          "spotykać",
+          "z kimś",
+          "z czymś",
+          "poznawać",
+          "wychodzić",
+          "po kogoś",
+          "mieć spotkanie umówione",
+          "mieć spotkanie",
+          "z kimś",
+          "zaspokajać",
+          "spełniać",
+          "rozwiązywać",
+          "pokrywać",
+          "natykać się",
+          "na coś",
+          "zaznawać",
+          "czegoś",
+          "trafiać na coś",
+          "trafiać",
+          "dochodzić do czegoś",
+          "dochodzić"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-meeting",
+    "word": "meeting",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "spotkanie",
+          "zebranie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-megaphone",
+    "word": "megaphone",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "megafon"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-melancholy",
+    "word": "melancholy",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "melancholia"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "melancholijny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mellow",
+    "word": "mellow",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "dojrzały",
+          "soczysty",
+          "pełny",
+          "głęboki"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "dojrzewać",
+          "łagodnieć"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-melodious",
+    "word": "melodious",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "melodyjny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-melodrama",
+    "word": "melodrama",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "melodramat"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-melodramatic",
+    "word": "melodramatic",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "melodramatyczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-melody",
+    "word": "melody",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "melodia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-melon",
+    "word": "melon",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "melon",
+          "arbuz"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-melt",
+    "word": "melt",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "topnieć",
+          "topić się",
+          "topić",
+          "wtapiać się",
+          "w",
+          "stapiać się",
+          "z"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "topnieć",
+          "znikać"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "topić"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-member",
+    "word": "member",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "przedstawiciel",
+          "członek",
+          "poseł",
+          "członek parlamentu"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "członkowski"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-membership",
+    "word": "membership",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "członkostwo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-membrane",
+    "word": "membrane",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "błona śluzowa",
+          "błona"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-memento",
+    "word": "memento",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pamiątka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-memo",
+    "word": "memo",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "memorandum",
+          "raport"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-memoirs",
+    "word": "memoirs",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "memuary",
+          "pamiętniki"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-memorable",
+    "word": "memorable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "pamiętny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-memorandum",
+    "word": "memorandum",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "memorandum"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-memorial",
+    "word": "memorial",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pomnik",
+          "czyjś"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "pamiątkowy",
+          "upamiętniający"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-memorize",
+    "word": "memorizememorise",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zapamiętywać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-memory",
+    "word": "memory",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pamięć",
+          "wspomnienie",
+          "ku czci"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-menace",
+    "word": "menace",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zagrożenie",
+          "groźba"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zagrażać",
+          "grozić"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-menacing",
+    "word": "menacing",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "groźny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mend",
+    "word": "mend",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "naprawiać się",
+          "naprawiać",
+          "cerować",
+          "poprawiać się "
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-menial",
+    "word": "menial",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "podrzędny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-meningitis",
+    "word": "meningitis",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zapalenie opon mózgowych"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-menopause",
+    "word": "menopause",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "menopauza",
+          "klimakterium"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-menstrual",
+    "word": "menstrual",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "menstruacyjny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-menstruate",
+    "word": "menstruate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "miesiączkować",
+          "menstruować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-menstruation",
+    "word": "menstruation",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "menstruacja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mental",
+    "word": "mental",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "umysłowy",
+          "pamięciowy"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "chory umysłowo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mentality",
+    "word": "mentality",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "umysłowość",
+          "mentalność"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mention",
+    "word": "mention",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wspominać",
+          "komuś"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wzmianka",
+          ",,Nie ma za co''"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mentor",
+    "word": "mentor",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "mentor"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-menu",
+    "word": "menu",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "menu",
+          "menu",
+          "lista opcji"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mercenary",
+    "word": "mercenary",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "najemnik"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wyrachowany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-merchandise",
+    "word": "merchandise",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "towary",
+          "towar"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-merchant",
+    "word": "merchant",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kupiec",
+          "hurtownik"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "handlowy"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "bank komercyjny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-merciful",
+    "word": "merciful",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "litościwy",
+          "miłosierny",
+          "zbawczy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-merciless",
+    "word": "merciless",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "bezlitosny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mercury",
+    "word": "mercury",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "rtęć"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mercy",
+    "word": "mercy",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "litość",
+          "miłosierdzie",
+          "bez litości",
+          "na czyjejś łasce"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mere",
+    "word": "mere",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "tylko"
+        ]
+      },
+      {
+        "gramGrp": "Pron",
+        "texts": [
+          "sam",
+          "sama obecność"
+        ]
+      },
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "ledwo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-merely",
+    "word": "merely",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "tylko",
+          "jedynie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-merest",
+    "word": "merest",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "najmniejszy",
+          "czysty"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-merge",
+    "word": "merge",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "scalać się",
+          "scalać",
+          "stapiać się",
+          "stapiać",
+          "wtapiać się",
+          "w"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-merger",
+    "word": "merger",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "fuzja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-meridian",
+    "word": "meridian",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "południk"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-meringue",
+    "word": "meringue",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "beza"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-merit",
+    "word": "merit",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wartość",
+          "zaleta",
+          "zasługa"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zasługiwać",
+          "na coś",
+          "według wartości"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mermaid",
+    "word": "mermaid",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "syrena"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-merriment",
+    "word": "merriment",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wesołość"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-merry",
+    "word": "merry",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "radosny",
+          "zawiany",
+          "podochocony",
+          "Wesołych Świąt Bożego Narodzenia",
+          "Wesołych Świąt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-merry-go-round",
+    "word": "merry-go-round",
+    "trans": [
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "karuzela"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mesh",
+    "word": "mesh",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "siatka"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "sczepiać się",
+          "z"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mesmerize",
+    "word": "mesmerizemesmerise",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "hipnotyzować",
+          "oczarowywać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-message",
+    "word": "message",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wiadomość",
+          "przesłanie",
+          "idea"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-messenger",
+    "word": "messenger",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "posłaniec"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-messy",
+    "word": "messy",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "brudny",
+          "zapaskudzony",
+          "niechlujny",
+          "niefajny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-metabolism",
+    "word": "metabolism",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "metabolizm"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-metal",
+    "word": "metal",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "metal"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-metallic",
+    "word": "metallic",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "metaliczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-metamorphosis",
+    "word": "metamorphosis",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "metamorfoza"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-metaphor",
+    "word": "metaphor",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "metafora",
+          "przenośnia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-metaphysics",
+    "word": "metaphysics",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "metafizyka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-meteor",
+    "word": "meteor",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "meteor"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-meteoric",
+    "word": "meteoric",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "błyskawiczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-meteorite",
+    "word": "meteorite",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "meteoryt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-meteorological",
+    "word": "meteorological",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "meteorologiczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-meteorology",
+    "word": "meteorology",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "meteorologia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-meter",
+    "word": "meter",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "licznik",
+          "metr"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "mierzyć"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-method",
+    "word": "method",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "metoda"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-methodical",
+    "word": "methodical",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "metodyczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-Methodist",
+    "word": "Methodist",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "metodysta"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-methodology",
+    "word": "methodology",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "metodyka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-meticulous",
+    "word": "meticulous",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "drobiazgowy",
+          "dokładny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-metre",
+    "word": "metremeter",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "metr"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-metric",
+    "word": "metric",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "metryczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-metro",
+    "word": "metro",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "metro"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-metropolis",
+    "word": "metropolis",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "metropolia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-metropolitan",
+    "word": "metropolitan",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wielkomiejski"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mettle",
+    "word": "mettle",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "bujny temperament",
+          "temperament",
+          "krewkość"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-Mexican",
+    "word": "Mexican",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "meksykański"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Meksykanin"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-Mexico",
+    "word": "Mexico",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Meksyk"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-miaow",
+    "word": "miaow",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "miauk"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "miauczeć"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-Michigan",
+    "word": "Michigan",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Michigan"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-microbe",
+    "word": "microbe",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "mikrob",
+          "drobnoustrój"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-microchip",
+    "word": "microchip",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "płytka półprzewodnika",
+          "układ scalony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-microphone",
+    "word": "microphone",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "mikrofon"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-microprocessor",
+    "word": "microprocessor",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "mikroprocesor"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-microscope",
+    "word": "microscope",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "mikroskop"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-microscopic",
+    "word": "microscopic",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "mikroskopowy",
+          "mikroskopijny",
+          "drobiazgowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-microwave",
+    "word": "microwave",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kuchenka mikrofalowa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-midday",
+    "word": "midday",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "południe"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-middle",
+    "word": "middle",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "środek",
+          "talia",
+          "pas"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "środkowy",
+          "pośredni",
+          "miała około 25 lat"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "średni wiek"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "średniowiecze"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "klasa średnia"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "Bliski Wschód"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "drugie imię",
+          "pierwszy człon nazwiska"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-middle-aged",
+    "word": "middle-aged",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "w średnim wieku"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-middleman",
+    "word": "middleman",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pośrednik"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-middle-of-the_road",
+    "word": "middle-of-the road",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "umiarkowany",
+          "centrowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-middling",
+    "word": "middling",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "średni",
+          "przeciętny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-midge",
+    "word": "midge",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "komar"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-midget",
+    "word": "midget",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "karzeł"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-midi",
+    "word": "midi",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "midi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-midnight",
+    "word": "midnight",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "północ"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nocny",
+          "przebiegający w środku nocy",
+          "w środku nocy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-midriff",
+    "word": "midriff",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "talia "
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-midsummer",
+    "word": "midsummer",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "środek lata",
+          "kanikuła"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-midway",
+    "word": "midway",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "pomiędzy",
+          "w środku"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-midweek",
+    "word": "midweek",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "środek tygodnia",
+          "dni w środku tygodnia"
+        ]
+      },
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "w tygodniu",
+          "w środku tygodnia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-midwife",
+    "word": "midwife",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "położna"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mighty",
+    "word": "mighty",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "potężny"
+        ]
+      },
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "wielce",
+          "bardzo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-migraine",
+    "word": "migraine",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "migrena"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-migrant",
+    "word": "migrant",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "przybysz"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-migrate",
+    "word": "migrate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wędrować",
+          "migrować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-migration",
+    "word": "migration",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "migracja",
+          "wędrówka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mike",
+    "word": "mike",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "mikrofon"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mild",
+    "word": "mild",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "łagodny",
+          "niewielki"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mildew",
+    "word": "mildew",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pleśń"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mile",
+    "word": "mile",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "mila "
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mileage",
+    "word": "mileage",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "dystans"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mileometer",
+    "word": "mileometer",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "licznik mil"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-milestone",
+    "word": "milestone",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kamień milowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-milieu",
+    "word": "milieu",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "otoczenie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-militant",
+    "word": "militant",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wojowniczy",
+          "bojowy"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "bojownik"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-military",
+    "word": "military",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wojskowy",
+          "militarny"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wojsko"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-militate",
+    "word": "militate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zapobiegać",
+          "czemuś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-militia",
+    "word": "militia",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "milicja",
+          "straż miejska"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-milk",
+    "word": "milk",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "mleko"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "doić",
+          "łupić",
+          "eksploatować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-milkman",
+    "word": "milkman",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "mleczarz"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-milk-shake",
+    "word": "milk-shake",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "koktail mleczny",
+          "koktail"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-milky",
+    "word": "milky",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "mleczny",
+          "z mlekiem"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mill",
+    "word": "mill",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "młyn",
+          "młynek",
+          "zakłady",
+          "zakład"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "mleć",
+          "mielić"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-millennium",
+    "word": "millennium",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "millennium",
+          "tysiąclecie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-miller",
+    "word": "miller",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "młynarz"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-millet",
+    "word": "millet",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "proso"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-milligram",
+    "word": "milligrammilligramme",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "miligram"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-millilitre",
+    "word": "millilitremilliliter",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "mililitr"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-millimetre",
+    "word": "millimetremillimeter",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "milimetr"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-milliner",
+    "word": "milliner",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "modysta",
+          "modystka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-millinery",
+    "word": "millinery",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "modniarstwo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-million",
+    "word": "million",
+    "trans": [
+      {
+        "gramGrp": "Num",
+        "texts": [
+          "milion"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-millionaire",
+    "word": "millionaire",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "milioner"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-millionth",
+    "word": "millionth",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "milionowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-millstone",
+    "word": "millstone",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kamień młyński",
+          "problem nie do przezwyciężenia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-milometer",
+    "word": "milometer",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "licznik mil"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mime",
+    "word": "mime",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pantomima",
+          "mim"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "naśladować mimiką",
+          "naśladować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mimeograph",
+    "word": "mimeograph",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "powielacz"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "powielać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mimic",
+    "word": "mimic",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "naśladować",
+          "przedrzeźniać"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "mimik"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mimicry",
+    "word": "mimicry",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "naśladownictwo",
+          "mimikra"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-minaret",
+    "word": "minaret",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "minaret"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mince",
+    "word": "mince",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "mięso siekane"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "siekać",
+          "dreptać",
+          "nie przebierać w słowach"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mincemeat",
+    "word": "mincemeat",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "mięso siekane"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-minder",
+    "word": "minder",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "opiekun"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mindless",
+    "word": "mindless",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "bezsensowny",
+          "bezmyślny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mine",
+    "word": "mine",
+    "trans": [
+      {
+        "gramGrp": "Pron",
+        "texts": [
+          "mój"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kopalnia",
+          "mina"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wydobywać",
+          "kopać",
+          "coś",
+          "zaminowywać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-minefield",
+    "word": "minefield",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pole minowe"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-miner",
+    "word": "miner",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "górnik"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mineral",
+    "word": "mineral",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "minerał"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "mineralny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mingle",
+    "word": "mingle",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "mieszać się",
+          "z"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mini",
+    "word": "mini",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "mini"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-miniature",
+    "word": "miniature",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "miniaturowy"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "miniatura"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-minibus",
+    "word": "minibus",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "mikrobus"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-minimal",
+    "word": "minimal",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "minimalny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-minimize",
+    "word": "minimizeminimise",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "minimalizować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-minimum",
+    "word": "minimum",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "minimalny"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "minimum"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mining",
+    "word": "mining",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "górnictwo"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "górniczy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-miniskirt",
+    "word": "miniskirt",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "minispódniczka",
+          "mini"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-minister",
+    "word": "minister",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "minister",
+          "duchowny",
+          "pastor"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-ministerial",
+    "word": "ministerial",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "ministerialny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-ministry",
+    "word": "ministry",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ministerstwo",
+          "duchowieństwo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mink",
+    "word": "mink",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "norka",
+          "norki"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-Minnesota",
+    "word": "Minnesota",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Minnesota"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-minor",
+    "word": "minor",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "pomniejszy",
+          "podrzędny",
+          "molowy",
+          "minorowy",
+          "niepełnoletni"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-minority",
+    "word": "minority",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "mniejszość",
+          "w mniejszości"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-minster",
+    "word": "minster",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "katedra"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-minstrel",
+    "word": "minstrel",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "bard"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mint",
+    "word": "mint",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "mięta",
+          "miętus",
+          "cukierek miętowy",
+          "mennica"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "bić"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-minuet",
+    "word": "minuet",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "menuet"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-minus",
+    "word": "minus",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "minus"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "odjąć"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "znak odejmowania"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-minute",
+    "word": "minute",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "minuta",
+          "protokół"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "drobny",
+          "najdrobniejszy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-minutely",
+    "word": "minutely",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "drobiazgowo",
+          "nieco"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-miracle",
+    "word": "miracle",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "cud"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "cudowny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-miraculous",
+    "word": "miraculous",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "cudowny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mirage",
+    "word": "mirage",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "fata morgana",
+          "miraż"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mirror",
+    "word": "mirror",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "lustro"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "odbijać",
+          "odzwierciedlać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mirth",
+    "word": "mirth",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "radość",
+          "wesołość"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-misadventure",
+    "word": "misadventure",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "nieszczęśliwy wypadek",
+          "wypadek"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-misapprehension",
+    "word": "misapprehension",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "błędne mniemanie",
+          "złudzenie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-misappropriate",
+    "word": "misappropriate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "przywłaszczać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-misbehave",
+    "word": "misbehave",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "źle zachowywać się"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-misbehaviour",
+    "word": "misbehaviourmisbehavior",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "złe zachowanie się"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-miscalculate",
+    "word": "miscalculate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "przeliczyć się",
+          "przeliczyć"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-miscarriage",
+    "word": "miscarriage",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "poronienie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-miscarry",
+    "word": "miscarry",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "poronić",
+          "upadać",
+          "nie wypalać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-miscellaneous",
+    "word": "miscellaneous",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "różnorodny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mischief",
+    "word": "mischief",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "figlarność",
+          "psotliwość"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "dokazywanie",
+          "psota",
+          "szkoda"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mischievous",
+    "word": "mischievous",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "psotliwy",
+          "złośliwy",
+          "dokuczliwy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-misconceived",
+    "word": "misconceived",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "źle pomyślany",
+          "nieprzemyślany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-misconception",
+    "word": "misconception",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "nieporozumienie",
+          "błędne zrozumienie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-misconduct",
+    "word": "misconduct",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wykroczenie",
+          "niewłaściwe postępowanie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-misconstruction",
+    "word": "misconstruction",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "nieporozumienie",
+          "błędne zrozumienie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-misconstrue",
+    "word": "misconstrue",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "źle zrozumieć"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-misdemeanour",
+    "word": "misdemeanourmisdemeanor",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wykroczenie",
+          "występek"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-misdirect",
+    "word": "misdirect",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "źle kierować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-miser",
+    "word": "miser",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "skąpiec"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-miserable",
+    "word": "miserable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieszczęśliwy",
+          "żałosny",
+          "fatalny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-miserly",
+    "word": "miserly",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "skąpy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-misery",
+    "word": "misery",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "nieszczęście",
+          "nędza",
+          "unieszczęśliwiać kogoś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-misfire",
+    "word": "misfire",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "nie wypalać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-misfit",
+    "word": "misfit",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "osoba nie na miejscu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-misfortune",
+    "word": "misfortune",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "nieszczęście"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-misgiving",
+    "word": "misgiving",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "złe przeczucie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-misguided",
+    "word": "misguided",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "błędny",
+          "fałszywy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mishandle",
+    "word": "mishandle",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zaniedbywać",
+          "zaprzepaszczać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mishap",
+    "word": "mishap",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zły przypadek",
+          "przypadek"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-misinform",
+    "word": "misinform",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "błędnie poinformować",
+          "o"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-misinformation",
+    "word": "misinformation",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "błędna informacja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-misinterpret",
+    "word": "misinterpret",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "opacznie rozumieć",
+          "opacznie interpretować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-misjudge",
+    "word": "misjudge",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "mylnie osądzać",
+          "mylnie oceniać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mislay",
+    "word": "mislay",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zapodziewać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mislead",
+    "word": "mislead",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "mylić",
+          "wprowadzać w błąd"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mismanage",
+    "word": "mismanage",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "niewłaściwie prowadzić"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-misnomer",
+    "word": "misnomer",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "niewłaściwy termin"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-misplaced",
+    "word": "misplaced",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niewłaściwy",
+          "źle skierowany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-misprint",
+    "word": "misprint",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "omyłka druku"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-misread",
+    "word": "misread",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "niewłaściwie odczytywać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-misrepresent",
+    "word": "misrepresent",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "fałszywie przedstawiać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-Miss",
+    "word": "Miss",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "panna",
+          "miss",
+          "pani"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-miss",
+    "word": "miss",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "nietrafienie",
+          "chybienie"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "nie dostrzegać",
+          "chybiać",
+          "tęsknić",
+          "za kimś",
+          "brakować",
+          "czegoś",
+          "komuś brak studiowania",
+          "nie skorzystać",
+          "spóźniać się",
+          "na pociąg",
+          "opuszczać",
+          "darować sobie"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "opuszczać",
+          "pomijać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-misshapen",
+    "word": "misshapen",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "zniekształcony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-missile",
+    "word": "missile",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "rakieta",
+          "pocisk rakietowy",
+          "pocisk"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-missing",
+    "word": "missing",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "zaginiony",
+          "brakujący"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mission",
+    "word": "mission",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "misja",
+          "wyprawa",
+          "delegacja",
+          "posłannictwo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-missionary",
+    "word": "missionary",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "misjonarz"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "misyjny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-Mississippi",
+    "word": "Mississippi",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Mississippi",
+          "Mississippi "
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-Missouri",
+    "word": "Missouri",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Missouri",
+          "Missouri"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-misspell",
+    "word": "misspell",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zrobić błąd ortograficzny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-misspend",
+    "word": "misspend",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "marnować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mist",
+    "word": "mist",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "mgła"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "pokrywać się mgiełką",
+          "pokrywać mgiełką"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mistake",
+    "word": "mistake",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pomyłka",
+          "błąd"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "mylić się",
+          "mylić",
+          "mylić",
+          "coś z czymś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mistaken",
+    "word": "mistaken",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "mylny",
+          "mylić się co do"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mistletoe",
+    "word": "mistletoe",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "jemioła"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mistress",
+    "word": "mistress",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pani",
+          "kochanka",
+          "nauczycielka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mistrust",
+    "word": "mistrust",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "niewiara"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "nie wierzyć",
+          "w coś",
+          "nie dowierzać",
+          "czemuś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-misty",
+    "word": "misty",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "zamglony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-misunderstand",
+    "word": "misunderstand",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "mylnie rozumieć"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-misunderstanding",
+    "word": "misunderstanding",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "nieporozumienie",
+          "sprzeczka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-misuse",
+    "word": "misuse",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "nadużywać"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "nadużycie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mite",
+    "word": "mite",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kruszyna"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mitigate",
+    "word": "mitigate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "łagodzić",
+          "mitygować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mitre",
+    "word": "mitremiter",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "mitra"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mitten",
+    "word": "mitten",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "rękawica z jednym palcem",
+          "mitenka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mixed",
+    "word": "mixed",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "mieszany",
+          "koedukacyjny"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "zmieszany",
+          "pomieszany",
+          "zamieszany",
+          "w coś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mixer",
+    "word": "mixer",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "mikser",
+          "betoniarka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mixture",
+    "word": "mixture",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "mieszanka",
+          "mieszanina"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-moan",
+    "word": "moan",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "jęczeć"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "jęk",
+          "jęczenie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-moat",
+    "word": "moat",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "fosa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mobile",
+    "word": "mobile",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "mobilny",
+          "ruchliwy"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "mobil "
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mobility",
+    "word": "mobility",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "mobilność",
+          "ruchliwość"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mobilize",
+    "word": "mobilize",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "mobilizować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-moccasin",
+    "word": "moccasin",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "mokasyn"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mock",
+    "word": "mock",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "drwić",
+          "kpić",
+          "przedrzeźniać"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "udawany",
+          "pseudo-",
+          "pozorowany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mockery",
+    "word": "mockery",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "drwina",
+          "kpina",
+          "robić z czegoś kpiny",
+          "kpić"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mode",
+    "word": "mode",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "rodzaj"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-model",
+    "word": "model",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "model",
+          "modelka",
+          "model",
+          "przykład",
+          "wzór"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wzorowy"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "modelować",
+          "pracować jako modelka",
+          "pracować jako model",
+          "występować jako modelka",
+          "występować jako model",
+          "wzorować się",
+          "na",
+          "na",
+          "brać za model",
+          "kogoś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-modem",
+    "word": "modem",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "modem"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-moderate",
+    "word": "moderate",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "umiarkowany",
+          "człowiek umiarkowany"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "uspokajać",
+          "miarkować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-moderation",
+    "word": "moderation",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "umiar",
+          "umiarkowanie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-modern",
+    "word": "modern",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "współczesny",
+          "nowoczesny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-modernize",
+    "word": "modernizemodernise",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "modernizować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-modest",
+    "word": "modest",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "skromny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-modesty",
+    "word": "modesty",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "skromność"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-modicum",
+    "word": "modicum",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "minimum"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-modification",
+    "word": "modification",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "modyfikacja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-modifier",
+    "word": "modifier",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "określenie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-modify",
+    "word": "modify",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "modyfikować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-modulate",
+    "word": "modulate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "modulować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-module",
+    "word": "module",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "moduł"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mohair",
+    "word": "mohair",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "moher"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-moist",
+    "word": "moist",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wilgotny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-moisten",
+    "word": "moisten",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zwilżać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-moisture",
+    "word": "moisture",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wilgoć"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-molar",
+    "word": "molar",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "ząb trzonowy",
+          "trzonowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mole",
+    "word": "mole",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pieprzyk",
+          "kret",
+          "wtyczka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-molecule",
+    "word": "molecule",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "cząsteczka",
+          "molekuła"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-molehill",
+    "word": "molehill",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kretowisko",
+          "robić z igły widły"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-molest",
+    "word": "molest",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "napastować "
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mollify",
+    "word": "mollify",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "udobruchiwać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mollusc",
+    "word": "molluscmollusk",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "mięczak"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-molten",
+    "word": "molten",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "stopiony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-moment",
+    "word": "moment",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "chwila",
+          "moment",
+          "w danej chwili",
+          "w momencie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-momentary",
+    "word": "momentary",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "chwilowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-momentous",
+    "word": "momentous",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "doniosły"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-momentum",
+    "word": "momentum",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "rozpęd",
+          "przybierać na sile"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-monarch",
+    "word": "monarch",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "monarcha"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-monarchist",
+    "word": "monarchist",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "monarchista"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-monarchy",
+    "word": "monarchy",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "monarchia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-monastery",
+    "word": "monastery",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "klasztor"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-monastic",
+    "word": "monastic",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "klasztorny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-Monday",
+    "word": "Monday",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "poniedziałek"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-monetary",
+    "word": "monetary",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "monetarny",
+          "pieniężny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-money",
+    "word": "money",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pieniądze",
+          "zarabiać"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "przekaz pocztowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-Mongol",
+    "word": "Mongol",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Mongoł"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mongol",
+    "word": "mongol",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "mongoloid"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "mongoloidalny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-Mongolia",
+    "word": "Mongolia",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Mongolia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-Mongolian",
+    "word": "Mongolian",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "mongolski"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mongrel",
+    "word": "mongrel",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kundel"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-monitor",
+    "word": "monitor",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "obserwować",
+          "monitorować",
+          "nasłuchiwać"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "monitor"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-monk",
+    "word": "monk",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zakonnik",
+          "mnich"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-monkey",
+    "word": "monkey",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "małpa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mono",
+    "word": "mono",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "monofoniczny",
+          "mono"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "sprzęt mono",
+          "nagranie mono"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-monogamy",
+    "word": "monogamy",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "monogamia",
+          "jednożeństwo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-monolithic",
+    "word": "monolithic",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "monolityczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-monologue",
+    "word": "monologuemonolog",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "monolog"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-monopolistic",
+    "word": "monopolistic",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "monopolistyczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-monopoly",
+    "word": "monopoly",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "monopol",
+          "na coś",
+          "na coś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-monotonous",
+    "word": "monotonous",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "monotonny",
+          "jednostajny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-monsoon",
+    "word": "monsoon",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "monsun"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-monster",
+    "word": "monster",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "monstrum",
+          "potwór"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "monstrualny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-monstrosity",
+    "word": "monstrosity",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "monstrualność"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-monstrous",
+    "word": "monstrous",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "monstrualny",
+          "potworny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-Montana",
+    "word": "Montana",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Montana"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-month",
+    "word": "month",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "miesiąc"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-monthly",
+    "word": "monthly",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "comiesięczny"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "miesięcznik"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-monument",
+    "word": "monument",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pomnik",
+          "statua",
+          "czyjaś",
+          "zabytek"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-monumental",
+    "word": "monumental",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "monumentalny",
+          "gigantyczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mood",
+    "word": "mood",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "nastrój",
+          "humor",
+          "zły nastrój",
+          "zły humor",
+          "tryb"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-moody",
+    "word": "moody",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "kapryśny",
+          "mający humory",
+          "w złym humorze"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-moon",
+    "word": "moon",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "księżyc",
+          "nie posiadać się z radości",
+          "od wielkiego święta"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-moonless",
+    "word": "moonless",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "bezksiężycowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-moonlight",
+    "word": "moonlight",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "światło księżyca"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "chałturzyć"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-moonlit",
+    "word": "moonlit",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "księżycowy",
+          "rozświetlony księżycem"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-moor",
+    "word": "moor",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wrzosowisko"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "cumować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mooring",
+    "word": "mooring",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "stanowisko cumowania"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-moorland",
+    "word": "moorland",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "region wrzosowisk"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-moose",
+    "word": "moose",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "łoś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mope",
+    "word": "mope",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "upadać na duchu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-moped",
+    "word": "moped",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "motorower"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-moral",
+    "word": "moral",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "morał",
+          "moralność"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "moralny",
+          "podtrzymywać na duchu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-morale",
+    "word": "morale",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "morale"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-moralist",
+    "word": "moralist",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "moralista"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-moralistic",
+    "word": "moralistic",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "moralistyczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-morality",
+    "word": "morality",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "moralność"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-moralize",
+    "word": "moralizemoralise",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "moralizować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-morally",
+    "word": "morally",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "moralnie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-morass",
+    "word": "morass",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "bagno"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-moratorium",
+    "word": "moratorium",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "moratorium",
+          "na",
+          "co do"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-Moravia",
+    "word": "Moravia",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Morawy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-morbid",
+    "word": "morbid",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "chorobliwy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-moreover",
+    "word": "moreover",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "co więcej"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-morgue",
+    "word": "morgue",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kostnica"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-Mormon",
+    "word": "Mormon",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "mormon"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-morning",
+    "word": "morning",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "rano",
+          "poranek"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "ranny",
+          "poranny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-Moroccan",
+    "word": "Moroccan",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "marokański"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Marokańczyk"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-Morocco",
+    "word": "Morocco",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Maroko"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-moron",
+    "word": "moron",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kretyn"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-moronic",
+    "word": "moronic",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "kretyński"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-morose",
+    "word": "morose",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "ponury"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-morphine",
+    "word": "morphine",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "morfina"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-morsel",
+    "word": "morsel",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kąsek",
+          "kawałek"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mortal",
+    "word": "mortal",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "śmiertelny"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "śmiertelnik"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mortality",
+    "word": "mortality",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "śmiertelność"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mortar",
+    "word": "mortar",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "moździerz",
+          "zaprawa murarska"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mortgage",
+    "word": "mortgage",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pożyczka",
+          "dług hipoteczny"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "obciążać hipoteką",
+          "wpisać dług hipoteczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mortify",
+    "word": "mortify",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "upokarzać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mortuary",
+    "word": "mortuary",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kostnica"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mosaic",
+    "word": "mosaic",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "mozaika"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-Moscow",
+    "word": "Moscow",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Moskwa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mosque",
+    "word": "mosque",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "meczet"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mosquito",
+    "word": "mosquito",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "moskit",
+          "komar"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-moss",
+    "word": "moss",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "mech"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mossy",
+    "word": "mossy",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "omszały"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mostly",
+    "word": "mostly",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "w większości",
+          "przede wszystkim"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-motel",
+    "word": "motel",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "motel"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-moth",
+    "word": "moth",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ćma",
+          "mól"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mothball",
+    "word": "mothball",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kulka naftaliny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-moth-eaten",
+    "word": "moth-eaten",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "zżarty przez mole"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mother",
+    "word": "mother",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "matka"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "matkować",
+          "opiekować się jak matka"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "ojczyzna"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "język ojczysty"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-motherhood",
+    "word": "motherhood",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "macierzyństwo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mother-in-law",
+    "word": "mother-in-law",
+    "trans": [
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "teściowa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-motherless",
+    "word": "motherless",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "pozbawiony matki",
+          "bez matki"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-motherly",
+    "word": "motherly",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "matczyny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mother-of-pearl",
+    "word": "mother-of-pearl",
+    "trans": [
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "macica perłowa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mother-to-be",
+    "word": "mother-to-be",
+    "trans": [
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "przyszła matka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-motif",
+    "word": "motif",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "motyw"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-motion",
+    "word": "motion",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ruch",
+          "wniosek"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "gestykulować",
+          "do kogoś",
+          "dawać znak",
+          "komuś",
+          "przechodzić całą procedurę",
+          "robić coś pro forma",
+          "przedstawiać wniosek",
+          "mieć miejsce",
+          "być wdrożonym"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-motionless",
+    "word": "motionless",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieruchomy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-motivate",
+    "word": "motivate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "spowodować",
+          "powodować",
+          "powodowała nim zazdrość",
+          "motywować",
+          "dawać motywację"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-motivation",
+    "word": "motivation",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "motywacja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-motive",
+    "word": "motive",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "motyw",
+          "powód"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-motley",
+    "word": "motley",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "różnorodny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-motor",
+    "word": "motor",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "silnik",
+          "motor "
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "motorowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-motorbike",
+    "word": "motorbike",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "motor",
+          "motocykl"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-motorcar",
+    "word": "motorcar",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "samochód"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-motorcycle",
+    "word": "motorcycle",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "motocykl"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-motoring",
+    "word": "motoring",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "drogowy",
+          "samochodowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-motorist",
+    "word": "motorist",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "samochodziarz",
+          "automobilista"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-motorway",
+    "word": "motorway",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "autostrada"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mottled",
+    "word": "mottled",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "plamisty"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-motto",
+    "word": "motto",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "motto"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mould",
+    "word": "mouldmold",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "ukształtowywać",
+          "kształtować",
+          "lepić"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "forma",
+          "pleśń",
+          "pasować do wzorca"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mouldy",
+    "word": "mouldymoldy",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "spleśniały"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-moult",
+    "word": "moultmolt",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "linieć",
+          "pierzyć się"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "linienie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mound",
+    "word": "mound",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kopiec",
+          "kupa",
+          "góra"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mount",
+    "word": "mount",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "przeprowadzać",
+          "przygotowywać",
+          "wzrastać",
+          "wspinać się",
+          "dosiadać",
+          "montować",
+          "osadzać"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "góra"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "wzrastać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mountain",
+    "word": "mountain",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "góra"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mountaineer",
+    "word": "mountaineer",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "alpinista"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mountaineering",
+    "word": "mountaineering",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "alpinistyka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mountainous",
+    "word": "mountainous",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "górzysty",
+          "wielki",
+          "zwalisty"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mountainside",
+    "word": "mountainside",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zbocze"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mourn",
+    "word": "mourn",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "boleć po stracie",
+          "boleć",
+          "nosić żałobę",
+          "po",
+          "opłakiwać",
+          "coś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mourner",
+    "word": "mourner",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "żałobnik"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mournful",
+    "word": "mournful",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "żałobny",
+          "grobowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mourning",
+    "word": "mourning",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "żałoba"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mouse",
+    "word": "mouse",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "mysz"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mousse",
+    "word": "mousse",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "mus"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-moustache",
+    "word": "moustachemustache",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wąsy",
+          "wąs"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mousy",
+    "word": "mousy",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "mysi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mouth",
+    "word": "mouth",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "usta",
+          "pysk",
+          "wejście",
+          "otwór",
+          "ujście"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "deklamować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mouthful",
+    "word": "mouthful",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kęs",
+          "haust"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mouth-organ",
+    "word": "mouth-organ",
+    "trans": [
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "organki"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mouthpiece",
+    "word": "mouthpiece",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "mikrofon",
+          "ustnik",
+          "rzecznik"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mouthwash",
+    "word": "mouthwash",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "płyn do ust"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mouth-watering",
+    "word": "mouth-watering",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "apetyczny",
+          "pobudzający apetyt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-movable",
+    "word": "movable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "ruchomy",
+          "przenośny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-move",
+    "word": "move",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "poruszać",
+          "poruszać się",
+          "ruszać",
+          "ruszać się",
+          "przemieszczać",
+          "przestawiać",
+          "przeprowadzać się",
+          "przeprowadzać",
+          "przenosić się",
+          "przenosić",
+          "przeprowadził się do Chicago",
+          "przetasowywać",
+          "przesuwać",
+          "przechodzić",
+          "wchodzić",
+          "wchodzić w erę atomową",
+          "zachodzić szybko",
+          "zachodzić",
+          "skłaniać",
+          "kogoś, by coś zrobił",
+          "poruszać",
+          "wzruszać",
+          "wysuwać",
+          "proponować"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ruch",
+          "posunięcie",
+          "przeprowadzka",
+          "przenosiny",
+          "przesunięcie",
+          "przetasowanie służbowe",
+          "przetasowanie",
+          "przejście",
+          "przeprowadzać się"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "schodzić",
+          "spadać"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "wprowadzać się",
+          "wchodzić",
+          "nadciągać"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "odjeżdżać"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "przejeżdżać",
+          "przechodzić"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "wyprowadzać się",
+          "skądś"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "iść w górę"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-moveable",
+    "word": "moveable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "ruchomy",
+          "przenośny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-movement",
+    "word": "movement",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ruch",
+          "transport",
+          "posunięcia",
+          "część"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-movie",
+    "word": "movie",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "film",
+          "kino"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-moving",
+    "word": "moving",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "poruszający",
+          "ruchomy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mower",
+    "word": "mower",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kosiarka do trawy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-Mozambican",
+    "word": "Mozambican",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "mozambikański"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Mozambikańczyk"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-Mozambique",
+    "word": "Mozambique",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Mozambik"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-much",
+    "word": "much",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "dużo",
+          "bardzo",
+          "w większości",
+          "dużo",
+          "wiele",
+          "ile?",
+          "tyle",
+          "ile",
+          "za dużo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mucky",
+    "word": "mucky",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "ubabrany",
+          "świński"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mucus",
+    "word": "mucus",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "śluz"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-muddle",
+    "word": "muddle",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zamieszanie",
+          "bałagan",
+          "pomieszanie",
+          "zamęt"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "pomieszać",
+          "mieszać",
+          "robić bałagan",
+          "dezorientować"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "błąkać się",
+          "iść po omacku"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "mieszać",
+          "mylić",
+          "z"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-muddy",
+    "word": "muddy",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "zabłocony",
+          "błotnisty",
+          "mulisty"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zaciemniać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mudguard",
+    "word": "mudguard",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "błotnik"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-muesli",
+    "word": "muesli",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "muzli "
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-muffin",
+    "word": "muffin",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "bułka "
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-muffle",
+    "word": "muffle",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zagłuszać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mugger",
+    "word": "mugger",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "chuligan",
+          "zbój"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-muggy",
+    "word": "muggy",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "duszny",
+          "wilgotny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mule",
+    "word": "mule",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "muł"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mull_over",
+    "word": "mull over",
+    "trans": [
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "przemyśliwać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-multiaccess",
+    "word": "multiaccess",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wielodostępność"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-multifarious",
+    "word": "multifarious",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "różnorodny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-multilateral",
+    "word": "multilateral",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wielostronny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-multinational",
+    "word": "multinational",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wielonarodowy",
+          "ponadnarodowy"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "firma ponadnarodowa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-multiple",
+    "word": "multiple",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wielokrotny",
+          "w większej ilości"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wielokrotność"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-multiplication",
+    "word": "multiplication",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "mnożenie",
+          "rozrost",
+          "rozmnażanie się"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-multiplicity",
+    "word": "multiplicity",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wielość"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-multiply",
+    "word": "multiply",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "rozmnażać się",
+          "mnożyć",
+          "przez"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-multitasking",
+    "word": "multitasking",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wielozadaniowość"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-multitude",
+    "word": "multitude",
+    "trans": [
+      {
+        "gramGrp": "Num",
+        "texts": [
+          "wielość"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mumble",
+    "word": "mumble",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "mamrotać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mummify",
+    "word": "mummify",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "mumifikować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mummy",
+    "word": "mummy",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "mamusia",
+          "mamuśka",
+          "mumia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mumps",
+    "word": "mumps",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "świnka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-munch",
+    "word": "munch",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "przeżuwać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mundane",
+    "word": "mundane",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "przyziemny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-Munich",
+    "word": "Munich",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Monachium"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-municipal",
+    "word": "municipal",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "miejski"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-municipality",
+    "word": "municipality",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "samorząd miejski",
+          "samorząd"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-munificence",
+    "word": "munificence",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "szczodrość"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-munitions",
+    "word": "munitions",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "amunicja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mural",
+    "word": "mural",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "malowidło ścienne",
+          "fresk"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-murder",
+    "word": "murder",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "morderstwo"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "mordować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-murderer",
+    "word": "murderer",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "morderca"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-murderous",
+    "word": "murderous",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "morderczy",
+          "krwawy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-murky",
+    "word": "murky",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "mroczny",
+          "mętny",
+          "zabłocony",
+          "podejrzany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-murmur",
+    "word": "murmur",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "mruczeć"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pomruk"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-muscle",
+    "word": "muscle",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "mięsień",
+          "muskuł",
+          "siła",
+          "potęga"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "wpychać się",
+          "na",
+          "do"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-muscular",
+    "word": "muscular",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "mięśniowy",
+          "obrażenia mięśni",
+          "muskularny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-muse",
+    "word": "muse",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "dumać"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "muza"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-museum",
+    "word": "museum",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "muzeum"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mush",
+    "word": "mush",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "papka",
+          "ciapa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mushroom",
+    "word": "mushroom",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "grzyb"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wyłaniać się",
+          "mnożyć się"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mushy",
+    "word": "mushy",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "rozgnieciony",
+          "przejrzały",
+          "ckliwy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-music",
+    "word": "music",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "muzyka",
+          "nuty"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-musical",
+    "word": "musical",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "muzyczny",
+          "muzykalny",
+          "melodyjny"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "musical"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-musician",
+    "word": "musician",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "muzyk"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-musk",
+    "word": "musk",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "piżmo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-Muslim",
+    "word": "Muslim",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "muzułmanin"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "muzułmański"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-muslin",
+    "word": "muslin",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "muślin"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mussel",
+    "word": "mussel",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "małż"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-must",
+    "word": "must",
+    "trans": [
+      {
+        "gramGrp": "V Mod",
+        "texts": [
+          "musieć"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "coś nieodzownego",
+          "nie wolno"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mustard",
+    "word": "mustard",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "musztarda",
+          "gorczyca"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-muster",
+    "word": "muster",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zbierać",
+          "zbierać się",
+          "ześrodkowywać się"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-musty",
+    "word": "musty",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "stęchły"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mutate",
+    "word": "mutate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "mutować",
+          "przekształcać się",
+          "w"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mute",
+    "word": "mute",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niemy"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "tłumić"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-muted",
+    "word": "muted",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "przytłumiony",
+          "przygaszony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mutilate",
+    "word": "mutilate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "okaleczać",
+          "psuć "
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mutilated",
+    "word": "mutilated",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "zniekształcony",
+          "okaleczony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mutinous",
+    "word": "mutinous",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "buntowniczy",
+          "rebeliancki"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mutiny",
+    "word": "mutiny",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "bunt",
+          "rebelia"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "buntować się"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mutter",
+    "word": "mutter",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "mamrotać"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "mruczenie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mutton",
+    "word": "mutton",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "baranina"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mutual",
+    "word": "mutual",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wzajemny",
+          "wspólny",
+          "odwzajemniony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mutually",
+    "word": "mutually",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "wzajemnie",
+          "nawzajem"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-muzzle",
+    "word": "muzzle",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pysk",
+          "kaganiec",
+          "wylot lufy",
+          "wylot"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "nakładać kaganiec"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-myopic",
+    "word": "myopic",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "krótkowzroczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-myriad",
+    "word": "myriad",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "mnóstwo"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niezliczony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-myself",
+    "word": "myself",
+    "trans": [
+      {
+        "gramGrp": "Pron",
+        "texts": [
+          "się",
+          "siebie",
+          "sobie",
+          "ja sam",
+          "sam"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mysterious",
+    "word": "mysterious",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "tajemniczy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mystery",
+    "word": "mystery",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "tajemnica"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "tajemniczy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mystic",
+    "word": "mystic",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "mistyk"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "mistyczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mysticism",
+    "word": "mysticism",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "mistycyzm"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mystify",
+    "word": "mystify",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wprowadzać w błąd",
+          "zaskakiwać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mystique",
+    "word": "mystique",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "mistyka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-myth",
+    "word": "myth",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "mit"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mythic",
+    "word": "mythicmythical",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "mityczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-mythology",
+    "word": "mythology",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "mitologia"
+        ]
+      }
+    ]
+  }
+]

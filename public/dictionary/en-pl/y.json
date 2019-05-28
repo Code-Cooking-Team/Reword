@@ -1,0 +1,545 @@
+[
+  {
+    "id": "y-yacht",
+    "word": "yacht",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "jacht"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "y-yachting",
+    "word": "yachting",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "żeglarstwo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "y-Yank",
+    "word": "Yank",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Amerykaniec"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "y-yank",
+    "word": "yank",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wyszarpywać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "y-Yankee",
+    "word": "Yankee",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "jankes"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "y-yard",
+    "word": "yard",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "jard ",
+          "podwórko",
+          "zakład"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "y-yardstick",
+    "word": "yardstick",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "miara"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "y-yarn",
+    "word": "yarn",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "nić",
+          "bajda",
+          "bajka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "y-yawn",
+    "word": "yawn",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "ziewać",
+          "ziać",
+          "rozwierać się"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ziewnięcie",
+          "nudziarstwo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "y-yeah",
+    "word": "yeah",
+    "trans": [
+      {
+        "gramGrp": "Inter",
+        "texts": [
+          "aha",
+          "no"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "y-year",
+    "word": "year",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "rok",
+          "siedemdziesięciolatek",
+          "siedemdziesięcioletni mężczyzna",
+          "okrągły rok"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "y-yearly",
+    "word": "yearly",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "roczny",
+          "coroczny"
+        ]
+      },
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "rocznie",
+          "corocznie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "y-yearn",
+    "word": "yearn",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "tęsknić",
+          "za kimś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "y-yearning",
+    "word": "yearning",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "tęsknota"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "y-yeast",
+    "word": "yeast",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "drożdże"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "y-yell",
+    "word": "yell",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wrzeszczeć"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wrzask"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "y-yellow",
+    "word": "yellow",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "żółty"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "żółknąć"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "żółta febra"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "y-yelp",
+    "word": "yelp",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zaskowytać",
+          "zakrzyknąć",
+          "zakrzyknięcie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "y-Yemen",
+    "word": "Yemen",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Jemen"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "y-Yemeni",
+    "word": "Yemeni",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "jemeński"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Jemeńczyk"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "y-yes-man",
+    "word": "yes-man",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "potakiwacz"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "y-yesterday",
+    "word": "yesterday",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "wczoraj",
+          "przedwczoraj"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "y-yield",
+    "word": "yield",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "ustępować",
+          "przed kimś",
+          "komuś",
+          "wobec czegoś",
+          "oddawać",
+          "dawać"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zysk",
+          "plon"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "y-yoghurt",
+    "word": "yoghurtyogurt",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "jogurt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "y-yoke",
+    "word": "yoke",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "jarzmo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "y-yolk",
+    "word": "yolk",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "żółtko"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "y-yonder",
+    "word": "yonder",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "tam"
+        ]
+      },
+      {
+        "gramGrp": "Det",
+        "texts": [
+          "tamten"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "y-young",
+    "word": "young",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "młody"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "młode "
+        ]
+      }
+    ]
+  },
+  {
+    "id": "y-youngish",
+    "word": "youngish",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "dość młody"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "y-youngster",
+    "word": "youngster",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "dziecko",
+          "chłopiec"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "y-your",
+    "word": "your",
+    "trans": [
+      {
+        "gramGrp": "Det",
+        "texts": [
+          "twój",
+          "wasz",
+          "pana",
+          "pani",
+          "swój",
+          "własny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "y-yours",
+    "word": "yours",
+    "trans": [
+      {
+        "gramGrp": "Pron",
+        "texts": [
+          "twój",
+          "wasz",
+          "pana",
+          "pani",
+          ",,Z poważaniem''"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "y-yourself",
+    "word": "yourself",
+    "trans": [
+      {
+        "gramGrp": "Pron",
+        "texts": [
+          "się",
+          "siebie",
+          "sobie ",
+          "sam"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "y-youth",
+    "word": "youth",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "młodość",
+          "młody człowiek",
+          "młodzież"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "schronisko młodzieżowe"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "y-youthful",
+    "word": "youthful",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "młodzieńczy",
+          "młody"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "y-Yugoslav",
+    "word": "Yugoslav",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "jugosłowiański"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "y-Yugoslavia",
+    "word": "Yugoslavia",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Jugosławia"
+        ]
+      }
+    ]
+  }
+]

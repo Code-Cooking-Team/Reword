@@ -1,0 +1,1618 @@
+[
+  {
+    "id": "j-jabber",
+    "word": "jabber",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "paplać"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "gadanina"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-jack",
+    "word": "jack",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "podnośnik",
+          "walet"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-jacket",
+    "word": "jacket",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "marynarka",
+          "kurtka",
+          "mundurek",
+          "okładka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-jackknife",
+    "word": "jackknife",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "składany nóż"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "składać się "
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-jackpot",
+    "word": "jackpot",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "najwyższa wygrana",
+          "pula"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-jade",
+    "word": "jade",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "jadeit"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-jaded",
+    "word": "jaded",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "sterany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-jagged",
+    "word": "jagged",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "poszarpany",
+          "wyszczerbiony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-jaguar",
+    "word": "jaguar",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "jaguar"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-Jamaica",
+    "word": "Jamaica",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Jamajka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-Jamaican",
+    "word": "Jamaican",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "jamajski"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Jamajczyk"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-jangle",
+    "word": "jangle",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "brzęczeć"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "brzęk"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-janitor",
+    "word": "janitor",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "dozorca",
+          "portier"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-January",
+    "word": "January",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "styczeń"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-Japan",
+    "word": "Japan",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Japonia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-Japanese",
+    "word": "Japanese",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "japoński"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Japończyk"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-jargon",
+    "word": "jargon",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "żargon"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-jaundice",
+    "word": "jaundice",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "żółtaczka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-jaundiced",
+    "word": "jaundiced",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "zgorzkniały"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-jaunt",
+    "word": "jaunt",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wycieczka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-jaunty",
+    "word": "jaunty",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "beztroski",
+          "swobodny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-javelin",
+    "word": "javelin",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "oszczep"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-jazz",
+    "word": "jazz",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "jazz"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "podpicować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-jazzy",
+    "word": "jazzy",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "jazowy",
+          "wystrzałowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-jealous",
+    "word": "jealous",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "zazdrosny",
+          "o",
+          "zawistny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-jealousy",
+    "word": "jealousy",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zazdrość"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-jeans",
+    "word": "jeans",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "dżinsy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-jeep",
+    "word": "jeep",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "dżip",
+          "gazik"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-jell",
+    "word": "jell",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zastygać w galaretę",
+          "zastygać",
+          "przybierać kształtów"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "żel"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-jelly",
+    "word": "jelly",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "galaretka ",
+          "marmolada"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-jellyfish",
+    "word": "jellyfish",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "meduza"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-jemmy",
+    "word": "jemmy",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "łom"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-jeopardize",
+    "word": "jeopardizejeopardise",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "narażać na niebezpieczeństwo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-jeopardy",
+    "word": "jeopardy",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "niebezpieczeństwo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-jerk",
+    "word": "jerk",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "szarpać",
+          "szarpać się",
+          "rzucać się"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "szarpnięcie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-jerky",
+    "word": "jerky",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "trzęsący się",
+          "trzęsący",
+          "spazmatyczny",
+          "konwulsyjny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-Jersey",
+    "word": "Jersey",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Jersey"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-jersey",
+    "word": "jersey",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "sweter",
+          "dżersej"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-jest",
+    "word": "jest",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "dowcip",
+          "żartem"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-jet-black",
+    "word": "jet-black",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "kruczoczarny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-jettison",
+    "word": "jettison",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wyzbywać się"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-jetty",
+    "word": "jetty",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "nabrzeże",
+          "falochron"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-jewel",
+    "word": "jewel",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "klejnot"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-jewelled",
+    "word": "jewelledjeweled",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "ozdobiony klejnotami"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-jeweller",
+    "word": "jewellerjeweler",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "jubiler"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-jewellery",
+    "word": "jewellery",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "biżuteria"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-Jewess",
+    "word": "Jewess",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Żydówka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-Jewish",
+    "word": "Jewish",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "żydowski"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-jibe",
+    "word": "jibegibe",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "docinek"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-jiggle",
+    "word": "jiggle",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "kręcić się",
+          "kręcić",
+          "machać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-jilt",
+    "word": "jilt",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "porzucać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-jingle",
+    "word": "jingle",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "brzęczeć"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "brzęczenie",
+          "hasło",
+          "powiedzonko "
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-jittery",
+    "word": "jittery",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "roztrzęsiony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-jobless",
+    "word": "jobless",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "bezrobotny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-jockey",
+    "word": "jockey",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "dżokej",
+          "walczyć o lepsze miejsce"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-jocular",
+    "word": "jocular",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "żartobliwy",
+          "dowcipny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-join",
+    "word": "join",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "łączyć się",
+          "łączyć",
+          "stawać",
+          "w kolejce",
+          "wstępować",
+          "do wojska"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "połączenie"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "dołączać się do"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "zaciągać się",
+          "wstępować do wojska",
+          "łączyć"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-joiner",
+    "word": "joiner",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "stolarz"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-joint",
+    "word": "joint",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wspólny"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "staw",
+          "złączenie",
+          "udziec",
+          "knajpa",
+          "pet"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-joke",
+    "word": "joke",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "dowcip",
+          "żart"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "żartować",
+          "o"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "przedmiot żartów"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-joker",
+    "word": "joker",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "dowcipniś",
+          "żartowniś",
+          "dżoker"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-jokingly",
+    "word": "jokingly",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "żartem"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-jolly",
+    "word": "jolly",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wesoły",
+          "radosny"
+        ]
+      },
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "bardzo",
+          "szalenie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-jolt",
+    "word": "jolt",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "szarpać się",
+          "szarpać",
+          "wstrząsać się",
+          "wstrząsać"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "szarpnięcie",
+          "wstrząs"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-Jordan",
+    "word": "Jordan",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Jordania",
+          "Jordan"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-Jordanian",
+    "word": "Jordanian",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "jordański"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Jordańczyk"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-jostle",
+    "word": "jostle",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "obijać się",
+          "o coś",
+          "rozpychać się",
+          "rozpychać",
+          "przepychać się",
+          "przepychać",
+          "walczyć",
+          "o"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-journal",
+    "word": "journal",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "magazyn",
+          "czasopismo",
+          "dziennik"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-journalism",
+    "word": "journalism",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "dziennikarstwo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-journalist",
+    "word": "journalist",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "dziennikarz"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-journalistic",
+    "word": "journalistic",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "dziennikarski"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-journey",
+    "word": "journey",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "podróż"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "podróżować",
+          "przerywać podróż"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-jovial",
+    "word": "jovial",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "jowialny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-joyful",
+    "word": "joyful",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "radosny",
+          "szczęśliwy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-joyless",
+    "word": "joyless",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "ponury"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-joyride",
+    "word": "joyride",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "przejażdżka "
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-joystick",
+    "word": "joystick",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "drążek",
+          "dżojstik"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-jubilant",
+    "word": "jubilant",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "rozradowany",
+          "triumfujący"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-jubilation",
+    "word": "jubilation",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "świętowanie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-jubilee",
+    "word": "jubilee",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "jubileusz"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-Judaism",
+    "word": "Judaism",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "judaizm"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-judge",
+    "word": "judge",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "sędzia",
+          "znawca"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "oceniać",
+          "osądzać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-judgement",
+    "word": "judgement",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ocena",
+          "osąd",
+          "wyrok",
+          "wydawać ocenę",
+          "wydawać ocenę co do",
+          "wydawać werdykt",
+          "wydawać werdykt co do",
+          "wstrzymywać się z oceną",
+          "wbrew swojemu przekonaniu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-judicial",
+    "word": "judicial",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "sądowniczy",
+          "prawny",
+          "krytyczny",
+          "oceniający"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-judicious",
+    "word": "judicious",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "rozważny",
+          "rozsądny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-juggernaut",
+    "word": "juggernaut",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wielka ciężarówka",
+          "TIR"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-juggle",
+    "word": "juggle",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "żonglować",
+          "przestawiać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-juggler",
+    "word": "juggler",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "żongler"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-juice",
+    "word": "juice",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "sok",
+          "sos"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-juicy",
+    "word": "juicy",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "soczysty",
+          "smakowity"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-jukebox",
+    "word": "jukebox",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "szafa grająca"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-July",
+    "word": "July",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "lipiec"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-jumble",
+    "word": "jumble",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "chaos",
+          "plątanina"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "mieszać",
+          "splątywać"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "wyprzedaż dobroczynna",
+          "wyprzedaż"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-jumbo",
+    "word": "jumbo",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "kolosalny",
+          "duży odrzutowiec"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-jump",
+    "word": "jump",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "skakać",
+          "na",
+          "do",
+          "przeskakiwać",
+          "wzdrygać się",
+          "wpychać się",
+          "do czegoś"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "skok",
+          "prowadzić"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "palić się",
+          "do czegoś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-jumper",
+    "word": "jumper",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pulower",
+          "kombinezon"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-jumpy",
+    "word": "jumpy",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nerwowy",
+          "niespokojny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-junction",
+    "word": "junction",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "połączenie",
+          "krzyżówka",
+          "węzeł"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-June",
+    "word": "June",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "czerwiec"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-jungle",
+    "word": "jungle",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "dżungla"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-junk",
+    "word": "junk",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "rupiecie",
+          "starocie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-junkie",
+    "word": "junkie",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "narkoman"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-jurisdiction",
+    "word": "jurisdiction",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "jurysdykcja",
+          "władza sądownicza"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-jurist",
+    "word": "jurist",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "prawnik"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-juror",
+    "word": "juror",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "członek sądu przysięgłego",
+          "juror"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-jury",
+    "word": "jury",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "sąd przysięgłych",
+          "jury"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-justice",
+    "word": "justice",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "sprawiedliwość",
+          "wymiar sprawiedliwości",
+          "słuszność",
+          "sędzia",
+          "być pociągniętym do odpowiedzialności karnej",
+          "oddawać sprawiedliwość czemuś"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "sędzia pokoju"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-justifiable",
+    "word": "justifiable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "uzasadniony",
+          "usprawiedliwiony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-justification",
+    "word": "justification",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "uzasadnienie",
+          "usprawiedliwienie",
+          "wyrównywanie",
+          "justowanie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-justify",
+    "word": "justify",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "uzasadniać",
+          "usprawiedliwiać",
+          "wyrównywać",
+          "justować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-juvenile",
+    "word": "juvenile",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "młodociany",
+          "dziecinny"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "młodociany przestępca"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "j-juxtapose",
+    "word": "juxtapose",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "porównywać",
+          "zestawiać"
+        ]
+      }
+    ]
+  }
+]

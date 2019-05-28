@@ -7,7 +7,6 @@ cache:
 script:
   - npm run test
   - npm run build
-  - npm run build:dictionary
   - npm run build:storybook
 deploy:
   provider: pages

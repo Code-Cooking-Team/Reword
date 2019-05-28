@@ -1,0 +1,7922 @@
+[
+  {
+    "id": "h-haberdashery",
+    "word": "haberdashery",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "artykuły pasmanteryjne",
+          "męskie ubrania"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-habit",
+    "word": "habit",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "przyzwyczajenie",
+          "zwyczaj",
+          "habit",
+          "mieć zwyczaj coś robić",
+          "mieć zwyczaj coś robić"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-habitable",
+    "word": "habitable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "zdatny do zamieszkania"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-habitat",
+    "word": "habitat",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "siedlisko",
+          "habitat"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-habitation",
+    "word": "habitation",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zamieszkiwanie",
+          "mieszkanie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-habitual",
+    "word": "habitual",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "zwyczajowy",
+          "zwykły",
+          "zatwardziały",
+          "nałogowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hack",
+    "word": "hack",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "rąbać",
+          "siekać"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wyrobnik literacki",
+          "murzyn"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hackneyed",
+    "word": "hackneyed",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wyświechtany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hacksaw",
+    "word": "hacksaw",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "piła do metalu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-haddock",
+    "word": "haddock",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "łupacz ryba",
+          "łupacz"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-haemophilia",
+    "word": "haemophiliahemophilia",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "hemofilia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-haemophiliac",
+    "word": "haemophiliachemophiliac",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "chory na hemofilię"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-haemorrhage",
+    "word": "haemorrhagehemorrhage",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "krwotok"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wykrwawiać się",
+          "dostawać krowotoku"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-haggard",
+    "word": "haggard",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wynędzniały",
+          "wymęczony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-haggle",
+    "word": "haggle",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "targować się",
+          "targować",
+          "z"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-Hague",
+    "word": "Hague",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Haga"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hail",
+    "word": "hail",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "grad"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zatrzymywać",
+          "przyzywać",
+          "wysławiać",
+          "kogoś jako",
+          "wynosić pod niebiosa",
+          "witać",
+          "obwoływać",
+          "grad pada"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hailstone",
+    "word": "hailstone",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kulka gradu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hailstorm",
+    "word": "hailstorm",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "burza gradowa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hair",
+    "word": "hair",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "włos",
+          "włosy",
+          "włosek",
+          "wyrostek",
+          "sprawiać",
+          "że włosy komu stają na głowie",
+          "rozluźniać się",
+          "dzielić włos na czworo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-haircut",
+    "word": "haircut",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "strzyżenie",
+          "fryzura"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hairdo",
+    "word": "hairdo",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "fryzura"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hairdresser",
+    "word": "hairdresser",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "fryzjer"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hairdryer",
+    "word": "hairdryerhairdrier",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "suszarka do włosów",
+          "suszarka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hairless",
+    "word": "hairless",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieowłosiony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hairline",
+    "word": "hairline",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "linia zarostu"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "jak włos",
+          "na włos"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hairnet",
+    "word": "hairnet",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "siatka do włosów"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hairpin",
+    "word": "hairpin",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "spinka do włosów",
+          "spinka"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "serpentyna"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hair-rising",
+    "word": "hair-rising",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "jeżący włosy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hairstyle",
+    "word": "hairstyle",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "fryzura"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hairy",
+    "word": "hairy",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "włochaty",
+          "owłosiony",
+          "paskudny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-halcyon",
+    "word": "halcyon",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "cichy",
+          "spokojny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hale",
+    "word": "hale",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "krzepki"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-half",
+    "word": "half",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pół",
+          "połowa",
+          "połówka"
+        ]
+      },
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "na wpół",
+          "na pół",
+          "na pół Polak",
+          "wpół",
+          "wpół do szóstej"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "przyrodni",
+          "na pół",
+          "o połowę",
+          "stanowczo zbyt sprytny",
+          "stanowczo zbyt",
+          "dzielić się po pół"
+        ]
+      },
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "ze zniżką 50"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-half-baked",
+    "word": "half-baked",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niedowarzony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-half-caste",
+    "word": "half-caste",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "mieszany rasowo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-half-hearted",
+    "word": "half-hearted",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "połowiczny",
+          "bez zapału"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-halfpenny",
+    "word": "halfpenny",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "półpensówka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-half-term",
+    "word": "half-term",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ferie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-half-time",
+    "word": "half-time",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "przerwa w meczu",
+          "przerwa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-halfway",
+    "word": "halfway",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "w pół drogi",
+          "w połowie",
+          "wychodzić komuś naprzeciw"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hall",
+    "word": "hall",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "korytarz",
+          "przedpokój",
+          "hall",
+          "sala",
+          "sala zebrań",
+          "sala koncertowa",
+          "aula",
+          "dom akademicki"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hallmark",
+    "word": "hallmark",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "cecha charakterystyczna",
+          "próba",
+          "cecha"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hallowed",
+    "word": "hallowed",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "uświęcony",
+          "czcigodny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-Halloween",
+    "word": "HalloweenHallowe'en",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "przeddzień Wszystkich Świętych gdy dzieci udają duchy",
+          "przeddzień Wszystkich Świętych"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hallucinate",
+    "word": "hallucinate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "mieć halucynacje"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hallucination",
+    "word": "hallucination",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "halucynacja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hallway",
+    "word": "hallway",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "korytarz",
+          "przedpokój"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-halo",
+    "word": "halo",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "aureola"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-halt",
+    "word": "halt",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zatrzymywać się",
+          "zatrzymywać",
+          "zatrzymywać się",
+          "zatrzymywać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-halting",
+    "word": "halting",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wahający się",
+          "pełen wahania"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-halve",
+    "word": "halve",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "przepoławiać się",
+          "przepoławiać",
+          "obcinać o połowę"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hamlet",
+    "word": "hamlet",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "sioło",
+          "wioska"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hammer",
+    "word": "hammer",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "młotek",
+          "młot"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wbijać",
+          "coś do",
+          "coś w",
+          "bębnić",
+          "o",
+          "w"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "tyrać",
+          "nad",
+          "pracować"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "wypracowywać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hammock",
+    "word": "hammock",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "hamak"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hamper",
+    "word": "hamper",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "ograniczać",
+          "krępować"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "koszyk na jedzenie",
+          "koszyk"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-Hampshire",
+    "word": "Hampshire",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Hampshire"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hamster",
+    "word": "hamster",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "chomik"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hamstring",
+    "word": "hamstring",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ścięgno podkolanowe",
+          "ścięgno"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "krępować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-handbag",
+    "word": "handbag",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "torebka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-handbook",
+    "word": "handbook",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "podręcznik",
+          "poradnik"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-handbrake",
+    "word": "handbrake",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "hamulec ręczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-handcart",
+    "word": "handcart",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wózek ręczny",
+          "wózek"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-handcuff",
+    "word": "handcuff",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zakuwać w kajdanki"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-handcuffs",
+    "word": "handcuffs",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "kajdanki"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-handful",
+    "word": "handful",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "garść",
+          "garstka",
+          "psotnik",
+          "psotnica"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-handicap",
+    "word": "handicap",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "upośledzenie",
+          "trudność",
+          "for",
+          "handikap"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "upośledzać",
+          "stawiać w trudnym położeniu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-handicraft",
+    "word": "handicraft",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "rzemiosło",
+          "rękodzieło"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "rękodzielniczy"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wyrób rękodzielniczy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-handiwork",
+    "word": "handiwork",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "dzieło własnych rąk",
+          "dzieło"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-handkerchief",
+    "word": "handkerchief",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "chusteczka do nosa",
+          "chusteczka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-handle",
+    "word": "handle",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "klamka",
+          "rączka",
+          "uchwyt"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "przenosić",
+          "przemieszczać",
+          "dawać sobie radę",
+          "z czymś",
+          "chodzić",
+          "chodzi bardzo dobrze",
+          "zajmować się",
+          "być odpowiedzialnym",
+          "za coś",
+          "obchodzić się",
+          "z kimś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-handlebar",
+    "word": "handlebar",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kierownica "
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-handler",
+    "word": "handler",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "treser"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-handmade",
+    "word": "handmade",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "ręcznie robiony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-handout",
+    "word": "handout",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "datek",
+          "wsparcie",
+          "zapomoga",
+          "folder",
+          "ulotka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hand-picked",
+    "word": "hand-picked",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wyselekcjonowany",
+          "starannie dobrany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-handshake",
+    "word": "handshake",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "uścisk dłoni"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-handsome",
+    "word": "handsome",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "przystojny",
+          "postawny",
+          "atrakcyjny",
+          "pokaźny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hand-to-mouth",
+    "word": "hand-to-mouth",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "ledwie starczający"
+        ]
+      },
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "ledwie ledwie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-handwriting",
+    "word": "handwriting",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pismo odręczne"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-handwritten",
+    "word": "handwritten",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "ręcznie napisany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-handy",
+    "word": "handy",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "poręczny",
+          "przydatny",
+          "zręczny",
+          "z",
+          "pod ręką",
+          "nadawać się doskonale",
+          "trzymać coś pod ręką"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-handyman",
+    "word": "handyman",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "złota rączka",
+          "majster do wszystkiego"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hangar",
+    "word": "hangar",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "hangar"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hanger",
+    "word": "hanger",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wieszak"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hanger-on",
+    "word": "hanger-on",
+    "trans": [
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "pochlebca"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hang-glider",
+    "word": "hang-glider",
+    "trans": [
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "lotnia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hanging",
+    "word": "hanging",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "powieszenie",
+          "wieszanie",
+          "draperia",
+          "obicie",
+          "kotara"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hangman",
+    "word": "hangman",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kat"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hangover",
+    "word": "hangover",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kac",
+          "kociokwik",
+          "przeżytek"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hang-up",
+    "word": "hang-up",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "strach",
+          "obawa",
+          "przed"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hank",
+    "word": "hank",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zwój",
+          "kłąb"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hanker",
+    "word": "hanker",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "pragnąć",
+          "czegoś",
+          "czegoś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hankering",
+    "word": "hankering",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pragnienie",
+          "potrzeba",
+          "czegoś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hanky",
+    "word": "hanky",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "chusteczka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-haphazard",
+    "word": "haphazard",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "chaotyczny",
+          "przypadkowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-happen",
+    "word": "happen",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zdarzać się",
+          "wydarzać się",
+          "przydarzać się",
+          "komuś",
+          "akurat być gdzieś",
+          "przypadkowo być gdzieś",
+          "tak się składa",
+          "tak się złożyło"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-happening",
+    "word": "happening",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zdarzenie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-happy",
+    "word": "happy",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "szczęśliwy",
+          "Szczęśliwego Nowego Roku",
+          "zadowolony",
+          "z czegoś",
+          "z czegoś",
+          "wszystkiego najlepszego z okazji",
+          "dobry",
+          "bardzo chętnie coś zrobić"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-happy-go-lucky",
+    "word": "happy-go-lucky",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "beztroski"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-harangue",
+    "word": "harangue",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "tyrada",
+          "perora"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "przekonywać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-harass",
+    "word": "harass",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "nękać",
+          "prześladować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-harassment",
+    "word": "harassment",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "prześladowanie",
+          "znęcanie się"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-harbour",
+    "word": "harbourharbor",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "przystań",
+          "port"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "ukrywać",
+          "żywić"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hard-and-fast",
+    "word": "hard-and-fast",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "bezwzględny",
+          "ścisły"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hardback",
+    "word": "hardback",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "książka w sztywnej oprawie",
+          "w sztywnej oprawie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hardboard",
+    "word": "hardboard",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "płyta pilśniowa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hard-boiled",
+    "word": "hard-boiled",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "gotowany na twardo",
+          "na twardo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-harden",
+    "word": "harden",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "twardnieć",
+          "utwardzać",
+          "robić zatwardziałym",
+          "robić twardym"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hard-headed",
+    "word": "hard-headed",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niesentymentalny",
+          "trzeźwy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hard-hearted",
+    "word": "hard-hearted",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieczuły",
+          "o twardym sercu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hardly",
+    "word": "hardly",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "prawie nie",
+          "ledwo",
+          "niezbyt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hard-pressed",
+    "word": "hard-pressed",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "znękany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hardship",
+    "word": "hardship",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "problem",
+          "ciężar"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hard-up",
+    "word": "hard-up",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "bez pieniędzy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hardware",
+    "word": "hardware",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "narzędzia metalowe",
+          "sprzęt "
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hard-wearing",
+    "word": "hard-wearing",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "trwały"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hardy",
+    "word": "hardy",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wytrwały",
+          "wytrzymały",
+          "mrozoodporny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-harebrained",
+    "word": "harebrained",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "głupi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-harm",
+    "word": "harm",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "krzywda",
+          "szkoda"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "krzywdzić",
+          "szkodzić",
+          "kogoś nie spotka krzywda",
+          "kogoś nie spotka krzywda",
+          "bezpieczny",
+          "nie ma nic złego w zrobieniu czegoś",
+          "nie ma nic złego"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-harmful",
+    "word": "harmful",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "szkodliwy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-harmless",
+    "word": "harmless",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nieszkodliwy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-harmonica",
+    "word": "harmonica",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "organki",
+          "harmonijka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-harmonious",
+    "word": "harmonious",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "harmonijny",
+          "zharmonizowany",
+          "zgodny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-harmonize",
+    "word": "harmonizeharmonise",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "harmonizować",
+          "z"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-harmony",
+    "word": "harmony",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "harmonia",
+          "zgoda"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-harness",
+    "word": "harness",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "uprząż",
+          "pasy mocujące"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zaprzęgać",
+          "do",
+          "czynić użytecznym"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-harp",
+    "word": "harp",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "harfa"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "narzekać",
+          "skarżyć się"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-harpoon",
+    "word": "harpoon",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "harpun"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-harpsichord",
+    "word": "harpsichord",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "klawesyn"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-harrowing",
+    "word": "harrowing",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "przygnębiający"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-harsh",
+    "word": "harsh",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "ostry",
+          "szorstki"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-harvest",
+    "word": "harvest",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "plon",
+          "zbiór"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zbierać plony",
+          "zbierać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-harvester",
+    "word": "harvester",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kombajn"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-has-been",
+    "word": "has-been",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zapomniana sława"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hash",
+    "word": "hash",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "spartaczyć coś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hassle",
+    "word": "hassle",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "mordęga",
+          "sprzeczka"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "mordować",
+          "dręczyć"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-haste",
+    "word": "haste",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pośpiech",
+          "śpieszyć się"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hasten",
+    "word": "hasten",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "przyśpieszać",
+          "śpieszyć się",
+          "pośpieszyć",
+          "zrobić coś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hasty",
+    "word": "hasty",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "pośpieszny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hatch",
+    "word": "hatch",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "knuć"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "luk",
+          "właz",
+          "wewnętrzne okno",
+          "otwór",
+          "z jaj wykluwają się młode"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hatchet",
+    "word": "hatchet",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "toporek",
+          "zakopywać topór wojenny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hate",
+    "word": "hate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "nienawidzić"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "nienawiść",
+          "bardzo mi przykro",
+          "że panu przeszkadzam",
+          "że",
+          "przykro mi to mówić"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hateful",
+    "word": "hateful",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nienawistny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hatred",
+    "word": "hatred",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "nienawiść"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-haughty",
+    "word": "haughty",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wyniosły"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-haul",
+    "word": "haul",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wyciągać",
+          "ciągnąć",
+          "długi dystans",
+          "długa droga"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "zaciągać",
+          "przed sąd"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-haunch",
+    "word": "haunch",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pośladek",
+          "biodro"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-haunt",
+    "word": "haunt",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "nawiedzać",
+          "prześladować"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "miejsce chętnie odwiedzane",
+          "miejsce"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-haunting",
+    "word": "haunting",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "urzekający",
+          "chwytliwy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-haven",
+    "word": "haven",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "przystań",
+          "schronienie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-haversack",
+    "word": "haversack",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "plecak",
+          "chlebak"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-havoc",
+    "word": "havoc",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "chaos",
+          "zamieszanie",
+          "spustoszenie",
+          "wprowadzać chaos",
+          "niszczyć",
+          "pustoszyć"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-Hawaii",
+    "word": "Hawaii",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Hawaje"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-Hawaiian",
+    "word": "Hawaiian",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "hawajski"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hawk",
+    "word": "hawk",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "jastrząb"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "obnosić się",
+          "po",
+          "mieć kogoś na oku"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hawthorn",
+    "word": "hawthorn",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "głóg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-haystack",
+    "word": "haystack",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "stóg",
+          "kopa siana",
+          "kopa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hazard",
+    "word": "hazard",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ryzyko",
+          "niebezpieczeństwo"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "ryzykować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hazardous",
+    "word": "hazardous",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niebezpieczny",
+          "ryzykowny",
+          "dla"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-haze",
+    "word": "haze",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "mgiełka",
+          "opary"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hazel",
+    "word": "hazel",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "leszczyna"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "orzechowy",
+          "piwny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hazelnut",
+    "word": "hazelnut",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "orzech laskowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hazy",
+    "word": "hazy",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "zamglony",
+          "niejasny",
+          "niepewny",
+          "co do"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-head",
+    "word": "head",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "głowa",
+          "szczyt",
+          "zwierzchnik",
+          "dyrektor",
+          "kierownik",
+          "reszka",
+          "reszka czy orzeł?"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zarządzać",
+          "kierować",
+          "otwierać",
+          "być na pierwszym miejscu",
+          "tytułować",
+          "zmierzać",
+          "do",
+          "w stronę",
+          "odbijać główką",
+          "główkować",
+          "na głowę",
+          "prosto z mostu",
+          "bez namysłu",
+          "krzyczeć na całe gardło",
+          "na całe gardło",
+          "zmyć komuś głowę",
+          "dochodzić do szczytu",
+          "wbijać sobie do głowy",
+          "wbijać sobie jakiś fakt do głowy",
+          "wbijać komuś do głowy",
+          "wbijać komuś jakiś fakt do głowy",
+          "uderzać do głowy",
+          "nie tracić głowy",
+          "tracić głowę",
+          "naradzać się",
+          "upaść na głowę"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "przewaga"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-headache",
+    "word": "headache",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ból głowy",
+          "problem"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-headdress",
+    "word": "headdress",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "przybranie głowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-head-first",
+    "word": "head-first",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "głową naprzód",
+          "na głowę"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-headgear",
+    "word": "headgear",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "nakrycie głowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-heading",
+    "word": "heading",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "nagłówek",
+          "tytuł"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-headlamp",
+    "word": "headlamp",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "światło przednie",
+          "reflektor przedni"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-headland",
+    "word": "headland",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "cypel"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-headlight",
+    "word": "headlight",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "światło przednie",
+          "reflektor przedni"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-headline",
+    "word": "headline",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "nagłówek",
+          "najważniejsze wydarzenia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-headlong",
+    "word": "headlong",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "na łeb",
+          "na szyję",
+          "bez namysłu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-headmaster",
+    "word": "headmaster",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "dyrektor szkoły",
+          "dyrektor"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-headmistress",
+    "word": "headmistress",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "dyrektorka szkoły",
+          "dyrektorka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-head-on",
+    "word": "head-on",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "czołowy",
+          "bezpośredni"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-headphones",
+    "word": "headphones",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "słuchawki na uszy",
+          "słuchawki"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-headquarters",
+    "word": "headquarters",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kwatera główna",
+          "centrala"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-headroom",
+    "word": "headroom",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "dopuszczalna wysokość pojazdu",
+          "dopuszczalna wysokość"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-headstone",
+    "word": "headstone",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "płyta nagrobna"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-headwind",
+    "word": "headwind",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wiatr czołowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-heady",
+    "word": "heady",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "ekscytujący",
+          "oszałamiający",
+          "ciężki",
+          "uderzający do głowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-heal",
+    "word": "heal",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "goić się",
+          "goić",
+          "leczyć",
+          "wyleczyć",
+          "zdrowieć"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "goić się"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-health",
+    "word": "health",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zdrowie",
+          "powodzenie",
+          "dobry stan",
+          "pić za czyjeś zdrowie",
+          "pić czyjeś zdrowie",
+          "być słabego zdrowia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-healthy",
+    "word": "healthy",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "zdrowy",
+          "niezły"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-heap",
+    "word": "heap",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "sterta",
+          "kupa",
+          "kupa",
+          "masa",
+          "masa czasu",
+          "masa czasu"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zwalać na kupę",
+          "zwalać",
+          "obsypywać"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "gromadzić"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hear",
+    "word": "hear",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "słyszeć",
+          "o",
+          "słuchać",
+          "dowiadywać się",
+          "dostawać wiadomości",
+          "o",
+          "o",
+          "rozpatrywać",
+          "sądzić",
+          "przeprowadzać"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "wysłuchać",
+          "kogoś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hearing",
+    "word": "hearing",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "słuch",
+          "przesłuchanie",
+          "w zasięgu słuchu",
+          "rozpatrzyć bezstronnie",
+          "rozpatrzyć"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "aparat słuchowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hearsay",
+    "word": "hearsay",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pogłoski"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hearse",
+    "word": "hearse",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "karawan"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-heart",
+    "word": "heart",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "serce",
+          "sedno",
+          "centrum",
+          "głąb",
+          "kier",
+          "w sercu",
+          "w głębi serca",
+          "na pamięć",
+          "zmiana nastawienia",
+          "ktoś podchodzi do czegoś bez serca",
+          "w głębi duszy",
+          "serce się komuś kraje z powodu czegoś",
+          "serce się komuś kraje",
+          "duch w kimś upada",
+          "nastawiać się na coś",
+          "wziąć coś do serca"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-heartbeat",
+    "word": "heartbeat",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "bicie serca"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-heartbreak",
+    "word": "heartbreak",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zgryzota",
+          "smutek"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-heartbreaking",
+    "word": "heartbreaking",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "rozdzierający serce"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-heartburn",
+    "word": "heartburn",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zgaga"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hearten",
+    "word": "hearten",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "dodawać otuchy",
+          "pokrzepiać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-heartfelt",
+    "word": "heartfelt",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "szczery",
+          "głęboki"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hearth",
+    "word": "hearth",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "palenisko"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-heartless",
+    "word": "heartless",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "bez serca",
+          "bezlitosny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-heartrending",
+    "word": "heartrending",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "rozdzierający serce"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hearty",
+    "word": "hearty",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "serdeczny",
+          "obfity"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-heat",
+    "word": "heat",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ciepło",
+          "ciepłota",
+          "ogień",
+          "upał",
+          "gorąco",
+          "uniesienie",
+          "roznamiętnienie",
+          "gorączka",
+          "szczyt",
+          "eliminacje",
+          "ogrzewać",
+          "podgrzewać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-heated",
+    "word": "heated",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "rozemocjonowany",
+          "podekscytowany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-heater",
+    "word": "heater",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "grzejnik",
+          "ogrzewacz wody",
+          "ogrzewacz"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-heath",
+    "word": "heath",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wrzosowisko"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-heathen",
+    "word": "heathen",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "poganin"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "pogański"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-heather",
+    "word": "heather",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wrzos",
+          "wrzosiec"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-heave",
+    "word": "heave",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "ciągnąć z wysiłkiem",
+          "ciągnąć",
+          "dźwigać się",
+          "dźwigać",
+          "falować",
+          "mieć mdłości",
+          "wymiotować",
+          "pociągnięcie z wysiłkiem",
+          "pociągnięcie",
+          "dźwignięcie",
+          "wydawać ciężkie westchnienie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-heaven",
+    "word": "heaven",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "niebo",
+          "niebiosa",
+          "raj",
+          "nieboskłon",
+          "Bóg jeden wie",
+          "dobry Boże"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-heavenly",
+    "word": "heavenly",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niebiański"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-heavenward",
+    "word": "heavenwardheavenwards",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "do niebios"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-heavy",
+    "word": "heavy",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "ciężki",
+          "duży",
+          "obciążony",
+          "czymś",
+          "przesadzać z czymś",
+          "używać czegoś za dużo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-heavy-duty",
+    "word": "heavy-duty",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "o dużej wytrzymałości"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-heavyweight",
+    "word": "heavyweight",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zawodnik wagi ciężkiej",
+          "wagi ciężkiej"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-Hebrew",
+    "word": "Hebrew",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "hebrajski"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Hebrajczyk"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-heckle",
+    "word": "heckle",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "przeszkadzać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hectic",
+    "word": "hectic",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "gorączkowy",
+          "rozgorączkowany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hedge",
+    "word": "hedge",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "żywopłot"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wykręcać się",
+          "z",
+          "ubezpieczać się",
+          "asekurować się"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hedgehog",
+    "word": "hedgehog",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "jeż"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hedgerow",
+    "word": "hedgerow",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "żywopłot"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-heedless",
+    "word": "heedless",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "nie zważający",
+          "na",
+          "nieuważny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-heel",
+    "word": "heel",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pięta",
+          "obcas",
+          "zapierać się przeciw",
+          "zapierać się",
+          "następować na pięty",
+          "następować szybko po czymś",
+          "następować szybko po",
+          "brać nogi za pas"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hefty",
+    "word": "hefty",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "zwalisty",
+          "wielki"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-heifer",
+    "word": "heifer",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "jałówka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-height",
+    "word": "height",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wysokość",
+          "duży wzrost",
+          "wzrost",
+          "szczyt",
+          "wierzchołki",
+          "w okresie największego rozwoju",
+          "wznosić się",
+          "spadać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-heighten",
+    "word": "heighten",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wzmagać się",
+          "wzmagać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-heir",
+    "word": "heir",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "dziedzic",
+          "spadkobierca"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-heiress",
+    "word": "heiress",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "dziedziczka",
+          "spadkobierczyni"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-heirloom",
+    "word": "heirloom",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "rodzinna pamiątka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-helicopter",
+    "word": "helicopter",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "helikopter"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hell",
+    "word": "hell",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "piekło",
+          "cholera jasna",
+          "cholera",
+          "robić piekło komuś",
+          ",,Idź do diabła''",
+          "jak cholera"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hellish",
+    "word": "hellish",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "piekielny",
+          "cholerny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hello",
+    "word": "hello",
+    "trans": [
+      {
+        "gramGrp": "Inter",
+        "texts": [
+          "cześć",
+          "dzień dobry",
+          "halo",
+          "hej"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-helm",
+    "word": "helm",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ster"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-helmet",
+    "word": "helmet",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kask",
+          "hełm"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-helmsman",
+    "word": "helmsman",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "sternik"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-helper",
+    "word": "helper",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pomocnik"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-helpful",
+    "word": "helpful",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "pomocny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-helping",
+    "word": "helping",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "porcja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-helpless",
+    "word": "helpless",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "bezradny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hemisphere",
+    "word": "hemisphere",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "półkula"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hemophilia",
+    "word": "hemophiliahaemophilia",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "hemofilia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hemorrhage",
+    "word": "hemorrhagehaemorrhage",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "krwotok"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wykrwawiać się",
+          "dostawać krwotoku"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hemp",
+    "word": "hemp",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "konopie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hence",
+    "word": "hence",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "stąd",
+          "dlatego",
+          "od dzisiaj"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-henceforth",
+    "word": "henceforth",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "odtąd"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-henchman",
+    "word": "henchman",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zausznik",
+          "fagas"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-herald",
+    "word": "herald",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zwiastun",
+          "herold"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zwiastować",
+          "ogłaszać",
+          "jako"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-heraldry",
+    "word": "heraldry",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "heraldyka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-herb",
+    "word": "herb",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ziele",
+          "zioło"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "ziołowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-herd",
+    "word": "herd",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "stado"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zaganiać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-here",
+    "word": "here",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "tutaj",
+          "tu",
+          "oto ...",
+          "tu i tam",
+          ",,Proszę''",
+          ",,Za twoje małżeństwo''",
+          ",,Za''"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hereafter",
+    "word": "hereafter",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "poniżej",
+          "od tej chwili"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "życie pozagrobowe"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hereby",
+    "word": "hereby",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "niniejszym"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hereditary",
+    "word": "hereditary",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "dziedziczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-heredity",
+    "word": "heredity",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "dziedziczność",
+          "dziedziczenie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-heresy",
+    "word": "heresy",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "herezja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-heretic",
+    "word": "heretic",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "heretyk"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-heretical",
+    "word": "heretical",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "heretycki"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-herewith",
+    "word": "herewith",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "z niniejszym"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-heritage",
+    "word": "heritage",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "dziedzictwo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hermit",
+    "word": "hermit",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pustelnik"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hernia",
+    "word": "hernia",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "przepuklina"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hero",
+    "word": "hero",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "bohater",
+          "idol"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-heroic",
+    "word": "heroic",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "heroiczny",
+          "bohaterski"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-heroin",
+    "word": "heroin",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "heroina"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-heroine",
+    "word": "heroine",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "bohaterka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-heroism",
+    "word": "heroism",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "bohaterstwo",
+          "heroizm"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-heron",
+    "word": "heron",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "czapla"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-herring",
+    "word": "herring",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "śledź"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hers",
+    "word": "hers",
+    "trans": [
+      {
+        "gramGrp": "Pron",
+        "texts": [
+          "jej"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-herself",
+    "word": "herself",
+    "trans": [
+      {
+        "gramGrp": "Pron",
+        "texts": [
+          "się",
+          "siebie",
+          "sobie ",
+          "sama"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hesitant",
+    "word": "hesitant",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niepewny",
+          "wahający się"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hesitate",
+    "word": "hesitate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wahać się",
+          "nie móc się zdecydować",
+          "aby",
+          "proszę od razu coś robić",
+          "proszę od razu coś zrobić"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hesitation",
+    "word": "hesitation",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zawahanie się",
+          "zawahanie",
+          "niezdecydowanie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-heterogenous",
+    "word": "heterogenous",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "heterogeniczny",
+          "różnorodny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-heterosexual",
+    "word": "heterosexual",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "heteroseksualny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hexagon",
+    "word": "hexagon",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "sześciokąt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-heyday",
+    "word": "heyday",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pełnia",
+          "okres rozkwitu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hiatus",
+    "word": "hiatus",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "luka",
+          "puste miejsce"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hibernate",
+    "word": "hibernate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "zapadać w sen zimowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hiccup",
+    "word": "hiccup",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "czkawka"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "czkać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hide",
+    "word": "hide",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "ukrywać się",
+          "ukrywać",
+          "chować się",
+          "chować",
+          "skrywać",
+          "przed",
+          "przykrywać",
+          "zakrywać"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "skóra"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hideous",
+    "word": "hideous",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "ohydny",
+          "obrzydliwy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hiding",
+    "word": "hiding",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ukrycie",
+          "lanie",
+          "ukrywać się"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hierarchy",
+    "word": "hierarchy",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "hierarchia",
+          "władze"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hieroglyphics",
+    "word": "hieroglyphics",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "hieroglify"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-high",
+    "word": "high",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wysoki",
+          "wysoki na",
+          "wysoki",
+          "o wysokości",
+          "wysokości",
+          "ściana wysoka na 10 m",
+          "ściana wysokości 10 m",
+          "wyższy",
+          "wyższe sfery",
+          "doskonały",
+          "pełny",
+          "w kulminacji",
+          "w środku lata"
+        ]
+      },
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "wysoko"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wysokość",
+          "najwyższy czas, aby coś było zrobione",
+          "najwyższy czas",
+          "w granicach 85--89",
+          "być naćpanym",
+          "być na haju"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "szkoła średnia"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "główna ulica"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "podwieczorek",
+          "kolacja"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "wysoka fala",
+          "przypływ"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-highbrow",
+    "word": "highbrow",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "intelektualny",
+          "uczony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-high-class",
+    "word": "high-class",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wysokiej klasy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-high-handed",
+    "word": "high-handed",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "arbitralny",
+          "despotyczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-high-heeled",
+    "word": "high-heeled",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "na wysokich obcasach"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-highlands",
+    "word": "highlands",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pogórze",
+          "góry"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-high-level",
+    "word": "high-level",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "na wysokim szczeblu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-highlight",
+    "word": "highlight",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "uwypuklać",
+          "uwydatniać"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "najważniejszy punkt",
+          "kulminacja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-highly",
+    "word": "highly",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "bardzo",
+          "wysoce",
+          "wysoko",
+          "pochlebnie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-highly-strung",
+    "word": "highly-strung",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "napięty",
+          "nerwowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-high-minded",
+    "word": "high-minded",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "pryncypialny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-high-pitched",
+    "word": "high-pitched",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "przeraźliwy",
+          "przenikliwy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-high-powered",
+    "word": "high-powered",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "potężny",
+          "dynamiczny",
+          "efektywny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-high-rise",
+    "word": "high-rise",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wysokościowy"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "wysokościowiec"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-high-spirited",
+    "word": "high-spirited",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "pełen energii",
+          "żywy",
+          "ożywiony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-highway",
+    "word": "highway",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "szosa",
+          "główna droga"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hijack",
+    "word": "hijack",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "porywać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hike",
+    "word": "hike",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wycieczka"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wędrować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hilarious",
+    "word": "hilarious",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "rozśmieszający"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hilarity",
+    "word": "hilarity",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wesołość",
+          "zabawa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hill",
+    "word": "hill",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wzgórze"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hillside",
+    "word": "hillside",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zbocze"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hilltop",
+    "word": "hilltop",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "szczyt wzgórza",
+          "szczyt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hilly",
+    "word": "hilly",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "pagórkowaty"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hilt",
+    "word": "hilt",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "rękojeść",
+          "na całego"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-Himalayas",
+    "word": "Himalayas",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Himalaje"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-himself",
+    "word": "himself",
+    "trans": [
+      {
+        "gramGrp": "Pron",
+        "texts": [
+          "się",
+          "siebie",
+          "sobie ",
+          "sam"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hind",
+    "word": "hind",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "tylny",
+          "zadni"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hinder",
+    "word": "hinder",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wstrzymywać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hindrance",
+    "word": "hindrance",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "przeszkoda"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hindsight",
+    "word": "hindsight",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wiedza po fakcie",
+          "doświadczenie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-Hindu",
+    "word": "Hindu",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Hindus"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "hinduistyczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hint",
+    "word": "hint",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "aluzja",
+          "napomknienie",
+          "sugestia",
+          "wskazówka"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wysuwać sugestie",
+          "co do",
+          "napomykać",
+          "pojąć aluzję"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hippie",
+    "word": "hippie",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "hipis"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hippo",
+    "word": "hippo",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "hipcio",
+          "hipopotam"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hippopotamus",
+    "word": "hippopotamus",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "hipopotam"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hippy",
+    "word": "hippy",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "hippis"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hire",
+    "word": "hire",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wynajmować"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wynajęcie",
+          "do wynajęcia"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "wypożyczać"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "kupno na raty"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hiss",
+    "word": "hiss",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "syczeć",
+          "wygwizdywać"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "syk"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-historian",
+    "word": "historian",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "historyk"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-historic",
+    "word": "historic",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "historyczny",
+          "przełomowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-historical",
+    "word": "historical",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "historyczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-history",
+    "word": "history",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "historia",
+          "dzieje",
+          "tworzyć historię",
+          "przechodzić do historii"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-histrionic",
+    "word": "histrionic",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "teatralny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hitch",
+    "word": "hitch",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "przytwierdzać",
+          "jechać stopem",
+          "jechać autostopem"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "problem"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "podciągać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hitch-hike",
+    "word": "hitch-hike",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "jechać stopem",
+          "jechać autostopem"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hitherto",
+    "word": "hitherto",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "dotychczas"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hive",
+    "word": "hive",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ul",
+          "rojowisko",
+          "rozsadnik"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hoard",
+    "word": "hoard",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "gromadzić"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zasób"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hoarding",
+    "word": "hoarding",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "parkan",
+          "tablica ogłoszeniowa",
+          "tablica reklamowa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hoarse",
+    "word": "hoarse",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "ochrypły"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hoary",
+    "word": "hoary",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "siwy",
+          "omszały",
+          "zamierzchły"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hoax",
+    "word": "hoax",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "nabieranie",
+          "fałszywy alarm"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hobble",
+    "word": "hobble",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "kuleć",
+          "utykać",
+          "krępować",
+          "pętać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hobby",
+    "word": "hobby",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "hobby",
+          "konik"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hobo",
+    "word": "hobo",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "tramp",
+          "włóczęga"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hock",
+    "word": "hock",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "białe wino reńskie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hockey",
+    "word": "hockey",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "hokej"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hoist",
+    "word": "hoist",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "dźwigać",
+          "podnosić"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wyciąg",
+          "podnośnik"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-holdall",
+    "word": "holdall",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "torba"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-holder",
+    "word": "holder",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "opakowanie",
+          "właściciel",
+          "okaziciel",
+          "posiadacz"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-holding",
+    "word": "holding",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pakiet akcji",
+          "aktywa",
+          "zasoby",
+          "dzierżawa"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "powstrzymujący"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hold-up",
+    "word": "hold-up",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "napad z bronią",
+          "napad",
+          "zator"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hole",
+    "word": "hole",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "dziura",
+          "nora"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "dziurawić",
+          "szukać dziury w",
+          "szukać dziury"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "zaszywać się",
+          "skrywać się"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-holiday",
+    "word": "holiday",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "święto",
+          "wczasy",
+          "urlop",
+          "wakacje"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "ośrodek wypoczynkowy"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "wczasowicz",
+          "urlopowicz"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-holiness",
+    "word": "holiness",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "świętość",
+          "Jego Świątobliwość",
+          "Wasza Świątobliwość"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-Holland",
+    "word": "Holland",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Holandia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-holler",
+    "word": "holler",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "ryczeć"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hollow",
+    "word": "hollow",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wydrążony",
+          "pusty",
+          "zapadnięty",
+          "wklęsły",
+          "jałowy"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zagłębienie",
+          "dołek"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "wydrążać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-holly",
+    "word": "holly",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ostrokrzew"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-holster",
+    "word": "holster",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kabura",
+          "pochwa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-holy",
+    "word": "holy",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "święty"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-homage",
+    "word": "homage",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "hołd",
+          "składać hołd komuś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-homecoming",
+    "word": "homecoming",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "powrót",
+          "powrót do domu",
+          "powrót ojczyzny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-homeland",
+    "word": "homeland",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ojczyzna"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-homeless",
+    "word": "homeless",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "bezdomny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-homely",
+    "word": "homely",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "prosty",
+          "skromny",
+          "zwykły"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-home-made",
+    "word": "home-made",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "domowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-homesick",
+    "word": "homesick",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "stęskniony za domem",
+          "stęskniony za ojczyzną"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-homesickness",
+    "word": "homesickness",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "nostalgia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-homeward",
+    "word": "homewardhomewards",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "powrotny"
+        ]
+      },
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "ku domowi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-homework",
+    "word": "homework",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "praca domowa",
+          "zadanie domowe"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-homicide",
+    "word": "homicide",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "morderstwo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-homing",
+    "word": "homing",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "samonaprowadzający się",
+          "instynkt powrotu do domu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-homogeneity",
+    "word": "homogeneity",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "jednorodność",
+          "homogeniczność"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-homogeneous",
+    "word": "homogeneous",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "jednorodny",
+          "homogeniczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-homosexual",
+    "word": "homosexual",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "homoseksualny"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "homoseksualista"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-homosexuality",
+    "word": "homosexuality",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "homoseksualizm"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hon.",
+    "word": "hon.",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "czcigodny"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "honorowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hone",
+    "word": "hone",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "ostrzyć"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-honest",
+    "word": "honest",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "uczciwy",
+          "szczery"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-honestly",
+    "word": "honestly",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "szczerze",
+          "naprawdę"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-honesty",
+    "word": "honesty",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "szczerość",
+          "uczciwość"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-honey",
+    "word": "honey",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "miód",
+          ",,Kochanie''",
+          ",,Skarbie''"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-honeycomb",
+    "word": "honeycomb",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "plaster"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-honeymoon",
+    "word": "honeymoon",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "miesiąc miodowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-honk",
+    "word": "honk",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "trąbić"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-honorary",
+    "word": "honorary",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "honorowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-honour",
+    "word": "honourhonor",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "honor",
+          "zaszczyt",
+          "wyróżnienie"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "honorować",
+          "uznawać",
+          "uhonorowywać",
+          "wyróżniać",
+          "przestrzegać",
+          "dotrzymywać",
+          "na czyjąś cześć",
+          "ku czci czegoś",
+          "spełniać honory domu",
+          "proszę wysokiego sądu",
+          "proszę sądu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-honourable",
+    "word": "honourablehonorable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "prawy",
+          "uczciwy",
+          "czcigodny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hood",
+    "word": "hood",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kaptur",
+          "osłona",
+          "buda",
+          "okap",
+          "maska"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hoodwink",
+    "word": "hoodwink",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "mydlić komuś oczy",
+          "mydlić oczy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hoof",
+    "word": "hoof",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kopyto"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hooker",
+    "word": "hooker",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "dziwka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hook-up",
+    "word": "hook-up",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "połączenie",
+          "łącze"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hooligan",
+    "word": "hooligan",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "chuligan"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hoop",
+    "word": "hoop",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "obręcz"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hooray",
+    "word": "hooray",
+    "trans": [
+      {
+        "gramGrp": "Inter",
+        "texts": [
+          "hura"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hoot",
+    "word": "hoot",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "huczeć",
+          "dawać sygnał dźwiękowy",
+          "dawać sygnał",
+          "pohukiwać",
+          "piszczeć"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "sygnał",
+          "pisk",
+          "popiskiwanie ",
+          "pohukiwanie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hooter",
+    "word": "hooter",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "sygnał dźwiękowy",
+          "sygnał"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hoover",
+    "word": "hoover",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "odkurzacz"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "odkurzać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hope",
+    "word": "hope",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "spodziewać się",
+          "oczekiwać",
+          "czegoś",
+          "mieć nadzieję",
+          "na coś"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "nadzieja",
+          "dawać nadzieję",
+          "budzić nadzieję"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hopeful",
+    "word": "hopeful",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "pełen nadziei",
+          "optymistyczny",
+          "obiecujący",
+          "dobrze się zapowiadający"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hopefully",
+    "word": "hopefully",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "z nadzieją",
+          "należy mieć nadzieję",
+          "miejmy nadzieję",
+          "Mogę mieć nadzieję, że wygram"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hopeless",
+    "word": "hopeless",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "rozpaczliwy",
+          "beznadziejny",
+          "okropny",
+          "straszliwy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-horde",
+    "word": "horde",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zgraja",
+          "horda"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-horizon",
+    "word": "horizon",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "horyzont"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-horizontal",
+    "word": "horizontal",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "poziomy",
+          "horyzontalny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hormonal",
+    "word": "hormonal",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "hormonalny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hormone",
+    "word": "hormone",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "hormon"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-horn",
+    "word": "horn",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "róg",
+          "sygnał dźwiękowy",
+          "sygnał",
+          "klakson",
+          "waltornia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hornet",
+    "word": "hornet",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "szerszeń"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-horny",
+    "word": "horny",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "rogowy",
+          "z rogu",
+          "stwardniały",
+          "zrogowaciały"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-horoscope",
+    "word": "horoscope",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "horoskop"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-horrendous",
+    "word": "horrendous",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "horrendalny",
+          "straszliwy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-horrible",
+    "word": "horrible",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "okropny",
+          "straszliwy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-horrid",
+    "word": "horrid",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "okropny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-horrific",
+    "word": "horrific",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "straszliwy",
+          "przerażający"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-horrify",
+    "word": "horrify",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "przerażać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-horror",
+    "word": "horror",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "przerażenie",
+          "zgroza",
+          "horror",
+          "makabra"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hors_d-ouevre",
+    "word": "hors d'ouevre",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "przystawka"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-horse",
+    "word": "horse",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "koń"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "wyścigi konne"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-horseman",
+    "word": "horseman",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "jeździec"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-horsepower",
+    "word": "horsepower",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "koń mechaniczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-horseradish",
+    "word": "horseradish",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "chrzan"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-horseshoe",
+    "word": "horseshoe",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "podkowa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-horticulture",
+    "word": "horticulture",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ogrodnictwo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hose",
+    "word": "hose",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wąż",
+          "przewód"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "skrapiać",
+          "polewać wężem",
+          "polewać"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "zlać wodą",
+          "zlać",
+          "zmyć"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hosiery",
+    "word": "hosiery",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wyroby pończosznicze"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hospitable",
+    "word": "hospitable",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "gościnny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hospital",
+    "word": "hospital",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "szpital"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hospitality",
+    "word": "hospitality",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "gościnność"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hospitalize",
+    "word": "hospitalizehospitalise",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "hospitalizować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-host",
+    "word": "host",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "gospodarz",
+          "mnóstwo",
+          "gromada"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "gościć"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "goszczący"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hostage",
+    "word": "hostage",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zakładnik",
+          "być wziętym jako zakładnik"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hostel",
+    "word": "hostel",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "dom",
+          "dom wycieczkowy",
+          "dom studencki",
+          "hotel robotniczy",
+          "internat",
+          "schronisko "
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hostess",
+    "word": "hostess",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "gospodyni",
+          "stewardesa",
+          "hostesa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hostile",
+    "word": "hostile",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wrogi",
+          "nieprzyjazny",
+          "komuś",
+          "niesprzyjający"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hostility",
+    "word": "hostility",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wrogość",
+          "dezaprobata",
+          "czegoś",
+          "wrogie kroki",
+          "wrogie posunięcia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hotbed",
+    "word": "hotbed",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "rozsadnik"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hot-blooded",
+    "word": "hot-blooded",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "krewki",
+          "zapalczywy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hotel",
+    "word": "hotel",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "hotel"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hotelier",
+    "word": "hotelier",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "właściciel hotelu",
+          "dyrektor hotelu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hot-headed",
+    "word": "hot-headed",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "zapalczywy",
+          "krewki"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hothouse",
+    "word": "hothouse",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "cieplarnia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hotly",
+    "word": "hotly",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "zapalczywie",
+          "gorąco"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hot-water_bottle",
+    "word": "hot-water bottle",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "termofor"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hound",
+    "word": "hound",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pies myśliwski"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "szczuć",
+          "prześladować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hour",
+    "word": "hour",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "godzina",
+          "czas",
+          "okres pracy",
+          "okres",
+          "o tej porze",
+          "o równej godzinie",
+          "po północy",
+          "nad ranem"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hourly",
+    "word": "hourly",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "cogodzinny",
+          "na godzinę",
+          "godzinowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-house",
+    "word": "house",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "budynek",
+          "dom",
+          "wydawnictwo",
+          "pracownia",
+          "bank",
+          "izba",
+          "widownia",
+          "dynastia"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "mieścić",
+          "mieszkać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-houseboat",
+    "word": "houseboat",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "łódź mieszkalna"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-housebreaking",
+    "word": "housebreaking",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "włamanie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-household",
+    "word": "household",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "rodzina",
+          "domownicy",
+          "gospodarstwo"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "gospodarczy",
+          "domowy",
+          "obiegowy",
+          "powszechnie znany"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-householder",
+    "word": "householder",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "główny lokator"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-housekeeper",
+    "word": "housekeeper",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "gosposia",
+          "pomoc domowa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-housekeeping",
+    "word": "housekeeping",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "utrzymywanie domu",
+          "pieniądze na utrzymanie domu",
+          "pieniądze"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-housewife",
+    "word": "housewife",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "gospodyni domowa",
+          "pani domu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-housework",
+    "word": "housework",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "utrzymanie domu w porządku",
+          "utrzymanie domu",
+          "prace domowe"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-housing",
+    "word": "housing",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zabudowa",
+          "budowlany",
+          "mieszkaniowy"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "osiedle mieszkaniowe"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hovel",
+    "word": "hovel",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "chałupa",
+          "buda"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hover",
+    "word": "hover",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "unosić się",
+          "krążyć",
+          "wahać się"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hovercraft",
+    "word": "hovercraft",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "poduszkowiec"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-however",
+    "word": "however",
+    "trans": [
+      {
+        "gramGrp": "Adv",
+        "texts": [
+          "jednak",
+          "jakkolwiek",
+          "czy ile tam"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-howl",
+    "word": "howl",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "wyć"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wycie"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "zakrzyczeć"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hubbub",
+    "word": "hubbub",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "zgiełk",
+          "wrzawa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hubcap",
+    "word": "hubcap",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kołpak koła",
+          "kołpak"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-huddle",
+    "word": "huddle",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "skupiać się",
+          "tulić się"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kupa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-huge",
+    "word": "huge",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "ogromny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hulk",
+    "word": "hulk",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kolos",
+          "bryła"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hulking",
+    "word": "hulking",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "niezgrabny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hull",
+    "word": "hull",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kadłub"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hullo",
+    "word": "hullo",
+    "trans": [
+      {
+        "gramGrp": "Inter",
+        "texts": [
+          "halo",
+          "hej"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-human",
+    "word": "human",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "ludzki",
+          "człowieczy"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "istota ludzka"
+        ]
+      },
+      {
+        "gramGrp": "N Comp",
+        "texts": [
+          "człowiek"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-humane",
+    "word": "humane",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "ludzki"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-humanism",
+    "word": "humanism",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "humanizm"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-humanitarian",
+    "word": "humanitarian",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "humanitarny"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wyznawca humanitaryzmu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-humanity",
+    "word": "humanity",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ludzkość",
+          "humanitaryzm",
+          "przedmioty humanistyczne"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-humble",
+    "word": "humble",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "skromny",
+          "pokorny",
+          "niski"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-humbug",
+    "word": "humbug",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "miętus",
+          "miętówka",
+          "humbug",
+          "oszustwo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-humdrum",
+    "word": "humdrum",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "pospolity",
+          "zwyczajny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-humid",
+    "word": "humid",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "wilgotny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-humidity",
+    "word": "humidity",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wilgoć"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-humiliate",
+    "word": "humiliate",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "poniżać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-humiliation",
+    "word": "humiliation",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "poniżenie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-humility",
+    "word": "humility",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pokora",
+          "skromność"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-humorist",
+    "word": "humorist",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "humorysta"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-humorous",
+    "word": "humorous",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "humorystyczny",
+          "zabawny",
+          "dowcipny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-humour",
+    "word": "humourhumor",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "humor",
+          "poczucie humoru",
+          "dowcip"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "udobruchać",
+          "ugłaskać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hump",
+    "word": "hump",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "garb",
+          "wybój"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "dźwigać",
+          "targać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hunch",
+    "word": "hunch",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "przeczucie"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "kulić się"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hunchback",
+    "word": "hunchback",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "garbus"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hunchbacked",
+    "word": "hunchbacked",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "garbaty"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hundred",
+    "word": "hundred",
+    "trans": [
+      {
+        "gramGrp": "Num",
+        "texts": [
+          "sto"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hundredweight",
+    "word": "hundredweight",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "setnar"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-Hungarian",
+    "word": "Hungarian",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "węgierski"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Węgier"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-Hungary",
+    "word": "Hungary",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "Węgry"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hunger",
+    "word": "hunger",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "głód"
+        ]
+      },
+      {
+        "gramGrp": "V",
+        "texts": [
+          "łaknąć",
+          "czegoś",
+          "czegoś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hungry",
+    "word": "hungry",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "głodny",
+          "złakniony",
+          "czegoś"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hunk",
+    "word": "hunk",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "kawał "
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hunt",
+    "word": "hunt",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "polować",
+          "na coś",
+          "ścigać",
+          "przetrząsać",
+          "szukać",
+          "czegoś"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "polowanie"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "dopaść",
+          "upolować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hunter",
+    "word": "hunter",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "myśliwy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hurdle",
+    "word": "hurdle",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "płotek",
+          "przeszkoda"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hurl",
+    "word": "hurl",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "rzucać",
+          "miotać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hurrah",
+    "word": "hurrah",
+    "trans": [
+      {
+        "gramGrp": "Inter",
+        "texts": [
+          "hura"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hurray",
+    "word": "hurray",
+    "trans": [
+      {
+        "gramGrp": "Inter",
+        "texts": [
+          "hura"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hurricane",
+    "word": "hurricane",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "huragan"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hurried",
+    "word": "hurried",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "pośpieszny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hurry",
+    "word": "hurry",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "śpieszyć się do",
+          "śpieszyć się",
+          "pośpieszyć",
+          "coś zrobić",
+          "poganiać",
+          "przyśpieszać"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "pośpiech",
+          "śpieszyć się"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "śpieszyć się",
+          "przyśpieszać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hurt",
+    "word": "hurt",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "ranić",
+          "się",
+          "boleć"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "zraniony"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "uraza"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hurtful",
+    "word": "hurtful",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "bolesny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hurtle",
+    "word": "hurtle",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "pędzić",
+          "gnać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-husband",
+    "word": "husband",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "mąż"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hush",
+    "word": "hush",
+    "trans": [
+      {
+        "gramGrp": "Inter",
+        "texts": [
+          "cii!"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "cisza"
+        ]
+      },
+      {
+        "gramGrp": "V Phras",
+        "texts": [
+          "tuszować",
+          "uciszać"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-husk",
+    "word": "husk",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "łupina"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-husky",
+    "word": "husky",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "ochrypły"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "husky"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hustle",
+    "word": "hustle",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "popychać",
+          "przepychać"
+        ]
+      },
+      {
+        "gramGrp": "N",
+        "texts": [
+          "bieganina"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hutch",
+    "word": "hutch",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "klatka "
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hyacinth",
+    "word": "hyacinth",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "hiacynt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hyaena",
+    "word": "hyaenahyena",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "hiena"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hybrid",
+    "word": "hybrid",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "mieszaniec",
+          "hybryda"
+        ]
+      },
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "mieszany",
+          "hybrydowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hydrant",
+    "word": "hydrant",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "hydrant"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hydraulic",
+    "word": "hydraulic",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "hydrauliczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hydro-electric",
+    "word": "hydro-electric",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "hydroelektryczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hydrofoil",
+    "word": "hydrofoil",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wodolot"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hydrogen",
+    "word": "hydrogen",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "wodór"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hyena",
+    "word": "hyenahyaena",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "hiena"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hygiene",
+    "word": "hygiene",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "higiena"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hymn",
+    "word": "hymn",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "hymn religijny",
+          "hymn"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hypermarket",
+    "word": "hypermarket",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "ogromny supermarket",
+          "supermarket",
+          "dom towarowy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hypnosis",
+    "word": "hypnosis",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "hipnoza"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hypnotic",
+    "word": "hypnotic",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "hipnotyczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hypnotism",
+    "word": "hypnotism",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "hipnoza"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hypnotize",
+    "word": "hypnotize",
+    "trans": [
+      {
+        "gramGrp": "V",
+        "texts": [
+          "hipnotyzować"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hypochondriac",
+    "word": "hypochondriac",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "hipochondryk"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hypocrisy",
+    "word": "hypocrisy",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "obłuda",
+          "hipokryzja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hypocrite",
+    "word": "hypocrite",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "obłudnik",
+          "hipokryta"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hypocritical",
+    "word": "hypocritical",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "obłudny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hypodermic",
+    "word": "hypodermic",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "podskórny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hypothesis",
+    "word": "hypothesis",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "hipoteza"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hypothetical",
+    "word": "hypothetical",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "hipotetyczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hysteria",
+    "word": "hysteria",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "histeria"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hysterical",
+    "word": "hysterical",
+    "trans": [
+      {
+        "gramGrp": "Adj",
+        "texts": [
+          "histeryczny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-hysterics",
+    "word": "hysterics",
+    "trans": [
+      {
+        "gramGrp": "N",
+        "texts": [
+          "atak histerii"
+        ]
+      }
+    ]
+  }
+]
