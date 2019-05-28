@@ -1,31 +1,5 @@
 [
   {
-    "id": "b-B.",
-    "word": "B.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "bakałarz",
-          "licencjat "
-        ]
-      }
-    ]
-  },
-  {
-    "id": "b-b.",
-    "word": "b.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "ur.",
-          "urodzony"
-        ]
-      }
-    ]
-  },
-  {
     "id": "b-babble",
     "word": "babble",
     "trans": [
@@ -608,28 +582,6 @@
     ]
   },
   {
-    "id": "b-bad",
-    "word": "bad",
-    "trans": [
-      {
-        "gramGrp": "Adj",
-        "texts": [
-          "zły",
-          "niedobry",
-          "silny",
-          "chory",
-          "niegrzeczny",
-          "psuć się",
-          "głupio komuś z jakiegoś powodu",
-          "komuś niedobrze idzie z czymś",
-          "trudno",
-          "niestety",
-          "coraz gorzej"
-        ]
-      }
-    ]
-  },
-  {
     "id": "b-badge",
     "word": "badge",
     "trans": [
@@ -682,37 +634,6 @@
         "texts": [
           "niemajętny",
           "ubogi"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "b-baffle",
-    "word": "baffle",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "być zaskoczonym"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "b-bag",
-    "word": "bag",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "torba",
-          "worek",
-          "torebka",
-          "torba podróżna",
-          "torba",
-          "kupa",
-          "pewny jak w banku",
-          "pewny"
         ]
       }
     ]
@@ -1191,26 +1112,6 @@
     ]
   },
   {
-    "id": "b-ban",
-    "word": "ban",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "zakazać",
-          "czegoś"
-        ]
-      },
-      {
-        "gramGrp": "N",
-        "texts": [
-          "zakaz",
-          "czegoś"
-        ]
-      }
-    ]
-  },
-  {
     "id": "b-banal",
     "word": "banal",
     "trans": [
@@ -1289,18 +1190,6 @@
         "gramGrp": "V",
         "texts": [
           "bandażować"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "b-b_and_b",
-    "word": "b and b",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "zakwaterowanie z wyżywieniem"
         ]
       }
     ]
@@ -1648,36 +1537,6 @@
     ]
   },
   {
-    "id": "b-bar",
-    "word": "bar",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "bar",
-          "sztaba",
-          "kostka",
-          "tabliczka",
-          "przeszkoda",
-          "do",
-          "takt"
-        ]
-      },
-      {
-        "gramGrp": "V",
-        "texts": [
-          "blokować",
-          "barykadować",
-          "nie dopuszczać",
-          "do",
-          "wyjąwszy",
-          "wszystko jest tu z wyjątkiem dwóch rzeczy",
-          "za kratkami"
-        ]
-      }
-    ]
-  },
-  {
     "id": "b-barb",
     "word": "barb",
     "trans": [
@@ -2013,18 +1872,6 @@
         "gramGrp": "Adj",
         "texts": [
           "barokowy"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "b-barr.",
-    "word": "barr.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "adwokat"
         ]
       }
     ]
@@ -2437,28 +2284,6 @@
     ]
   },
   {
-    "id": "b-bat",
-    "word": "bat",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "paletka",
-          "kij",
-          "nietoperz"
-        ]
-      },
-      {
-        "gramGrp": "V",
-        "texts": [
-          "odbijać",
-          "bez proszenia się",
-          "ani nie mrugnąć okiem"
-        ]
-      }
-    ]
-  },
-  {
     "id": "b-batch",
     "word": "batch",
     "trans": [
@@ -2474,18 +2299,6 @@
         "gramGrp": "N Comp",
         "texts": [
           "przetwarzanie wsadowe"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "b-bated",
-    "word": "bated",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "z zapartym tchem"
         ]
       }
     ]
@@ -2820,35 +2633,6 @@
     ]
   },
   {
-    "id": "b-bay",
-    "word": "bay",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "zatoka",
-          "miejsce do czegoś",
-          "miejsce załadunku"
-        ]
-      },
-      {
-        "gramGrp": "V",
-        "texts": [
-          "wyć",
-          "ujadać",
-          "utrzymywać coś groźnego w bezpiecznej odległości",
-          "utrzymywać w bezpiecznej odległości"
-        ]
-      },
-      {
-        "gramGrp": "N Comp",
-        "texts": [
-          "wykusz"
-        ]
-      }
-    ]
-  },
-  {
     "id": "b-bayonet",
     "word": "bayonet",
     "trans": [
@@ -2881,43 +2665,6 @@
         "gramGrp": "N",
         "texts": [
           "rusznica przeciwpancerna"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "b-BBC",
-    "word": "BBC",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "Brytyjska Korporacja Nadawcza"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "b-BC",
-    "word": "BCB.C.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "p.n.e.",
-          "a.Chr.n."
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "Kolumbia Brytyjska"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "Kraj Basków"
         ]
       }
     ]
@@ -3276,18 +3023,6 @@
     ]
   },
   {
-    "id": "b-beck",
-    "word": "beck",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "na każde zawołanie kogoś"
-        ]
-      }
-    ]
-  },
-  {
     "id": "b-beckon",
     "word": "beckon",
     "trans": [
@@ -3327,43 +3062,6 @@
     ]
   },
   {
-    "id": "b-bed",
-    "word": "bed",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "łóżko",
-          "tapczan",
-          "klomb",
-          "dno",
-          "łożysko",
-          "iść spać",
-          "iść z kimś do łóżka",
-          "słać łóżko"
-        ]
-      },
-      {
-        "gramGrp": "N Comp",
-        "texts": [
-          "mieszkanie z wyżywieniem"
-        ]
-      },
-      {
-        "gramGrp": "N Comp",
-        "texts": [
-          "pokój ze śniadaniem"
-        ]
-      },
-      {
-        "gramGrp": "V Phras",
-        "texts": [
-          "kłaść się"
-        ]
-      }
-    ]
-  },
-  {
     "id": "b-bedbug",
     "word": "bedbug",
     "trans": [
@@ -3395,18 +3093,6 @@
         "gramGrp": "N",
         "texts": [
           "pościel"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "b-bedevil",
-    "word": "bedevil",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "być gnębionym przez"
         ]
       }
     ]
@@ -3536,19 +3222,6 @@
     ]
   },
   {
-    "id": "b-bee",
-    "word": "bee",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "pszczoła",
-          "mieć kuku na punkcie czegoś"
-        ]
-      }
-    ]
-  },
-  {
     "id": "b-beech",
     "word": "beech",
     "trans": [
@@ -3605,31 +3278,6 @@
         "gramGrp": "N",
         "texts": [
           "ul"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "b-beeline",
-    "word": "beeline",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "puścić się prosto dokądś"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "b-been",
-    "word": "been",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "on był w Paryżu",
-          "on był w"
         ]
       }
     ]
@@ -3869,18 +3517,6 @@
         "texts": [
           "zachowanie się",
           "zachowanie"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "b-behead",
-    "word": "behead",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "być ściętym"
         ]
       }
     ]
@@ -4583,18 +4219,6 @@
     ]
   },
   {
-    "id": "b-berserk",
-    "word": "berserk",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "dostać amoku"
-        ]
-      }
-    ]
-  },
-  {
     "id": "b-berth",
     "word": "berth",
     "trans": [
@@ -4734,35 +4358,6 @@
         "gramGrp": "N",
         "texts": [
           "bestseler"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "b-bet",
-    "word": "bet",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "stawiać",
-          "na",
-          "zakładać się",
-          "z kimś o"
-        ]
-      },
-      {
-        "gramGrp": "N",
-        "texts": [
-          "zakład",
-          "o",
-          "o co zakład",
-          "że",
-          "też pytanie",
-          "no pewnie że",
-          "no pewnie",
-          "najlepsze",
-          "co można zrobić"
         ]
       }
     ]
@@ -4926,18 +4521,6 @@
     ]
   },
   {
-    "id": "b-bib",
-    "word": "bib",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "śliniak"
-        ]
-      }
-    ]
-  },
-  {
     "id": "b-Bible",
     "word": "Bible",
     "trans": [
@@ -5061,34 +4644,6 @@
         "texts": [
           "oferent",
           "oferujący najwyższą stawkę"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "b-bide",
-    "word": "bide",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "czekać na sposobność"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "b-big",
-    "word": "big",
-    "trans": [
-      {
-        "gramGrp": "Adj",
-        "texts": [
-          "duży",
-          "wielki",
-          "większy",
-          "starszy",
-          "moja starsza siostra"
         ]
       }
     ]
@@ -5323,20 +4878,6 @@
     ]
   },
   {
-    "id": "b-bin",
-    "word": "bin",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "wiadro na śmieci",
-          "wiadro",
-          "pojemnik"
-        ]
-      }
-    ]
-  },
-  {
     "id": "b-binary",
     "word": "binary",
     "trans": [
@@ -5396,18 +4937,6 @@
           "oprawa",
           "okładka",
           "oblamowanie"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "b-binge",
-    "word": "binge",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "iść w rejs"
         ]
       }
     ]
@@ -5769,18 +5298,6 @@
         "gramGrp": "Adj",
         "texts": [
           "dziwaczny"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "b-bk.",
-    "word": "bk.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "księga"
         ]
       }
     ]
@@ -6298,18 +5815,6 @@
         "texts": [
           "rozpalony od upału",
           "gorący jak w piecu"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "b-bldg.",
-    "word": "bldg.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "budynek"
         ]
       }
     ]
@@ -7153,18 +6658,6 @@
     ]
   },
   {
-    "id": "b-blow-by-blow",
-    "word": "blow-by-blow",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "szczegółowy opis"
-        ]
-      }
-    ]
-  },
-  {
     "id": "b-bludgeon",
     "word": "bludgeon",
     "trans": [
@@ -7436,43 +6929,6 @@
     ]
   },
   {
-    "id": "b-blvd.",
-    "word": "blvd.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "bulwar"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "b-BMA",
-    "word": "BMA",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "Brytyjskie Towarzystwo Medyczne"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "b-BO",
-    "word": "BO",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "zapach ciała smród",
-          "zapach ciała"
-        ]
-      }
-    ]
-  },
-  {
     "id": "b-boar",
     "word": "boar",
     "trans": [
@@ -7651,24 +7107,6 @@
     ]
   },
   {
-    "id": "b-bob",
-    "word": "bob",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "podskakiwać na wodzie"
-        ]
-      },
-      {
-        "gramGrp": "N",
-        "texts": [
-          "szyling"
-        ]
-      }
-    ]
-  },
-  {
     "id": "b-bobbin",
     "word": "bobbin",
     "trans": [
@@ -7700,19 +7138,6 @@
         "gramGrp": "N",
         "texts": [
           "bobslej"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "b-bode",
-    "word": "bode",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "być złym znakiem",
-          "być dobrym znakiem"
         ]
       }
     ]
@@ -7784,24 +7209,6 @@
         "gramGrp": "N",
         "texts": [
           "karoseria"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "b-bog",
-    "word": "bog",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "bagno"
-        ]
-      },
-      {
-        "gramGrp": "V Phras",
-        "texts": [
-          "ugrzęznąć"
         ]
       }
     ]
@@ -8279,26 +7686,6 @@
         "gramGrp": "Adj",
         "texts": [
           "kościsty"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "b-boo",
-    "word": "boo",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "wygwizdywać",
-          "wytupywać"
-        ]
-      },
-      {
-        "gramGrp": "N",
-        "texts": [
-          "gwizdy",
-          "wrzaski"
         ]
       }
     ]
@@ -8795,24 +8182,6 @@
         "texts": [
           "wstawiony",
           "pijacki"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "b-bop",
-    "word": "bop",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "przytup"
-        ]
-      },
-      {
-        "gramGrp": "V",
-        "texts": [
-          "podskakiwać"
         ]
       }
     ]
@@ -9441,44 +8810,6 @@
     ]
   },
   {
-    "id": "b-box",
-    "word": "box",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "pudełko",
-          "skrzynia",
-          "ramka",
-          "loża",
-          "telewizja",
-          "pudło"
-        ]
-      },
-      {
-        "gramGrp": "V",
-        "texts": [
-          "paczkować",
-          "boksować się"
-        ]
-      },
-      {
-        "gramGrp": "V Phras",
-        "texts": [
-          "blokować",
-          "stłaczać"
-        ]
-      },
-      {
-        "gramGrp": "N Comp",
-        "texts": [
-          "kasa",
-          "kasowy "
-        ]
-      }
-    ]
-  },
-  {
     "id": "b-boxer",
     "word": "boxer",
     "trans": [
@@ -9504,20 +8835,6 @@
         "gramGrp": "N Comp",
         "texts": [
           "drugi dzień Bożego Narodzenia "
-        ]
-      }
-    ]
-  },
-  {
-    "id": "b-boy",
-    "word": "boy",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "chłopiec",
-          ",,No!''",
-          ",,Ale!''"
         ]
       }
     ]
@@ -9574,54 +8891,6 @@
         "gramGrp": "Adj",
         "texts": [
           "chłopięcy"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "b-BR",
-    "word": "BR",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "Koleje Brytyjskie"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "b-Br.",
-    "word": "Br.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "Brytania"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "brytyjski"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "brat"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "b-bra",
-    "word": "bra",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "stanik"
         ]
       }
     ]
@@ -10205,18 +9474,6 @@
         "texts": [
           "bułka tarta",
           "okruchy"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "b-breadline",
-    "word": "breadline",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "znajdować się pod kreską"
         ]
       }
     ]
@@ -11253,24 +10510,6 @@
     ]
   },
   {
-    "id": "b-Brit.",
-    "word": "Brit.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "Brytania"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "brytyjski"
-        ]
-      }
-    ]
-  },
-  {
     "id": "b-Britain",
     "word": "Britain",
     "trans": [
@@ -11343,18 +10582,6 @@
           "bezwzględny",
           "bez serca",
           "suchy"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "b-Bro",
-    "word": "Bro",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "brat"
         ]
       }
     ]
@@ -11748,18 +10975,6 @@
     ]
   },
   {
-    "id": "b-Bros",
-    "word": "Bros",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "bracia"
-        ]
-      }
-    ]
-  },
-  {
     "id": "b-broth",
     "word": "broth",
     "trans": [
@@ -11934,18 +11149,6 @@
     ]
   },
   {
-    "id": "b-brunt",
-    "word": "brunt",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "brać ciężar"
-        ]
-      }
-    ]
-  },
-  {
     "id": "b-brush",
     "word": "brush",
     "trans": [
@@ -12090,43 +11293,6 @@
     ]
   },
   {
-    "id": "b-BSc",
-    "word": "BSc",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "bakałarz nauk przyrodniczych",
-          "licencjat nauk przyrodniczych"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "b-BSI",
-    "word": "BSI",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "Brytyjski Komitet Normalizacyjny"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "b-BST",
-    "word": "BST",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "letni czas w Wielkiej Brytanii"
-        ]
-      }
-    ]
-  },
-  {
     "id": "b-bubble",
     "word": "bubble",
     "trans": [
@@ -12260,26 +11426,6 @@
         "texts": [
           "wziąć się",
           "za coś"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "b-bud",
-    "word": "bud",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "pączek"
-        ]
-      },
-      {
-        "gramGrp": "V",
-        "texts": [
-          "pączkować",
-          "pączkować",
-          "ucinać coś w zarodku"
         ]
       }
     ]
@@ -12946,21 +12092,6 @@
     ]
   },
   {
-    "id": "b-bum",
-    "word": "bum",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "włóczęga",
-          "tramp",
-          "nicpoń",
-          "pupa"
-        ]
-      }
-    ]
-  },
-  {
     "id": "b-bumble",
     "word": "bumble",
     "trans": [
@@ -13059,20 +12190,6 @@
         "gramGrp": "Adj",
         "texts": [
           "wyboisty"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "b-bun",
-    "word": "bun",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "bułka słodka",
-          "bułka",
-          "kok"
         ]
       }
     ]
@@ -13680,27 +12797,6 @@
     ]
   },
   {
-    "id": "b-bus",
-    "word": "bus",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "autobus",
-          "magistrala",
-          "szyna"
-        ]
-      },
-      {
-        "gramGrp": "V",
-        "texts": [
-          "wozić autobusem",
-          "autobusem"
-        ]
-      }
-    ]
-  },
-  {
     "id": "b-bush",
     "word": "bush",
     "trans": [
@@ -13858,33 +12954,6 @@
         "gramGrp": "N",
         "texts": [
           "wścibski"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "b-but",
-    "word": "but",
-    "trans": [
-      {
-        "gramGrp": "Conj",
-        "texts": [
-          "ale",
-          "jednak"
-        ]
-      },
-      {
-        "gramGrp": "Prep",
-        "texts": [
-          "oprócz",
-          "wszyscy oprócz niego",
-          "dopiero co",
-          "dopiero",
-          "dopiero co wyszedł ze szpitala",
-          "ale jednak",
-          "a jednak",
-          "z wyjątkiem",
-          "gdyby nie"
         ]
       }
     ]
@@ -14120,36 +13189,6 @@
     ]
   },
   {
-    "id": "b-buy",
-    "word": "buy",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "kupować"
-        ]
-      },
-      {
-        "gramGrp": "N",
-        "texts": [
-          "zakup"
-        ]
-      },
-      {
-        "gramGrp": "V Phras",
-        "texts": [
-          "odkupywać"
-        ]
-      },
-      {
-        "gramGrp": "V Phras",
-        "texts": [
-          "wykupywać"
-        ]
-      }
-    ]
-  },
-  {
     "id": "b-buyer",
     "word": "buyer",
     "trans": [
@@ -14208,19 +13247,6 @@
         "gramGrp": "N",
         "texts": [
           "brzęczyk"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "b-bye",
-    "word": "bye",
-    "trans": [
-      {
-        "gramGrp": "Inter",
-        "texts": [
-          "pa",
-          "cześć"
         ]
       }
     ]

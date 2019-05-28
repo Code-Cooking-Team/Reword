@@ -97,18 +97,6 @@
     ]
   },
   {
-    "id": "u-ult.",
-    "word": "ult.ultimo",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "ubiegłego miesiąca"
-        ]
-      }
-    ]
-  },
-  {
     "id": "u-ulterior",
     "word": "ulterior",
     "trans": [
@@ -226,18 +214,6 @@
     ]
   },
   {
-    "id": "u-UN",
-    "word": "UN",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "ONZ"
-        ]
-      }
-    ]
-  },
-  {
     "id": "u-unabashed",
     "word": "unabashed",
     "trans": [
@@ -258,19 +234,6 @@
         "texts": [
           "nie słabnący",
           "niezmniejszony"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "u-unable",
-    "word": "unable",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "nie potrafić zrobić czegoś",
-          "nie móc zrobić czegoś"
         ]
       }
     ]
@@ -412,31 +375,6 @@
         "gramGrp": "Adj",
         "texts": [
           "nie do uniknięcia"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "u-unaware",
-    "word": "unaware",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "być nieświadomym czegoś",
-          "nie zdawać sobie sprawy z czegoś"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "u-unawares",
-    "word": "unawares",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "zastawać kogoś nieprzygotowanym"
         ]
       }
     ]
@@ -952,18 +890,6 @@
     ]
   },
   {
-    "id": "u-underdog",
-    "word": "underdog",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "słabsza strona"
-        ]
-      }
-    ]
-  },
-  {
     "id": "u-underdone",
     "word": "underdone",
     "trans": [
@@ -1233,30 +1159,6 @@
     ]
   },
   {
-    "id": "u-underside",
-    "word": "underside",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "spód"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "u-understaffed",
-    "word": "understaffed",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "mieć za mało personelu"
-        ]
-      }
-    ]
-  },
-  {
     "id": "u-understand",
     "word": "understand",
     "trans": [
@@ -1401,19 +1303,6 @@
         "texts": [
           "podwodny",
           "podmorski"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "u-underway",
-    "word": "underway",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "być w trakcie",
-          "trwać"
         ]
       }
     ]
@@ -2012,18 +1901,6 @@
     ]
   },
   {
-    "id": "u-UNICEF",
-    "word": "UNICEF",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "Fundusz Narodów Zjednoczonych Pomocy Dzieciom"
-        ]
-      }
-    ]
-  },
-  {
     "id": "u-unicorn",
     "word": "unicorn",
     "trans": [
@@ -2159,19 +2036,6 @@
     ]
   },
   {
-    "id": "u-unison",
-    "word": "unison",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "zgodnie",
-          "unisono"
-        ]
-      }
-    ]
-  },
-  {
     "id": "u-unit",
     "word": "unit",
     "trans": [
@@ -2230,18 +2094,6 @@
     ]
   },
   {
-    "id": "u-univ.",
-    "word": "univ.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "uniwersytet"
-        ]
-      }
-    ]
-  },
-  {
     "id": "u-universal",
     "word": "universal",
     "trans": [
@@ -2250,18 +2102,6 @@
         "texts": [
           "powszechny",
           "uniwersalny"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "u-universe",
-    "word": "universe",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "wszechświat"
         ]
       }
     ]
@@ -2564,18 +2404,6 @@
         "gramGrp": "Adj",
         "texts": [
           "niezauważony"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "u-UNO",
-    "word": "UNO",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "ONZ"
         ]
       }
     ]
@@ -3878,19 +3706,6 @@
     ]
   },
   {
-    "id": "u-upshot",
-    "word": "upshot",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "wynik",
-          "rezultat"
-        ]
-      }
-    ]
-  },
-  {
     "id": "u-upstairs",
     "word": "upstairs",
     "trans": [
@@ -3951,19 +3766,6 @@
         "gramGrp": "N",
         "texts": [
           "wzrost"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "u-uptake",
-    "word": "uptake",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "szybko coś łapać",
-          "wolno coś łapać"
         ]
       }
     ]
@@ -4199,20 +4001,6 @@
     ]
   },
   {
-    "id": "u-urn",
-    "word": "urn",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "urna",
-          "termos na kawę",
-          "termos"
-        ]
-      }
-    ]
-  },
-  {
     "id": "u-Uruguay",
     "word": "Uruguay",
     "trans": [
@@ -4250,18 +4038,6 @@
         "gramGrp": "Adj",
         "texts": [
           "zdatny do użycia"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "u-USAF",
-    "word": "USAF",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "siły powietrzne USA"
         ]
       }
     ]
@@ -4344,43 +4120,6 @@
         "gramGrp": "N",
         "texts": [
           "bileterka"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "u-USN",
-    "word": "USN",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "marynarka USA"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "u-USS",
-    "word": "USS",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "statek USA",
-          "okręt USA"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "u-USSR",
-    "word": "USSR",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "ZSRR"
         ]
       }
     ]

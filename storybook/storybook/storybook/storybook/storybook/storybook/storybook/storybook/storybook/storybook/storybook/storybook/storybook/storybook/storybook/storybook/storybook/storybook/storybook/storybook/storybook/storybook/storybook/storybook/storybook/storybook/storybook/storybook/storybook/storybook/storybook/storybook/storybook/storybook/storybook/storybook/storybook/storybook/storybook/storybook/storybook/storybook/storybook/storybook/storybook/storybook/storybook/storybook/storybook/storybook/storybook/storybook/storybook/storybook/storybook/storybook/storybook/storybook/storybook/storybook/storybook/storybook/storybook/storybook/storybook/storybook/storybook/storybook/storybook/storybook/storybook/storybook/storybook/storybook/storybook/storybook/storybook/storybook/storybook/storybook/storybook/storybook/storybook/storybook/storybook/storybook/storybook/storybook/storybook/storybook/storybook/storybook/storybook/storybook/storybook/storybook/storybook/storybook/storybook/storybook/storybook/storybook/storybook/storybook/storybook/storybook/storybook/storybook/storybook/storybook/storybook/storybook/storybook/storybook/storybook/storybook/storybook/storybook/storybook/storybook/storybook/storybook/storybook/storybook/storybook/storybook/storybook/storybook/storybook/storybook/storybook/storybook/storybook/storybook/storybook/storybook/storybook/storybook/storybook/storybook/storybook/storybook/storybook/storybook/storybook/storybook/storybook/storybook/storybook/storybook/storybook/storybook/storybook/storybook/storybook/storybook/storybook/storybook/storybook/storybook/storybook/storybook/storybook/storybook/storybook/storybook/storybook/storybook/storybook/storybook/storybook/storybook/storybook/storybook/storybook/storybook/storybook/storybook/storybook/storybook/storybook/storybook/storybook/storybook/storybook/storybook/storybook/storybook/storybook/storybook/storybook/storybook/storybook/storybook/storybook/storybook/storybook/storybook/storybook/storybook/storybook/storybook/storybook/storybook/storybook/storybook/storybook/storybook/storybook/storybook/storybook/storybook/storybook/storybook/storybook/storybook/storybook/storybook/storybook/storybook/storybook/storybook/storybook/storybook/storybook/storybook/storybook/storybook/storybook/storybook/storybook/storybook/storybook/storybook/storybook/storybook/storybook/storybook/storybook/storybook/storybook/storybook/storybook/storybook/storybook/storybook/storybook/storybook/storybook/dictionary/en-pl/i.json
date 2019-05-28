@@ -1,41 +1,5 @@
 [
   {
-    "id": "i-I",
-    "word": "I",
-    "trans": [
-      {
-        "gramGrp": "Pron",
-        "texts": [
-          "ja"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "i-i.",
-    "word": "i.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "wyspa"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "i-ib.",
-    "word": "ib.ibidem",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "tamże"
-        ]
-      }
-    ]
-  },
-  {
     "id": "i-Iberian",
     "word": "Iberian",
     "trans": [
@@ -43,63 +7,6 @@
         "gramGrp": "Adj",
         "texts": [
           "iberyjski"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "i-ic",
-    "word": "i/c",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "pod kierownictwem"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "i-ICBM",
-    "word": "ICBM",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "międzykontynentalny pocisk rakietowy"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "i-ice",
-    "word": "ice",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "lód"
-        ]
-      },
-      {
-        "gramGrp": "Adj",
-        "texts": [
-          "lody"
-        ]
-      },
-      {
-        "gramGrp": "V",
-        "texts": [
-          "zamrażać",
-          "lukrować",
-          "pokrywać polewą",
-          "przełamywać lody"
-        ]
-      },
-      {
-        "gramGrp": "V Phras",
-        "texts": [
-          "obladzać się"
         ]
       }
     ]
@@ -200,19 +107,6 @@
           "ikona",
           "ikona",
           "piktogram"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "i-icy",
-    "word": "icy",
-    "trans": [
-      {
-        "gramGrp": "Adj",
-        "texts": [
-          "lodowaty",
-          "oblodzony"
         ]
       }
     ]
@@ -575,19 +469,6 @@
     ]
   },
   {
-    "id": "i-i.e.",
-    "word": "i.e.id est",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "tj.",
-          "to jest"
-        ]
-      }
-    ]
-  },
-  {
     "id": "i-igloo",
     "word": "igloo",
     "trans": [
@@ -709,37 +590,6 @@
         "gramGrp": "N",
         "texts": [
           "ikona"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "i-ill",
-    "word": "ill",
-    "trans": [
-      {
-        "gramGrp": "Adj",
-        "texts": [
-          "chory",
-          "na",
-          "niedobry",
-          "szkodliwy"
-        ]
-      },
-      {
-        "gramGrp": "Adv",
-        "texts": [
-          "źle",
-          "niedobrze"
-        ]
-      },
-      {
-        "gramGrp": "N",
-        "texts": [
-          "zło",
-          "złe strony",
-          "zachorować",
-          "źle się o kimś wyrażać"
         ]
       }
     ]
@@ -1015,19 +865,6 @@
     ]
   },
   {
-    "id": "i-ILO",
-    "word": "ILO",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "MOP",
-          "Międzynarodowa Organizacja Pracy"
-        ]
-      }
-    ]
-  },
-  {
     "id": "i-image",
     "word": "image",
     "trans": [
@@ -1153,18 +990,6 @@
         "texts": [
           "przesycać",
           "nasycać"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "i-IMF",
-    "word": "IMF",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "Międzynarodowy Fundusz Walutowy"
         ]
       }
     ]
@@ -1579,18 +1404,6 @@
         "gramGrp": "Adj",
         "texts": [
           "niezmienny"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "i-imp",
-    "word": "imp",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "chochlik"
         ]
       }
     ]
@@ -2800,18 +2613,6 @@
     ]
   },
   {
-    "id": "i-in.",
-    "word": "in.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "cal"
-        ]
-      }
-    ]
-  },
-  {
     "id": "i-inability",
     "word": "inability",
     "trans": [
@@ -3145,18 +2946,6 @@
         "texts": [
           "wszczepiony",
           "wbudowany"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "i-inc.",
-    "word": "inc.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "o osobowości prawnej"
         ]
       }
     ]
@@ -6096,19 +5885,6 @@
     ]
   },
   {
-    "id": "i-ingratiate",
-    "word": "ingratiate",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "wkradać się w czyjeś łaski",
-          "wkradać się w łaski"
-        ]
-      }
-    ]
-  },
-  {
     "id": "i-ingratitude",
     "word": "ingratitude",
     "trans": [
@@ -6447,18 +6223,6 @@
     ]
   },
   {
-    "id": "i-ink",
-    "word": "ink",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "atrament"
-        ]
-      }
-    ]
-  },
-  {
     "id": "i-ink-jet",
     "word": "ink-jet",
     "trans": [
@@ -6466,18 +6230,6 @@
         "gramGrp": "Adj",
         "texts": [
           "atramentowy"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "i-inkling",
-    "word": "inkling",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "przypuszczać"
         ]
       }
     ]
@@ -6548,19 +6300,6 @@
         "texts": [
           "pensjonariusz",
           "mieszkaniec"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "i-inn",
-    "word": "inn",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "zajazd",
-          "karczma"
         ]
       }
     ]
@@ -6820,19 +6559,6 @@
         "texts": [
           "ciekawski",
           "wścibski"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "i-inroads",
-    "word": "inroads",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "dawać się odczuć gdzieś",
-          "dawać się odczuć"
         ]
       }
     ]
@@ -7313,25 +7039,6 @@
     ]
   },
   {
-    "id": "i-inst.",
-    "word": "inst.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "b.m.",
-          "bieżącego miesiąca"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "instytut"
-        ]
-      }
-    ]
-  },
-  {
     "id": "i-instability",
     "word": "instability",
     "trans": [
@@ -7786,36 +7493,6 @@
         "gramGrp": "N",
         "texts": [
           "powstanie"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "i-int.",
-    "word": "int.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "wnętrze"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "wewnętrzny"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "międzynarodowy"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "nieprzechodni"
         ]
       }
     ]
@@ -9056,18 +8733,6 @@
     ]
   },
   {
-    "id": "i-intr.",
-    "word": "intr.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "nieprzechodni"
-        ]
-      }
-    ]
-  },
-  {
     "id": "i-intractable",
     "word": "intractable",
     "trans": [
@@ -9157,18 +8822,6 @@
         "texts": [
           "zasadniczy",
           "podstawowy"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "i-intro",
-    "word": "intro",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "wstęp"
         ]
       }
     ]
@@ -9922,18 +9575,6 @@
     ]
   },
   {
-    "id": "i-ion",
-    "word": "ion",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "jon"
-        ]
-      }
-    ]
-  },
-  {
     "id": "i-iota",
     "word": "iota",
     "trans": [
@@ -9947,18 +9588,6 @@
     ]
   },
   {
-    "id": "i-IOU",
-    "word": "IOU",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "jestem winien"
-        ]
-      }
-    ]
-  },
-  {
     "id": "i-Iowa",
     "word": "Iowa",
     "trans": [
@@ -9966,30 +9595,6 @@
         "gramGrp": "N",
         "texts": [
           "Iowa"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "i-IQ",
-    "word": "IQ",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "iloraz inteligencji"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "i-IRA",
-    "word": "IRA",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "Irlandzka Armia Republikańska"
         ]
       }
     ]
@@ -10068,18 +9673,6 @@
         "gramGrp": "Adj",
         "texts": [
           "rozgniewany"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "i-Ire.",
-    "word": "Ire.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "Irlandia"
         ]
       }
     ]
@@ -10591,18 +10184,6 @@
     ]
   },
   {
-    "id": "i-is.",
-    "word": "is.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "wyspa"
-        ]
-      }
-    ]
-  },
-  {
     "id": "i-Islam",
     "word": "Islam",
     "trans": [
@@ -10765,27 +10346,6 @@
     ]
   },
   {
-    "id": "i-it",
-    "word": "it",
-    "trans": [
-      {
-        "gramGrp": "Pron",
-        "texts": [
-          "to",
-          "on",
-          "ona",
-          "ono",
-          "pada",
-          "jest",
-          "ciepło jest dzisiaj",
-          "ciepło",
-          "to",
-          "to ja"
-        ]
-      }
-    ]
-  },
-  {
     "id": "i-Italian",
     "word": "Italian",
     "trans": [
@@ -10915,21 +10475,6 @@
     ]
   },
   {
-    "id": "i-its",
-    "word": "its",
-    "trans": [
-      {
-        "gramGrp": "Pron",
-        "texts": [
-          "jego",
-          "jej",
-          "ich",
-          "swój "
-        ]
-      }
-    ]
-  },
-  {
     "id": "i-itself",
     "word": "itself",
     "trans": [
@@ -10946,18 +10491,6 @@
     ]
   },
   {
-    "id": "i-ITV",
-    "word": "ITV",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "Telewizja Niezależna"
-        ]
-      }
-    ]
-  },
-  {
     "id": "i-ivory",
     "word": "ivory",
     "trans": [
@@ -10965,18 +10498,6 @@
         "gramGrp": "N",
         "texts": [
           "kość słoniowa "
-        ]
-      }
-    ]
-  },
-  {
-    "id": "i-ivy",
-    "word": "ivy",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "bluszcz"
         ]
       }
     ]

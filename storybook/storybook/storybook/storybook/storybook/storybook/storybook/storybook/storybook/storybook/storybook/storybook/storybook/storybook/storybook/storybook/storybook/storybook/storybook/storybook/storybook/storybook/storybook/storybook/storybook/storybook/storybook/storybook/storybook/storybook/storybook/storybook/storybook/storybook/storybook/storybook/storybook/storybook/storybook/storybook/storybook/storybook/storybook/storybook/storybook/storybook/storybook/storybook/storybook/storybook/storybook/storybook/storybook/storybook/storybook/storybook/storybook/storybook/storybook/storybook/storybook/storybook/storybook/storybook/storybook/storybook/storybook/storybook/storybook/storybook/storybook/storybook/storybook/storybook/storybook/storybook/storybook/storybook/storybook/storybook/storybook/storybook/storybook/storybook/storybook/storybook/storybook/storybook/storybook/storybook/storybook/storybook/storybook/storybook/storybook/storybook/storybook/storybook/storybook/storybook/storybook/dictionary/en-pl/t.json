@@ -1,63 +1,5 @@
 [
   {
-    "id": "t-T",
-    "word": "T",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "temperatura"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "t-t.",
-    "word": "t.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "czas",
-          "okres"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "tona"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "t-ta",
-    "word": "ta",
-    "trans": [
-      {
-        "gramGrp": "Interj",
-        "texts": [
-          "dzięki",
-          "dziękuję"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "t-tab",
-    "word": "tab",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "etykietka",
-          "nalepka",
-          "mieć na oku kogoś"
-        ]
-      }
-    ]
-  },
-  {
     "id": "t-tabby",
     "word": "tabby",
     "trans": [
@@ -358,27 +300,6 @@
         "gramGrp": "N",
         "texts": [
           "kijanka"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "t-tag",
-    "word": "tag",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "etykieta",
-          "znaczek",
-          "berek"
-        ]
-      },
-      {
-        "gramGrp": "V Phras",
-        "texts": [
-          "iść",
-          "za kimś"
         ]
       }
     ]
@@ -783,30 +704,6 @@
     ]
   },
   {
-    "id": "t-tan",
-    "word": "tan",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "opalenizna"
-        ]
-      },
-      {
-        "gramGrp": "Adj",
-        "texts": [
-          "jasnobrązowy"
-        ]
-      },
-      {
-        "gramGrp": "V",
-        "texts": [
-          "opalać się"
-        ]
-      }
-    ]
-  },
-  {
     "id": "t-tandem",
     "word": "tandem",
     "trans": [
@@ -1004,38 +901,6 @@
     ]
   },
   {
-    "id": "t-tap",
-    "word": "tap",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "kurek",
-          "kran",
-          "zawór",
-          "stukanie"
-        ]
-      },
-      {
-        "gramGrp": "V",
-        "texts": [
-          "stukać",
-          "postukiwać",
-          "w coś",
-          "o coś",
-          "wykorzystywać",
-          "coś"
-        ]
-      },
-      {
-        "gramGrp": "N Comp",
-        "texts": [
-          "stepowanie"
-        ]
-      }
-    ]
-  },
-  {
     "id": "t-tape",
     "word": "tape",
     "trans": [
@@ -1101,25 +966,6 @@
           "arras",
           "gobelin",
           "mozaika"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "t-tar",
-    "word": "tar",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "smoła",
-          "dziegieć"
-        ]
-      },
-      {
-        "gramGrp": "V",
-        "texts": [
-          "smołować"
         ]
       }
     ]
@@ -1387,18 +1233,6 @@
     ]
   },
   {
-    "id": "t-tatters",
-    "word": "tatters",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "w strzępach"
-        ]
-      }
-    ]
-  },
-  {
     "id": "t-tattoo",
     "word": "tattoo",
     "trans": [
@@ -1506,36 +1340,6 @@
     ]
   },
   {
-    "id": "t-tax",
-    "word": "tax",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "podatek"
-        ]
-      },
-      {
-        "gramGrp": "V",
-        "texts": [
-          "opodatkowywać"
-        ]
-      },
-      {
-        "gramGrp": "N Comp",
-        "texts": [
-          "poborca podatkowy"
-        ]
-      },
-      {
-        "gramGrp": "N Comp",
-        "texts": [
-          "deklaracja podatkowa"
-        ]
-      }
-    ]
-  },
-  {
     "id": "t-taxable",
     "word": "taxable",
     "trans": [
@@ -1617,45 +1421,6 @@
         "gramGrp": "N",
         "texts": [
           "podatnik"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "t-TB",
-    "word": "TB",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "gruźlica"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "t-tea",
-    "word": "tea",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "herbata",
-          "podwieczorek"
-        ]
-      },
-      {
-        "gramGrp": "N Comp",
-        "texts": [
-          "herbata ekspresowa",
-          "torebka herbaty"
-        ]
-      },
-      {
-        "gramGrp": "N Comp",
-        "texts": [
-          "liść herbaty",
-          "fus herbaty"
         ]
       }
     ]
@@ -2074,16 +1839,6 @@
     ]
   },
   {
-    "id": "t-teens",
-    "word": "teens",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": []
-      }
-    ]
-  },
-  {
     "id": "t-tee-shirt",
     "word": "tee-shirt",
     "trans": [
@@ -2144,31 +1899,6 @@
         "gramGrp": "N",
         "texts": [
           "abstynent"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "t-TEFL",
-    "word": "TEFL",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "nauczanie języka angielskiego jako obcego"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "t-tel.",
-    "word": "tel.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "tel.",
-          "telefon"
         ]
       }
     ]
@@ -2701,24 +2431,6 @@
     ]
   },
   {
-    "id": "t-ten",
-    "word": "ten",
-    "trans": [
-      {
-        "gramGrp": "Num",
-        "texts": [
-          "dziesięć"
-        ]
-      },
-      {
-        "gramGrp": "N Comp",
-        "texts": [
-          "Dziesięcioro Przykazań"
-        ]
-      }
-    ]
-  },
-  {
     "id": "t-tenable",
     "word": "tenable",
     "trans": [
@@ -2983,19 +2695,6 @@
         "texts": [
           "próbny",
           "tymczasowy"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "t-tenterhooks",
-    "word": "tenterhooks",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "siedzieć jak na szpilkach",
-          "jak na szpilkach"
         ]
       }
     ]
@@ -3351,18 +3050,6 @@
     ]
   },
   {
-    "id": "t-TESL",
-    "word": "TESL",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "nauczanie angielskiego jako języka drugiego"
-        ]
-      }
-    ]
-  },
-  {
     "id": "t-test",
     "word": "test",
     "trans": [
@@ -3558,18 +3245,6 @@
     ]
   },
   {
-    "id": "t-Th.",
-    "word": "Th.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "czwartek"
-        ]
-      }
-    ]
-  },
-  {
     "id": "t-Thames",
     "word": "Thames",
     "trans": [
@@ -3577,18 +3252,6 @@
         "gramGrp": "N",
         "texts": [
           "Tamiza"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "t-than",
-    "word": "than",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "z niż"
         ]
       }
     ]
@@ -3671,21 +3334,6 @@
           ",,Kto tam?''",
           ",,Co to takiego?''",
           "to jest"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "że",
-          "Wiedziałem, że kłamie",
-          "który",
-          "jaki",
-          "To jest książka, którą mi pożyczyła",
-          "aż taki",
-          "taki",
-          "aż tak",
-          "tak",
-          "To nie takie złe"
         ]
       }
     ]
@@ -4856,18 +4504,6 @@
     ]
   },
   {
-    "id": "t-throes",
-    "word": "throes",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "w samym środku czegoś"
-        ]
-      }
-    ]
-  },
-  {
     "id": "t-throne",
     "word": "throne",
     "trans": [
@@ -5023,18 +4659,6 @@
         "texts": [
           "pchnięcie",
           "ciąg"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "t-Thu.",
-    "word": "Thu.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "czwartek"
         ]
       }
     ]
@@ -5248,18 +4872,6 @@
     ]
   },
   {
-    "id": "t-tic",
-    "word": "tic",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "tik"
-        ]
-      }
-    ]
-  },
-  {
     "id": "t-tick",
     "word": "tick",
     "trans": [
@@ -5360,14 +4972,6 @@
     "word": "tide",
     "trans": [
       {
-        "gramGrp": "",
-        "texts": [
-          "pływ",
-          "przypływ",
-          "odpływ"
-        ]
-      },
-      {
         "gramGrp": "N",
         "texts": [
           "fala"
@@ -5399,54 +5003,6 @@
         "gramGrp": "V Phras",
         "texts": [
           "uprzątać"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "t-tie",
-    "word": "tie",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "wiązać",
-          "przywiązywać",
-          "zawiązywać",
-          "związywać się",
-          "związywać",
-          "z czegoś",
-          "z czegoś",
-          "remisować",
-          "iść równo",
-          "z kimś"
-        ]
-      },
-      {
-        "gramGrp": "N",
-        "texts": [
-          "krawat",
-          "związek",
-          "więzy",
-          "remis"
-        ]
-      },
-      {
-        "gramGrp": "V Phras",
-        "texts": [
-          "ograniczać",
-          "mieć związane ręce"
-        ]
-      },
-      {
-        "gramGrp": "V Phras",
-        "texts": [
-          "zawiązywać",
-          "związywać",
-          "przywiązywać",
-          "wiązać się",
-          "z",
-          "mieć cały czas zajęty"
         ]
       }
     ]
@@ -5730,37 +5286,6 @@
     ]
   },
   {
-    "id": "t-tin",
-    "word": "tin",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "cyna"
-        ]
-      },
-      {
-        "gramGrp": "Adj",
-        "texts": [
-          "cynowy"
-        ]
-      },
-      {
-        "gramGrp": "N",
-        "texts": [
-          "puszka"
-        ]
-      },
-      {
-        "gramGrp": "V",
-        "texts": [
-          "puszkować",
-          "konserwować"
-        ]
-      }
-    ]
-  },
-  {
     "id": "t-tinfoil",
     "word": "tinfoil",
     "trans": [
@@ -5948,41 +5473,6 @@
     ]
   },
   {
-    "id": "t-tip",
-    "word": "tip",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "koniec",
-          "koniuszek",
-          "skuwka",
-          "nasadka",
-          "napiwek",
-          "śmietnisko",
-          "śmieci",
-          "hałda",
-          "poufna rada"
-        ]
-      },
-      {
-        "gramGrp": "V",
-        "texts": [
-          "przechylać",
-          "przekrzywiać",
-          "wysypywać",
-          "dawać napiwek"
-        ]
-      },
-      {
-        "gramGrp": "V Phras",
-        "texts": [
-          "udzielać poufnych informacji"
-        ]
-      }
-    ]
-  },
-  {
     "id": "t-tip-off",
     "word": "tip-off",
     "trans": [
@@ -6137,19 +5627,6 @@
     ]
   },
   {
-    "id": "t-tit",
-    "word": "tit",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "sikorka",
-          "wet za wet"
-        ]
-      }
-    ]
-  },
-  {
     "id": "t-titbit",
     "word": "titbittidbit",
     "trans": [
@@ -6255,41 +5732,6 @@
         "gramGrp": "Adj",
         "texts": [
           "tytularny"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "t-to",
-    "word": "to",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "kochać"
-        ]
-      },
-      {
-        "gramGrp": "Prep",
-        "texts": [
-          "aby",
-          "żeby",
-          "stanął, aby na nią spojrzeć",
-          "pokazał Johnowi list",
-          "do",
-          "na",
-          "po ",
-          "z",
-          "ku",
-          "dla",
-          "za",
-          "za dziesięć ósma",
-          "od ... do ...",
-          "z ... do ...",
-          "byli już w Niemczech",
-          "byli już w",
-          "tam i z powrotem",
-          "tam i sam"
         ]
       }
     ]
@@ -6414,20 +5856,6 @@
         "texts": [
           "wrzawa",
           "zamieszanie"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "t-toe",
-    "word": "toe",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "palec u nogi",
-          "palec",
-          "stosować się do wytycznych"
         ]
       }
     ]
@@ -6705,18 +6133,6 @@
     ]
   },
   {
-    "id": "t-ton",
-    "word": "ton",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "tona "
-        ]
-      }
-    ]
-  },
-  {
     "id": "t-tone",
     "word": "tone",
     "trans": [
@@ -6773,18 +6189,6 @@
           "język",
           "przymrużyć oko",
           "trzymać język za zębami"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "t-tongue-tied",
-    "word": "tongue-tied",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "zapomnieć języka za zębami"
         ]
       }
     ]
@@ -6878,23 +6282,6 @@
         "gramGrp": "N",
         "texts": [
           "zapalenie migdałków"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "t-too",
-    "word": "too",
-    "trans": [
-      {
-        "gramGrp": "Adv",
-        "texts": [
-          "też",
-          "także",
-          "zbyt",
-          "za",
-          "aż zbyt",
-          "aż nazbyt"
         ]
       }
     ]
@@ -7313,20 +6700,6 @@
     ]
   },
   {
-    "id": "t-tot",
-    "word": "tot",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "berbeć",
-          "dzidziuś",
-          "kieliszeczek"
-        ]
-      }
-    ]
-  },
-  {
     "id": "t-total",
     "word": "total",
     "trans": [
@@ -7601,26 +6974,6 @@
     ]
   },
   {
-    "id": "t-tow",
-    "word": "tow",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "holować"
-        ]
-      },
-      {
-        "gramGrp": "N",
-        "texts": [
-          "holowanie",
-          "hol",
-          "na holu"
-        ]
-      }
-    ]
-  },
-  {
     "id": "t-toward",
     "word": "towardtowards",
     "trans": [
@@ -7732,52 +7085,6 @@
         "gramGrp": "Adj",
         "texts": [
           "toksyczny"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "t-toy",
-    "word": "toy",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "zabawka"
-        ]
-      },
-      {
-        "gramGrp": "V Phras",
-        "texts": [
-          "bawić się",
-          "chodzić",
-          "koło czegoś"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "t-tr.",
-    "word": "tr.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "tłum.",
-          "tłumaczony"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "tłum.",
-          "tłumaczenie"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "przechodni"
         ]
       }
     ]
@@ -8297,32 +7604,6 @@
     ]
   },
   {
-    "id": "t-trans.",
-    "word": "trans.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "tłum.",
-          "tłumaczony"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "tłum.",
-          "tłumaczenie"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "przechodni"
-        ]
-      }
-    ]
-  },
-  {
     "id": "t-transact",
     "word": "transact",
     "trans": [
@@ -8546,26 +7827,6 @@
         "gramGrp": "Adj",
         "texts": [
           "przejściowy"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "t-transl.",
-    "word": "transl.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "tłum.",
-          "tłumaczony"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "tłum.",
-          "tłumaczenie"
         ]
       }
     ]
@@ -9049,18 +8310,6 @@
     ]
   },
   {
-    "id": "t-treas.",
-    "word": "treas.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "skarbnik"
-        ]
-      }
-    ]
-  },
-  {
     "id": "t-treason",
     "word": "treason",
     "trans": [
@@ -9477,18 +8726,6 @@
         "texts": [
           "hołd",
           "danina"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "t-trice",
-    "word": "trice",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "w mgnieniu oka"
         ]
       }
     ]
@@ -10417,43 +9654,6 @@
     ]
   },
   {
-    "id": "t-try",
-    "word": "try",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "próbować",
-          "wypróbowywać",
-          "starać się",
-          "o coś",
-          "sądzić",
-          "kogoś",
-          "kogoś za coś"
-        ]
-      },
-      {
-        "gramGrp": "N",
-        "texts": [
-          "próba"
-        ]
-      },
-      {
-        "gramGrp": "V Phras",
-        "texts": [
-          "próbować",
-          "przymierzać"
-        ]
-      },
-      {
-        "gramGrp": "V Phras",
-        "texts": [
-          "wypróbowywać"
-        ]
-      }
-    ]
-  },
-  {
     "id": "t-trying",
     "word": "trying",
     "trans": [
@@ -10475,44 +9675,6 @@
         "texts": [
           "koszulka trykotowa",
           "podkoszulka"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "t-TU",
-    "word": "TU",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "związek zawodowy"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "t-Tu.",
-    "word": "Tu.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "wtorek"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "t-tub",
-    "word": "tub",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "kadź",
-          "zbiornik",
-          "wanna"
         ]
       }
     ]
@@ -10668,18 +9830,6 @@
     ]
   },
   {
-    "id": "t-Tues.",
-    "word": "Tues.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "wtorek"
-        ]
-      }
-    ]
-  },
-  {
     "id": "t-Tuesday",
     "word": "Tuesday",
     "trans": [
@@ -10700,26 +9850,6 @@
         "texts": [
           "kępka",
           "pęczek"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "t-tug",
-    "word": "tug",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "ciągnąć",
-          "za coś"
-        ]
-      },
-      {
-        "gramGrp": "N",
-        "texts": [
-          "pociągnięcie",
-          "holownik"
         ]
       }
     ]
@@ -11199,18 +10329,6 @@
     ]
   },
   {
-    "id": "t-tut",
-    "word": "tut",
-    "trans": [
-      {
-        "gramGrp": "Inter",
-        "texts": [
-          "no no"
-        ]
-      }
-    ]
-  },
-  {
     "id": "t-tutor",
     "word": "tutor",
     "trans": [
@@ -11257,19 +10375,6 @@
         "gramGrp": "N",
         "texts": [
           "smoking"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "t-TV",
-    "word": "TV",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "TV",
-          "w telewizji"
         ]
       }
     ]
@@ -11598,19 +10703,6 @@
         "texts": [
           "ćwierkać",
           "świergotać"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "t-two",
-    "word": "two",
-    "trans": [
-      {
-        "gramGrp": "Num",
-        "texts": [
-          "dwa",
-          "na dwoje"
         ]
       }
     ]

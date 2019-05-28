@@ -391,18 +391,6 @@
     ]
   },
   {
-    "id": "v-van",
-    "word": "van",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "furgonetka"
-        ]
-      }
-    ]
-  },
-  {
     "id": "v-vandal",
     "word": "vandal",
     "trans": [
@@ -558,19 +546,6 @@
         "gramGrp": "N",
         "texts": [
           "zmienna"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "v-variance",
-    "word": "variance",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "kłócić się z czymś",
-          "stać w sprzeczności z czymś"
         ]
       }
     ]
@@ -745,32 +720,6 @@
     ]
   },
   {
-    "id": "v-VAT",
-    "word": "VAT",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "VAT",
-          "podatek od wartości dodanej"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "v-vat",
-    "word": "vat",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "beczka",
-          "kadź"
-        ]
-      }
-    ]
-  },
-  {
     "id": "v-vault",
     "word": "vault",
     "trans": [
@@ -786,43 +735,6 @@
         "gramGrp": "V",
         "texts": [
           "przeskakiwać"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "v-VCR",
-    "word": "VCR",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "magnetowid",
-          "video"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "v-VD",
-    "word": "VD",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "choroba weneryczna"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "v-VDU",
-    "word": "VDU",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "monitor"
         ]
       }
     ]
@@ -1037,18 +949,6 @@
         "gramGrp": "Adj",
         "texts": [
           "aksamitny"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "v-ven.",
-    "word": "ven.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "czcigodny"
         ]
       }
     ]
@@ -1521,18 +1421,6 @@
     ]
   },
   {
-    "id": "v-versed",
-    "word": "versed",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "wykształcony"
-        ]
-      }
-    ]
-  },
-  {
     "id": "v-version",
     "word": "version",
     "trans": [
@@ -1715,24 +1603,6 @@
     ]
   },
   {
-    "id": "v-vet",
-    "word": "vet",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "weterynarz"
-        ]
-      },
-      {
-        "gramGrp": "V",
-        "texts": [
-          "sprawdzać drobiazgowo"
-        ]
-      }
-    ]
-  },
-  {
     "id": "v-veteran",
     "word": "veteran",
     "trans": [
@@ -1797,18 +1667,6 @@
     ]
   },
   {
-    "id": "v-vex",
-    "word": "vex",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "irytować"
-        ]
-      }
-    ]
-  },
-  {
     "id": "v-vexed",
     "word": "vexed",
     "trans": [
@@ -1818,31 +1676,6 @@
           "zirytowany",
           "trudny",
           "zawikłany"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "v-VHF",
-    "word": "VHF",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "UKF",
-          "VHF"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "v-via",
-    "word": "via",
-    "trans": [
-      {
-        "gramGrp": "Prep",
-        "texts": [
-          "przez"
         ]
       }
     ]
@@ -2097,19 +1930,6 @@
         "texts": [
           "magnetowid",
           "video"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "v-vie",
-    "word": "vie",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "rywalizować",
-          "z kimś o coś"
         ]
       }
     ]
@@ -2537,18 +2357,6 @@
     ]
   },
   {
-    "id": "v-VIP",
-    "word": "VIP",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "bardzo ważna osoba"
-        ]
-      }
-    ]
-  },
-  {
     "id": "v-viper",
     "word": "viper",
     "trans": [
@@ -2971,19 +2779,6 @@
     ]
   },
   {
-    "id": "v-viz.",
-    "word": "viz.videlicet",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "tzn.",
-          "to znaczy"
-        ]
-      }
-    ]
-  },
-  {
     "id": "v-vocabulary",
     "word": "vocabulary",
     "trans": [
@@ -3118,19 +2913,6 @@
     ]
   },
   {
-    "id": "v-vol.",
-    "word": "vol.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "tom",
-          "objętość"
-        ]
-      }
-    ]
-  },
-  {
     "id": "v-volatile",
     "word": "volatile",
     "trans": [
@@ -3163,19 +2945,6 @@
         "gramGrp": "N",
         "texts": [
           "wulkan"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "v-volition",
-    "word": "volition",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "z własnej woli",
-          "nieprzymuszenie"
         ]
       }
     ]
@@ -3444,25 +3213,6 @@
     ]
   },
   {
-    "id": "v-vow",
-    "word": "vow",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "ślubować"
-        ]
-      },
-      {
-        "gramGrp": "N",
-        "texts": [
-          "ślub",
-          "przysięga"
-        ]
-      }
-    ]
-  },
-  {
     "id": "v-vowel",
     "word": "vowel",
     "trans": [
@@ -3494,32 +3244,6 @@
         "gramGrp": "N",
         "texts": [
           "podróżnik"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "v-VP",
-    "word": "VP",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "wiceprezes",
-          "wiceprezydent"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "v-vs.",
-    "word": "vs.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "przeciw",
-          "wobec"
         ]
       }
     ]

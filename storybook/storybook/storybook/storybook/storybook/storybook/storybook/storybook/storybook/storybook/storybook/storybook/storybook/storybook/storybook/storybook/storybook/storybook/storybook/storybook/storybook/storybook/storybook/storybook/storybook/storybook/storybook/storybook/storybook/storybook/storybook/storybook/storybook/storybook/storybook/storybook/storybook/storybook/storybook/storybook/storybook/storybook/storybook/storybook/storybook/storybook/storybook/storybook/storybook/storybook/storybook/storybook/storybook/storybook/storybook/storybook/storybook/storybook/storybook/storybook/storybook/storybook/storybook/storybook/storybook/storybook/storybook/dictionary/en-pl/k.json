@@ -112,18 +112,6 @@
     ]
   },
   {
-    "id": "k-keg",
-    "word": "keg",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "beczułka"
-        ]
-      }
-    ]
-  },
-  {
     "id": "k-kennel",
     "word": "kennel",
     "trans": [
@@ -264,26 +252,6 @@
     ]
   },
   {
-    "id": "k-key",
-    "word": "key",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "klucz ",
-          "klawisz",
-          "legenda"
-        ]
-      },
-      {
-        "gramGrp": "Adj",
-        "texts": [
-          "kluczowy"
-        ]
-      }
-    ]
-  },
-  {
     "id": "k-keyboard",
     "word": "keyboard",
     "trans": [
@@ -353,41 +321,6 @@
         "texts": [
           "początek meczu piłkarskiego",
           "początek"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "k-kid",
-    "word": "kid",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "dzieciak",
-          "koźlę",
-          "zamsz",
-          "ircha"
-        ]
-      },
-      {
-        "gramGrp": "Adj",
-        "texts": [
-          "młodszy"
-        ]
-      },
-      {
-        "gramGrp": "V",
-        "texts": [
-          "nabierać"
-        ]
-      },
-      {
-        "gramGrp": "V",
-        "texts": [
-          "nabijać się",
-          "nad kimś",
-          "Słowo daję!"
         ]
       }
     ]
@@ -540,18 +473,6 @@
         "gramGrp": "N",
         "texts": [
           "kilt "
-        ]
-      }
-    ]
-  },
-  {
-    "id": "k-kin",
-    "word": "kin",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "krewni"
         ]
       }
     ]
@@ -786,20 +707,6 @@
         "texts": [
           "całować",
           "pocałunek"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "k-kit",
-    "word": "kit",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "zestaw",
-          "ubiór sportowy",
-          "ubiór"
         ]
       }
     ]
@@ -1234,19 +1141,6 @@
     ]
   },
   {
-    "id": "k-Knt.",
-    "word": "Knt.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "rycerz",
-          "szlachcic"
-        ]
-      }
-    ]
-  },
-  {
     "id": "k-knuckle",
     "word": "knuckle",
     "trans": [
@@ -1254,18 +1148,6 @@
         "gramGrp": "N",
         "texts": [
           "kostka "
-        ]
-      }
-    ]
-  },
-  {
-    "id": "k-ko",
-    "word": "ko",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "nokaut"
         ]
       }
     ]
@@ -1320,31 +1202,6 @@
         "gramGrp": "Adj",
         "texts": [
           "koszerny"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "k-kph",
-    "word": "kph",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "km/godz"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "k-Kt.",
-    "word": "Kt.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "rycerz",
-          "szlachcic"
         ]
       }
     ]

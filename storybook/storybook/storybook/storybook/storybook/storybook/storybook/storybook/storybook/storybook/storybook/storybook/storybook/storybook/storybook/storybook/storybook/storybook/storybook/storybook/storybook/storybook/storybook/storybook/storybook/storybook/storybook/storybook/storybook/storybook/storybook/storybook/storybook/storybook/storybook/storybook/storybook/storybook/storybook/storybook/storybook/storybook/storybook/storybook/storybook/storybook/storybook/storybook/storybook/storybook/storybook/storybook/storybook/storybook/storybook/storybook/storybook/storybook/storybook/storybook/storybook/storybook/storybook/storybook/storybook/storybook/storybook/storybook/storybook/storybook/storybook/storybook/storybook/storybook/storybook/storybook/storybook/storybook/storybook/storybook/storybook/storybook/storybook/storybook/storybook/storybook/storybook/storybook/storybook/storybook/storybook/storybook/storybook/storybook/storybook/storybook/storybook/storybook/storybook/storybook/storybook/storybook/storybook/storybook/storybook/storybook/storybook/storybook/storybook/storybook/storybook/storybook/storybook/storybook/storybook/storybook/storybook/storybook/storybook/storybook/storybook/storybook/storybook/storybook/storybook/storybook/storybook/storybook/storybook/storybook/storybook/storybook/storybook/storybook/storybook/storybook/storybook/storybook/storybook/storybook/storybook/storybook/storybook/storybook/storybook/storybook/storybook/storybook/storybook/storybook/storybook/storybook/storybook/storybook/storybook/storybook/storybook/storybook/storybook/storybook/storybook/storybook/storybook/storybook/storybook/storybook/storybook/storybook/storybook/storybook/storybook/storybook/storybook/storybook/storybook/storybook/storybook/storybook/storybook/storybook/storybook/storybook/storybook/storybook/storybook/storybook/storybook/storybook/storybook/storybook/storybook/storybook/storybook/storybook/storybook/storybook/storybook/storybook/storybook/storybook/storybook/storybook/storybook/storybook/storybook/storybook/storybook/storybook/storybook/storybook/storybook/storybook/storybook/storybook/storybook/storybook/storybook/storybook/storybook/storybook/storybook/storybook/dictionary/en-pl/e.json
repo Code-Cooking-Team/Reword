@@ -1,18 +1,5 @@
 [
   {
-    "id": "e-E",
-    "word": "E",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "wschód",
-          "wschodni"
-        ]
-      }
-    ]
-  },
-  {
     "id": "e-each",
     "word": "each",
     "trans": [
@@ -60,26 +47,6 @@
         "gramGrp": "N",
         "texts": [
           "orzeł"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "e-ear",
-    "word": "ear",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "ucho",
-          "słuch",
-          "kłos",
-          "mieć uszy szeroko otwarte",
-          "ze słuchu",
-          "być głuchym na coś",
-          "nie zwracać uwagi na coś",
-          "chętnie kogoś wysłuchiwać",
-          "kogoś wysłuchiwać"
         ]
       }
     ]
@@ -222,19 +189,6 @@
         "gramGrp": "N",
         "texts": [
           "kolczyk"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "e-earshot",
-    "word": "earshot",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "w zasięgu słuchu",
-          "poza zasięgiem słuchu"
         ]
       }
     ]
@@ -535,40 +489,6 @@
     ]
   },
   {
-    "id": "e-eat",
-    "word": "eat",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "jeść",
-          "żreć",
-          "wyżerać"
-        ]
-      },
-      {
-        "gramGrp": "V Phras",
-        "texts": [
-          "wżerać się w"
-        ]
-      },
-      {
-        "gramGrp": "V Phras",
-        "texts": [
-          "jeść na mieście "
-        ]
-      },
-      {
-        "gramGrp": "V Phras",
-        "texts": [
-          "zjadać",
-          "wyjadać do końca",
-          "wyjadać"
-        ]
-      }
-    ]
-  },
-  {
     "id": "e-eatable",
     "word": "eatable",
     "trans": [
@@ -576,20 +496,6 @@
         "gramGrp": "Adj",
         "texts": [
           "jadalny"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "e-eater",
-    "word": "eater",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "ktoś",
-          "kto wolno je",
-          "kto je"
         ]
       }
     ]
@@ -620,28 +526,6 @@
     ]
   },
   {
-    "id": "e-ebb",
-    "word": "ebb",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "odpływać",
-          "opadać"
-        ]
-      },
-      {
-        "gramGrp": "N",
-        "texts": [
-          "odpływ",
-          "opadanie",
-          "w dołku",
-          "przypływy i odpływy czegoś"
-        ]
-      }
-    ]
-  },
-  {
     "id": "e-ebony",
     "word": "ebony",
     "trans": [
@@ -667,18 +551,6 @@
         "gramGrp": "Adj",
         "texts": [
           "entuzjastyczny"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "e-EC",
-    "word": "EC",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "Wspólnota Europejska"
         ]
       }
     ]
@@ -947,32 +819,6 @@
     ]
   },
   {
-    "id": "e-ed.",
-    "word": "ed.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "wyd.",
-          "wydanie"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "red.",
-          "redaktor"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "wykształcenie"
-        ]
-      }
-    ]
-  },
-  {
     "id": "e-eddy",
     "word": "eddy",
     "trans": [
@@ -1142,26 +988,6 @@
     ]
   },
   {
-    "id": "e-edit.",
-    "word": "edit.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "wyd.",
-          "wydanie"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "red.",
-          "redaktor"
-        ]
-      }
-    ]
-  },
-  {
     "id": "e-edition",
     "word": "edition",
     "trans": [
@@ -1215,30 +1041,6 @@
         "texts": [
           "redakcja",
           "redagowanie"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "e-EDP",
-    "word": "EDP",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "elektroniczne opracowanie danych"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "e-educ.",
-    "word": "educ.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "wykształcenie"
         ]
       }
     ]
@@ -1303,31 +1105,6 @@
         "texts": [
           "wychowawca",
           "nauczyciel"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "e-EEC",
-    "word": "EEC",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "EWG Europejska Wspólnota Gospodarcza",
-          "EWG"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "e-eel",
-    "word": "eel",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "węgorz"
         ]
       }
     ]
@@ -1496,43 +1273,6 @@
     ]
   },
   {
-    "id": "e-EFL",
-    "word": "EFL",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "angielski jako język obcy"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "e-EFTA",
-    "word": "EFTA",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "Europejskie Stowarzyszenie Wolnego Handlu"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "e-e.g.",
-    "word": "e.g.exempli gratia",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "np.",
-          "na przykład"
-        ]
-      }
-    ]
-  },
-  {
     "id": "e-egalitarian",
     "word": "egalitarian",
     "trans": [
@@ -1540,25 +1280,6 @@
         "gramGrp": "Adj",
         "texts": [
           "egalitarny"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "e-egg",
-    "word": "egg",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "jajko"
-        ]
-      },
-      {
-        "gramGrp": "V",
-        "texts": [
-          "podbechtywać",
-          "podjudzać"
         ]
       }
     ]
@@ -1662,21 +1383,6 @@
         "gramGrp": "N",
         "texts": [
           "Egipcjanin"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "e-eh",
-    "word": "eh",
-    "trans": [
-      {
-        "gramGrp": "Pron",
-        "texts": [
-          "co?",
-          "nie?",
-          "e?",
-          "jak?"
         ]
       }
     ]
@@ -2373,19 +2079,6 @@
     ]
   },
   {
-    "id": "e-elf",
-    "word": "elf",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "elf",
-          "krasnoludek"
-        ]
-      }
-    ]
-  },
-  {
     "id": "e-elicit",
     "word": "elicit",
     "trans": [
@@ -2470,19 +2163,6 @@
     ]
   },
   {
-    "id": "e-elk",
-    "word": "elk",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "łoś",
-          "wapiti"
-        ]
-      }
-    ]
-  },
-  {
     "id": "e-ellipse",
     "word": "ellipse",
     "trans": [
@@ -2502,18 +2182,6 @@
         "gramGrp": "Adj",
         "texts": [
           "eliptyczny"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "e-elm",
-    "word": "elm",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "wiąz"
         ]
       }
     ]
@@ -2647,18 +2315,6 @@
         "texts": [
           "wychudzony",
           "wyniszczony"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "e-E-mail",
-    "word": "E-mailemail",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "poczta elektroniczna"
         ]
       }
     ]
@@ -3631,26 +3287,6 @@
     ]
   },
   {
-    "id": "e-enc.",
-    "word": "enc.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "zał.",
-          "załączony"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "zał.",
-          "załącznik"
-        ]
-      }
-    ]
-  },
-  {
     "id": "e-encapsulate",
     "word": "encapsulate",
     "trans": [
@@ -3698,26 +3334,6 @@
         "texts": [
           "otaczać",
           "okrążać"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "e-encl.",
-    "word": "encl.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "zał.",
-          "załączony"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "zał.",
-          "załącznik"
         ]
       }
     ]
@@ -3912,46 +3528,6 @@
         "gramGrp": "N",
         "texts": [
           "encyklopedia"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "e-end",
-    "word": "end",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "koniec",
-          "zakończenie",
-          "kres",
-          "czegoś",
-          "czegoś",
-          "cel"
-        ]
-      },
-      {
-        "gramGrp": "V",
-        "texts": [
-          "kończyć się",
-          "kończyć",
-          "czymś",
-          "czymś",
-          "czymś",
-          "przy końcu",
-          "kończyć się",
-          "na samym końcu",
-          "w końcu",
-          "wiązać koniec z końcem",
-          "bez końca",
-          "bez przerwy"
-        ]
-      },
-      {
-        "gramGrp": "V Phras",
-        "texts": [
-          "kończyć"
         ]
       }
     ]
@@ -4163,37 +3739,6 @@
         "texts": [
           "wprowadzać w życie",
           "wymuszać"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "e-Eng.",
-    "word": "Eng.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "Anglia"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "angielski"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "e-eng.",
-    "word": "eng.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "inż.",
-          "inżynier"
         ]
       }
     ]
@@ -4940,18 +4485,6 @@
     ]
   },
   {
-    "id": "e-entirety",
-    "word": "entirety",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "w całości"
-        ]
-      }
-    ]
-  },
-  {
     "id": "e-entitle",
     "word": "entitle",
     "trans": [
@@ -5462,19 +4995,6 @@
     ]
   },
   {
-    "id": "e-epitome",
-    "word": "epitome",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "wzór",
-          "uosobienie"
-        ]
-      }
-    ]
-  },
-  {
     "id": "e-epitomize",
     "word": "epitomizeepitomise",
     "trans": [
@@ -5618,18 +5138,6 @@
         "gramGrp": "N",
         "texts": [
           "równanie"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "e-equator",
-    "word": "equator",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "równik"
         ]
       }
     ]
@@ -5825,43 +5333,6 @@
     ]
   },
   {
-    "id": "e-ER",
-    "word": "ERElizabeth Regina",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "Królowa Elżbieta"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "e-er",
-    "word": "er",
-    "trans": [
-      {
-        "gramGrp": "Interj",
-        "texts": [
-          "e..."
-        ]
-      }
-    ]
-  },
-  {
-    "id": "e-era",
-    "word": "era",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "era",
-          "okres"
-        ]
-      }
-    ]
-  },
-  {
     "id": "e-eradicate",
     "word": "eradicate",
     "trans": [
@@ -5987,21 +5458,6 @@
         "texts": [
           "erotyzm",
           "erotyka"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "e-err",
-    "word": "err",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "błądzić",
-          "popełniać błędy",
-          "błądzić jest rzeczą ludzką",
-          "grzeszyć nadmiarem czegoś"
         ]
       }
     ]
@@ -6195,18 +5651,6 @@
     ]
   },
   {
-    "id": "e-ESL",
-    "word": "ESL",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "angielski jako drugi język"
-        ]
-      }
-    ]
-  },
-  {
     "id": "e-esoteric",
     "word": "esoteric",
     "trans": [
@@ -6214,18 +5658,6 @@
         "gramGrp": "Adj",
         "texts": [
           "ezoteryczny"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "e-esp.",
-    "word": "esp.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "szczególnie"
         ]
       }
     ]
@@ -6264,18 +5696,6 @@
         "gramGrp": "N",
         "texts": [
           "szpiegostwo"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "e-Esq.",
-    "word": "Esq.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "pan"
         ]
       }
     ]
@@ -6340,18 +5760,6 @@
         "gramGrp": "Adv",
         "texts": [
           "w zasadzie"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "e-est.",
-    "word": "est.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "założony"
         ]
       }
     ]
@@ -6498,31 +5906,6 @@
     ]
   },
   {
-    "id": "e-ETA",
-    "word": "ETA",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "szacowany czas przybycia"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "e-etc.",
-    "word": "etc.et cetera",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "itd.",
-          "itp."
-        ]
-      }
-    ]
-  },
-  {
     "id": "e-etch",
     "word": "etch",
     "trans": [
@@ -6649,18 +6032,6 @@
         "gramGrp": "N",
         "texts": [
           "etykieta"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "e-Eucharist",
-    "word": "Eucharist",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "eucharystia"
         ]
       }
     ]
@@ -6901,19 +6272,6 @@
           "wykrętny",
           "wymijający",
           "wykonywać manewr wymijający"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "e-eve",
-    "word": "eve",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "przeddzień",
-          "wigilia"
         ]
       }
     ]
@@ -7325,18 +6683,6 @@
     ]
   },
   {
-    "id": "e-ewe",
-    "word": "ewe",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "owca "
-        ]
-      }
-    ]
-  },
-  {
     "id": "e-exacerbate",
     "word": "exacerbate",
     "trans": [
@@ -7514,18 +6860,6 @@
         "texts": [
           "dręczyć",
           "rozjątrzać"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "e-exc.",
-    "word": "exc.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "z wyjątkiem"
         ]
       }
     ]
@@ -9658,18 +8992,6 @@
     ]
   },
   {
-    "id": "e-extinguisher",
-    "word": "extinguisher",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "gaśnica"
-        ]
-      }
-    ]
-  },
-  {
     "id": "e-extol",
     "word": "extol",
     "trans": [
@@ -9761,19 +9083,6 @@
         "texts": [
           "pochodzenie",
           "wydobywanie"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "e-extractor",
-    "word": "extractor",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "wentylator okienny",
-          "wentylator"
         ]
       }
     ]
@@ -10025,40 +9334,6 @@
         "gramGrp": "Adj",
         "texts": [
           "rozradowany"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "e-eye",
-    "word": "eye",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "oko",
-          "do"
-        ]
-      },
-      {
-        "gramGrp": "V",
-        "texts": [
-          "mierzyć wzrokiem",
-          "na czyichś oczach",
-          "rzucać okiem na coś",
-          "przyciągać czyjś wzrok",
-          "wypłakiwać oczy",
-          "przyglądać się komuś",
-          "mieć oczy otwarte",
-          "mieć oczy otwarte",
-          "mieć na kogoś oko",
-          "więcej niż by się zdawało",
-          "otworzyć komuś oczy",
-          "zgadzać się w poglądach",
-          "zgadzać się",
-          "zamykać oczy na coś",
-          "na czyichś oczach",
-          "siedzieć w czymś po uszy"
         ]
       }
     ]

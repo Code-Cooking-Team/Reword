@@ -1,54 +1,5 @@
 [
   {
-    "id": "s-S",
-    "word": "S",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "południe",
-          "południowy"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "s-s.",
-    "word": "s.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "sekunda"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "s-Sa.",
-    "word": "Sa.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "sobota"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "s-Sabbath",
-    "word": "Sabbath",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "szabas"
-        ]
-      }
-    ]
-  },
-  {
     "id": "s-sabotage",
     "word": "sabotage",
     "trans": [
@@ -220,18 +171,6 @@
     ]
   },
   {
-    "id": "s-sad",
-    "word": "sad",
-    "trans": [
-      {
-        "gramGrp": "Adj",
-        "texts": [
-          "smutny"
-        ]
-      }
-    ]
-  },
-  {
     "id": "s-sadden",
     "word": "sadden",
     "trans": [
@@ -297,18 +236,6 @@
         "gramGrp": "N",
         "texts": [
           "smutek"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "s-sae",
-    "word": "sae",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "zaadresowana koperta ze znaczkiem"
         ]
       }
     ]
@@ -418,20 +345,6 @@
         "gramGrp": "N Comp",
         "texts": [
           "klapa bezpieczeństwa"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "s-sag",
-    "word": "sag",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "zwisać",
-          "obwisać",
-          "od czegoś"
         ]
       }
     ]
@@ -563,19 +476,6 @@
         "gramGrp": "Adj",
         "texts": [
           "święty"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "s-sake",
-    "word": "sake",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "ze względu na coś",
-          "na litość boską"
         ]
       }
     ]
@@ -743,18 +643,6 @@
           "limuzyna",
           "salon",
           "bar"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "s-SALT",
-    "word": "SALT",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "rozmowy w sprawie ograniczenia zbrojeń strategicznych"
         ]
       }
     ]
@@ -1251,24 +1139,6 @@
     ]
   },
   {
-    "id": "s-sap",
-    "word": "sap",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "sok"
-        ]
-      },
-      {
-        "gramGrp": "V",
-        "texts": [
-          "wyczerpywać"
-        ]
-      }
-    ]
-  },
-  {
     "id": "s-sapling",
     "word": "sapling",
     "trans": [
@@ -1349,18 +1219,6 @@
         "gramGrp": "N",
         "texts": [
           "szarfa"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "s-Sat.",
-    "word": "Sat.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "sobota"
         ]
       }
     ]
@@ -1823,41 +1681,6 @@
     ]
   },
   {
-    "id": "s-say",
-    "word": "say",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "mówić",
-          "powiedzieć",
-          "głosić",
-          "pokazywać",
-          "zegar pokazuje, że jest 2 godz"
-        ]
-      },
-      {
-        "gramGrp": "N",
-        "texts": [
-          "prawo głosu",
-          "coś do powiedzenia"
-        ]
-      },
-      {
-        "gramGrp": "Adv",
-        "texts": [
-          "na przykład",
-          "powiedzmy",
-          "ktoś wygłasza swoją opinię",
-          "coś się rozumie samo przez się",
-          "to znaczy",
-          "ujmując to delikatnie",
-          ",,Nie mów!''"
-        ]
-      }
-    ]
-  },
-  {
     "id": "s-saying",
     "word": "saying",
     "trans": [
@@ -1865,19 +1688,6 @@
         "gramGrp": "N",
         "texts": [
           "powiedzenie"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "s-sc.",
-    "word": "sc.scilicet",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "tj.",
-          "to jest"
         ]
       }
     ]
@@ -3604,18 +3414,6 @@
     ]
   },
   {
-    "id": "s-scruff",
-    "word": "scruff",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "za kark"
-        ]
-      }
-    ]
-  },
-  {
     "id": "s-scruffy",
     "word": "scruffy",
     "trans": [
@@ -3823,39 +3621,6 @@
         "gramGrp": "V",
         "texts": [
           "kosić"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "s-SE",
-    "word": "SE",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "płd.-wsch.",
-          "południowo-wschodni"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "s-sea",
-    "word": "sea",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "morze",
-          "na morzu",
-          "w morzu",
-          "być w lesie",
-          "nie wiedzieć",
-          "co robić",
-          "morzem",
-          "nad morzem",
-          "na morze"
         ]
       }
     ]
@@ -4114,18 +3879,6 @@
     ]
   },
   {
-    "id": "s-seasick",
-    "word": "seasick",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "mieć chorobę morską"
-        ]
-      }
-    ]
-  },
-  {
     "id": "s-seaside",
     "word": "seaside",
     "trans": [
@@ -4259,18 +4012,6 @@
     ]
   },
   {
-    "id": "s-SEATO",
-    "word": "SEATO",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "Pakt Azji Południowo-Wschodniej"
-        ]
-      }
-    ]
-  },
-  {
     "id": "s-seaweed",
     "word": "seaweed",
     "trans": [
@@ -4290,31 +4031,6 @@
         "gramGrp": "Adj",
         "texts": [
           "zdatny do żeglugi"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "s-sec.",
-    "word": "sec.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "sekunda"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "średni",
-          "drugorzędny"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "sekretarz"
         ]
       }
     ]
@@ -4682,18 +4398,6 @@
     ]
   },
   {
-    "id": "s-secy.",
-    "word": "secy.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "sekretarz"
-        ]
-      }
-    ]
-  },
-  {
     "id": "s-sedate",
     "word": "sedate",
     "trans": [
@@ -4777,57 +4481,6 @@
         "texts": [
           "uwodzicielski",
           "ponętny"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "s-see",
-    "word": "see",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "widzieć",
-          "zobaczyć",
-          "odwiedzać",
-          "odprowadzać",
-          "rozumieć",
-          "dopatrzeć",
-          "dopilnować",
-          "wyobrażać sobie",
-          "zobaczę",
-          "może",
-          "chwileczkę",
-          "zaraz, zaraz",
-          "do jutra",
-          "jako że"
-        ]
-      },
-      {
-        "gramGrp": "V Phras",
-        "texts": [
-          "zająć się"
-        ]
-      },
-      {
-        "gramGrp": "V Phras",
-        "texts": [
-          "odprowadzać"
-        ]
-      },
-      {
-        "gramGrp": "V Phras",
-        "texts": [
-          "rozszyfrowywać",
-          "przejrzeć"
-        ]
-      },
-      {
-        "gramGrp": "V Phras",
-        "texts": [
-          "doglądać",
-          "dopilnowywać"
         ]
       }
     ]
@@ -5130,30 +4783,6 @@
           "wybiórczy",
           "krytyczny",
           "wybredny"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "s-self",
-    "word": "self",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "swoje prawdziwe ja"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "s-self-",
-    "word": "self-",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "samo-"
         ]
       }
     ]
@@ -6029,18 +5658,6 @@
     ]
   },
   {
-    "id": "s-Sept.",
-    "word": "Sept.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "wrzesień"
-        ]
-      }
-    ]
-  },
-  {
     "id": "s-September",
     "word": "September",
     "trans": [
@@ -6408,140 +6025,6 @@
     ]
   },
   {
-    "id": "s-set",
-    "word": "set",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "stawiać",
-          "nadawać",
-          "sprawiać",
-          "uwalniać kogoś",
-          "wpuszczać",
-          "zachodzić",
-          "nakrywać",
-          "nastawiać",
-          "stawiać",
-          "ustalać",
-          "ustanawiać",
-          "zadawać",
-          "stawiać",
-          "zastygać",
-          "pisać",
-          "muzykę do czegoś",
-          "mieć miejsce"
-        ]
-      },
-      {
-        "gramGrp": "N",
-        "texts": [
-          "zbiór",
-          "zestaw",
-          "komplet",
-          "set",
-          "scenografia",
-          "odbiornik"
-        ]
-      },
-      {
-        "gramGrp": "Adj",
-        "texts": [
-          "ustalony",
-          "stały",
-          "obowiązkowy",
-          "zdecydowany",
-          "na coś",
-          "gotowy",
-          "na coś",
-          "umiejscowiony",
-          "osadzony"
-        ]
-      },
-      {
-        "gramGrp": "V Phras",
-        "texts": [
-          "zabierać się",
-          "do zrobienia czegoś"
-        ]
-      },
-      {
-        "gramGrp": "V Phras",
-        "texts": [
-          "kontrastować",
-          "porównywać",
-          "różnić",
-          "kłócić"
-        ]
-      },
-      {
-        "gramGrp": "V Phras",
-        "texts": [
-          "odkładać",
-          "odkładać na bok",
-          "pozbywać się"
-        ]
-      },
-      {
-        "gramGrp": "V Phras",
-        "texts": [
-          "wstrzymywać",
-          "hamować",
-          "kosztować"
-        ]
-      },
-      {
-        "gramGrp": "V Phras",
-        "texts": [
-          "opisywać",
-          "spisywać"
-        ]
-      },
-      {
-        "gramGrp": "V Phras",
-        "texts": [
-          "zaczynać się",
-          "wdawać się"
-        ]
-      },
-      {
-        "gramGrp": "V Phras",
-        "texts": [
-          "wyruszać",
-          "inicjować"
-        ]
-      },
-      {
-        "gramGrp": "V Phras",
-        "texts": [
-          "wyruszać",
-          "zamierzać",
-          "przygotowywać",
-          "przedstawiać"
-        ]
-      },
-      {
-        "gramGrp": "N Comp",
-        "texts": [
-          "ekierka"
-        ]
-      },
-      {
-        "gramGrp": "V Phras",
-        "texts": [
-          "przygotowywać",
-          "zakładać",
-          "wystawiać",
-          "wznosić",
-          "urządzać się",
-          "wywoływać",
-          "urządzać",
-          "załatwiać"
-        ]
-      }
-    ]
-  },
-  {
     "id": "s-setback",
     "word": "setback",
     "trans": [
@@ -6820,25 +6303,6 @@
     ]
   },
   {
-    "id": "s-sew",
-    "word": "sew",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "szyć",
-          "przyszywać"
-        ]
-      },
-      {
-        "gramGrp": "V Phras",
-        "texts": [
-          "zszywać"
-        ]
-      }
-    ]
-  },
-  {
     "id": "s-sewage",
     "word": "sewage",
     "trans": [
@@ -6883,20 +6347,6 @@
         "gramGrp": "N Comp",
         "texts": [
           "maszyna do szycia"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "s-sex",
-    "word": "sex",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "płeć",
-          "seks",
-          "mieć stosunek płciowy"
         ]
       }
     ]
@@ -6948,43 +6398,6 @@
         "texts": [
           "seksowny",
           "sexy"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "s-SF",
-    "word": "SF",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "science fiction"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "s-sgd.",
-    "word": "sgd.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "podpisany"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "s-sh",
-    "word": "sh",
-    "trans": [
-      {
-        "gramGrp": "Interj",
-        "texts": [
-          "cii",
-          "sza"
         ]
       }
     ]
@@ -7660,25 +7073,6 @@
     ]
   },
   {
-    "id": "s-she",
-    "word": "she",
-    "trans": [
-      {
-        "gramGrp": "Pron",
-        "texts": [
-          "ona "
-        ]
-      },
-      {
-        "gramGrp": "N",
-        "texts": [
-          "samica",
-          "suka"
-        ]
-      }
-    ]
-  },
-  {
     "id": "s-sheaf",
     "word": "sheaf",
     "trans": [
@@ -8226,18 +7620,6 @@
         "gramGrp": "N",
         "texts": [
           "koszula"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "s-shirtsleeves",
-    "word": "shirtsleeves",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "w samej koszuli"
         ]
       }
     ]
@@ -9531,25 +8913,6 @@
     ]
   },
   {
-    "id": "s-shy",
-    "word": "shy",
-    "trans": [
-      {
-        "gramGrp": "Adj",
-        "texts": [
-          "nieśmiały"
-        ]
-      },
-      {
-        "gramGrp": "V",
-        "texts": [
-          "ponosić",
-          "wstydzić się zrobienia czegoś"
-        ]
-      }
-    ]
-  },
-  {
     "id": "s-sibling",
     "word": "sibling",
     "trans": [
@@ -10568,24 +9931,6 @@
     ]
   },
   {
-    "id": "s-sin",
-    "word": "sin",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "grzech"
-        ]
-      },
-      {
-        "gramGrp": "V",
-        "texts": [
-          "grzeszyć"
-        ]
-      }
-    ]
-  },
-  {
     "id": "s-since",
     "word": "since",
     "trans": [
@@ -10925,25 +10270,6 @@
     ]
   },
   {
-    "id": "s-sip",
-    "word": "sip",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "pociągać"
-        ]
-      },
-      {
-        "gramGrp": "N",
-        "texts": [
-          "odrobina",
-          "łyczek"
-        ]
-      }
-    ]
-  },
-  {
     "id": "s-siphon",
     "word": "siphonsyphon",
     "trans": [
@@ -10959,23 +10285,6 @@
           "odciągać",
           "przetaczać",
           "wyciągać"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "s-sir",
-    "word": "sir",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "pan",
-          "dzień dobry panu",
-          "sir ",
-          "Szanowny Panie",
-          "Drogi Panie",
-          "Szanowni Państwo"
         ]
       }
     ]
@@ -11034,47 +10343,6 @@
         "texts": [
           "bratowa",
           "szwagierka"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "s-sit",
-    "word": "sit",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "siedzieć",
-          "siadać",
-          "zdawać",
-          "zasiadać",
-          "w komitecie",
-          "obradować",
-          "znajdować się",
-          "być"
-        ]
-      },
-      {
-        "gramGrp": "V Phras",
-        "texts": [
-          "siadać"
-        ]
-      },
-      {
-        "gramGrp": "V Phras",
-        "texts": [
-          "przysłuchiwać się",
-          "asystować"
-        ]
-      },
-      {
-        "gramGrp": "V Phras",
-        "texts": [
-          "siadać",
-          "podnosić się",
-          "nie kłaść się spać",
-          "nie kłaść się"
         ]
       }
     ]
@@ -11157,18 +10425,6 @@
           "otoczenie",
           "praca",
           ",,Oferty pracy'' "
-        ]
-      }
-    ]
-  },
-  {
-    "id": "s-six",
-    "word": "six",
-    "trans": [
-      {
-        "gramGrp": "Num",
-        "texts": [
-          "sześć"
         ]
       }
     ]
@@ -11401,37 +10657,6 @@
         "texts": [
           "szpikulec",
           "szpilka"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "s-ski",
-    "word": "ski",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "narta"
-        ]
-      },
-      {
-        "gramGrp": "Adj",
-        "texts": [
-          "narciarski"
-        ]
-      },
-      {
-        "gramGrp": "V",
-        "texts": [
-          "jeździć na nartach"
-        ]
-      },
-      {
-        "gramGrp": "N Comp",
-        "texts": [
-          "wyciąg narciarski",
-          "wyciąg"
         ]
       }
     ]
@@ -11780,18 +11005,6 @@
         "gramGrp": "N",
         "texts": [
           "skunks"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "s-sky",
-    "word": "sky",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "niebo"
         ]
       }
     ]
@@ -13242,20 +12455,6 @@
     ]
   },
   {
-    "id": "s-sly",
-    "word": "sly",
-    "trans": [
-      {
-        "gramGrp": "Adj",
-        "texts": [
-          "chytry",
-          "wiele mówiący",
-          "znaczący"
-        ]
-      }
-    ]
-  },
-  {
     "id": "s-smack",
     "word": "smack",
     "trans": [
@@ -13800,19 +12999,6 @@
         "texts": [
           "przekąskowy",
           "bar przekąskowy"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "s-snafu",
-    "word": "snafu",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "jak zwykle",
-          "ogólny burdel"
         ]
       }
     ]
@@ -14426,18 +13612,6 @@
     ]
   },
   {
-    "id": "s-SNP",
-    "word": "SNP",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "Szkocka Partia Narodowa"
-        ]
-      }
-    ]
-  },
-  {
     "id": "s-snub",
     "word": "snub",
     "trans": [
@@ -14508,39 +13682,6 @@
         "gramGrp": "V",
         "texts": [
           "przytulać się"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "s-so",
-    "word": "so",
-    "trans": [
-      {
-        "gramGrp": "Adv",
-        "texts": [
-          "tak",
-          "taki",
-          "tak samo",
-          "też",
-          "i ja też",
-          "ja tak samo"
-        ]
-      },
-      {
-        "gramGrp": "Conj",
-        "texts": [
-          "tak więc",
-          "więc",
-          "dlatego",
-          "tak więc",
-          "tak, aby",
-          "no to co?",
-          "no i co z tego?",
-          "jak z ... tak i z ...",
-          "do tej pory",
-          "i tak dalej",
-          "nie tyle ... co ..."
         ]
       }
     ]
@@ -14633,26 +13774,6 @@
     ]
   },
   {
-    "id": "s-sob",
-    "word": "sob",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "łkać",
-          "szlochać"
-        ]
-      },
-      {
-        "gramGrp": "N",
-        "texts": [
-          "łkanie",
-          "szlochanie"
-        ]
-      }
-    ]
-  },
-  {
     "id": "s-sober",
     "word": "sober",
     "trans": [
@@ -14679,18 +13800,6 @@
         "gramGrp": "Adj",
         "texts": [
           "otrzeźwiający"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "s-soc.",
-    "word": "soc.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "towarzystwo"
         ]
       }
     ]
@@ -14736,13 +13845,6 @@
     "id": "s-social",
     "word": "social",
     "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "społeczny",
-          "towarzyski"
-        ]
-      },
       {
         "gramGrp": "N Comp",
         "texts": [
@@ -14872,18 +13974,6 @@
     ]
   },
   {
-    "id": "s-sod",
-    "word": "sod",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "darń"
-        ]
-      }
-    ]
-  },
-  {
     "id": "s-soda",
     "word": "soda",
     "trans": [
@@ -15002,18 +14092,6 @@
         "texts": [
           "uwalać",
           "brudzić"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "s-sol.",
-    "word": "sol.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "adwokat"
         ]
       }
     ]
@@ -15325,12 +14403,6 @@
     "word": "some",
     "trans": [
       {
-        "gramGrp": "",
-        "texts": [
-          "proszę wziąć cukier"
-        ]
-      },
-      {
         "gramGrp": "Adv",
         "texts": [
           "trochę",
@@ -15490,18 +14562,6 @@
         "gramGrp": "Adv",
         "texts": [
           "gdzieś"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "s-son",
-    "word": "son",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "syn"
         ]
       }
     ]
@@ -15743,18 +14803,6 @@
           "rozdzielać",
           "rozwiązywać",
           "załatwiać"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "s-SOS",
-    "word": "SOS",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "SOS"
         ]
       }
     ]
@@ -16154,32 +15202,6 @@
     ]
   },
   {
-    "id": "s-sow",
-    "word": "sow",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "siać",
-          "zasiewać",
-          "czymś"
-        ]
-      },
-      {
-        "gramGrp": "N",
-        "texts": [
-          "maciora"
-        ]
-      },
-      {
-        "gramGrp": "N Comp",
-        "texts": [
-          "mlecz "
-        ]
-      }
-    ]
-  },
-  {
     "id": "s-soya",
     "word": "soya",
     "trans": [
@@ -16199,36 +15221,6 @@
         "gramGrp": "N Comp",
         "texts": [
           "soja"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "s-sp.",
-    "word": "sp.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "specjalny"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "ortografia"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "s-spa",
-    "word": "spa",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "uzdrowisko"
         ]
       }
     ]
@@ -18694,26 +17686,6 @@
     ]
   },
   {
-    "id": "s-spy",
-    "word": "spy",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "szpieg"
-        ]
-      },
-      {
-        "gramGrp": "V",
-        "texts": [
-          "szpiegować",
-          "kogoś",
-          "zoczyć"
-        ]
-      }
-    ]
-  },
-  {
     "id": "s-squabble",
     "word": "squabble",
     "trans": [
@@ -19087,24 +18059,6 @@
     ]
   },
   {
-    "id": "s-Sr.",
-    "word": "Sr.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "senior"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "siostra"
-        ]
-      }
-    ]
-  },
-  {
     "id": "s-Sri_Lanka",
     "word": "Sri Lanka",
     "trans": [
@@ -19112,43 +18066,6 @@
         "gramGrp": "N",
         "texts": [
           "Sri Lanka"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "s-SS",
-    "word": "SS",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "parowiec"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "s-St.",
-    "word": "St.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "św.",
-          "święty"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "s-sta.",
-    "word": "sta.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "stacja"
         ]
       }
     ]
@@ -19937,19 +18854,6 @@
     ]
   },
   {
-    "id": "s-standstill",
-    "word": "standstill",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "znajdować się w punkcie zerowym",
-          "zatrzymywać się"
-        ]
-      }
-    ]
-  },
-  {
     "id": "s-staple",
     "word": "staple",
     "trans": [
@@ -20642,18 +19546,6 @@
     ]
   },
   {
-    "id": "s-STD",
-    "word": "STD",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "międzymiastowe połączenie automatyczne"
-        ]
-      }
-    ]
-  },
-  {
     "id": "s-steadfast",
     "word": "steadfast",
     "trans": [
@@ -21010,18 +19902,6 @@
         "gramGrp": "N",
         "texts": [
           "pasierb",
-          "pasierbica"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "s-stepdaughter",
-    "word": "stepdaughter",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
           "pasierbica"
         ]
       }
@@ -22237,25 +21117,6 @@
     ]
   },
   {
-    "id": "s-Str.",
-    "word": "Str.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "parowiec"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "cieśnina",
-          "przesmyk"
-        ]
-      }
-    ]
-  },
-  {
     "id": "s-straddle",
     "word": "straddle",
     "trans": [
@@ -22508,18 +21369,6 @@
         "gramGrp": "Adj",
         "texts": [
           "zduszony"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "s-stranglehold",
-    "word": "stranglehold",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "trzymać coś w garści"
         ]
       }
     ]
@@ -23424,18 +22273,6 @@
     ]
   },
   {
-    "id": "s-stuck",
-    "word": "stuck",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "utknąć"
-        ]
-      }
-    ]
-  },
-  {
     "id": "s-stuck-up",
     "word": "stuck-up",
     "trans": [
@@ -23756,18 +22593,6 @@
     ]
   },
   {
-    "id": "s-sty",
-    "word": "sty",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "chlew"
-        ]
-      }
-    ]
-  },
-  {
     "id": "s-style",
     "word": "style",
     "trans": [
@@ -23825,18 +22650,6 @@
     ]
   },
   {
-    "id": "s-Su.",
-    "word": "Su.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "niedziela"
-        ]
-      }
-    ]
-  },
-  {
     "id": "s-suave",
     "word": "suave",
     "trans": [
@@ -23845,30 +22658,6 @@
         "texts": [
           "gładki",
           "uprzejmy"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "s-sub",
-    "word": "sub",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "okręt podwodny"
-        ]
-      },
-      {
-        "gramGrp": "N",
-        "texts": [
-          "subskrypcja"
-        ]
-      },
-      {
-        "gramGrp": "N",
-        "texts": [
-          "zastępstwo"
         ]
       }
     ]
@@ -24720,18 +23509,6 @@
     ]
   },
   {
-    "id": "s-Sudan",
-    "word": "Sudan",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "Sudan"
-        ]
-      }
-    ]
-  },
-  {
     "id": "s-Sudanese",
     "word": "Sudanese",
     "trans": [
@@ -24776,30 +23553,6 @@
     ]
   },
   {
-    "id": "s-Sudeten",
-    "word": "Sudeten",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "Sudety"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "s-Sudetes",
-    "word": "Sudetes",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "Sudety"
-        ]
-      }
-    ]
-  },
-  {
     "id": "s-suds",
     "word": "suds",
     "trans": [
@@ -24807,20 +23560,6 @@
         "gramGrp": "N",
         "texts": [
           "mydliny"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "s-sue",
-    "word": "sue",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "skarżyć do sądu",
-          "za coś",
-          "dochodzić sądownie"
         ]
       }
     ]
@@ -25205,28 +23944,6 @@
     ]
   },
   {
-    "id": "s-sum",
-    "word": "sum",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "suma",
-          "sumowanie",
-          "rachunek",
-          "ogółem "
-        ]
-      },
-      {
-        "gramGrp": "V Phras",
-        "texts": [
-          "podsumowywać",
-          "krótko określać"
-        ]
-      }
-    ]
-  },
-  {
     "id": "s-summarize",
     "word": "summarizesummarise",
     "trans": [
@@ -25356,37 +24073,6 @@
         "texts": [
           "wystawny",
           "świadczący o przepychu"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "s-Sun.",
-    "word": "Sun.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "niedziela"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "s-sun",
-    "word": "sun",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "słońce",
-          "wystawiać się na słońce"
-        ]
-      },
-      {
-        "gramGrp": "N Comp",
-        "texts": [
-          "krem do opalania"
         ]
       }
     ]
@@ -26188,19 +24874,6 @@
     ]
   },
   {
-    "id": "s-supt.",
-    "word": "supt.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "komisarz",
-          "inspektor"
-        ]
-      }
-    ]
-  },
-  {
     "id": "s-surcharge",
     "word": "surcharge",
     "trans": [
@@ -26813,25 +25486,6 @@
         "gramGrp": "N",
         "texts": [
           "pożywienie"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "s-SW",
-    "word": "SW",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "płd.-zach.",
-          "południowo-zachodni"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "fale krótkie"
         ]
       }
     ]

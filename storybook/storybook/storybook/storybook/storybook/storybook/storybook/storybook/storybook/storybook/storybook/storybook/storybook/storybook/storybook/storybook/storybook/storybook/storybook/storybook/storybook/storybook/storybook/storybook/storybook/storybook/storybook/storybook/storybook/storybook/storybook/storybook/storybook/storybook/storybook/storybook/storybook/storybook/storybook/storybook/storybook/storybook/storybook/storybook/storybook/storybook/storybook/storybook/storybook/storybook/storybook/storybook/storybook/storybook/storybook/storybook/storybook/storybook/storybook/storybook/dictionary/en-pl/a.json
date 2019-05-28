@@ -1,37 +1,5 @@
 [
   {
-    "id": "a-AA",
-    "word": "AA",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "Anonimowi Alkoholicy"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "Związek Automobilowy",
-          "Automobilklub"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "a-AAA",
-    "word": "AAA",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "Amerykański Związek Automobilowy",
-          "Amerykański Automobilklub"
-        ]
-      }
-    ]
-  },
-  {
     "id": "a-aardvark",
     "word": "aardvark",
     "trans": [
@@ -191,38 +159,6 @@
         "gramGrp": "N",
         "texts": [
           "skrót"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "a-ABC",
-    "word": "ABC",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "alfabet",
-          "ABC",
-          "elementarz"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "Amerykańska Korporacja Nadawcza"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "Australijska Korporacja Nadawcza"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "Atomowa, Biologiczna, Chemiczna"
         ]
       }
     ]
@@ -553,18 +489,6 @@
         "gramGrp": "N",
         "texts": [
           "obalenie"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "a-A-bomb",
-    "word": "A-bomb",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "bomba atomowa"
         ]
       }
     ]
@@ -1260,36 +1184,6 @@
     ]
   },
   {
-    "id": "a-AC",
-    "word": "AC",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "prąd zmienny"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "a-ac",
-    "word": "a/c",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "konto"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "klimatyzacja"
-        ]
-      }
-    ]
-  },
-  {
     "id": "a-academic",
     "word": "academic",
     "trans": [
@@ -1746,18 +1640,6 @@
     ]
   },
   {
-    "id": "a-accordance",
-    "word": "accordance",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "zgodnie z"
-        ]
-      }
-    ]
-  },
-  {
     "id": "a-accordingly",
     "word": "accordingly",
     "trans": [
@@ -1904,18 +1786,6 @@
     ]
   },
   {
-    "id": "a-acct.",
-    "word": "acct.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "konto"
-        ]
-      }
-    ]
-  },
-  {
     "id": "a-accumulate",
     "word": "accumulate",
     "trans": [
@@ -2048,25 +1918,6 @@
     ]
   },
   {
-    "id": "a-ace",
-    "word": "ace",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "as"
-        ]
-      },
-      {
-        "gramGrp": "Adj",
-        "texts": [
-          "wyborowy",
-          "wyborny"
-        ]
-      }
-    ]
-  },
-  {
     "id": "a-ache",
     "word": "ache",
     "trans": [
@@ -2164,18 +2015,6 @@
         "texts": [
           "kwasowość",
           "jadowitość"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "a-ack.",
-    "word": "ack.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "potwierdzony"
         ]
       }
     ]
@@ -2449,47 +2288,6 @@
     ]
   },
   {
-    "id": "a-act",
-    "word": "act",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "działać",
-          "postępować",
-          "wobec",
-          "funkcjonować",
-          "jako",
-          "jak",
-          "grać"
-        ]
-      },
-      {
-        "gramGrp": "N",
-        "texts": [
-          "akt",
-          "postępek",
-          "gra",
-          "ustawa",
-          "akt",
-          "akt",
-          "wstawka",
-          "w trakcie robienia czegoś",
-          "w trakcie"
-        ]
-      },
-      {
-        "gramGrp": "V Phras",
-        "texts": [
-          "nawalać",
-          "komuś",
-          "popisywać się złym zachowaniem",
-          "popisywać się"
-        ]
-      }
-    ]
-  },
-  {
     "id": "a-acting",
     "word": "acting",
     "trans": [
@@ -2670,31 +2468,6 @@
     ]
   },
   {
-    "id": "a-AD",
-    "word": "ADAnno Domini",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "A.D.",
-          "Roku Pańskiego"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "a-ad",
-    "word": "ad",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "ogłoszenie"
-        ]
-      }
-    ]
-  },
-  {
     "id": "a-adamant",
     "word": "adamant",
     "trans": [
@@ -2771,45 +2544,6 @@
         "texts": [
           "rozgałęźnik",
           "zasilacz"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "a-add",
-    "word": "add",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "dodawać",
-          "zwiększać",
-          "coś"
-        ]
-      },
-      {
-        "gramGrp": "V Phras",
-        "texts": [
-          "podsumowywać",
-          "składać się w całość"
-        ]
-      },
-      {
-        "gramGrp": "V Phras",
-        "texts": [
-          "razem wynosić"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "a-add.",
-    "word": "add.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "adres"
         ]
       }
     ]
@@ -3470,18 +3204,6 @@
     ]
   },
   {
-    "id": "a-ado",
-    "word": "ado",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "bez ceregieli"
-        ]
-      }
-    ]
-  },
-  {
     "id": "a-adolescence",
     "word": "adolescence",
     "trans": [
@@ -4045,18 +3767,6 @@
     ]
   },
   {
-    "id": "a-advt.",
-    "word": "advt.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "ogłoszenie"
-        ]
-      }
-    ]
-  },
-  {
     "id": "a-aerial",
     "word": "aerial",
     "trans": [
@@ -4108,18 +3818,6 @@
         "gramGrp": "Adj",
         "texts": [
           "estetyczny"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "a-afar",
-    "word": "afar",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "z oddali"
         ]
       }
     ]
@@ -4373,18 +4071,6 @@
     ]
   },
   {
-    "id": "a-afield",
-    "word": "afield",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "z daleka"
-        ]
-      }
-    ]
-  },
-  {
     "id": "a-afloat",
     "word": "afloat",
     "trans": [
@@ -4600,34 +4286,6 @@
           "wbrew",
           "pod",
           "na"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "a-age",
-    "word": "age",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "wiek",
-          "w wieku",
-          "w wieku 10 lat",
-          "zaawansowany wiek",
-          "starość",
-          "wiek",
-          "okres",
-          "wiek",
-          "lata"
-        ]
-      },
-      {
-        "gramGrp": "V",
-        "texts": [
-          "starzeć się",
-          "nieletni",
-          "dojść do pełnoletności"
         ]
       }
     ]
@@ -4888,31 +4546,6 @@
     ]
   },
   {
-    "id": "a-AGM",
-    "word": "AGM",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "doroczne walne zgromadzenie"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "a-ago",
-    "word": "ago",
-    "trans": [
-      {
-        "gramGrp": "Adv",
-        "texts": [
-          "temu",
-          "5 minut temu"
-        ]
-      }
-    ]
-  },
-  {
     "id": "a-agog",
     "word": "agog",
     "trans": [
@@ -5056,33 +4689,6 @@
     ]
   },
   {
-    "id": "a-ah",
-    "word": "ah",
-    "trans": [
-      {
-        "gramGrp": "Inter",
-        "texts": [
-          "och",
-          "ach",
-          "no",
-          "o"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "a-aha",
-    "word": "aha",
-    "trans": [
-      {
-        "gramGrp": "Inter",
-        "texts": [
-          "aha"
-        ]
-      }
-    ]
-  },
-  {
     "id": "a-ahead",
     "word": "ahead",
     "trans": [
@@ -5105,39 +4711,6 @@
         "gramGrp": "Inter",
         "texts": [
           "ahoj"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "a-AI",
-    "word": "AI",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "sztuczna inteligencja"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "a-aid",
-    "word": "aid",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "pomoc"
-        ]
-      },
-      {
-        "gramGrp": "V",
-        "texts": [
-          "pomagać",
-          "wspomagać",
-          "na wspomożenie",
-          "przy pomocy"
         ]
       }
     ]
@@ -5168,18 +4741,6 @@
     ]
   },
   {
-    "id": "a-ail",
-    "word": "ail",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "niedomagać"
-        ]
-      }
-    ]
-  },
-  {
     "id": "a-ailment",
     "word": "ailment",
     "trans": [
@@ -5187,34 +4748,6 @@
         "gramGrp": "N",
         "texts": [
           "dolegliwość"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "a-aim",
-    "word": "aim",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "mierzyć",
-          "w",
-          "starać się",
-          "o",
-          "o",
-          "coś zrobić",
-          "wymierzać",
-          "w"
-        ]
-      },
-      {
-        "gramGrp": "N",
-        "texts": [
-          "cel",
-          "celowanie",
-          "celować",
-          "do"
         ]
       }
     ]
@@ -5228,62 +4761,6 @@
         "texts": [
           "bezsensowny",
           "bezcelowy"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "a-air",
-    "word": "air",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "powietrze",
-          "charakter"
-        ]
-      },
-      {
-        "gramGrp": "V",
-        "texts": [
-          "wygłaszać",
-          "wietrzyć"
-        ]
-      },
-      {
-        "gramGrp": "Adj",
-        "texts": [
-          "nadmuchiwany",
-          "lotem",
-          "bez śladu",
-          "nie wiadomo skąd",
-          "na wizji",
-          "na fonii"
-        ]
-      },
-      {
-        "gramGrp": "N Comp",
-        "texts": [
-          "siły powietrzne"
-        ]
-      },
-      {
-        "gramGrp": "N Comp",
-        "texts": [
-          "stewardesa"
-        ]
-      },
-      {
-        "gramGrp": "N Comp",
-        "texts": [
-          "nalot"
-        ]
-      },
-      {
-        "gramGrp": "N Comp",
-        "texts": [
-          "budynek lotów",
-          "terminal lotniczy"
         ]
       }
     ]
@@ -5584,18 +5061,6 @@
     ]
   },
   {
-    "id": "a-alacrity",
-    "word": "alacrity",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "skwapliwie"
-        ]
-      }
-    ]
-  },
-  {
     "id": "a-alarm",
     "word": "alarm",
     "trans": [
@@ -5763,18 +5228,6 @@
     ]
   },
   {
-    "id": "a-ale",
-    "word": "ale",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "ale "
-        ]
-      }
-    ]
-  },
-  {
     "id": "a-alert",
     "word": "alert",
     "trans": [
@@ -5797,18 +5250,6 @@
         "texts": [
           "alert",
           "być przygotowanym na wszystko"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "a-A-level",
-    "word": "A-level",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "matura"
         ]
       }
     ]
@@ -6026,62 +5467,6 @@
         "gramGrp": "N",
         "texts": [
           "zasada"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "a-all",
-    "word": "all",
-    "trans": [
-      {
-        "gramGrp": "Det",
-        "texts": [
-          "wszyscy"
-        ]
-      },
-      {
-        "gramGrp": "Adv",
-        "texts": [
-          "całkiem",
-          "całkowicie",
-          "jestem całkiem sam",
-          "jedyne",
-          "wszystko",
-          "jedyne, co robisz, to ...",
-          "po",
-          "po trzy",
-          "tym",
-          "tym bardziej",
-          "tym lepiej",
-          "przede wszystkim",
-          "jednak",
-          "czyli",
-          "ogółem",
-          "nie aż tak",
-          "nie aż tak dobrze",
-          "to wszystko pięknie, ale",
-          "wcale",
-          "przede wszystkim",
-          "przy całym",
-          "przy całej jej wrażliwości",
-          "razem",
-          "ogółem",
-          "ze wszystkich",
-          "najlepszy ze wszystkich"
-        ]
-      },
-      {
-        "gramGrp": "N",
-        "texts": [
-          "koniec niebezpieczeństwa"
-        ]
-      },
-      {
-        "gramGrp": "Adv",
-        "texts": [
-          "w porządku",
-          "dobrze"
         ]
       }
     ]
@@ -6548,12 +5933,6 @@
           "aliant",
           "sprzymierzeniec"
         ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "sprzymierzać się z"
-        ]
       }
     ]
   },
@@ -6960,30 +6339,6 @@
         "gramGrp": "Adv",
         "texts": [
           "zawsze"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "a-a.m.",
-    "word": "a.m.ante meridiem",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "przed południem "
-        ]
-      }
-    ]
-  },
-  {
-    "id": "a-AMA",
-    "word": "AMA",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "Amerykańskie Towarzystwo Medyczne"
         ]
       }
     ]
@@ -8064,21 +7419,6 @@
     ]
   },
   {
-    "id": "a-and",
-    "word": "and",
-    "trans": [
-      {
-        "gramGrp": "Conj",
-        "texts": [
-          "i",
-          "a",
-          "coraz",
-          "coraz bardziej"
-        ]
-      }
-    ]
-  },
-  {
     "id": "a-anecdote",
     "word": "anecdote",
     "trans": [
@@ -8364,18 +7704,6 @@
     ]
   },
   {
-    "id": "a-annals",
-    "word": "annals",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "w annałach czegoś"
-        ]
-      }
-    ]
-  },
-  {
     "id": "a-annex",
     "word": "annex",
     "trans": [
@@ -8579,19 +7907,6 @@
     ]
   },
   {
-    "id": "a-anon.",
-    "word": "anon.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "anonim",
-          "anonimowy"
-        ]
-      }
-    ]
-  },
-  {
     "id": "a-anonymity",
     "word": "anonymity",
     "trans": [
@@ -8649,30 +7964,6 @@
     ]
   },
   {
-    "id": "a-ans.",
-    "word": "ans.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "odpowiedź"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "a-ANSI",
-    "word": "ANSI",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "Narodowy Amerykański Instytut Normalizacyjny"
-        ]
-      }
-    ]
-  },
-  {
     "id": "a-answer",
     "word": "answer",
     "trans": [
@@ -8720,18 +8011,6 @@
           "odpowiedzialny",
           "przed",
           "za"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "a-ant",
-    "word": "ant",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "mrówka"
         ]
       }
     ]
@@ -9230,22 +8509,6 @@
     ]
   },
   {
-    "id": "a-any",
-    "word": "any",
-    "trans": [
-      {
-        "gramGrp": "Pron",
-        "texts": [
-          "żaden",
-          "którykolwiek",
-          "jakikolwiek",
-          "jakiś",
-          "dowolny"
-        ]
-      }
-    ]
-  },
-  {
     "id": "a-anyhow",
     "word": "anyhow",
     "trans": [
@@ -9359,24 +8622,6 @@
         "gramGrp": "N",
         "texts": [
           "apatia"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "a-ape",
-    "word": "ape",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "małpa człekokształtna"
-        ]
-      },
-      {
-        "gramGrp": "V",
-        "texts": [
-          "małpować"
         ]
       }
     ]
@@ -9542,19 +8787,6 @@
         "gramGrp": "N",
         "texts": [
           "apostoł"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "a-app.",
-    "word": "app.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "dodatek",
-          "suplement"
         ]
       }
     ]
@@ -10075,18 +9307,6 @@
     ]
   },
   {
-    "id": "a-appro",
-    "word": "appro",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "zatwierdzenie"
-        ]
-      }
-    ]
-  },
-  {
     "id": "a-approach",
     "word": "approach",
     "trans": [
@@ -10232,18 +9452,6 @@
     ]
   },
   {
-    "id": "a-Apr.",
-    "word": "Apr.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "kwiecień"
-        ]
-      }
-    ]
-  },
-  {
     "id": "a-apricot",
     "word": "apricot",
     "trans": [
@@ -10275,19 +9483,6 @@
         "gramGrp": "N",
         "texts": [
           "fartuch"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "a-apt",
-    "word": "apt",
-    "trans": [
-      {
-        "gramGrp": "Adj",
-        "texts": [
-          "trafny",
-          "zwykle coś robić"
         ]
       }
     ]
@@ -10458,18 +9653,6 @@
         "gramGrp": "N",
         "texts": [
           "arbitraż"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "a-arc",
-    "word": "arc",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "łuk"
         ]
       }
     ]
@@ -10940,18 +10123,6 @@
     ]
   },
   {
-    "id": "a-ark",
-    "word": "ark",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "arka"
-        ]
-      }
-    ]
-  },
-  {
     "id": "a-Arkansas",
     "word": "Arkansas",
     "trans": [
@@ -10959,25 +10130,6 @@
         "gramGrp": "N",
         "texts": [
           "Arkansas"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "a-arm",
-    "word": "arm",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "ramię",
-          "ręka",
-          "broń",
-          "ramię w ramię",
-          "z otwartymi ramionami",
-          "na odległość wyciągniętej ręki",
-          "trzymać kogoś na dystans",
-          "uzbrojony po zęby"
         ]
       }
     ]
@@ -11376,32 +10528,6 @@
     ]
   },
   {
-    "id": "a-art",
-    "word": "art",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "sztuka",
-          "sztuki piękne"
-        ]
-      },
-      {
-        "gramGrp": "Adj",
-        "texts": [
-          "artystyczny"
-        ]
-      },
-      {
-        "gramGrp": "N",
-        "texts": [
-          "kultura",
-          "humanistyka"
-        ]
-      }
-    ]
-  },
-  {
     "id": "a-artefact",
     "word": "artefact",
     "trans": [
@@ -11754,33 +10880,6 @@
     ]
   },
   {
-    "id": "a-ash",
-    "word": "ash",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "popiół",
-          "jesion"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "a-ashamed",
-    "word": "ashamed",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "wstydzić się",
-          "czegoś",
-          "coś zrobić"
-        ]
-      }
-    ]
-  },
-  {
     "id": "a-ashore",
     "word": "ashore",
     "trans": [
@@ -11863,42 +10962,6 @@
     ]
   },
   {
-    "id": "a-ask",
-    "word": "ask",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "pytać",
-          "o coś",
-          "prosić",
-          "o coś",
-          "kogoś, by coś zrobił",
-          "zapraszać",
-          "na coś",
-          "za nic",
-          "jeśli chcesz wiedzieć"
-        ]
-      },
-      {
-        "gramGrp": "V Phras",
-        "texts": [
-          "dopytywać się",
-          "o kogoś"
-        ]
-      },
-      {
-        "gramGrp": "V Phras",
-        "texts": [
-          "prosić",
-          "prosić o",
-          "ktoś się sam doprasza niemiłych konsekwencji",
-          "ktoś się sam doprasza"
-        ]
-      }
-    ]
-  },
-  {
     "id": "a-askew",
     "word": "askew",
     "trans": [
@@ -11906,32 +10969,6 @@
         "gramGrp": "Adj",
         "texts": [
           "skrzywiony"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "a-asleep",
-    "word": "asleep",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "spać",
-          "zasypiać",
-          "mocno spać"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "a-asp",
-    "word": "asp",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "osika"
         ]
       }
     ]
@@ -11965,18 +11002,6 @@
     ]
   },
   {
-    "id": "a-aspersions",
-    "word": "aspersions",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "oczerniać"
-        ]
-      }
-    ]
-  },
-  {
     "id": "a-asphalt",
     "word": "asphalt",
     "trans": [
@@ -11984,30 +11009,6 @@
         "gramGrp": "N",
         "texts": [
           "asfalt"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "a-asphyxiate",
-    "word": "asphyxiate",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "dusić się"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "a-aspirant",
-    "word": "aspirant",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "aspirować do"
         ]
       }
     ]
@@ -12060,20 +11061,6 @@
         "gramGrp": "Adj",
         "texts": [
           "ambitny"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "a-ass",
-    "word": "ass",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "osioł",
-          "dureń",
-          "dupa"
         ]
       }
     ]
@@ -12395,18 +11382,6 @@
     ]
   },
   {
-    "id": "a-assoc.",
-    "word": "assoc.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "stowarzyszenie"
-        ]
-      }
-    ]
-  },
-  {
     "id": "a-associate",
     "word": "associate",
     "trans": [
@@ -12473,18 +11448,6 @@
         "gramGrp": "N",
         "texts": [
           "wybór"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "a-asst.",
-    "word": "asst.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "zastępca"
         ]
       }
     ]
@@ -12677,19 +11640,6 @@
     ]
   },
   {
-    "id": "a-astray",
-    "word": "astray",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "prowadzić kogoś na manowce",
-          "gubić się"
-        ]
-      }
-    ]
-  },
-  {
     "id": "a-astride",
     "word": "astride",
     "trans": [
@@ -12816,28 +11766,6 @@
         "texts": [
           "szpital psychiatryczny",
           "azyl"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "a-at",
-    "word": "at",
-    "trans": [
-      {
-        "gramGrp": "Prep",
-        "texts": [
-          "przy",
-          "w",
-          "na",
-          "o",
-          "w",
-          "o piątej",
-          "w dniu Bożego Narodzenia",
-          "u Mary",
-          "w wieku szesnastu lat",
-          "za 6 dolarów",
-          "z szybkością 80 km/h"
         ]
       }
     ]
@@ -13580,18 +12508,6 @@
     ]
   },
   {
-    "id": "a-Aug.",
-    "word": "Aug.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "sierpień"
-        ]
-      }
-    ]
-  },
-  {
     "id": "a-augment",
     "word": "augment",
     "trans": [
@@ -13695,18 +12611,6 @@
         "texts": [
           "dźwiękowy",
           "słuchowy"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "a-auspices",
-    "word": "auspices",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "pod auspicjami"
         ]
       }
     ]
@@ -14168,51 +13072,6 @@
     ]
   },
   {
-    "id": "a-AV",
-    "word": "AV",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "audio-wizualny"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "Wersja Autoryzowana Biblii",
-          "Wersja Autoryzowana "
-        ]
-      }
-    ]
-  },
-  {
-    "id": "a-av.",
-    "word": "av.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "ul.",
-          "ulica"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "a-avail",
-    "word": "avail",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "skorzystać z czegoś",
-          "bez skutku"
-        ]
-      }
-    ]
-  },
-  {
     "id": "a-availability",
     "word": "availability",
     "trans": [
@@ -14284,19 +13143,6 @@
         "gramGrp": "Adj",
         "texts": [
           "chciwy"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "a-ave.",
-    "word": "ave.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "ul.",
-          "ulica"
         ]
       }
     ]
@@ -14650,22 +13496,6 @@
     ]
   },
   {
-    "id": "a-awe",
-    "word": "awe",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "trwoga",
-          "przestrach",
-          "bojaźń",
-          "respekt",
-          "zatrwożyć się czymś"
-        ]
-      }
-    ]
-  },
-  {
     "id": "a-awed",
     "word": "awed",
     "trans": [
@@ -14781,25 +13611,6 @@
     ]
   },
   {
-    "id": "a-axe",
-    "word": "axe",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "topór"
-        ]
-      },
-      {
-        "gramGrp": "V",
-        "texts": [
-          "utrącać",
-          "redukować"
-        ]
-      }
-    ]
-  },
-  {
     "id": "a-axiom",
     "word": "axiom",
     "trans": [
@@ -14843,25 +13654,6 @@
         "gramGrp": "N",
         "texts": [
           "oś "
-        ]
-      }
-    ]
-  },
-  {
-    "id": "a-aye",
-    "word": "aye",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "tak"
-        ]
-      },
-      {
-        "gramGrp": "Adv",
-        "texts": [
-          "głos za",
-          "za"
         ]
       }
     ]

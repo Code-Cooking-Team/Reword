@@ -1,68 +1,5 @@
 [
   {
-    "id": "p-p.",
-    "word": "p.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "s.",
-          "strona"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "pens"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "na"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "p-P.A.",
-    "word": "P.A.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "asystent osobisty",
-          "sekretarka"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "asystent lekarza",
-          "asystentka lekarza"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "Związek Prasowy"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "p-p.a.",
-    "word": "p.a.per annum",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "rocznie"
-        ]
-      }
-    ]
-  },
-  {
     "id": "p-pace",
     "word": "pace",
     "trans": [
@@ -257,36 +194,6 @@
         "texts": [
           "pakt",
           "traktat"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "p-pad",
-    "word": "pad",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "wyściółka",
-          "kłębek",
-          "tampon",
-          "podpaska",
-          "ochraniacz",
-          "blok",
-          "miejsce startu",
-          "miejsce lądowania",
-          "poduszka",
-          "poduszeczka",
-          "mieszkanko"
-        ]
-      },
-      {
-        "gramGrp": "V",
-        "texts": [
-          "kroczyć",
-          "dreptać",
-          "wyściełać"
         ]
       }
     ]
@@ -683,19 +590,6 @@
     ]
   },
   {
-    "id": "p-pal",
-    "word": "pal",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "kolega",
-          "kumpel"
-        ]
-      }
-    ]
-  },
-  {
     "id": "p-palace",
     "word": "palace",
     "trans": [
@@ -930,18 +824,6 @@
         "gramGrp": "N",
         "texts": [
           "broszura"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "p-pan",
-    "word": "pan",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "patelnia"
         ]
       }
     ]
@@ -1399,31 +1281,6 @@
         "gramGrp": "N",
         "texts": [
           "papirus"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "p-par",
-    "word": "par",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "na równi z czymś"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "p-par.",
-    "word": "par.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "akapit",
-          "paragraf"
         ]
       }
     ]
@@ -3018,34 +2875,6 @@
     ]
   },
   {
-    "id": "p-pat",
-    "word": "pat",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "klepać",
-          "poklepywać"
-        ]
-      },
-      {
-        "gramGrp": "N",
-        "texts": [
-          "klepnięcie",
-          "kawałek",
-          "odrobina"
-        ]
-      },
-      {
-        "gramGrp": "Adj",
-        "texts": [
-          "standardowy",
-          "rutynowy"
-        ]
-      }
-    ]
-  },
-  {
     "id": "p-patch",
     "word": "patch",
     "trans": [
@@ -3532,29 +3361,6 @@
     ]
   },
   {
-    "id": "p-paw",
-    "word": "paw",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "łapa"
-        ]
-      },
-      {
-        "gramGrp": "V",
-        "texts": [
-          "bić kopytem",
-          "bić",
-          "drapać łapą",
-          "drapać",
-          "o coś",
-          "obmacywać"
-        ]
-      }
-    ]
-  },
-  {
     "id": "p-pawn",
     "word": "pawn",
     "trans": [
@@ -3597,64 +3403,6 @@
     ]
   },
   {
-    "id": "p-pay",
-    "word": "pay",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "płacić",
-          "opłacać",
-          "być opłacanym",
-          "przynosić",
-          "opłacać się",
-          "składać",
-          "ofiarować"
-        ]
-      },
-      {
-        "gramGrp": "N",
-        "texts": [
-          "zarobek"
-        ]
-      },
-      {
-        "gramGrp": "V Phras",
-        "texts": [
-          "spłacać",
-          "zwracać",
-          "odpłacać"
-        ]
-      },
-      {
-        "gramGrp": "V Phras",
-        "texts": [
-          "spłacać",
-          "opłacać się"
-        ]
-      },
-      {
-        "gramGrp": "V Phras",
-        "texts": [
-          "wydawać"
-        ]
-      },
-      {
-        "gramGrp": "N Comp",
-        "texts": [
-          "koperta z wypłatą"
-        ]
-      },
-      {
-        "gramGrp": "V Phras",
-        "texts": [
-          "zwracać pieniądze",
-          "zwracać"
-        ]
-      }
-    ]
-  },
-  {
     "id": "p-payable",
     "word": "payable",
     "trans": [
@@ -3676,16 +3424,6 @@
         "texts": [
           "dzień wypłaty"
         ]
-      }
-    ]
-  },
-  {
-    "id": "p-PAYE",
-    "word": "PAYE",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": []
       }
     ]
   },
@@ -3737,92 +3475,6 @@
         "texts": [
           "lista płac",
           "być zatrudnionym przez kogoś"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "p-p.c.",
-    "word": "p.c.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "kartka pocztowa"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "procent"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "p-PD",
-    "word": "PD",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "posterunek policji"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "okręg pocztowy"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "p-p.d.",
-    "word": "p.d.per diem",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "dziennie",
-          "dieta dzienna"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "p-pd.",
-    "word": "pd.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "zapłacony"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "p-PE",
-    "word": "PE",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "WF",
-          "wychowanie fizyczne"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "p-pea",
-    "word": "pea",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "groszek"
         ]
       }
     ]
@@ -4272,25 +3924,6 @@
     ]
   },
   {
-    "id": "p-pee",
-    "word": "pee",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "siusiać"
-        ]
-      },
-      {
-        "gramGrp": "N",
-        "texts": [
-          "wysiusianie się",
-          "siusianie"
-        ]
-      }
-    ]
-  },
-  {
     "id": "p-peek",
     "word": "peek",
     "trans": [
@@ -4446,34 +4079,6 @@
     ]
   },
   {
-    "id": "p-peg",
-    "word": "peg",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "wieszak",
-          "klamra do bielizny",
-          "klamra"
-        ]
-      },
-      {
-        "gramGrp": "V",
-        "texts": [
-          "mocować klamrami"
-        ]
-      },
-      {
-        "gramGrp": "Adj",
-        "texts": [
-          "ustalony",
-          "na",
-          "na"
-        ]
-      }
-    ]
-  },
-  {
     "id": "p-pejorative",
     "word": "pejorative",
     "trans": [
@@ -4563,35 +4168,6 @@
         "gramGrp": "N",
         "texts": [
           "miednica"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "p-pen",
-    "word": "pen",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "pióro",
-          "długopis",
-          "mazak",
-          "zagroda",
-          "ogrodzenie"
-        ]
-      },
-      {
-        "gramGrp": "V",
-        "texts": [
-          "pisać",
-          "zamykać"
-        ]
-      },
-      {
-        "gramGrp": "N Comp",
-        "texts": [
-          "pseudonim literacki"
         ]
       }
     ]
@@ -5044,25 +4620,6 @@
         "gramGrp": "V",
         "texts": [
           "zaludniać"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "p-pep",
-    "word": "pep",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "animusz",
-          "werwa"
-        ]
-      },
-      {
-        "gramGrp": "N Comp",
-        "texts": [
-          "mowa podtrzymująca na duchu"
         ]
       }
     ]
@@ -6406,33 +5963,6 @@
     ]
   },
   {
-    "id": "p-pet",
-    "word": "pet",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "zwierzę domowe"
-        ]
-      },
-      {
-        "gramGrp": "Adj",
-        "texts": [
-          "domowy",
-          "ulubiony",
-          "umiłowany"
-        ]
-      },
-      {
-        "gramGrp": "V",
-        "texts": [
-          "pieścić",
-          "pieścić się"
-        ]
-      }
-    ]
-  },
-  {
     "id": "p-petal",
     "word": "petal",
     "trans": [
@@ -6585,20 +6115,6 @@
     ]
   },
   {
-    "id": "p-pew",
-    "word": "pew",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "stale",
-          "ławka kościelna",
-          "ławka"
-        ]
-      }
-    ]
-  },
-  {
     "id": "p-pewter",
     "word": "pewter",
     "trans": [
@@ -6612,19 +6128,6 @@
         "gramGrp": "Adj",
         "texts": [
           "cynowy"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "p-PG",
-    "word": "PG",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "film dla dzieci pod opieką rodziców",
-          "dla dzieci pod opieką rodziców"
         ]
       }
     ]
@@ -6718,20 +6221,6 @@
         "texts": [
           "stopniowo zaprzestawać używać",
           "stopniowo zaprzestawać"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "p-PhD",
-    "word": "PhD",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "doktor",
-          "doktor filozofii",
-          "doktor nauk humanistycznych"
         ]
       }
     ]
@@ -7662,20 +7151,6 @@
     ]
   },
   {
-    "id": "p-pie",
-    "word": "pie",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "pasztet w cieście ",
-          "owoce w cieście",
-          "warzywa w cieście"
-        ]
-      }
-    ]
-  },
-  {
     "id": "p-piebald",
     "word": "piebald",
     "trans": [
@@ -7794,18 +7269,6 @@
     ]
   },
   {
-    "id": "p-pig",
-    "word": "pig",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "świnia"
-        ]
-      }
-    ]
-  },
-  {
     "id": "p-pigeon",
     "word": "pigeon",
     "trans": [
@@ -7825,18 +7288,6 @@
         "gramGrp": "N Comp",
         "texts": [
           "przegródka"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "p-piggyback",
-    "word": "piggyback",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "wziąć kogoś na barana"
         ]
       }
     ]
@@ -8156,48 +7607,6 @@
     ]
   },
   {
-    "id": "p-pin",
-    "word": "pin",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "szpilka"
-        ]
-      },
-      {
-        "gramGrp": "V",
-        "texts": [
-          "przypinać",
-          "przytrzymywać",
-          "przyszpilać",
-          "zwalać",
-          "winę na kogoś",
-          "opierać",
-          "nadzieje na kimś",
-          "zdrętwienie ciała",
-          "zdrętwienie"
-        ]
-      },
-      {
-        "gramGrp": "V Phras",
-        "texts": [
-          "ustalać dokładnie",
-          "ustalać",
-          "zmuszać",
-          "do czegoś"
-        ]
-      },
-      {
-        "gramGrp": "V Phras",
-        "texts": [
-          "przypinać",
-          "podwijać"
-        ]
-      }
-    ]
-  },
-  {
     "id": "p-pinafore",
     "word": "pinafore",
     "trans": [
@@ -8460,20 +7869,6 @@
         "gramGrp": "Adj",
         "texts": [
           "pobożny"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "p-pip",
-    "word": "pip",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "pestka",
-          "sygnał czasu",
-          "sygnał"
         ]
       }
     ]
@@ -8756,25 +8151,6 @@
     ]
   },
   {
-    "id": "p-pit",
-    "word": "pit",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "dół",
-          "jama",
-          "wgłębienie",
-          "kopalnia",
-          "żwirowisko",
-          "glinianka",
-          "kanał orkiestry",
-          "kanał"
-        ]
-      }
-    ]
-  },
-  {
     "id": "p-pitch",
     "word": "pitch",
     "trans": [
@@ -9034,42 +8410,6 @@
     ]
   },
   {
-    "id": "p-Pk.",
-    "word": "Pk.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "park"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "p-pkt.",
-    "word": "pkt.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "paczka"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "p-Pl.",
-    "word": "Pl.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "miejsce"
-        ]
-      }
-    ]
-  },
-  {
     "id": "p-placard",
     "word": "placard",
     "trans": [
@@ -9125,19 +8465,6 @@
           "przede wszystkim",
           "pierwotnie",
           "w miejsce czegoś"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "p-placed",
-    "word": "placed",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "być w dobrym położeniu",
-          "być w położeniu"
         ]
       }
     ]
@@ -10831,28 +10158,6 @@
     ]
   },
   {
-    "id": "p-ply",
-    "word": "ply",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "zasypywać",
-          "kursować",
-          "po trasie",
-          "wykonywać"
-        ]
-      },
-      {
-        "gramGrp": "N",
-        "texts": [
-          "warstwa",
-          "trzywarstwowy"
-        ]
-      }
-    ]
-  },
-  {
     "id": "p-plywood",
     "word": "plywood",
     "trans": [
@@ -10860,31 +10165,6 @@
         "gramGrp": "N",
         "texts": [
           "sklejka"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "p-PM",
-    "word": "PM",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "premier"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "p-p.m.",
-    "word": "p.m.post meridiem",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "po południu",
-          "godz 19"
         ]
       }
     ]
@@ -10920,32 +10200,6 @@
     ]
   },
   {
-    "id": "p-PO",
-    "word": "PO",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "podoficer marynarki",
-          "podoficer"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "przekaz pocztowy"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "poczta",
-          "UPT"
-        ]
-      }
-    ]
-  },
-  {
     "id": "p-poach",
     "word": "poach",
     "trans": [
@@ -10969,19 +10223,6 @@
         "gramGrp": "N",
         "texts": [
           "kłusownik"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "p-POB",
-    "word": "POB",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "skrzynka pocztowa",
-          "skrytka pocztowa"
         ]
       }
     ]
@@ -11061,18 +10302,6 @@
         "gramGrp": "N",
         "texts": [
           "blizna po ospie"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "p-pod",
-    "word": "pod",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "strączek"
         ]
       }
     ]
@@ -12051,52 +11280,6 @@
           "niedobry",
           "ubogi",
           "w"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "p-pop",
-    "word": "pop",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "muzyka pop",
-          "napój gazowany",
-          "napój",
-          "tatuś",
-          "puknięcie"
-        ]
-      },
-      {
-        "gramGrp": "V",
-        "texts": [
-          "wyłazić na wierzch",
-          "wyłazić",
-          "wrzucać",
-          "wyskakiwać",
-          "pukać",
-          "bum!"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "p-pop.",
-    "word": "pop.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "popularny"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "ludność",
-          "populacja"
         ]
       }
     ]
@@ -13099,31 +12282,6 @@
     ]
   },
   {
-    "id": "p-pot",
-    "word": "pot",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "garnek",
-          "rondel",
-          "czajniczek",
-          "dzbanek",
-          "puszka",
-          "doniczka",
-          "marihuana"
-        ]
-      },
-      {
-        "gramGrp": "V",
-        "texts": [
-          "sadzić w doniczce",
-          "sadzić"
-        ]
-      }
-    ]
-  },
-  {
     "id": "p-potato",
     "word": "potato",
     "trans": [
@@ -13435,18 +12593,6 @@
     ]
   },
   {
-    "id": "p-POW",
-    "word": "POW",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "jeniec wojenny"
-        ]
-      }
-    ]
-  },
-  {
     "id": "p-powder",
     "word": "powder",
     "trans": [
@@ -13552,61 +12698,6 @@
         "gramGrp": "Adj",
         "texts": [
           "bezsilny"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "p-p.p.",
-    "word": "p.p.per procurationem",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "w zastępstwie"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "p-pp.",
-    "word": "pp.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "ss.",
-          "strony"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "p-PR",
-    "word": "PR",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "służba informacyjna"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "p-pr.",
-    "word": "pr.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "para"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "cena"
         ]
       }
     ]
@@ -14980,19 +14071,6 @@
     ]
   },
   {
-    "id": "p-pres.",
-    "word": "pres.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "prezydent",
-          "prezes"
-        ]
-      }
-    ]
-  },
-  {
     "id": "p-Presbyterian",
     "word": "Presbyterian",
     "trans": [
@@ -15258,18 +14336,6 @@
         "gramGrp": "V Phras",
         "texts": [
           "kontynuować"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "p-pressed",
-    "word": "pressed",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "komuś brak czegoś"
         ]
       }
     ]
@@ -16432,31 +15498,6 @@
     ]
   },
   {
-    "id": "p-PRO",
-    "word": "PRO",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "rzecznik prasowy"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "p-pro",
-    "word": "pro",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "zawodowiec",
-          "argumenty za i przeciw"
-        ]
-      }
-    ]
-  },
-  {
     "id": "p-probability",
     "word": "probability",
     "trans": [
@@ -16895,18 +15936,6 @@
         "gramGrp": "N",
         "texts": [
           "produktywność"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "p-prof.",
-    "word": "prof.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "profesor"
         ]
       }
     ]
@@ -17631,24 +16660,6 @@
     ]
   },
   {
-    "id": "p-pron.",
-    "word": "pron.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "wymawiany"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "wymowa"
-        ]
-      }
-    ]
-  },
-  {
     "id": "p-prone",
     "word": "prone",
     "trans": [
@@ -18271,24 +17282,6 @@
         "texts": [
           "leżący na twarzy"
         ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "padać na twarz"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "p-Prot.",
-    "word": "Prot.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "protestancki"
-        ]
       }
     ]
   },
@@ -18377,18 +17370,6 @@
         "gramGrp": "N",
         "texts": [
           "białko"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "p-pro_tem.",
-    "word": "pro tem.pro tempore",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "tymczasowo"
         ]
       }
     ]
@@ -18521,19 +17502,6 @@
     ]
   },
   {
-    "id": "p-prov.",
-    "word": "prov.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "prowincja",
-          "województwo"
-        ]
-      }
-    ]
-  },
-  {
     "id": "p-prove",
     "word": "prove",
     "trans": [
@@ -18596,19 +17564,6 @@
     ]
   },
   {
-    "id": "p-provided",
-    "word": "provided",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "pod warunkiem, że",
-          "pod warunkiem"
-        ]
-      }
-    ]
-  },
-  {
     "id": "p-providence",
     "word": "providence",
     "trans": [
@@ -18628,19 +17583,6 @@
         "gramGrp": "Adj",
         "texts": [
           "opatrznościowy"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "p-providing",
-    "word": "providing",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "pod warunkiem, że",
-          "pod warunkiem"
         ]
       }
     ]
@@ -18813,18 +17755,6 @@
     ]
   },
   {
-    "id": "p-proxy",
-    "word": "proxy",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "przez pełnomocnika"
-        ]
-      }
-    ]
-  },
-  {
     "id": "p-prude",
     "word": "prude",
     "trans": [
@@ -18914,44 +17844,6 @@
     ]
   },
   {
-    "id": "p-pry",
-    "word": "pry",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "wtrącać się",
-          "do czegoś"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "p-PS",
-    "word": "PS",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "PS.",
-          "postscriptum"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "p-Ps.",
-    "word": "Ps.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "psalm"
-        ]
-      }
-    ]
-  },
-  {
     "id": "p-psalm",
     "word": "psalm",
     "trans": [
@@ -18971,18 +17863,6 @@
         "gramGrp": "N",
         "texts": [
           "pseudonim"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "p-PST",
-    "word": "PST",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "strefowy czas Pacyfiku"
         ]
       }
     ]
@@ -19131,99 +18011,6 @@
         "gramGrp": "N",
         "texts": [
           "psychoterapia"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "p-PT",
-    "word": "PT",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "WF",
-          "wychowanie fizyczne"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "p-pt.",
-    "word": "pt.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "część"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "zapłata"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "pół kwarty"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "punkt"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "p-pte.",
-    "word": "pte.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "prywatny",
-          "szeregowy"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "p-PTO",
-    "word": "PTO",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "verte"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "p-pty.",
-    "word": "pty.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "prawnie zastrzeżony"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "p-pub",
-    "word": "pub",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "pab",
-          "bar"
         ]
       }
     ]
@@ -19864,19 +18651,6 @@
     ]
   },
   {
-    "id": "p-pun",
-    "word": "pun",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "kalambur",
-          "gra słów"
-        ]
-      }
-    ]
-  },
-  {
     "id": "p-punch",
     "word": "punch",
     "trans": [
@@ -20134,19 +18908,6 @@
         "gramGrp": "Adj",
         "texts": [
           "maleńki"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "p-pup",
-    "word": "pup",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "szczeniak",
-          "młode"
         ]
       }
     ]
@@ -20576,18 +19337,6 @@
     ]
   },
   {
-    "id": "p-pus",
-    "word": "pus",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "ropa"
-        ]
-      }
-    ]
-  },
-  {
     "id": "p-pushchair",
     "word": "pushchair",
     "trans": [
@@ -20595,18 +19344,6 @@
         "gramGrp": "N",
         "texts": [
           "wózek spacerowy"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "p-pushed",
-    "word": "pushed",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "nie mieć czegoś"
         ]
       }
     ]
@@ -20707,32 +19444,6 @@
     ]
   },
   {
-    "id": "p-PVC",
-    "word": "PVC",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "PCW",
-          "polichlorek winylu"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "p-pvt.",
-    "word": "pvt.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "prywatny",
-          "szeregowy"
-        ]
-      }
-    ]
-  },
-  {
     "id": "p-pygmy",
     "word": "pygmy",
     "trans": [
@@ -20780,18 +19491,6 @@
         "texts": [
           "piramida",
           "ostrosłup"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "p-Pyrenees",
-    "word": "Pyrenees",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "Pireneje"
         ]
       }
     ]

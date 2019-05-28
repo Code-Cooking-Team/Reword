@@ -1,29 +1,5 @@
 [
   {
-    "id": "g-G",
-    "word": "G",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "bez ograniczenia wieku"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "g-gab",
-    "word": "gab",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "być wygadanym"
-        ]
-      }
-    ]
-  },
-  {
     "id": "g-gabble",
     "word": "gabble",
     "trans": [
@@ -75,26 +51,6 @@
         "gramGrp": "N",
         "texts": [
           "gafa"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "g-gag",
-    "word": "gag",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "knebel",
-          "gag"
-        ]
-      },
-      {
-        "gramGrp": "V",
-        "texts": [
-          "kneblować",
-          "dławić się"
         ]
       }
     ]
@@ -179,18 +135,6 @@
         "texts": [
           "chód",
           "krok"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "g-gal.",
-    "word": "gal.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "galon"
         ]
       }
     ]
@@ -592,23 +536,6 @@
     ]
   },
   {
-    "id": "g-gap",
-    "word": "gap",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "przerwa",
-          "luka",
-          "szpara",
-          "rozziew",
-          "zróżnicowanie",
-          "pomiędzy"
-        ]
-      }
-    ]
-  },
-  {
     "id": "g-gape",
     "word": "gape",
     "trans": [
@@ -855,32 +782,6 @@
     ]
   },
   {
-    "id": "g-gas",
-    "word": "gas",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "gaz",
-          "benzyna",
-          "etylina"
-        ]
-      },
-      {
-        "gramGrp": "Adj",
-        "texts": [
-          "gazowy"
-        ]
-      },
-      {
-        "gramGrp": "N Comp",
-        "texts": [
-          "stacja benzynowa"
-        ]
-      }
-    ]
-  },
-  {
     "id": "g-gaseous",
     "word": "gaseous",
     "trans": [
@@ -1070,18 +971,6 @@
     ]
   },
   {
-    "id": "g-GATT",
-    "word": "GATT",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "Układ Ogólny w Sprawie Ceł i Handlu"
-        ]
-      }
-    ]
-  },
-  {
     "id": "g-gauche",
     "word": "gauche",
     "trans": [
@@ -1191,29 +1080,6 @@
     ]
   },
   {
-    "id": "g-gay",
-    "word": "gay",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "homoseksualista",
-          "homo",
-          "homoseksualny",
-          "homo"
-        ]
-      },
-      {
-        "gramGrp": "Adj",
-        "texts": [
-          "wesoły",
-          "żywy",
-          "barwny"
-        ]
-      }
-    ]
-  },
-  {
     "id": "g-gaze",
     "word": "gaze",
     "trans": [
@@ -1239,67 +1105,6 @@
         "gramGrp": "N",
         "texts": [
           "gazela"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "g-GB",
-    "word": "GB",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "Wielka Brytania"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "g-gbh",
-    "word": "gbh",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "ciężkie obrażenia ciała"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "g-GCE",
-    "word": "GCE",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "świadectwo maturalne"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "g-GCSE",
-    "word": "GCSE",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "świadectwo maturalne"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "g-Gdns.",
-    "word": "Gdns.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "ogród",
-          "ogrody"
         ]
       }
     ]
@@ -1343,38 +1148,6 @@
     ]
   },
   {
-    "id": "g-gee",
-    "word": "gee",
-    "trans": [
-      {
-        "gramGrp": "Inter",
-        "texts": [
-          "jej!"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "g-gel",
-    "word": "gel",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "zastygać w galaretę",
-          "zastygać",
-          "przybierać kształtów"
-        ]
-      },
-      {
-        "gramGrp": "N",
-        "texts": [
-          "żel"
-        ]
-      }
-    ]
-  },
-  {
     "id": "g-gelatine",
     "word": "gelatine",
     "trans": [
@@ -1387,19 +1160,6 @@
     ]
   },
   {
-    "id": "g-gem",
-    "word": "gem",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "kamień szlachetny",
-          "klejnot"
-        ]
-      }
-    ]
-  },
-  {
     "id": "g-Gemini",
     "word": "Gemini",
     "trans": [
@@ -1407,30 +1167,6 @@
         "gramGrp": "N",
         "texts": [
           "Bliźnięta "
-        ]
-      }
-    ]
-  },
-  {
-    "id": "g-Gen.",
-    "word": "Gen.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "generał"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "g-gen.",
-    "word": "gen.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "ogólny"
         ]
       }
     ]
@@ -2099,18 +1835,6 @@
     ]
   },
   {
-    "id": "g-GHQ",
-    "word": "GHQ",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "kwatera główna"
-        ]
-      }
-    ]
-  },
-  {
     "id": "g-giant",
     "word": "giant",
     "trans": [
@@ -2226,18 +1950,6 @@
     ]
   },
   {
-    "id": "g-gig",
-    "word": "gig",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "występ"
-        ]
-      }
-    ]
-  },
-  {
     "id": "g-gigantic",
     "word": "gigantic",
     "trans": [
@@ -2330,19 +2042,6 @@
         "texts": [
           "przynęta",
           "wabik"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "g-gin",
-    "word": "gin",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "dżin",
-          "jałowcówka"
         ]
       }
     ]
@@ -2507,20 +2206,6 @@
         "gramGrp": "N",
         "texts": [
           "obwód"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "g-gist",
-    "word": "gist",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "treść",
-          "podstawowe tezy",
-          "sedno"
         ]
       }
     ]
@@ -3092,13 +2777,6 @@
     "word": "globe",
     "trans": [
       {
-        "gramGrp": "",
-        "texts": [
-          "glob",
-          "kula ziemska"
-        ]
-      },
-      {
         "gramGrp": "N",
         "texts": [
           "globus",
@@ -3439,31 +3117,6 @@
     ]
   },
   {
-    "id": "g-gm",
-    "word": "gm",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "gram",
-          "g"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "g-GMT",
-    "word": "GMT",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "Średni Czas Greenwich"
-        ]
-      }
-    ]
-  },
-  {
     "id": "g-gnarled",
     "word": "gnarled",
     "trans": [
@@ -3614,19 +3267,6 @@
         "texts": [
           "koza",
           "kozioł"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "g-gob",
-    "word": "gob",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "gęba",
-          "ryj"
         ]
       }
     ]
@@ -3955,18 +3595,6 @@
         "gramGrp": "N",
         "texts": [
           "gracz w golfa"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "g-gone",
-    "word": "gone",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "nie ma kogoś"
         ]
       }
     ]
@@ -4422,25 +4050,6 @@
     ]
   },
   {
-    "id": "g-gov.",
-    "word": "gov.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "rząd",
-          "rządowy"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "gubernator"
-        ]
-      }
-    ]
-  },
-  {
     "id": "g-govern",
     "word": "govern",
     "trans": [
@@ -4501,19 +4110,6 @@
     ]
   },
   {
-    "id": "g-govt.",
-    "word": "govt.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "rząd",
-          "rządowy"
-        ]
-      }
-    ]
-  },
-  {
     "id": "g-gown",
     "word": "gown",
     "trans": [
@@ -4522,42 +4118,6 @@
         "texts": [
           "suknia",
           "toga"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "g-GP",
-    "word": "GP",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "internista"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "g-gr.",
-    "word": "gr.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "klasa"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "brutto"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "grupa"
         ]
       }
     ]
@@ -5871,22 +5431,6 @@
     ]
   },
   {
-    "id": "g-grieve",
-    "word": "grieve",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "opłakiwać",
-          "rozpaczać",
-          "nad",
-          "nad",
-          "komuś przykro coś robić"
-        ]
-      }
-    ]
-  },
-  {
     "id": "g-grievous",
     "word": "grievous",
     "trans": [
@@ -6018,13 +5562,6 @@
     "id": "g-grind",
     "word": "grind",
     "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "mielić",
-          "mleć"
-        ]
-      },
       {
         "gramGrp": "V",
         "texts": [
@@ -6237,19 +5774,6 @@
           "szkolić",
           "na",
           "na"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "g-groomed",
-    "word": "groomed",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "zadbany",
-          "zaniedbany"
         ]
       }
     ]
@@ -6736,19 +6260,6 @@
           "mruczenie",
           "burczenie",
           "chrząkanie"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "g-gt.",
-    "word": "gt.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "wlk.",
-          "wielki"
         ]
       }
     ]
@@ -7243,27 +6754,6 @@
     ]
   },
   {
-    "id": "g-gum",
-    "word": "gum",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "guma do żucia",
-          "guma",
-          "guma arabska",
-          "dziąsło"
-        ]
-      },
-      {
-        "gramGrp": "V",
-        "texts": [
-          "sklejać"
-        ]
-      }
-    ]
-  },
-  {
     "id": "g-gumboot",
     "word": "gumboot",
     "trans": [
@@ -7285,31 +6775,6 @@
         "texts": [
           "smykałka",
           "chłopski rozum"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "g-gun",
-    "word": "gun",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "pistolet",
-          "działo",
-          "karabin",
-          "pistolet maszynowy",
-          "falstartować",
-          "pospieszyć się zanadto",
-          "trzymać sie swojego"
-        ]
-      },
-      {
-        "gramGrp": "V Phras",
-        "texts": [
-          "postrzelić",
-          "zastrzelić"
         ]
       }
     ]
@@ -7360,19 +6825,6 @@
         "texts": [
           "artylerzysta",
           "strzelec"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "g-gunpoint",
-    "word": "gunpoint",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "pod groźbą użycia broni",
-          "na muszce"
         ]
       }
     ]
@@ -7463,19 +6915,6 @@
     ]
   },
   {
-    "id": "g-gusto",
-    "word": "gusto",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "z zapamiętaniem",
-          "ze smakiem"
-        ]
-      }
-    ]
-  },
-  {
     "id": "g-gusty",
     "word": "gusty",
     "trans": [
@@ -7519,20 +6958,6 @@
     ]
   },
   {
-    "id": "g-guy",
-    "word": "guy",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "facet",
-          "chłopy",
-          "ludziska"
-        ]
-      }
-    ]
-  },
-  {
     "id": "g-guzzle",
     "word": "guzzle",
     "trans": [
@@ -7540,20 +6965,6 @@
         "gramGrp": "V",
         "texts": [
           "pochłaniać"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "g-gym",
-    "word": "gym",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "sala gimnastyczna",
-          "gimnastyka",
-          "wf"
         ]
       }
     ]

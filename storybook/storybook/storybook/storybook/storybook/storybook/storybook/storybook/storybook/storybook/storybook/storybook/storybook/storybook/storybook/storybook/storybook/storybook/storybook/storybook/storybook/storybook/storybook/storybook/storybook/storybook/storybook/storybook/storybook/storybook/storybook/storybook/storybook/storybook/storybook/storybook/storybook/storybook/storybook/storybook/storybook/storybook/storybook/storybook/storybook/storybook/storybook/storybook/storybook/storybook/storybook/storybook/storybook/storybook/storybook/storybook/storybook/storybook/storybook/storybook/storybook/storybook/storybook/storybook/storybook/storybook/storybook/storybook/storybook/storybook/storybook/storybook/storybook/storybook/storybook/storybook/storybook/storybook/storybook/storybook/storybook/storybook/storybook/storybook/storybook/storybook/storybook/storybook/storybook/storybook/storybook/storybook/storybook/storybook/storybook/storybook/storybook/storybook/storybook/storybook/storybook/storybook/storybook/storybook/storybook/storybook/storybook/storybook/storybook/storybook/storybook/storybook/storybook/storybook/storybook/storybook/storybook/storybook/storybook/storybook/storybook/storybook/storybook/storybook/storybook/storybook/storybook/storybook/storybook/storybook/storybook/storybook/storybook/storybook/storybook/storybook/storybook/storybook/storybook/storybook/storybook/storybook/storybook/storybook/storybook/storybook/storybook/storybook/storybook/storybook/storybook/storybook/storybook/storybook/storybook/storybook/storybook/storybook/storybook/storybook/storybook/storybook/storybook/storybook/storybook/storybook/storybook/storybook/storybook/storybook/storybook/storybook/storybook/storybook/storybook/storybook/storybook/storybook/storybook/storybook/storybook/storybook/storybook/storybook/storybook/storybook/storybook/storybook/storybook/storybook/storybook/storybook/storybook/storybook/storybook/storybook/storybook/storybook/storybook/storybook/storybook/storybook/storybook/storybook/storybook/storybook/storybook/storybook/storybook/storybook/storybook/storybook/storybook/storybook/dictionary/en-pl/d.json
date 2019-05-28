@@ -1,37 +1,5 @@
 [
   {
-    "id": "d-dab",
-    "word": "dab",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "nanosić",
-          "na",
-          "na",
-          "ścierać",
-          "z",
-          "zdejmować",
-          "z"
-        ]
-      },
-      {
-        "gramGrp": "N",
-        "texts": [
-          "szczypta",
-          "odrobina"
-        ]
-      },
-      {
-        "gramGrp": "N Comp",
-        "texts": [
-          "mistrz",
-          "perfekcjonista"
-        ]
-      }
-    ]
-  },
-  {
     "id": "d-dabble",
     "word": "dabble",
     "trans": [
@@ -52,18 +20,6 @@
         "gramGrp": "N",
         "texts": [
           "jamnik"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "d-dad",
-    "word": "dad",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "tato"
         ]
       }
     ]
@@ -196,31 +152,6 @@
         "gramGrp": "N",
         "texts": [
           "Dakota"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "d-dam",
-    "word": "dam",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "tama",
-          "zapora"
-        ]
-      },
-      {
-        "gramGrp": "V",
-        "texts": [
-          "przegradzać"
-        ]
-      },
-      {
-        "gramGrp": "V Phras",
-        "texts": [
-          "przegradzać"
         ]
       }
     ]
@@ -503,18 +434,6 @@
         "gramGrp": "Adj",
         "texts": [
           "zawilgocony"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "d-Danube",
-    "word": "Danube",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "Dunaj"
         ]
       }
     ]
@@ -904,20 +823,6 @@
     ]
   },
   {
-    "id": "d-daunt",
-    "word": "daunt",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "odstraszać",
-          "czymś",
-          "być stropionym"
-        ]
-      }
-    ]
-  },
-  {
     "id": "d-dawdle",
     "word": "dawdle",
     "trans": [
@@ -960,30 +865,6 @@
           "świtać",
           "uświadomić",
           "uświadomić komuś"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "d-day",
-    "word": "day",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "dzień",
-          "doba",
-          "cały dzień",
-          "dzień",
-          "za dnia",
-          "codziennie",
-          "przerywać",
-          "kończyć",
-          "coś budzi czyjąś radość",
-          "co do dnia",
-          "pewnego dnia",
-          "pewnego dnia",
-          "spędzić miło dzień"
         ]
       }
     ]
@@ -1087,36 +968,6 @@
         "gramGrp": "N",
         "texts": [
           "blask"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "d-dbl.",
-    "word": "dbl.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "podwójny"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "d-DC",
-    "word": "DC",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "prąd stały"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "Dystrykt Kolumbii"
         ]
       }
     ]
@@ -1618,30 +1469,6 @@
         "texts": [
           "debiut",
           "debiutować"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "d-Dec.",
-    "word": "Dec.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "grudzień"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "d-dec.",
-    "word": "dec.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "zmarły"
         ]
       }
     ]
@@ -3019,18 +2846,6 @@
     ]
   },
   {
-    "id": "d-deg.",
-    "word": "deg.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "stopień"
-        ]
-      }
-    ]
-  },
-  {
     "id": "d-degenerate",
     "word": "degenerate",
     "trans": [
@@ -3557,24 +3372,6 @@
     ]
   },
   {
-    "id": "d-Dem.",
-    "word": "Dem.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "demokrata"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "demokratyczny"
-        ]
-      }
-    ]
-  },
-  {
     "id": "d-demand",
     "word": "demand",
     "trans": [
@@ -3872,18 +3669,6 @@
         "texts": [
           "układny",
           "skromny"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "d-den",
-    "word": "den",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "nora"
         ]
       }
     ]
@@ -4521,18 +4306,6 @@
         "texts": [
           "pozbawiony wszystkiego",
           "spauperyzowany"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "d-dept.",
-    "word": "dept.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "wydział"
         ]
       }
     ]
@@ -5651,19 +5424,6 @@
     ]
   },
   {
-    "id": "d-detriment",
-    "word": "detriment",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "ze szkodą dla kogoś",
-          "ze szkodą dla"
-        ]
-      }
-    ]
-  },
-  {
     "id": "d-detrimental",
     "word": "detrimental",
     "trans": [
@@ -6011,18 +5771,6 @@
     ]
   },
   {
-    "id": "d-dew",
-    "word": "dew",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "rosa"
-        ]
-      }
-    ]
-  },
-  {
     "id": "d-dexterous",
     "word": "dexterous",
     "trans": [
@@ -6075,18 +5823,6 @@
           "diaboliczny",
           "szatański",
           "piekielny"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "d-diag.",
-    "word": "diag.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "wykres"
         ]
       }
     ]
@@ -6476,18 +6212,6 @@
     ]
   },
   {
-    "id": "d-diff.",
-    "word": "diff.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "różnica"
-        ]
-      }
-    ]
-  },
-  {
     "id": "d-difference",
     "word": "difference",
     "trans": [
@@ -6611,48 +6335,6 @@
         "texts": [
           "zagmatwany",
           "rozproszony"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "d-dig",
-    "word": "dig",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "kopać",
-          "wygrzebywać",
-          "wkopywać się",
-          "do",
-          "w",
-          "wciskać się",
-          "wciskać",
-          "w"
-        ]
-      },
-      {
-        "gramGrp": "N",
-        "texts": [
-          "szpilka",
-          "przytyk",
-          "do kogoś"
-        ]
-      },
-      {
-        "gramGrp": "V Phras",
-        "texts": [
-          "odkopywać",
-          "z",
-          "wygrzebywać"
-        ]
-      },
-      {
-        "gramGrp": "V Phras",
-        "texts": [
-          "wykopywać",
-          "wygrzebywać"
         ]
       }
     ]
@@ -6851,29 +6533,6 @@
     ]
   },
   {
-    "id": "d-dim",
-    "word": "dim",
-    "trans": [
-      {
-        "gramGrp": "Adj",
-        "texts": [
-          "ciemny",
-          "mroczny",
-          "niewyraźny",
-          "zamazany",
-          "ciemny"
-        ]
-      },
-      {
-        "gramGrp": "V",
-        "texts": [
-          "przygaszać się",
-          "przygaszać"
-        ]
-      }
-    ]
-  },
-  {
     "id": "d-dime",
     "word": "dime",
     "trans": [
@@ -6933,18 +6592,6 @@
         "gramGrp": "N",
         "texts": [
           "dołek "
-        ]
-      }
-    ]
-  },
-  {
-    "id": "d-din",
-    "word": "din",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "harmider"
         ]
       }
     ]
@@ -7068,42 +6715,6 @@
         "gramGrp": "N",
         "texts": [
           "diecezja"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "d-Dip.",
-    "word": "Dip.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "dyplom"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "d-dip",
-    "word": "dip",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "zanurzać",
-          "moczyć",
-          "w",
-          "do",
-          "opadać",
-          "obniżać"
-        ]
-      },
-      {
-        "gramGrp": "N",
-        "texts": [
-          "wgłębienie",
-          "kąpiel"
         ]
       }
     ]
@@ -7563,19 +7174,6 @@
         "gramGrp": "N",
         "texts": [
           "rozbrojenie"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "d-disarray",
-    "word": "disarray",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "być w chaosie",
-          "być w nieładzie"
         ]
       }
     ]
@@ -9290,19 +8888,6 @@
     ]
   },
   {
-    "id": "d-disrepair",
-    "word": "disrepair",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "zaniedbany",
-          "zepsuty"
-        ]
-      }
-    ]
-  },
-  {
     "id": "d-disreputable",
     "word": "disreputable",
     "trans": [
@@ -9310,19 +8895,6 @@
         "gramGrp": "Adj",
         "texts": [
           "o złej reputacji"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "d-disrepute",
-    "word": "disrepute",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "dyskredytować coś",
-          "dyskredytować coś zostać zdyskredytowanym"
         ]
       }
     ]
@@ -10350,18 +9922,6 @@
     ]
   },
   {
-    "id": "d-DIY",
-    "word": "DIY",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "zrób to sam"
-        ]
-      }
-    ]
-  },
-  {
     "id": "d-dizziness",
     "word": "dizziness",
     "trans": [
@@ -10556,39 +10116,6 @@
     ]
   },
   {
-    "id": "d-doe",
-    "word": "doe",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "samica "
-        ]
-      }
-    ]
-  },
-  {
-    "id": "d-dog",
-    "word": "dog",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "pies",
-          "pies"
-        ]
-      },
-      {
-        "gramGrp": "V",
-        "texts": [
-          "chodzić ślad w ślad",
-          "za kimś",
-          "prześladować"
-        ]
-      }
-    ]
-  },
-  {
     "id": "d-dog-collar",
     "word": "dog-collar",
     "trans": [
@@ -10684,18 +10211,6 @@
         "texts": [
           "majsterkowanie",
           "zrób to sam"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "d-doldrums",
-    "word": "doldrums",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "w zastoju"
         ]
       }
     ]
@@ -10954,18 +10469,6 @@
     ]
   },
   {
-    "id": "d-don",
-    "word": "don",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "wykładowca"
-        ]
-      }
-    ]
-  },
-  {
     "id": "d-donate",
     "word": "donate",
     "trans": [
@@ -10987,19 +10490,6 @@
         "texts": [
           "donacja",
           "dar"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "d-done",
-    "word": "done",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "zakończone na amen",
-          ",,Przyjęte''"
         ]
       }
     ]
@@ -11277,26 +10767,6 @@
         "texts": [
           "dossier",
           "akta"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "d-dot",
-    "word": "dot",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "kropka",
-          "plamka"
-        ]
-      },
-      {
-        "gramGrp": "V",
-        "texts": [
-          "występować pojedynczo",
-          "co do sekundy"
         ]
       }
     ]
@@ -11924,18 +11394,6 @@
     ]
   },
   {
-    "id": "d-doz.",
-    "word": "doz.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "tuzin"
-        ]
-      }
-    ]
-  },
-  {
     "id": "d-doze",
     "word": "doze",
     "trans": [
@@ -11981,38 +11439,6 @@
         "gramGrp": "Adj",
         "texts": [
           "śpiący"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "d-D.Phil.",
-    "word": "D.Phil.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "doktor filozofii",
-          "doktor"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "d-Dr.",
-    "word": "Dr.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "dr",
-          "doktor"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "ulica"
         ]
       }
     ]
@@ -13385,44 +12811,6 @@
     ]
   },
   {
-    "id": "d-dry",
-    "word": "dry",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "suszyć się",
-          "suszyć"
-        ]
-      },
-      {
-        "gramGrp": "Adj",
-        "texts": [
-          "suchy",
-          "bezdeszczowy",
-          "sarkastyczny",
-          "cienki",
-          "wytrawny"
-        ]
-      },
-      {
-        "gramGrp": "V Phras",
-        "texts": [
-          "wysychać"
-        ]
-      },
-      {
-        "gramGrp": "V Phras",
-        "texts": [
-          "wysychać",
-          "wycierać",
-          "przerywać się",
-          "przerywać"
-        ]
-      }
-    ]
-  },
-  {
     "id": "d-dry-clean",
     "word": "dry-clean",
     "trans": [
@@ -13447,31 +12835,6 @@
     ]
   },
   {
-    "id": "d-D.Sc.",
-    "word": "D.Sc.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "doktor nauk ścisłych",
-          "doktor"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "d-DTP",
-    "word": "DTP",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "mała poligrafia"
-        ]
-      }
-    ]
-  },
-  {
     "id": "d-dual",
     "word": "dual",
     "trans": [
@@ -13480,20 +12843,6 @@
         "texts": [
           "podwójny",
           "dwupasmowy"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "d-dub",
-    "word": "dub",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "nazywać",
-          "mianować",
-          "podkładać dubbing"
         ]
       }
     ]
@@ -13861,18 +13210,6 @@
         "texts": [
           "maczać",
           "w czymś"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "d-dup.",
-    "word": "dup.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "duplikat"
         ]
       }
     ]
@@ -14307,25 +13644,6 @@
         "gramGrp": "V",
         "texts": [
           "kurczyć się"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "d-dye",
-    "word": "dye",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "barwić",
-          "farbować"
-        ]
-      },
-      {
-        "gramGrp": "N",
-        "texts": [
-          "barwnik"
         ]
       }
     ]

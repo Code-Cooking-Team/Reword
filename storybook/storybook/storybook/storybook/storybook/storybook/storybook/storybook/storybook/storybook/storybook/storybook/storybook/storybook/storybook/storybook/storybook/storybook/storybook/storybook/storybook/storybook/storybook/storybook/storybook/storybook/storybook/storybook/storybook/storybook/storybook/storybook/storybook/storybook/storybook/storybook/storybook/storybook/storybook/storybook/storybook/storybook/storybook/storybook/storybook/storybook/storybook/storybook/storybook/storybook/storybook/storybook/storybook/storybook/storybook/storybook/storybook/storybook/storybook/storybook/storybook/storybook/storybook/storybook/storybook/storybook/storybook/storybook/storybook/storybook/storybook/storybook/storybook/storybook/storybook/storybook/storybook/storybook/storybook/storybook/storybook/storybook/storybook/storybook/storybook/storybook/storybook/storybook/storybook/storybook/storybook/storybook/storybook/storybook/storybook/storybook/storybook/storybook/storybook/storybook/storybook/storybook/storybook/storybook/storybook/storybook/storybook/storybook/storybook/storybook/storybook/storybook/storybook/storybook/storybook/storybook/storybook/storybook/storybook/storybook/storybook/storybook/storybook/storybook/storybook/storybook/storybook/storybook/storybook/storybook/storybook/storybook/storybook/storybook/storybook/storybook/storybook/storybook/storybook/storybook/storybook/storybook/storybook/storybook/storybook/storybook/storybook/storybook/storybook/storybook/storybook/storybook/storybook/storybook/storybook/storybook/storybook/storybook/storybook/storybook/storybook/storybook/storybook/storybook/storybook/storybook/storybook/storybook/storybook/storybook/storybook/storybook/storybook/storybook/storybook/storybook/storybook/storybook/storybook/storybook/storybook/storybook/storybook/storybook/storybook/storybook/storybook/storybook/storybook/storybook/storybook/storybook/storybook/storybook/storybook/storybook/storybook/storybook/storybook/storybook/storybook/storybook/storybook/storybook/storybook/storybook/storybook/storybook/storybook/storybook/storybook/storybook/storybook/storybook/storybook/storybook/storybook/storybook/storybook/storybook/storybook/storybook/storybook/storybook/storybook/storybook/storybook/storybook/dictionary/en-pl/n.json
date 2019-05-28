@@ -1,30 +1,5 @@
 [
   {
-    "id": "n-N",
-    "word": "N",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "północ",
-          "północny"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "n-nab",
-    "word": "nab",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "przyłapywać"
-        ]
-      }
-    ]
-  },
-  {
     "id": "n-nadir",
     "word": "nadir",
     "trans": [
@@ -32,23 +7,6 @@
         "gramGrp": "N",
         "texts": [
           "zenit"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "n-nag",
-    "word": "nag",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "nudzić",
-          "nagabywać",
-          "zanudzać gderaniem",
-          "kogoś",
-          "dręczyć",
-          "kogoś"
         ]
       }
     ]
@@ -188,26 +146,6 @@
         "gramGrp": "N Comp",
         "texts": [
           "koza"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "n-nap",
-    "word": "nap",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "drzemka"
-        ]
-      },
-      {
-        "gramGrp": "V",
-        "texts": [
-          "drzemać",
-          "zdrzemnąć się",
-          "być schwytanym znienacka"
         ]
       }
     ]
@@ -609,18 +547,6 @@
     ]
   },
   {
-    "id": "n-NATO",
-    "word": "NATO",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "Pakt Północnoatlantycki"
-        ]
-      }
-    ]
-  },
-  {
     "id": "n-natter",
     "word": "natter",
     "trans": [
@@ -870,55 +796,6 @@
         "gramGrp": "Adj",
         "texts": [
           "granatowy"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "n-nay",
-    "word": "nay",
-    "trans": [
-      {
-        "gramGrp": "Adv",
-        "texts": [
-          "a nie"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "n-n.b.",
-    "word": "n.b.nota bene",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "notabene"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "n-NCO",
-    "word": "NCO",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "podoficer"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "n-NE",
-    "word": "NE",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "płn.-wsch.",
-          "północno-wschodni"
         ]
       }
     ]
@@ -1685,48 +1562,6 @@
     ]
   },
   {
-    "id": "n-net",
-    "word": "net",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "siatka",
-          "sieć",
-          "netto"
-        ]
-      },
-      {
-        "gramGrp": "V",
-        "texts": [
-          "przynosić na czysto",
-          "wynosić netto",
-          "dla"
-        ]
-      },
-      {
-        "gramGrp": "Adj",
-        "texts": [
-          "końcowy"
-        ]
-      },
-      {
-        "gramGrp": "V",
-        "texts": [
-          "łapać w sieć",
-          "zbijać",
-          "osiągać"
-        ]
-      },
-      {
-        "gramGrp": "N Comp",
-        "texts": [
-          "firanka"
-        ]
-      }
-    ]
-  },
-  {
     "id": "n-Netherlands",
     "word": "Netherlands",
     "trans": [
@@ -2098,30 +1933,6 @@
     ]
   },
   {
-    "id": "n-NHS",
-    "word": "NHS",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "Państwowa Służba Zdrowia"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "n-nib",
-    "word": "nib",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "stalówka"
-        ]
-      }
-    ]
-  },
-  {
     "id": "n-nibble",
     "word": "nibble",
     "trans": [
@@ -2131,18 +1942,6 @@
           "skubać",
           "coś",
           "coś"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "n-NIC",
-    "word": "NIC",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "nowe państwa niepodległe "
         ]
       }
     ]
@@ -2489,18 +2288,6 @@
     ]
   },
   {
-    "id": "n-nil",
-    "word": "nil",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "zero"
-        ]
-      }
-    ]
-  },
-  {
     "id": "n-nimble",
     "word": "nimble",
     "trans": [
@@ -2586,26 +2373,6 @@
     ]
   },
   {
-    "id": "n-nip",
-    "word": "nip",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "wyskakiwać",
-          "szczypać"
-        ]
-      },
-      {
-        "gramGrp": "N",
-        "texts": [
-          "szczypnięcie",
-          "ukąszenie"
-        ]
-      }
-    ]
-  },
-  {
     "id": "n-nipple",
     "word": "nipple",
     "trans": [
@@ -2632,19 +2399,6 @@
     ]
   },
   {
-    "id": "n-nit",
-    "word": "nit",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "gnida",
-          "debil"
-        ]
-      }
-    ]
-  },
-  {
     "id": "n-nitrogen",
     "word": "nitrogen",
     "trans": [
@@ -2652,42 +2406,6 @@
         "gramGrp": "N",
         "texts": [
           "azot"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "n-no",
-    "word": "no",
-    "trans": [
-      {
-        "gramGrp": "Det",
-        "texts": [
-          "nie",
-          "tak",
-          "to nie jest łatwe -- tak, to całkiem trudne"
-        ]
-      },
-      {
-        "gramGrp": "Pron",
-        "texts": [
-          "żaden",
-          "wzbronione",
-          "zabrania się",
-          "palenie wzbronione"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "n-no.",
-    "word": "no.numero",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "nr",
-          "numer"
         ]
       }
     ]
@@ -2759,35 +2477,6 @@
         "gramGrp": "Adj",
         "texts": [
           "nocny"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "n-nod",
-    "word": "nod",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "skinąć głową",
-          "skinąć",
-          "wskazywać głową",
-          "wskazywać",
-          "kłaniać się",
-          "chylić się"
-        ]
-      },
-      {
-        "gramGrp": "N",
-        "texts": [
-          "skinienie głową"
-        ]
-      },
-      {
-        "gramGrp": "V Phras",
-        "texts": [
-          "drzemać"
         ]
       }
     ]
@@ -3203,21 +2892,6 @@
     ]
   },
   {
-    "id": "n-nor",
-    "word": "nor",
-    "trans": [
-      {
-        "gramGrp": "Conj",
-        "texts": [
-          "też nie",
-          "nie podoba mi się to -- mnie też nie",
-          "ani ..., ani ...",
-          "ani on, ani ona"
-        ]
-      }
-    ]
-  },
-  {
     "id": "n-norm",
     "word": "norm",
     "trans": [
@@ -3421,18 +3095,6 @@
         "gramGrp": "N",
         "texts": [
           "Norweg"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "n-nos.",
-    "word": "nos.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "numery"
         ]
       }
     ]
@@ -3902,18 +3564,6 @@
     ]
   },
   {
-    "id": "n-Nov.",
-    "word": "Nov.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "listopad"
-        ]
-      }
-    ]
-  },
-  {
     "id": "n-novel",
     "word": "novel",
     "trans": [
@@ -4032,31 +3682,6 @@
           "ssawka",
           "dysza",
           "wylot"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "n-nr",
-    "word": "nr",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "blisko",
-          "w pobliżu"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "n-NT",
-    "word": "NT",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "Nowy Testament"
         ]
       }
     ]
@@ -4267,18 +3892,6 @@
     ]
   },
   {
-    "id": "n-numerate",
-    "word": "numerate",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "umieć liczyć"
-        ]
-      }
-    ]
-  },
-  {
     "id": "n-numerical",
     "word": "numerical",
     "trans": [
@@ -4299,18 +3912,6 @@
         "texts": [
           "liczny",
           "liczebny"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "n-nun",
-    "word": "nun",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "zakonnica"
         ]
       }
     ]
@@ -4408,21 +4009,6 @@
     ]
   },
   {
-    "id": "n-nut",
-    "word": "nut",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "orzech",
-          "nakrętka",
-          "świr",
-          "komuś szajba odbija"
-        ]
-      }
-    ]
-  },
-  {
     "id": "n-nutcase",
     "word": "nutcase",
     "trans": [
@@ -4495,18 +4081,6 @@
     ]
   },
   {
-    "id": "n-nutshell",
-    "word": "nutshell",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "w kilku słowach"
-        ]
-      }
-    ]
-  },
-  {
     "id": "n-nutty",
     "word": "nutty",
     "trans": [
@@ -4533,43 +4107,6 @@
     ]
   },
   {
-    "id": "n-NW",
-    "word": "NW",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "płn.-zach.",
-          "północno-zachodni"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "n-N.Y.",
-    "word": "N.Y.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "Nowy Jork"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "n-N.Y.C.",
-    "word": "N.Y.C.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "miasto Nowy Jork"
-        ]
-      }
-    ]
-  },
-  {
     "id": "n-nylon",
     "word": "nylon",
     "trans": [
@@ -4577,18 +4114,6 @@
         "gramGrp": "N",
         "texts": [
           "nylon"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "n-N.Z.",
-    "word": "N.Z.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "Nowa Zelandia"
         ]
       }
     ]

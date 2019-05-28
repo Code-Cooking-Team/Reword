@@ -1,37 +1,5 @@
 [
   {
-    "id": "h-h.",
-    "word": "h.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "godz.",
-          "godzina"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "wysokość"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "h-ha",
-    "word": "ha",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "ha",
-          "hektar"
-        ]
-      }
-    ]
-  },
-  {
     "id": "h-haberdashery",
     "word": "haberdashery",
     "trans": [
@@ -209,18 +177,6 @@
         "texts": [
           "wykrwawiać się",
           "dostawać krowotoku"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "h-hag",
-    "word": "hag",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "jędza"
         ]
       }
     ]
@@ -452,18 +408,6 @@
         "gramGrp": "Adj",
         "texts": [
           "jeżący włosy"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "h-hair-s_breadth",
-    "word": "hair's breadth",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "o włos"
         ]
       }
     ]
@@ -799,19 +743,6 @@
     ]
   },
   {
-    "id": "h-ham",
-    "word": "ham",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "szynka",
-          "grać z przesadą"
-        ]
-      }
-    ]
-  },
-  {
     "id": "h-hamlet",
     "word": "hamlet",
     "trans": [
@@ -983,19 +914,6 @@
         "texts": [
           "wózek ręczny",
           "wózek"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "h-handclap",
-    "word": "handclap",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "dezaprobata",
-          "wygwizdywanie"
         ]
       }
     ]
@@ -1994,12 +1912,6 @@
     "word": "harvest",
     "trans": [
       {
-        "gramGrp": "",
-        "texts": [
-          "żniwa"
-        ]
-      },
-      {
         "gramGrp": "N",
         "texts": [
           "plon",
@@ -2112,30 +2024,9 @@
     ]
   },
   {
-    "id": "h-hat",
-    "word": "hat",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "kapelusz",
-          "trzymać coś dla siebie",
-          "to już stara historia",
-          "opowiadać bzdury"
-        ]
-      }
-    ]
-  },
-  {
     "id": "h-hatch",
     "word": "hatch",
     "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "wykluwać się"
-        ]
-      },
       {
         "gramGrp": "V",
         "texts": [
@@ -2393,24 +2284,6 @@
     ]
   },
   {
-    "id": "h-hay",
-    "word": "hay",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "siano"
-        ]
-      },
-      {
-        "gramGrp": "N Comp",
-        "texts": [
-          "katar sienny"
-        ]
-      }
-    ]
-  },
-  {
     "id": "h-haystack",
     "word": "haystack",
     "trans": [
@@ -2420,18 +2293,6 @@
           "stóg",
           "kopa siana",
           "kopa"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "h-haywire",
-    "word": "haywire",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "chrzanić się"
         ]
       }
     ]
@@ -2524,32 +2385,6 @@
           "niejasny",
           "niepewny",
           "co do"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "h-H-bomb",
-    "word": "H-bomb",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "bomba wodorowa"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "h-he",
-    "word": "he",
-    "trans": [
-      {
-        "gramGrp": "Pron",
-        "texts": [
-          "on",
-          "samiec",
-          "pies samiec"
         ]
       }
     ]
@@ -2828,18 +2663,6 @@
     ]
   },
   {
-    "id": "h-headway",
-    "word": "headway",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "czynić postępy"
-        ]
-      }
-    ]
-  },
-  {
     "id": "h-headwind",
     "word": "headwind",
     "trans": [
@@ -3083,18 +2906,6 @@
         "gramGrp": "Adj",
         "texts": [
           "rozdzierający serce"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "h-heartbroken",
-    "word": "heartbroken",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "ktoś ma złamane serce"
         ]
       }
     ]
@@ -3373,18 +3184,6 @@
     ]
   },
   {
-    "id": "h-heavy-handed",
-    "word": "heavy-handed",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "o ciężkiej ręce"
-        ]
-      }
-    ]
-  },
-  {
     "id": "h-heavyweight",
     "word": "heavyweight",
     "trans": [
@@ -3481,21 +3280,6 @@
         "gramGrp": "N",
         "texts": [
           "żywopłot"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "h-heed",
-    "word": "heed",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "powodować się",
-          "słuchać",
-          "mieć wzgląd na coś",
-          "mieć wzgląd"
         ]
       }
     ]
@@ -3771,33 +3555,6 @@
     ]
   },
   {
-    "id": "h-hem",
-    "word": "hem",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "rąbek",
-          "skraj"
-        ]
-      },
-      {
-        "gramGrp": "V",
-        "texts": [
-          "obrębiać"
-        ]
-      },
-      {
-        "gramGrp": "V Phras",
-        "texts": [
-          "otoczyć",
-          "przez kogoś",
-          "czymś"
-        ]
-      }
-    ]
-  },
-  {
     "id": "h-hemisphere",
     "word": "hemisphere",
     "trans": [
@@ -3817,18 +3574,6 @@
         "gramGrp": "N",
         "texts": [
           "hemofilia"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "h-hemophiliac",
-    "word": "hemophiliachaemophiliac",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "chory na hemofilię"
         ]
       }
     ]
@@ -3860,19 +3605,6 @@
         "gramGrp": "N",
         "texts": [
           "konopie"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "h-hen",
-    "word": "hen",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "kwoka",
-          "kura "
         ]
       }
     ]
@@ -4327,33 +4059,6 @@
     ]
   },
   {
-    "id": "h-het_up",
-    "word": "het up",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "podniecać się czymś",
-          "podniecać się"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "h-hew",
-    "word": "hew",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "ciosać",
-          "kuć",
-          "łamać"
-        ]
-      }
-    ]
-  },
-  {
     "id": "h-hexagon",
     "word": "hexagon",
     "trans": [
@@ -4361,18 +4066,6 @@
         "gramGrp": "N",
         "texts": [
           "sześciokąt"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "h-hey",
-    "word": "hey",
-    "trans": [
-      {
-        "gramGrp": "Inter",
-        "texts": [
-          "hej"
         ]
       }
     ]
@@ -4386,20 +4079,6 @@
         "texts": [
           "pełnia",
           "okres rozkwitu"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "h-hi",
-    "word": "hi",
-    "trans": [
-      {
-        "gramGrp": "Inter",
-        "texts": [
-          "cześć",
-          "siemasz",
-          "hej"
         ]
       }
     ]
@@ -4727,19 +4406,6 @@
     ]
   },
   {
-    "id": "h-Highness",
-    "word": "Highness",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "Wasza Wysokość",
-          "Jego Wysokość"
-        ]
-      }
-    ]
-  },
-  {
     "id": "h-high-pitched",
     "word": "high-pitched",
     "trans": [
@@ -5048,18 +4714,6 @@
     ]
   },
   {
-    "id": "h-hip",
-    "word": "hip",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "biodro"
-        ]
-      }
-    ]
-  },
-  {
     "id": "h-hippie",
     "word": "hippie",
     "trans": [
@@ -5135,18 +4789,6 @@
         "gramGrp": "N Comp",
         "texts": [
           "kupno na raty"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "h-his",
-    "word": "his",
-    "trans": [
-      {
-        "gramGrp": "Pron",
-        "texts": [
-          "jego"
         ]
       }
     ]
@@ -5235,19 +4877,6 @@
     ]
   },
   {
-    "id": "h-hit-and-run",
-    "word": "hit-and-run",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "wypadek samochodowy",
-          "którego sprawca zbiegł"
-        ]
-      }
-    ]
-  },
-  {
     "id": "h-hitch",
     "word": "hitch",
     "trans": [
@@ -5308,34 +4937,6 @@
           "ul",
           "rojowisko",
           "rozsadnik"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "h-HM",
-    "word": "HM",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "Jego Wysokość",
-          "Jej Wysokość"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "h-HMS",
-    "word": "HMS",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "okręt Jej Królewskiej Mości",
-          "okręt Jego Królewskiej Mości",
-          "okręt wojenny Jej Królewskiej Mości",
-          "okręt wojenny Jego Królewskiej Mości"
         ]
       }
     ]
@@ -5472,43 +5073,6 @@
         "gramGrp": "N",
         "texts": [
           "hokej"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "h-hoe",
-    "word": "hoe",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "motyka"
-        ]
-      },
-      {
-        "gramGrp": "V",
-        "texts": [
-          "okopywać"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "h-hog",
-    "word": "hog",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "wieprz"
-        ]
-      },
-      {
-        "gramGrp": "V",
-        "texts": [
-          "zagarniać",
-          "iść na całego"
         ]
       }
     ]
@@ -6303,29 +5867,6 @@
     ]
   },
   {
-    "id": "h-hop",
-    "word": "hop",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "podskakiwać",
-          "wyskakiwać",
-          "wskakiwać"
-        ]
-      },
-      {
-        "gramGrp": "N",
-        "texts": [
-          "skok",
-          "podskok",
-          "chmiel",
-          "cholernie wściekły"
-        ]
-      }
-    ]
-  },
-  {
     "id": "h-hope",
     "word": "hope",
     "trans": [
@@ -6620,18 +6161,6 @@
     ]
   },
   {
-    "id": "h-horseback",
-    "word": "horseback",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "konno"
-        ]
-      }
-    ]
-  },
-  {
     "id": "h-horseman",
     "word": "horseman",
     "trans": [
@@ -6728,18 +6257,6 @@
         "gramGrp": "N",
         "texts": [
           "wyroby pończosznicze"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "h-hosp.",
-    "word": "hosp.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "szpital"
         ]
       }
     ]
@@ -6889,22 +6406,6 @@
           "czegoś",
           "wrogie kroki",
           "wrogie posunięcia"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "h-hot",
-    "word": "hot",
-    "trans": [
-      {
-        "gramGrp": "Adj",
-        "texts": [
-          "gorący",
-          "upalny",
-          "ostry",
-          "zapalczywy",
-          "cholernie dużo wiedzieć"
         ]
       }
     ]
@@ -7260,28 +6761,6 @@
     ]
   },
   {
-    "id": "h-how",
-    "word": "how",
-    "trans": [
-      {
-        "gramGrp": "Pron",
-        "texts": [
-          "jak",
-          "jak ktoś się ma",
-          "jak się masz",
-          "dzień dobry",
-          "ile",
-          "ile to kosztuje",
-          "może by",
-          "może byśmy poszli do kina",
-          "a co z tobą",
-          "jak to się stało",
-          "bardzo mi przyjemnie "
-        ]
-      }
-    ]
-  },
-  {
     "id": "h-however",
     "word": "however",
     "trans": [
@@ -7315,81 +6794,6 @@
         "gramGrp": "V Phras",
         "texts": [
           "zakrzyczeć"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "h-HP",
-    "word": "HP",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "na raty"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "h-hp",
-    "word": "hp",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "koń mechaniczny"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "h-HQ",
-    "word": "HQ",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "kwatera główna"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "h-hr",
-    "word": "hr",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "godz.",
-          "godzina"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "h-HRH",
-    "word": "HRH",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "Jego Królewska Wysokość",
-          "Jej Królewska Wysokość"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "h-hub",
-    "word": "hub",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "piasta",
-          "ośrodek"
         ]
       }
     ]
@@ -7440,57 +6844,6 @@
     ]
   },
   {
-    "id": "h-hue",
-    "word": "hue",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "odcień",
-          "barwa"
-        ]
-      },
-      {
-        "gramGrp": "N Comp",
-        "texts": [
-          "wrzawa",
-          "protest"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "h-huff",
-    "word": "huff",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "ze złością"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "h-hug",
-    "word": "hug",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "ściskać",
-          "przyciskać"
-        ]
-      },
-      {
-        "gramGrp": "N",
-        "texts": [
-          "uścisk"
-        ]
-      }
-    ]
-  },
-  {
     "id": "h-huge",
     "word": "huge",
     "trans": [
@@ -7498,19 +6851,6 @@
         "gramGrp": "Adj",
         "texts": [
           "ogromny"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "h-huh",
-    "word": "huh",
-    "trans": [
-      {
-        "gramGrp": "Inter",
-        "texts": [
-          "he",
-          "co"
         ]
       }
     ]
@@ -7561,29 +6901,6 @@
         "texts": [
           "halo",
           "hej"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "h-hum",
-    "word": "hum",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "szum",
-          "brzęczenie"
-        ]
-      },
-      {
-        "gramGrp": "V",
-        "texts": [
-          "szumieć",
-          "brzęczeć",
-          "melodię nucić",
-          "nucić",
-          "mruczeć"
         ]
       }
     ]
@@ -8261,19 +7578,6 @@
         "gramGrp": "N",
         "texts": [
           "bieganina"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "h-hut",
-    "word": "hut",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "chata",
-          "szopa"
         ]
       }
     ]

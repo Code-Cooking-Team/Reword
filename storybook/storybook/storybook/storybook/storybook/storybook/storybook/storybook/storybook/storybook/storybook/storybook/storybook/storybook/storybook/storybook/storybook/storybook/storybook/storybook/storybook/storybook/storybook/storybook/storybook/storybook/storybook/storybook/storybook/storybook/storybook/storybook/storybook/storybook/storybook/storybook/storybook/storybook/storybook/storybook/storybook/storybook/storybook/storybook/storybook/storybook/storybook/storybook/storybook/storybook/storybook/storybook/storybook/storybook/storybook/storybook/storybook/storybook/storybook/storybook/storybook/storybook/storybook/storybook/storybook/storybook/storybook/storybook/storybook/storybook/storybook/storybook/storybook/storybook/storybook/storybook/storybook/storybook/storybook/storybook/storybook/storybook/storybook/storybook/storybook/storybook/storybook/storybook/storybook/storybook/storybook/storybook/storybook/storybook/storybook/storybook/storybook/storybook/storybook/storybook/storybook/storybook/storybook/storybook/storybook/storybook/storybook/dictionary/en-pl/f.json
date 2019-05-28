@@ -1,35 +1,5 @@
 [
   {
-    "id": "f-F.",
-    "word": "F.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "członek"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "Fahrenheita"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "f-FA",
-    "word": "FA",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "Związek Piłki Nożnej"
-        ]
-      }
-    ]
-  },
-  {
     "id": "f-fable",
     "word": "fable",
     "trans": [
@@ -348,18 +318,6 @@
     ]
   },
   {
-    "id": "f-fad",
-    "word": "fad",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "przelotna moda"
-        ]
-      }
-    ]
-  },
-  {
     "id": "f-faeces",
     "word": "faecesfeces",
     "trans": [
@@ -367,20 +325,6 @@
         "gramGrp": "N",
         "texts": [
           "kał"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "f-fag",
-    "word": "fag",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "harówka",
-          "pet",
-          "pedał"
         ]
       }
     ]
@@ -593,18 +537,6 @@
           "wierny",
           "wierni",
           "zwolennicy"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "f-faithfully",
-    "word": "faithfully",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "z wyrazami szacunku"
         ]
       }
     ]
@@ -1003,20 +935,6 @@
     ]
   },
   {
-    "id": "f-familiarize",
-    "word": "familiarize",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "zaznajamiać się",
-          "zaznajamiać",
-          "z"
-        ]
-      }
-    ]
-  },
-  {
     "id": "f-family",
     "word": "family",
     "trans": [
@@ -1074,34 +992,6 @@
           "słynny",
           "znany",
           "z"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "f-fan",
-    "word": "fan",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "fan",
-          "kibic",
-          "wachlarz",
-          "wentylator"
-        ]
-      },
-      {
-        "gramGrp": "V",
-        "texts": [
-          "wachlować się",
-          "podsycać"
-        ]
-      },
-      {
-        "gramGrp": "V Phras",
-        "texts": [
-          "rozchodzić się promieniście"
         ]
       }
     ]
@@ -1210,18 +1100,6 @@
         "texts": [
           "fantazjowanie",
           "fantazja"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "f-FAO",
-    "word": "FAO",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "Organizacja do Spraw Wyżywienia i Rolnictwa"
         ]
       }
     ]
@@ -1631,29 +1509,6 @@
         "texts": [
           "wybredny",
           "grymaśny"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "f-fat",
-    "word": "fat",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "tłuszcz"
-        ]
-      },
-      {
-        "gramGrp": "Adj",
-        "texts": [
-          "tłusty",
-          "gruby",
-          "niezły",
-          "duży",
-          "cholernie dużo",
-          "cholernie"
         ]
       }
     ]
@@ -2083,49 +1938,6 @@
     ]
   },
   {
-    "id": "f-fax",
-    "word": "fax",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "faks"
-        ]
-      },
-      {
-        "gramGrp": "V",
-        "texts": [
-          "faksować"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "f-FBI",
-    "word": "FBI",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "Federalne Biuro Śledcze"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "f-FCO",
-    "word": "FCO",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "MSZ",
-          "Ministerstwo Spraw Zagranicznych"
-        ]
-      }
-    ]
-  },
-  {
     "id": "f-fear",
     "word": "fear",
     "trans": [
@@ -2292,18 +2104,6 @@
     ]
   },
   {
-    "id": "f-Feb.",
-    "word": "Feb.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "luty"
-        ]
-      }
-    ]
-  },
-  {
     "id": "f-February",
     "word": "February",
     "trans": [
@@ -2324,24 +2124,6 @@
         "texts": [
           "nieporęczny",
           "niezgrabny"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "f-fed.",
-    "word": "fed.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "federalny"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "federacja"
         ]
       }
     ]
@@ -2368,20 +2150,6 @@
         "texts": [
           "związek",
           "federacja"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "f-fee",
-    "word": "fee",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "opłata",
-          "honorarium",
-          "gaża"
         ]
       }
     ]
@@ -2625,18 +2393,6 @@
         "texts": [
           "mazak",
           "pisak"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "f-fem.",
-    "word": "fem.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "żeński"
         ]
       }
     ]
@@ -2972,18 +2728,6 @@
     ]
   },
   {
-    "id": "f-festoon",
-    "word": "festoon",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "być obwieszonym czymś"
-        ]
-      }
-    ]
-  },
-  {
     "id": "f-fetch",
     "word": "fetch",
     "trans": [
@@ -3143,20 +2887,6 @@
     ]
   },
   {
-    "id": "f-ff.",
-    "word": "ff.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "i nn.",
-          "i następne linie",
-          "i następne strony"
-        ]
-      }
-    ]
-  },
-  {
     "id": "f-fiancé",
     "word": "fiancéfiance",
     "trans": [
@@ -3189,24 +2919,6 @@
         "texts": [
           "fiasko",
           "niepowodzenie"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "f-fib",
-    "word": "fib",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "łgarstwo"
-        ]
-      },
-      {
-        "gramGrp": "V",
-        "texts": [
-          "łgać"
         ]
       }
     ]
@@ -3503,31 +3215,6 @@
     ]
   },
   {
-    "id": "f-fig",
-    "word": "fig",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "figa"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "f-fig.",
-    "word": "fig.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "ryc.",
-          "rycina"
-        ]
-      }
-    ]
-  },
-  {
     "id": "f-fight",
     "word": "fight",
     "trans": [
@@ -3603,19 +3290,6 @@
           "wojownik",
           "uczestnik walki",
           "myśliwiec"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "f-figment",
-    "word": "figment",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "płód czyjejś wyobraźni",
-          "płód wyobraźni"
         ]
       }
     ]
@@ -3957,18 +3631,6 @@
           "zapaskudzony",
           "plugawy",
           "sprośny"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "f-fin",
-    "word": "fin",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "płetwa"
         ]
       }
     ]
@@ -4380,18 +4042,6 @@
     ]
   },
   {
-    "id": "f-fir",
-    "word": "fir",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "jodła"
-        ]
-      }
-    ]
-  },
-  {
     "id": "f-firearm",
     "word": "firearm",
     "trans": [
@@ -4486,18 +4136,6 @@
         "texts": [
           "ognioodporny",
           "ogniotrwały"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "f-fireside",
-    "word": "fireside",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "przy kominku"
         ]
       }
     ]
@@ -4838,63 +4476,6 @@
     ]
   },
   {
-    "id": "f-fit",
-    "word": "fit",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "pasować",
-          "na kogoś",
-          "na coś",
-          "mieścić się",
-          "do",
-          "umieszczać",
-          "wkładać",
-          "dorabiać",
-          "do",
-          "odpowiadać"
-        ]
-      },
-      {
-        "gramGrp": "Adj",
-        "texts": [
-          "zdrowy",
-          "sprawny",
-          "nadający się",
-          "dopasowany",
-          "do"
-        ]
-      },
-      {
-        "gramGrp": "N",
-        "texts": [
-          "atak choroby",
-          "atak",
-          "napad szału",
-          "napad",
-          "przystęp gniewu",
-          "przystęp",
-          "dobrze leżeć",
-          "cisnąć",
-          "uznawać za stosowne coś zrobić",
-          "zrywami",
-          "nierówno",
-          "ktoś dostanie szału"
-        ]
-      },
-      {
-        "gramGrp": "V Phras",
-        "texts": [
-          "mieć czas na",
-          "uwzględniać",
-          "dopasować się",
-          "dopasować"
-        ]
-      }
-    ]
-  },
-  {
     "id": "f-fitful",
     "word": "fitful",
     "trans": [
@@ -5068,24 +4649,6 @@
         "gramGrp": "Adj",
         "texts": [
           "musujący"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "f-fl.",
-    "word": "fl.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "piętro"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "płynny"
         ]
       }
     ]
@@ -5619,34 +5182,6 @@
         "texts": [
           "obnosić się",
           "z czymś"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "f-flavour",
-    "word": "flavourflavor",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "smak",
-          "posmak",
-          "doprawiać",
-          "przyprawiać"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "f-flavouring",
-    "word": "flavouringflavoring",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "przyprawa smakowa",
-          "przyprawa"
         ]
       }
     ]
@@ -6602,18 +6137,6 @@
     ]
   },
   {
-    "id": "f-flu",
-    "word": "flu",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "grypa"
-        ]
-      }
-    ]
-  },
-  {
     "id": "f-fluctuate",
     "word": "fluctuate",
     "trans": [
@@ -6894,39 +6417,6 @@
     ]
   },
   {
-    "id": "f-fly",
-    "word": "fly",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "latać",
-          "fruwać",
-          "pilotować",
-          "wysyłać",
-          "powiewać",
-          "rzucać się",
-          "na"
-        ]
-      },
-      {
-        "gramGrp": "N",
-        "texts": [
-          "mucha",
-          "rozporek",
-          "czas szybko leci",
-          "rzucać się na kogoś"
-        ]
-      },
-      {
-        "gramGrp": "V Phras",
-        "texts": [
-          "wpadać w"
-        ]
-      }
-    ]
-  },
-  {
     "id": "f-flyer",
     "word": "flyer",
     "trans": [
@@ -6967,44 +6457,6 @@
     ]
   },
   {
-    "id": "f-FM",
-    "word": "FM",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "pasmo FM UKF",
-          "pasmo FM"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "f-fn.",
-    "word": "fn.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "przypis"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "f-FO",
-    "word": "FO",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "MSZ",
-          "Ministerstwo Spraw Zagranicznych"
-        ]
-      }
-    ]
-  },
-  {
     "id": "f-foal",
     "word": "foal",
     "trans": [
@@ -7032,18 +6484,6 @@
         "gramGrp": "V",
         "texts": [
           "pienić się"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "f-f.o.b.",
-    "word": "f.o.b.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "włączone w cenę biletu za przejazd"
         ]
       }
     ]
@@ -7113,42 +6553,6 @@
         "gramGrp": "Adj",
         "texts": [
           "pastewny"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "f-foe",
-    "word": "foe",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "wróg"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "f-foetus",
-    "word": "foetusfetus",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "płód"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "f-fog",
-    "word": "fog",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "mgła"
         ]
       }
     ]
@@ -7716,49 +7120,6 @@
     ]
   },
   {
-    "id": "f-for",
-    "word": "for",
-    "trans": [
-      {
-        "gramGrp": "Prep",
-        "texts": [
-          "dla",
-          "na",
-          "w",
-          "na",
-          "do",
-          "na",
-          "z",
-          "ze strachu",
-          "do",
-          "jak na",
-          "przez",
-          "za",
-          "pomimo",
-          "jako że",
-          "ponieważ",
-          "po co",
-          "po raz pierwszy",
-          "po raz",
-          "całkowicie za czymś",
-          "całkowicie za"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "f-for.",
-    "word": "for.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "zagraniczny"
-        ]
-      }
-    ]
-  },
-  {
     "id": "f-forage",
     "word": "forage",
     "trans": [
@@ -7949,18 +7310,6 @@
     ]
   },
   {
-    "id": "f-fore",
-    "word": "fore",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "wysuwać się na czoło"
-        ]
-      }
-    ]
-  },
-  {
     "id": "f-forearm",
     "word": "forearm",
     "trans": [
@@ -8041,19 +7390,6 @@
     ]
   },
   {
-    "id": "f-forefront",
-    "word": "forefront",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "w awangardzie czegoś",
-          "w czołówce czegoś"
-        ]
-      }
-    ]
-  },
-  {
     "id": "f-forego",
     "word": "foregoforgo",
     "trans": [
@@ -8085,18 +7421,6 @@
     ]
   },
   {
-    "id": "f-foregone",
-    "word": "foregone",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "wynik z góry przesądzony"
-        ]
-      }
-    ]
-  },
-  {
     "id": "f-foreground",
     "word": "foreground",
     "trans": [
@@ -8104,18 +7428,6 @@
         "gramGrp": "N",
         "texts": [
           "pierwszy plan"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "f-forehand",
-    "word": "forehand",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "forhend"
         ]
       }
     ]
@@ -8802,19 +8114,6 @@
     ]
   },
   {
-    "id": "f-fort",
-    "word": "fort",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "fort",
-          "trzymać miejsce"
-        ]
-      }
-    ]
-  },
-  {
     "id": "f-forte",
     "word": "forte",
     "trans": [
@@ -8998,12 +8297,6 @@
     "id": "f-fortune",
     "word": "fortune",
     "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "pomyślność"
-        ]
-      },
       {
         "gramGrp": "N",
         "texts": [
@@ -9344,54 +8637,6 @@
         "texts": [
           "ptak łowny",
           "ptak"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "f-fox",
-    "word": "fox",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "lis"
-        ]
-      },
-      {
-        "gramGrp": "V",
-        "texts": [
-          "wpuszczać w maliny"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "f-Fr.",
-    "word": "Fr.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "ojciec"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "Francja"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "francuski"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "piątek"
         ]
       }
     ]
@@ -10243,13 +9488,6 @@
     "word": "freshen",
     "trans": [
       {
-        "gramGrp": "",
-        "texts": [
-          "odświeżać się",
-          "odświeżać"
-        ]
-      },
-      {
         "gramGrp": "V",
         "texts": [
           "wzmagać się"
@@ -10348,18 +9586,6 @@
         "texts": [
           "niespokojny",
           "strapiony"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "f-Fri.",
-    "word": "Fri.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "piątek"
         ]
       }
     ]
@@ -10693,19 +9919,6 @@
     ]
   },
   {
-    "id": "f-fro",
-    "word": "fro",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "tam i sam",
-          "tędy i owędy"
-        ]
-      }
-    ]
-  },
-  {
     "id": "f-frock",
     "word": "frock",
     "trans": [
@@ -10990,18 +10203,6 @@
     ]
   },
   {
-    "id": "f-fruition",
-    "word": "fruition",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "spełniać się"
-        ]
-      }
-    ]
-  },
-  {
     "id": "f-fruitless",
     "word": "fruitless",
     "trans": [
@@ -11054,19 +10255,6 @@
     ]
   },
   {
-    "id": "f-fry",
-    "word": "fry",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "smażyć się",
-          "smażyć"
-        ]
-      }
-    ]
-  },
-  {
     "id": "f-frying_pan",
     "word": "frying pan",
     "trans": [
@@ -11075,19 +10263,6 @@
         "texts": [
           "patelnia",
           "z deszczu pod rynnę"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "f-ft.",
-    "word": "ft.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "stopa",
-          "stopy "
         ]
       }
     ]
@@ -11320,32 +10495,6 @@
     ]
   },
   {
-    "id": "f-fun",
-    "word": "fun",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "zabawa",
-          "radość"
-        ]
-      },
-      {
-        "gramGrp": "Adj",
-        "texts": [
-          "fajny",
-          "dobrze się bawić",
-          "fajnie się bawić",
-          "coś jest fajne",
-          "fajnie z kimś jest",
-          "dla zabawy",
-          "nabijać się z kogoś",
-          "nabijać się z kogoś"
-        ]
-      }
-    ]
-  },
-  {
     "id": "f-function",
     "word": "function",
     "trans": [
@@ -11539,22 +10688,6 @@
     ]
   },
   {
-    "id": "f-fur",
-    "word": "fur",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "sierść",
-          "futro",
-          "osad",
-          "kamień",
-          "nalot"
-        ]
-      }
-    ]
-  },
-  {
     "id": "f-furious",
     "word": "furious",
     "trans": [
@@ -11576,18 +10709,6 @@
         "gramGrp": "Adj",
         "texts": [
           "złożony"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "f-furn.",
-    "word": "furn.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "umeblowany"
         ]
       }
     ]

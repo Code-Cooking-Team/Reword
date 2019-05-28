@@ -1,23 +1,5 @@
 [
   {
-    "id": "j-jab",
-    "word": "jab",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "wbijać"
-        ]
-      },
-      {
-        "gramGrp": "N",
-        "texts": [
-          "zastrzyk"
-        ]
-      }
-    ]
-  },
-  {
     "id": "j-jabber",
     "word": "jabber",
     "trans": [
@@ -144,35 +126,6 @@
     ]
   },
   {
-    "id": "j-jam",
-    "word": "jam",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "dżem",
-          "korek",
-          "zator"
-        ]
-      },
-      {
-        "gramGrp": "V",
-        "texts": [
-          "wtykać",
-          "zacinać się",
-          "zablokowywać się",
-          "zablokowywać",
-          "zapychać",
-          "blokować",
-          "wpychać",
-          "zagłuszać",
-          "być w opałach",
-          "być w tarapatach"
-        ]
-      }
-    ]
-  },
-  {
     "id": "j-Jamaica",
     "word": "Jamaica",
     "trans": [
@@ -198,18 +151,6 @@
         "gramGrp": "N",
         "texts": [
           "Jamajczyk"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "j-Jan.",
-    "word": "Jan.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "styczeń"
         ]
       }
     ]
@@ -288,30 +229,6 @@
     ]
   },
   {
-    "id": "j-jar",
-    "word": "jar",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "słój",
-          "słoik",
-          "wstrząs"
-        ]
-      },
-      {
-        "gramGrp": "V",
-        "texts": [
-          "wstrząsać",
-          "drgać",
-          "drażnić",
-          "kogoś",
-          "szokować"
-        ]
-      }
-    ]
-  },
-  {
     "id": "j-jargon",
     "word": "jargon",
     "trans": [
@@ -380,20 +297,6 @@
         "gramGrp": "N",
         "texts": [
           "oszczep"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "j-jaw",
-    "word": "jaw",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "szczęka",
-          "żuchwa",
-          "paszcza"
         ]
       }
     ]
@@ -635,40 +538,6 @@
     ]
   },
   {
-    "id": "j-jet",
-    "word": "jet",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "odrzutowiec"
-        ]
-      },
-      {
-        "gramGrp": "V",
-        "texts": [
-          "latać odrzutowcami",
-          "latać"
-        ]
-      },
-      {
-        "gramGrp": "Adj",
-        "texts": [
-          "odrzutowy",
-          "samolot odrzutowy"
-        ]
-      },
-      {
-        "gramGrp": "N",
-        "texts": [
-          "strumień",
-          "struga",
-          "gagat"
-        ]
-      }
-    ]
-  },
-  {
     "id": "j-jet-black",
     "word": "jet-black",
     "trans": [
@@ -701,18 +570,6 @@
         "texts": [
           "nabrzeże",
           "falochron"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "j-Jew",
-    "word": "Jew",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "Żyd"
         ]
       }
     ]
@@ -802,18 +659,6 @@
     ]
   },
   {
-    "id": "j-jiffy",
-    "word": "jiffy",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "za momencik"
-        ]
-      }
-    ]
-  },
-  {
     "id": "j-jiggle",
     "word": "jiggle",
     "trans": [
@@ -860,18 +705,6 @@
     ]
   },
   {
-    "id": "j-jinx",
-    "word": "jinx",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "przynosić komuś pecha"
-        ]
-      }
-    ]
-  },
-  {
     "id": "j-jittery",
     "word": "jittery",
     "trans": [
@@ -879,18 +712,6 @@
         "gramGrp": "Adj",
         "texts": [
           "roztrzęsiony"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "j-jnr.",
-    "word": "jnr.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "junior"
         ]
       }
     ]
@@ -929,28 +750,6 @@
         "texts": [
           "żartobliwy",
           "dowcipny"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "j-jog",
-    "word": "jog",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "uprawiać jogging",
-          "biegać truchtem",
-          "wstrząsać",
-          "trącać"
-        ]
-      },
-      {
-        "gramGrp": "N",
-        "texts": [
-          "trucht",
-          "pobudzać pamięć"
         ]
       }
     ]
@@ -1171,18 +970,6 @@
     ]
   },
   {
-    "id": "j-jot",
-    "word": "jot",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "napisać"
-        ]
-      }
-    ]
-  },
-  {
     "id": "j-journal",
     "word": "journal",
     "trans": [
@@ -1264,19 +1051,6 @@
     ]
   },
   {
-    "id": "j-joy",
-    "word": "joy",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "radość",
-          "źródło radości"
-        ]
-      }
-    ]
-  },
-  {
     "id": "j-joyful",
     "word": "joyful",
     "trans": [
@@ -1322,30 +1096,6 @@
         "texts": [
           "drążek",
           "dżojstik"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "j-JP",
-    "word": "JP",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "sędzia pokoju"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "j-jr.",
-    "word": "jr.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "junior"
         ]
       }
     ]
@@ -1455,19 +1205,6 @@
     ]
   },
   {
-    "id": "j-judiciary",
-    "word": "judiciary",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "władza jurysdykcyjna",
-          "sądownictwo"
-        ]
-      }
-    ]
-  },
-  {
     "id": "j-judicious",
     "word": "judicious",
     "trans": [
@@ -1476,18 +1213,6 @@
         "texts": [
           "rozważny",
           "rozsądny"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "j-jug",
-    "word": "jug",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "dzbanek"
         ]
       }
     ]
@@ -1564,18 +1289,6 @@
         "gramGrp": "N",
         "texts": [
           "szafa grająca"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "j-Jul.",
-    "word": "Jul.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "lipiec"
         ]
       }
     ]
@@ -1691,24 +1404,6 @@
     ]
   },
   {
-    "id": "j-Jun.",
-    "word": "Jun.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "czerwiec"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "junior"
-        ]
-      }
-    ]
-  },
-  {
     "id": "j-junction",
     "word": "junction",
     "trans": [
@@ -1718,18 +1413,6 @@
           "połączenie",
           "krzyżówka",
           "węzeł"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "j-juncture",
-    "word": "juncture",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "w tym momencie"
         ]
       }
     ]
@@ -1896,19 +1579,6 @@
           "usprawiedliwiać",
           "wyrównywać",
           "justować"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "j-jut",
-    "word": "jut",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "wychodzić na zewnątrz",
-          "wychodzić"
         ]
       }
     ]

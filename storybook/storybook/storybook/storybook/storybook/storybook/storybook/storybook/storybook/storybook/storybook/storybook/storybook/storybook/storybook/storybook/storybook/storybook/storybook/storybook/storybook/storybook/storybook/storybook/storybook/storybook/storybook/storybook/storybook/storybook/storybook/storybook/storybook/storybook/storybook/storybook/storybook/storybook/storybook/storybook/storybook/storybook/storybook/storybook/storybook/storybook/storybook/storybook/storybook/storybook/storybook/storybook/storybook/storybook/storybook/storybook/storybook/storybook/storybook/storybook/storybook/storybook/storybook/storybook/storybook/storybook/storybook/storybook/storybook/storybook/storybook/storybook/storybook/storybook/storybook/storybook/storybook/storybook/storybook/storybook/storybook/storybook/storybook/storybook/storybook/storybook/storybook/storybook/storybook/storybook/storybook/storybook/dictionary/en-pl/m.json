@@ -1,55 +1,5 @@
 [
   {
-    "id": "m-m.",
-    "word": "m.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "męski"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "zamężna",
-          "żonaty"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "mila"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "m-MA",
-    "word": "MA",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "magister nauk humanistycznych",
-          "magister"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "m-mac",
-    "word": "mac",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "płaszcz przeciwdeszczowy"
-        ]
-      }
-    ]
-  },
-  {
     "id": "m-macabre",
     "word": "macabre",
     "trans": [
@@ -188,24 +138,6 @@
         "gramGrp": "N",
         "texts": [
           "płaszcz przeciwdeszczowy"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "m-mad",
-    "word": "mad",
-    "trans": [
-      {
-        "gramGrp": "Adj",
-        "texts": [
-          "zwariowany",
-          "niespełna rozumu",
-          "wściekły",
-          "opętany",
-          "mieć świra",
-          "na punkcie",
-          "doprowadzać kogoś do wściekłości"
         ]
       }
     ]
@@ -428,18 +360,6 @@
         "gramGrp": "Adj",
         "texts": [
           "magnetyczny"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "m-magnetism",
-    "word": "magnetism",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "magnetyzm"
         ]
       }
     ]
@@ -775,18 +695,6 @@
     ]
   },
   {
-    "id": "m-Maj.",
-    "word": "Maj.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "major"
-        ]
-      }
-    ]
-  },
-  {
     "id": "m-majestic",
     "word": "majestic",
     "trans": [
@@ -1117,18 +1025,6 @@
     ]
   },
   {
-    "id": "m-mall",
-    "word": "mall",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "centrum handlowe"
-        ]
-      }
-    ]
-  },
-  {
     "id": "m-mallet",
     "word": "mallet",
     "trans": [
@@ -1284,18 +1180,6 @@
         "gramGrp": "Adj",
         "texts": [
           "kierowniczy"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "m-managing",
-    "word": "managing",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "główny dyrektor"
         ]
       }
     ]
@@ -1857,33 +1741,6 @@
     ]
   },
   {
-    "id": "m-map",
-    "word": "map",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "mapa",
-          "plan"
-        ]
-      },
-      {
-        "gramGrp": "V",
-        "texts": [
-          "przedstawiać na mapie"
-        ]
-      },
-      {
-        "gramGrp": "V Phras",
-        "texts": [
-          "planować",
-          "rozkładać w czasie",
-          "rozkładać"
-        ]
-      }
-    ]
-  },
-  {
     "id": "m-maple",
     "word": "maple",
     "trans": [
@@ -1891,30 +1748,6 @@
         "gramGrp": "N",
         "texts": [
           "klon"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "m-Mar.",
-    "word": "Mar.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "marzec"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "m-mar",
-    "word": "mar",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "niszczyć"
         ]
       }
     ]
@@ -2326,18 +2159,6 @@
     ]
   },
   {
-    "id": "m-Marq.",
-    "word": "Marq.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "markiz"
-        ]
-      }
-    ]
-  },
-  {
     "id": "m-marquee",
     "word": "marquee",
     "trans": [
@@ -2558,18 +2379,6 @@
         "gramGrp": "N",
         "texts": [
           "marcepan"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "m-masc.",
-    "word": "masc.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "męski"
         ]
       }
     ]
@@ -2943,21 +2752,6 @@
         "gramGrp": "Adj",
         "texts": [
           "mazurski"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "m-mat",
-    "word": "mat",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "mata",
-          "podkładka",
-          "dywanik",
-          "chodnik"
         ]
       }
     ]
@@ -3470,19 +3264,6 @@
     ]
   },
   {
-    "id": "m-max.",
-    "word": "max.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "maksimum",
-          "maksymalny"
-        ]
-      }
-    ]
-  },
-  {
     "id": "m-maxi",
     "word": "maxi",
     "trans": [
@@ -3537,36 +3318,6 @@
     ]
   },
   {
-    "id": "m-May",
-    "word": "May",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "maj"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "m-may",
-    "word": "may",
-    "trans": [
-      {
-        "gramGrp": "V Mod",
-        "texts": [
-          "móc",
-          "może padać",
-          "wolno ",
-          "wolno mu to zrobić",
-          "może to zrobić",
-          "oby",
-          "obyś był szczęśliwy"
-        ]
-      }
-    ]
-  },
-  {
     "id": "m-maybe",
     "word": "maybe",
     "trans": [
@@ -3612,65 +3363,6 @@
         "texts": [
           "labirynt",
           "gmatwanina"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "m-MC",
-    "word": "MC",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "piechota morska"
-        ]
-      },
-      {
-        "gramGrp": "N",
-        "texts": [
-          "mistrz ceremonii",
-          "konferansjer"
-        ]
-      },
-      {
-        "gramGrp": "N",
-        "texts": [
-          "członek Kongresu",
-          "kongresmen"
-        ]
-      },
-      {
-        "gramGrp": "N",
-        "texts": [
-          "Krzyż Wojenny"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "m-MD",
-    "word": "MDMedicinae Doctor",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "doktor medycyny"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "m-me",
-    "word": "me",
-    "trans": [
-      {
-        "gramGrp": "Pron",
-        "texts": [
-          "mnie",
-          "mi",
-          "ja",
-          "Kto tam? -- Ja."
         ]
       }
     ]
@@ -3863,19 +3555,6 @@
           "dzięki",
           "ależ oczywiście",
           "żadnym sposobem"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "m-meantime",
-    "word": "meantime",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "tymczasem",
-          "w międzyczasie"
         ]
       }
     ]
@@ -4099,18 +3778,6 @@
           "mieszać się",
           "do",
           "do"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "m-media",
-    "word": "media",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "środki masowego przekazu"
         ]
       }
     ]
@@ -5472,18 +5139,6 @@
     ]
   },
   {
-    "id": "m-mew",
-    "word": "mew",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "miauczeć"
-        ]
-      }
-    ]
-  },
-  {
     "id": "m-Mexican",
     "word": "Mexican",
     "trans": [
@@ -5514,31 +5169,6 @@
     ]
   },
   {
-    "id": "m-Mgr.",
-    "word": "Mgr.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "Monsignore",
-          "Wasza Dostojność"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "m-MI",
-    "word": "MI",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "wywiad wojskowy"
-        ]
-      }
-    ]
-  },
-  {
     "id": "m-miaow",
     "word": "miaow",
     "trans": [
@@ -5564,19 +5194,6 @@
         "gramGrp": "N",
         "texts": [
           "Michigan"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "m-mickey",
-    "word": "mickey",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "nabierać kogoś",
-          "nabierać"
         ]
       }
     ]
@@ -5665,20 +5282,6 @@
         "gramGrp": "N",
         "texts": [
           "kuchenka mikrofalowa"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "m-mid",
-    "word": "mid",
-    "trans": [
-      {
-        "gramGrp": "Adj",
-        "texts": [
-          "środkowy",
-          "średni",
-          "w powietrzu"
         ]
       }
     ]
@@ -5862,19 +5465,6 @@
         "gramGrp": "N",
         "texts": [
           "talia "
-        ]
-      }
-    ]
-  },
-  {
-    "id": "m-midst",
-    "word": "midst",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "w środku",
-          "w trakcie"
         ]
       }
     ]
@@ -6477,26 +6067,6 @@
     ]
   },
   {
-    "id": "m-min.",
-    "word": "min.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "minimum",
-          "minimalny"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "min.",
-          "minuta"
-        ]
-      }
-    ]
-  },
-  {
     "id": "m-minaret",
     "word": "minaret",
     "trans": [
@@ -6533,10 +6103,6 @@
     "word": "mincemeat",
     "trans": [
       {
-        "gramGrp": "",
-        "texts": []
-      },
-      {
         "gramGrp": "N",
         "texts": [
           "mięso siekane"
@@ -6552,19 +6118,6 @@
         "gramGrp": "N",
         "texts": [
           "opiekun"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "m-mindful",
-    "word": "mindful",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "zważać",
-          "na coś"
         ]
       }
     ]
@@ -7120,18 +6673,6 @@
         "gramGrp": "N",
         "texts": [
           "złe zachowanie się"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "m-misc.",
-    "word": "misc.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "różne"
         ]
       }
     ]
@@ -7979,38 +7520,6 @@
     ]
   },
   {
-    "id": "m-mix",
-    "word": "mix",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "zmieszać",
-          "mieszać",
-          "przyrządzać",
-          "łączyć",
-          "przestawać",
-          "z kimś"
-        ]
-      },
-      {
-        "gramGrp": "N",
-        "texts": [
-          "mieszanka",
-          "proszek",
-          "połączenie"
-        ]
-      },
-      {
-        "gramGrp": "V Phras",
-        "texts": [
-          "mieszać",
-          "mylić"
-        ]
-      }
-    ]
-  },
-  {
     "id": "m-mixed",
     "word": "mixed",
     "trans": [
@@ -8059,72 +7568,6 @@
     ]
   },
   {
-    "id": "m-ml.",
-    "word": "ml.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "mililitr"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "m-Mme",
-    "word": "Mmemadame",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "pani"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "m-MO",
-    "word": "MO",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "lekarz rejonowy"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "m-Mo.",
-    "word": "Mo.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "poniedziałek"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "m-m.o.",
-    "word": "m.o.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "przekaz pocztowy"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "przekaz pieniężny"
-        ]
-      }
-    ]
-  },
-  {
     "id": "m-moan",
     "word": "moan",
     "trans": [
@@ -8151,26 +7594,6 @@
         "gramGrp": "N",
         "texts": [
           "fosa"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "m-mob",
-    "word": "mob",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "tłum",
-          "tłuszcza"
-        ]
-      },
-      {
-        "gramGrp": "V",
-        "texts": [
-          "otaczać tłumem",
-          "otaczać"
         ]
       }
     ]
@@ -8264,36 +7687,6 @@
           "kpina",
           "robić z czegoś kpiny",
           "kpić"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "m-mod.",
-    "word": "mod.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "umiarkowany"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "współczesny"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "m-mod_cons",
-    "word": "mod cons",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "ze wszystkimi wygodami"
         ]
       }
     ]
@@ -8663,18 +8056,6 @@
     ]
   },
   {
-    "id": "m-mom",
-    "word": "mom",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "mamuśka"
-        ]
-      }
-    ]
-  },
-  {
     "id": "m-moment",
     "word": "moment",
     "trans": [
@@ -8722,18 +8103,6 @@
         "texts": [
           "rozpęd",
           "przybierać na sile"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "m-Mon.",
-    "word": "Mon.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "poniedziałek"
         ]
       }
     ]
@@ -9037,18 +8406,6 @@
     ]
   },
   {
-    "id": "m-monotone",
-    "word": "monotone",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "monotonnie"
-        ]
-      }
-    ]
-  },
-  {
     "id": "m-monotonous",
     "word": "monotonous",
     "trans": [
@@ -9183,24 +8540,6 @@
         "texts": [
           "monumentalny",
           "gigantyczny"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "m-moo",
-    "word": "moo",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "ryczeć"
-        ]
-      },
-      {
-        "gramGrp": "N",
-        "texts": [
-          "ryk"
         ]
       }
     ]
@@ -9342,33 +8681,6 @@
         "gramGrp": "N",
         "texts": [
           "łoś"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "m-mop",
-    "word": "mop",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "zmywak do podłogi ",
-          "kudły"
-        ]
-      },
-      {
-        "gramGrp": "V",
-        "texts": [
-          "zmywać podłogę",
-          "wycierać",
-          "zbierać"
-        ]
-      },
-      {
-        "gramGrp": "V Phras",
-        "texts": [
-          "zbierać"
         ]
       }
     ]
@@ -10740,27 +10052,6 @@
     ]
   },
   {
-    "id": "m-mow",
-    "word": "mow",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "strzyc",
-          "kosić",
-          "żąć",
-          "ścinać"
-        ]
-      },
-      {
-        "gramGrp": "V Phras",
-        "texts": [
-          "kosić"
-        ]
-      }
-    ]
-  },
-  {
     "id": "m-mower",
     "word": "mower",
     "trans": [
@@ -10798,110 +10089,6 @@
         "gramGrp": "N",
         "texts": [
           "Mozambik"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "m-MP",
-    "word": "MP",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "członek Parlamentu",
-          "poseł"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "żandarmeria wojskowa"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "m-mph",
-    "word": "mph",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "mil/godz."
-        ]
-      }
-    ]
-  },
-  {
-    "id": "m-Mr.",
-    "word": "Mr.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "Pan"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "m-Mrs",
-    "word": "Mrs",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "Pani"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "m-Ms",
-    "word": "Ms",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "Pani"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "m-M.Sc.",
-    "word": "M.Sc.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "magister nauk przyrodniczych",
-          "magister nauk"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "m-mt.",
-    "word": "mt.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "góra"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "m-mth.",
-    "word": "mth.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "miesiąc"
         ]
       }
     ]
@@ -10947,18 +10134,6 @@
         "gramGrp": "N",
         "texts": [
           "śluz"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "m-mud",
-    "word": "mud",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "błoto"
         ]
       }
     ]
@@ -11066,26 +10241,6 @@
         "gramGrp": "V",
         "texts": [
           "zagłuszać"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "m-mug",
-    "word": "mug",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "kubek",
-          "głupol"
-        ]
-      },
-      {
-        "gramGrp": "V",
-        "texts": [
-          "napadać",
-          "łupić"
         ]
       }
     ]
@@ -11274,20 +10429,6 @@
         "gramGrp": "Num",
         "texts": [
           "wielość"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "m-mum",
-    "word": "mum",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "mamusia",
-          "trzymać język za zębami",
-          "w jakiejś sprawie"
         ]
       }
     ]
@@ -11963,30 +11104,6 @@
         "gramGrp": "V",
         "texts": [
           "nakładać kaganiec"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "m-MW",
-    "word": "MW",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "fale średnie"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "m-my",
-    "word": "my",
-    "trans": [
-      {
-        "gramGrp": "Pron",
-        "texts": [
-          "mój"
         ]
       }
     ]

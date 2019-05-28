@@ -1,80 +1,5 @@
 [
   {
-    "id": "l-l",
-    "word": "l",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "lewy",
-          "lewo"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "długość"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "linia",
-          "werset"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "jezioro"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "l-L.A.",
-    "word": "L.A.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "zgromadzenie ustawodawcze"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "Los Angeles"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "l-Lab.",
-    "word": "Lab.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "Partia Pracy",
-          "Pracy"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "l-lab",
-    "word": "lab",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "laboratorium"
-        ]
-      }
-    ]
-  },
-  {
     "id": "l-label",
     "word": "label",
     "trans": [
@@ -280,18 +205,6 @@
         "gramGrp": "Adj",
         "texts": [
           "koronkowy"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "l-lad",
-    "word": "lad",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "młodzieniec"
         ]
       }
     ]
@@ -643,18 +556,6 @@
     ]
   },
   {
-    "id": "l-lang.",
-    "word": "lang.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "język"
-        ]
-      }
-    ]
-  },
-  {
     "id": "l-language",
     "word": "language",
     "trans": [
@@ -712,36 +613,6 @@
         "gramGrp": "N",
         "texts": [
           "latarnia"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "l-lap",
-    "word": "lap",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "kolana",
-          "okrążenie",
-          "runda"
-        ]
-      },
-      {
-        "gramGrp": "V",
-        "texts": [
-          "okrążać",
-          "chlapać",
-          "pluskać",
-          "chłeptać"
-        ]
-      },
-      {
-        "gramGrp": "V Phras",
-        "texts": [
-          "chłeptać łapczywie",
-          "chłonąć łapczywie"
         ]
       }
     ]
@@ -989,32 +860,6 @@
         "gramGrp": "Adj",
         "texts": [
           "w ostatniej chwili"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "l-Lat.",
-    "word": "Lat.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "łac.",
-          "łacina",
-          "łaciński"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "l-lat.",
-    "word": "lat.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "szerokość"
         ]
       }
     ]
@@ -1357,12 +1202,6 @@
     "word": "laundry",
     "trans": [
       {
-        "gramGrp": "",
-        "texts": [
-          "pranie"
-        ]
-      },
-      {
         "gramGrp": "N",
         "texts": [
           "pralnia"
@@ -1440,39 +1279,6 @@
           "zarzucać",
           "kogoś czymś",
           "kogoś czymś"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "l-law",
-    "word": "law",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "prawo",
-          "ustawa",
-          "władza",
-          "policja"
-        ]
-      },
-      {
-        "gramGrp": "Adj",
-        "texts": [
-          "prawniczy"
-        ]
-      },
-      {
-        "gramGrp": "N Comp",
-        "texts": [
-          "osoba naruszająca prawo"
-        ]
-      },
-      {
-        "gramGrp": "N Comp",
-        "texts": [
-          "sąd"
         ]
       }
     ]
@@ -1566,19 +1372,6 @@
     ]
   },
   {
-    "id": "l-lax",
-    "word": "lax",
-    "trans": [
-      {
-        "gramGrp": "Adj",
-        "texts": [
-          "luźny",
-          "nieścisły"
-        ]
-      }
-    ]
-  },
-  {
     "id": "l-laxative",
     "word": "laxative",
     "trans": [
@@ -1586,84 +1379,6 @@
         "gramGrp": "N",
         "texts": [
           "środek przeczyszczający"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "l-lay",
-    "word": "lay",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "kłaść",
-          "położyć",
-          "nakrywać",
-          "składać",
-          "zastawiać",
-          "rzucać",
-          "zrzucać",
-          "na",
-          "na"
-        ]
-      },
-      {
-        "gramGrp": "Adj",
-        "texts": [
-          "świecki",
-          "laicki",
-          "nieprofesjonalny",
-          "chwytać"
-        ]
-      },
-      {
-        "gramGrp": "V Phras",
-        "texts": [
-          "odkładać"
-        ]
-      },
-      {
-        "gramGrp": "V Phras",
-        "texts": [
-          "odkładać"
-        ]
-      },
-      {
-        "gramGrp": "V Phras",
-        "texts": [
-          "wyznaczać",
-          "ustanawiać",
-          "kłaść"
-        ]
-      },
-      {
-        "gramGrp": "V Phras",
-        "texts": [
-          "rzucać się",
-          "na kogoś"
-        ]
-      },
-      {
-        "gramGrp": "V Phras",
-        "texts": [
-          "zwalniać",
-          "przestawać",
-          ",,Odwal się!''"
-        ]
-      },
-      {
-        "gramGrp": "V Phras",
-        "texts": [
-          "wystawiać się na coś",
-          "wystawiać się"
-        ]
-      },
-      {
-        "gramGrp": "V Phras",
-        "texts": [
-          "wykładać",
-          "rozplanowywać"
         ]
       }
     ]
@@ -1764,42 +1479,6 @@
         "gramGrp": "Adj",
         "texts": [
           "leniwy"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "l-lb",
-    "word": "lblibra",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "funt"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "l-LCD",
-    "word": "LCD",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "ekran ciekłokrystaliczny"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "l-LEA",
-    "word": "LEA",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "wydział oświaty"
         ]
       }
     ]
@@ -2547,21 +2226,6 @@
     ]
   },
   {
-    "id": "l-leg",
-    "word": "leg",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "noga",
-          "nogawka",
-          "etap",
-          "część"
-        ]
-      }
-    ]
-  },
-  {
     "id": "l-legacy",
     "word": "legacy",
     "trans": [
@@ -2906,18 +2570,6 @@
         "gramGrp": "N",
         "texts": [
           "soczewica"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "l-Leo",
-    "word": "Leo",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "Lew "
         ]
       }
     ]
@@ -3362,18 +3014,6 @@
     ]
   },
   {
-    "id": "l-lib.",
-    "word": "lib.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "liberalny"
-        ]
-      }
-    ]
-  },
-  {
     "id": "l-libel",
     "word": "libel",
     "trans": [
@@ -3607,19 +3247,6 @@
     ]
   },
   {
-    "id": "l-lid",
-    "word": "lid",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "pokrywka",
-          "powieka"
-        ]
-      }
-    ]
-  },
-  {
     "id": "l-lie-down",
     "word": "lie-down",
     "trans": [
@@ -3627,30 +3254,6 @@
         "gramGrp": "N",
         "texts": [
           "wypoczynek"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "l-Lieut.",
-    "word": "Lieut.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "porucznik"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "l-Lieut.-Col.",
-    "word": "Lieut.-Col.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "podpułkownik"
         ]
       }
     ]
@@ -4597,18 +4200,6 @@
     ]
   },
   {
-    "id": "l-lip",
-    "word": "lip",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "warga"
-        ]
-      }
-    ]
-  },
-  {
     "id": "l-lip-read",
     "word": "lip-read",
     "trans": [
@@ -4616,18 +4207,6 @@
         "gramGrp": "V",
         "texts": [
           "czytać z warg"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "l-lip-service",
-    "word": "lip-service",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "składać komuś deklaracje bez pokrycia"
         ]
       }
     ]
@@ -5173,18 +4752,6 @@
     ]
   },
   {
-    "id": "l-LMT",
-    "word": "LMT",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "czas lokalny"
-        ]
-      }
-    ]
-  },
-  {
     "id": "l-loaded",
     "word": "loaded",
     "trans": [
@@ -5519,18 +5086,6 @@
     ]
   },
   {
-    "id": "l-loggerheads",
-    "word": "loggerheads",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "kłócić się"
-        ]
-      }
-    ]
-  },
-  {
     "id": "l-logic",
     "word": "logic",
     "trans": [
@@ -5715,18 +5270,6 @@
     ]
   },
   {
-    "id": "l-long.",
-    "word": "long.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "długość"
-        ]
-      }
-    ]
-  },
-  {
     "id": "l-long-distance",
     "word": "long-distance",
     "trans": [
@@ -5861,18 +5404,6 @@
         "gramGrp": "Adj",
         "texts": [
           "rozwlekły"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "l-loo",
-    "word": "loo",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "ubikacja"
         ]
       }
     ]
@@ -6017,18 +5548,6 @@
         "gramGrp": "N",
         "texts": [
           "łup"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "l-lop",
-    "word": "lop",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "odrąbywać "
         ]
       }
     ]
@@ -6471,92 +5990,6 @@
     ]
   },
   {
-    "id": "l-LP",
-    "word": "LP",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "płyta długogrająca analogowa",
-          "płyta długogrająca"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "l-LQ",
-    "word": "LQ",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "wysoka jakość "
-        ]
-      }
-    ]
-  },
-  {
-    "id": "l-LSD",
-    "word": "LSD",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "LSD"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "l-LST",
-    "word": "LST",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "czas lokalny"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "l-Lt.",
-    "word": "Lt.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "porucznik"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "l-Lt.-Col.",
-    "word": "Lt.-Col.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "podpułkownik"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "l-ltd.",
-    "word": "ltd.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "z o.o.",
-          "z ograniczoną odpowiedzialnością"
-        ]
-      }
-    ]
-  },
-  {
     "id": "l-lubricate",
     "word": "lubricate",
     "trans": [
@@ -6645,19 +6078,6 @@
         "texts": [
           "groteskowy",
           "śmieszny"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "l-lug",
-    "word": "lug",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "taskać",
-          "tachać"
         ]
       }
     ]
@@ -7136,18 +6556,6 @@
         "gramGrp": "Adj",
         "texts": [
           "luksusowy"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "l-LW",
-    "word": "LW",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "fale długie"
         ]
       }
     ]

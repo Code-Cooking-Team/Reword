@@ -225,31 +225,6 @@
     ]
   },
   {
-    "id": "z-zip",
-    "word": "zip",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "zamek błyskawiczny"
-        ]
-      },
-      {
-        "gramGrp": "V",
-        "texts": [
-          "zamykać na zamek błyskawiczny",
-          "zamykać"
-        ]
-      },
-      {
-        "gramGrp": "N Comp",
-        "texts": [
-          "kod pocztowy"
-        ]
-      }
-    ]
-  },
-  {
     "id": "z-zipper",
     "word": "zipper",
     "trans": [
@@ -257,18 +232,6 @@
         "gramGrp": "N",
         "texts": [
           "zamek błyskawiczny"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "z-zodiac",
-    "word": "zodiac",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "zodiak"
         ]
       }
     ]
@@ -293,19 +256,6 @@
         "gramGrp": "N",
         "texts": [
           "strefa"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "z-zoo",
-    "word": "zoo",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "zoo",
-          "ogród zoologiczny"
         ]
       }
     ]

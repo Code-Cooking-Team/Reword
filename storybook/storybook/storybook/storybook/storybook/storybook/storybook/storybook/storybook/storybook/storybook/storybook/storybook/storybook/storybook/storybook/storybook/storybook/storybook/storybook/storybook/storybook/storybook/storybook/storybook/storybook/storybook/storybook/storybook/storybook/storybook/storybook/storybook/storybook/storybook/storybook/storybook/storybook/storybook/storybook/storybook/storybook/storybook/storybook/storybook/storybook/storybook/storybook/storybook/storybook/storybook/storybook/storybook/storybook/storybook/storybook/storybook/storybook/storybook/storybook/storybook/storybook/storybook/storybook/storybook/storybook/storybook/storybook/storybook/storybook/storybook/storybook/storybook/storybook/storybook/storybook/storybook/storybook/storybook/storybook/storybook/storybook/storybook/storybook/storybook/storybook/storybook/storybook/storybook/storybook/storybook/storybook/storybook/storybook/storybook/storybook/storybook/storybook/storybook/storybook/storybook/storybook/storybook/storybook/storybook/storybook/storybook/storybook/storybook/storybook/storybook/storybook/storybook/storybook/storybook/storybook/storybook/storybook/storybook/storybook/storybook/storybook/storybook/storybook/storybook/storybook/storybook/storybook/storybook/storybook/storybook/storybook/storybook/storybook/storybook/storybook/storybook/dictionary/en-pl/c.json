@@ -1,18 +1,5 @@
 [
   {
-    "id": "c-cab",
-    "word": "cab",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "taksówka",
-          "kabina"
-        ]
-      }
-    ]
-  },
-  {
     "id": "c-cabaret",
     "word": "cabaret",
     "trans": [
@@ -151,18 +138,6 @@
         "gramGrp": "N",
         "texts": [
           "kaktus"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "c-CAD",
-    "word": "CAD",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "projektowanie wspomagane komputerowo"
         ]
       }
     ]
@@ -314,30 +289,6 @@
     ]
   },
   {
-    "id": "c-cahoots",
-    "word": "cahoots",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "w zmowie z"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "c-CAI",
-    "word": "CAI",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "nauczanie wspomagane komputerowo"
-        ]
-      }
-    ]
-  },
-  {
     "id": "c-cajole",
     "word": "cajole",
     "trans": [
@@ -381,18 +332,6 @@
           "zastygły",
           "zakrzepły",
           "oblepiony"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "c-cal",
-    "word": "cal",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "kaloria"
         ]
       }
     ]
@@ -1345,32 +1284,6 @@
     ]
   },
   {
-    "id": "c-cap",
-    "word": "cap",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "czapka",
-          "zakrętka",
-          "kapsel",
-          "kapturek dopochwowy",
-          "kapiszon"
-        ]
-      },
-      {
-        "gramGrp": "V",
-        "texts": [
-          "przykrywać",
-          "pokrywać",
-          "czymś",
-          "przewyższać",
-          "przelicytowywać"
-        ]
-      }
-    ]
-  },
-  {
     "id": "c-capability",
     "word": "capability",
     "trans": [
@@ -1660,19 +1573,6 @@
           "kapsułka",
           "kapsuła",
           "kabina załogowa"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "c-Capt.",
-    "word": "Capt.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "kpt.",
-          "kapitan"
         ]
       }
     ]
@@ -2957,18 +2857,6 @@
     ]
   },
   {
-    "id": "c-cat",
-    "word": "cat",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "kot"
-        ]
-      }
-    ]
-  },
-  {
     "id": "c-cataclysm",
     "word": "cataclysm",
     "trans": [
@@ -3271,19 +3159,6 @@
         "gramGrp": "N",
         "texts": [
           "gąsienica"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "c-Cath.",
-    "word": "Cath.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "katolicki",
-          "katolik"
         ]
       }
     ]
@@ -3612,67 +3487,6 @@
         "texts": [
           "baraszkować",
           "zabawiać się"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "c-caw",
-    "word": "caw",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "krakać"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "c-CBC",
-    "word": "CBC",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "radio kanadyjskie"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "c-CBS",
-    "word": "CBS",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "Radio CBS"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "c-cc.",
-    "word": "cc.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "rozdziały"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "c-Cdr.",
-    "word": "Cdr.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "d-ca dowódca",
-          "d-ca"
         ]
       }
     ]
@@ -4428,31 +4242,6 @@
     ]
   },
   {
-    "id": "c-cf.",
-    "word": "cf.confer",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "por.",
-          "porównaj"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "c-ch.",
-    "word": "ch.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "rozdział"
-        ]
-      }
-    ]
-  },
-  {
     "id": "c-chafe",
     "word": "chafe",
     "trans": [
@@ -4924,18 +4713,6 @@
         "texts": [
           "facet",
           "gość"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "c-chap.",
-    "word": "chap.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "rozdział"
         ]
       }
     ]
@@ -5782,18 +5559,6 @@
         "gramGrp": "Adj",
         "texts": [
           "ponury"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "c-cheers",
-    "word": "cheers",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          ",,Na zdrowie!''"
         ]
       }
     ]
@@ -7332,30 +7097,6 @@
     ]
   },
   {
-    "id": "c-CIA",
-    "word": "CIA",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "Centalna Agencja Wywiadowcza"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "c-CID",
-    "word": "CID",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "wydział śledczy"
-        ]
-      }
-    ]
-  },
-  {
     "id": "c-cider",
     "word": "cider",
     "trans": [
@@ -7388,18 +7129,6 @@
         "gramGrp": "N",
         "texts": [
           "papieros"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "c-C-in-C",
-    "word": "C-in-C",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "głównodowodzący"
         ]
       }
     ]
@@ -7710,19 +7439,6 @@
         "gramGrp": "N",
         "texts": [
           "cyrk"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "c-CIS",
-    "word": "CIS",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "WNP",
-          "Wspólnota Niepodległych Państw"
         ]
       }
     ]
@@ -9789,56 +9505,6 @@
     ]
   },
   {
-    "id": "c-CM",
-    "word": "CM",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "wspólny rynek"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "c-CO",
-    "word": "CO",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "dowódca"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "c-co",
-    "word": "c/o",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "pod adresem",
-          "do rąk"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "c-co-",
-    "word": "co-",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "współ-",
-          "ko-"
-        ]
-      }
-    ]
-  },
-  {
     "id": "c-coach",
     "word": "coach",
     "trans": [
@@ -10365,31 +10031,6 @@
     ]
   },
   {
-    "id": "c-COD",
-    "word": "CODc.o.d.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "płatne przy odbiorze",
-          "za zaliczeniem pocztowym"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "c-cod",
-    "word": "cod",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "dorsz"
-        ]
-      }
-    ]
-  },
-  {
     "id": "c-coddle",
     "word": "coddle",
     "trans": [
@@ -10493,18 +10134,6 @@
     ]
   },
   {
-    "id": "c-C._of_E.",
-    "word": "C. of E.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "Kościół Anglii"
-        ]
-      }
-    ]
-  },
-  {
     "id": "c-coffee",
     "word": "coffee",
     "trans": [
@@ -10531,19 +10160,6 @@
         "gramGrp": "N",
         "texts": [
           "trumna"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "c-cog",
-    "word": "cog",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "ząb",
-          "trybik w maszynie"
         ]
       }
     ]
@@ -10769,32 +10385,6 @@
     ]
   },
   {
-    "id": "c-Col.",
-    "word": "Col.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "płk pułkownik",
-          "płk"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "c-col.",
-    "word": "col.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "kolumna",
-          "szpalta"
-        ]
-      }
-    ]
-  },
-  {
     "id": "c-colander",
     "word": "colander",
     "trans": [
@@ -10827,18 +10417,6 @@
         "gramGrp": "N",
         "texts": [
           "kolka"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "c-coll.",
-    "word": "coll.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "kolegium"
         ]
       }
     ]
@@ -11367,24 +10945,6 @@
     ]
   },
   {
-    "id": "c-Com.",
-    "word": "Com.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "dowódca"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "komandor"
-        ]
-      }
-    ]
-  },
-  {
     "id": "c-coma",
     "word": "coma",
     "trans": [
@@ -11487,18 +11047,6 @@
         "texts": [
           "zapłon",
           "spalanie"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "c-comeback",
-    "word": "comeback",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "powracać"
         ]
       }
     ]
@@ -12328,19 +11876,6 @@
         "gramGrp": "N",
         "texts": [
           "dojeżdżający"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "c-comp.",
-    "word": "comp.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "por.",
-          "porównaj"
         ]
       }
     ]
@@ -13508,26 +13043,6 @@
     ]
   },
   {
-    "id": "c-con",
-    "word": "con",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "urabiać",
-          "w",
-          "oszukiwać"
-        ]
-      },
-      {
-        "gramGrp": "N",
-        "texts": [
-          "szwindel"
-        ]
-      }
-    ]
-  },
-  {
     "id": "c-concave",
     "word": "concave",
     "trans": [
@@ -14330,18 +13845,6 @@
           "przyzwalać",
           "na coś",
           "rozgrzeszać"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "c-conducive",
-    "word": "conducive",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "prowadzić do"
         ]
       }
     ]
@@ -16019,18 +15522,6 @@
     ]
   },
   {
-    "id": "c-constipated",
-    "word": "constipated",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "mieć zatwardzenie"
-        ]
-      }
-    ]
-  },
-  {
     "id": "c-constipation",
     "word": "constipation",
     "trans": [
@@ -16429,25 +15920,6 @@
           "zużycie",
           "konsumpcja",
           "dla czyjegoś użytku"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "c-cont.",
-    "word": "cont.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "zawartość"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "c.d.",
-          "ciąg dalszy"
         ]
       }
     ]
@@ -17835,18 +17307,6 @@
     ]
   },
   {
-    "id": "c-coo",
-    "word": "coo",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "gruchać"
-        ]
-      }
-    ]
-  },
-  {
     "id": "c-cook",
     "word": "cook",
     "trans": [
@@ -18104,24 +17564,6 @@
         "texts": [
           "koordynator",
           "organizator"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "c-cop",
-    "word": "cop",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "gliniarz"
-        ]
-      },
-      {
-        "gramGrp": "V Phras",
-        "texts": [
-          "wymigać się"
         ]
       }
     ]

@@ -60,19 +60,6 @@
     ]
   },
   {
-    "id": "y-yap",
-    "word": "yap",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "ujadać",
-          "kłapać jadaczką"
-        ]
-      }
-    ]
-  },
-  {
     "id": "y-yard",
     "word": "yard",
     "trans": [
@@ -129,18 +116,6 @@
         "texts": [
           "ziewnięcie",
           "nudziarstwo"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "y-yd",
-    "word": "yd",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "jard"
         ]
       }
     ]
@@ -317,35 +292,6 @@
     ]
   },
   {
-    "id": "y-yen",
-    "word": "yen",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "ochota",
-          "chętka",
-          "do czegoś",
-          "jen"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "y-yes",
-    "word": "yes",
-    "trans": [
-      {
-        "gramGrp": "Inter",
-        "texts": [
-          "tak",
-          "nie",
-          ",,Nie zrobiłeś tego?'' ,,O nie, zrobiłem''"
-        ]
-      }
-    ]
-  },
-  {
     "id": "y-yes-man",
     "word": "yes-man",
     "trans": [
@@ -371,48 +317,6 @@
     ]
   },
   {
-    "id": "y-yet",
-    "word": "yet",
-    "trans": [
-      {
-        "gramGrp": "Adv",
-        "texts": [
-          "jeszcze",
-          "przynajmniej",
-          "a jednak",
-          "jednak",
-          "dotąd",
-          "do tej pory",
-          "jak dotąd"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "y-yew",
-    "word": "yew",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "cis"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "y-YHA",
-    "word": "YHA",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "Związek Schronisk Młodzieżowych"
-        ]
-      }
-    ]
-  },
-  {
     "id": "y-yield",
     "word": "yield",
     "trans": [
@@ -432,18 +336,6 @@
         "texts": [
           "zysk",
           "plon"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "y-YMCA",
-    "word": "YMCA",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "Stowarzyszenie Męskiej Młodzieży Chrześcijańskiej"
         ]
       }
     ]
@@ -498,24 +390,6 @@
         "gramGrp": "Det",
         "texts": [
           "tamten"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "y-you",
-    "word": "you",
-    "trans": [
-      {
-        "gramGrp": "Pron",
-        "texts": [
-          "ty ",
-          "wy ",
-          "pan",
-          "pani",
-          "panowie",
-          "panie",
-          "wtedy ma się problemy"
         ]
       }
     ]
@@ -645,18 +519,6 @@
     ]
   },
   {
-    "id": "y-yr.",
-    "word": "yr.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "rok"
-        ]
-      }
-    ]
-  },
-  {
     "id": "y-Yugoslav",
     "word": "Yugoslav",
     "trans": [
@@ -676,18 +538,6 @@
         "gramGrp": "N",
         "texts": [
           "Jugosławia"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "y-YWCA",
-    "word": "YWCA",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "Stowarzyszenie Żeńskiej Młodzieży Chrześcijańskiej"
         ]
       }
     ]

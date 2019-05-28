@@ -1,47 +1,5 @@
 [
   {
-    "id": "r-r.",
-    "word": "r.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "prawy"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "rzeka"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "droga"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "r-RA",
-    "word": "RA",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "Akademia Królewska"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "członek Akademii Królewskiej"
-        ]
-      }
-    ]
-  },
-  {
     "id": "r-rabbi",
     "word": "rabbi",
     "trans": [
@@ -100,18 +58,6 @@
         "gramGrp": "N",
         "texts": [
           "wścieklizna"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "r-RAC",
-    "word": "RAC",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "Królewski Automobilklub"
         ]
       }
     ]
@@ -505,18 +451,6 @@
     ]
   },
   {
-    "id": "r-RAF",
-    "word": "RAF",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "Królewskie Siły Powietrzne"
-        ]
-      }
-    ]
-  },
-  {
     "id": "r-raffle",
     "word": "raffle",
     "trans": [
@@ -551,33 +485,6 @@
         "gramGrp": "N",
         "texts": [
           "krokiew"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "r-rag",
-    "word": "rag",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "szmata",
-          "łachmany",
-          "szmata",
-          "brukowiec"
-        ]
-      },
-      {
-        "gramGrp": "V",
-        "texts": [
-          "nabijać się"
-        ]
-      },
-      {
-        "gramGrp": "N",
-        "texts": [
-          "festyn studencki "
         ]
       }
     ]
@@ -977,29 +884,6 @@
     ]
   },
   {
-    "id": "r-ram",
-    "word": "ram",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "walić jak taranem",
-          "walić",
-          "wbijać",
-          "walić"
-        ]
-      },
-      {
-        "gramGrp": "N",
-        "texts": [
-          "tryk",
-          "baran",
-          "wykazywać dobitnie coś"
-        ]
-      }
-    ]
-  },
-  {
     "id": "r-ramble",
     "word": "ramble",
     "trans": [
@@ -1299,24 +1183,6 @@
     ]
   },
   {
-    "id": "r-rap",
-    "word": "rap",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "stukać"
-        ]
-      },
-      {
-        "gramGrp": "N",
-        "texts": [
-          "stuknięcie"
-        ]
-      }
-    ]
-  },
-  {
     "id": "r-rapacious",
     "word": "rapacious",
     "trans": [
@@ -1575,20 +1441,6 @@
         "gramGrp": "N",
         "texts": [
           "malina"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "r-rat",
-    "word": "rat",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "szczur",
-          "podlec",
-          "wściekłe współzawodnictwo"
         ]
       }
     ]
@@ -1970,40 +1822,6 @@
     ]
   },
   {
-    "id": "r-raw",
-    "word": "raw",
-    "trans": [
-      {
-        "gramGrp": "Adj",
-        "texts": [
-          "surowy",
-          "nieprzetworzony",
-          "otwarty",
-          "żywy"
-        ]
-      },
-      {
-        "gramGrp": "N Comp",
-        "texts": [
-          "surowiec",
-          "tworzywo"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "r-ray",
-    "word": "ray",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "promień"
-        ]
-      }
-    ]
-  },
-  {
     "id": "r-rayon",
     "word": "rayon",
     "trans": [
@@ -2012,18 +1830,6 @@
         "texts": [
           "wiskoza",
           "sztuczny jedwab"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "r-raze",
-    "word": "raze",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "zrównać z ziemią"
         ]
       }
     ]
@@ -2043,51 +1849,6 @@
         "gramGrp": "N Comp",
         "texts": [
           "żyletka"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "r-RC",
-    "word": "RC",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "Czerwony Krzyż"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "rzymskokatolicki",
-          "katolicki",
-          "katolik"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "r-Rd.",
-    "word": "Rd.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "droga"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "r-re",
-    "word": "re",
-    "trans": [
-      {
-        "gramGrp": "Prep",
-        "texts": [
-          "odnośnie",
-          "w sprawie"
         ]
       }
     ]
@@ -2239,20 +2000,6 @@
         "texts": [
           "gotowość",
           "do do zrobienia czegoś"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "r-reading",
-    "word": "reading",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "czytanie",
-          "recytacja",
-          "odczyt"
         ]
       }
     ]
@@ -3539,18 +3286,6 @@
     ]
   },
   {
-    "id": "r-recourse",
-    "word": "recourse",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "uciekać się do pomocy czegoś"
-        ]
-      }
-    ]
-  },
-  {
     "id": "r-recover",
     "word": "recover",
     "trans": [
@@ -3778,41 +3513,6 @@
     ]
   },
   {
-    "id": "r-red",
-    "word": "red",
-    "trans": [
-      {
-        "gramGrp": "Adj",
-        "texts": [
-          "czerwony ",
-          "rudy"
-        ]
-      },
-      {
-        "gramGrp": "N",
-        "texts": [
-          "czerwień",
-          "mieć deficyt",
-          "kogoś wściekłość rozsadza"
-        ]
-      },
-      {
-        "gramGrp": "N Comp",
-        "texts": [
-          "wabik",
-          "przynęta",
-          "fałszywy ślad"
-        ]
-      },
-      {
-        "gramGrp": "N Comp",
-        "texts": [
-          "biurokracja"
-        ]
-      }
-    ]
-  },
-  {
     "id": "r-redden",
     "word": "redden",
     "trans": [
@@ -3911,18 +3611,6 @@
         "gramGrp": "V",
         "texts": [
           "przeadresowywać"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "r-red-letter",
-    "word": "red-letter",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "święto"
         ]
       }
     ]
@@ -4124,19 +3812,6 @@
         "gramGrp": "V Phras",
         "texts": [
           "powtórnie wybierać"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "r-ref",
-    "word": "ref",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "nr",
-          "nasz znak"
         ]
       }
     ]
@@ -5762,18 +5437,6 @@
     ]
   },
   {
-    "id": "r-reluctant",
-    "word": "reluctant",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "niechętnie coś robić"
-        ]
-      }
-    ]
-  },
-  {
     "id": "r-rely",
     "word": "rely",
     "trans": [
@@ -6398,50 +6061,6 @@
         "gramGrp": "V",
         "texts": [
           "reorganizować"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "r-Rep.",
-    "word": "Rep.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "republikański",
-          "republikanin"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "r-rep",
-    "word": "rep",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "przedstawiciel"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "repertuar"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "r-rep.",
-    "word": "rep.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "reprezentant",
-          "przedstawiciel"
         ]
       }
     ]
@@ -8010,18 +7629,6 @@
     ]
   },
   {
-    "id": "r-resp.",
-    "word": "resp.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "odpowiednio"
-        ]
-      }
-    ]
-  },
-  {
     "id": "r-respectable",
     "word": "respectable",
     "trans": [
@@ -8604,30 +8211,6 @@
     ]
   },
   {
-    "id": "r-retch",
-    "word": "retch",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "zbiera mu się na wymioty"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "r-retd.",
-    "word": "retd.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "emerytowany"
-        ]
-      }
-    ]
-  },
-  {
     "id": "r-retention",
     "word": "retention",
     "trans": [
@@ -8874,19 +8457,6 @@
     ]
   },
   {
-    "id": "r-retrospect",
-    "word": "retrospect",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "w retrospekcji",
-          "po zastanowieniu się"
-        ]
-      }
-    ]
-  },
-  {
     "id": "r-retrospective",
     "word": "retrospective",
     "trans": [
@@ -8971,60 +8541,6 @@
           "połączyć",
           "złączyć",
           "scalać"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "r-Rev.",
-    "word": "Rev.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "wielebny"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "r-rev",
-    "word": "rev",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "zwiększać obroty"
-        ]
-      },
-      {
-        "gramGrp": "N",
-        "texts": [
-          "liczba obrotów"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "r-rev.",
-    "word": "rev.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "obrót"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "r-Revd.",
-    "word": "Revd.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "wielebny"
         ]
       }
     ]
@@ -9154,18 +8670,6 @@
         "texts": [
           "cześć",
           "czczenie"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "r-reverend",
-    "word": "reverend",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "wielebny"
         ]
       }
     ]
@@ -9733,25 +9237,6 @@
     ]
   },
   {
-    "id": "r-rib",
-    "word": "rib",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "żebro"
-        ]
-      },
-      {
-        "gramGrp": "V",
-        "texts": [
-          "żartować",
-          "z kogoś"
-        ]
-      }
-    ]
-  },
-  {
     "id": "r-ribald",
     "word": "ribald",
     "trans": [
@@ -9878,32 +9363,6 @@
         "gramGrp": "N",
         "texts": [
           "rykoszet"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "r-rid",
-    "word": "rid",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "uwalniać",
-          "oczyszczać",
-          "z czegoś",
-          "od czegoś"
-        ]
-      },
-      {
-        "gramGrp": "Adj",
-        "texts": [
-          "uwolniony",
-          "od czegoś",
-          "pozbawiać się",
-          "czegoś",
-          "uwalniać się",
-          "uwalniać się od czegoś"
         ]
       }
     ]
@@ -10069,36 +9528,6 @@
           "niezgoda",
           "pomiędzy",
           "w"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "r-rig",
-    "word": "rig",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "takielować",
-          "fałszować",
-          "oszukiwać",
-          "w czymś",
-          "przy czymś"
-        ]
-      },
-      {
-        "gramGrp": "N",
-        "texts": [
-          "takielunek",
-          "instalacja"
-        ]
-      },
-      {
-        "gramGrp": "V Phras",
-        "texts": [
-          "składać",
-          "klecić"
         ]
       }
     ]
@@ -10304,21 +9733,6 @@
     ]
   },
   {
-    "id": "r-rim",
-    "word": "rim",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "brzeg",
-          "krawędź",
-          "obręcz",
-          "oprawka"
-        ]
-      }
-    ]
-  },
-  {
     "id": "r-rind",
     "word": "rind",
     "trans": [
@@ -10413,33 +9827,6 @@
           "chuligański",
           "burzliwy",
           "żywiołowy"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "r-rip",
-    "word": "rip",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "rozdzierać",
-          "oddzierać",
-          "wydzierać"
-        ]
-      },
-      {
-        "gramGrp": "N",
-        "texts": [
-          "rozdarcie"
-        ]
-      },
-      {
-        "gramGrp": "V Phras",
-        "texts": [
-          "obdzierać",
-          "zdzierać"
         ]
       }
     ]
@@ -10658,32 +10045,6 @@
     ]
   },
   {
-    "id": "r-rm.",
-    "word": "rm.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "sala",
-          "pokój",
-          "pomieszczenie"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "r-RN",
-    "word": "RN",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "Królewska Marynarka"
-        ]
-      }
-    ]
-  },
-  {
     "id": "r-roadblock",
     "word": "roadblock",
     "trans": [
@@ -10813,20 +10174,6 @@
         "gramGrp": "N",
         "texts": [
           "pieczeń"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "r-rob",
-    "word": "rob",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "ograbiać",
-          "rabować",
-          "kogoś z czegoś"
         ]
       }
     ]
@@ -11014,20 +10361,6 @@
     ]
   },
   {
-    "id": "r-rod",
-    "word": "rod",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "pręt",
-          "sworzeń",
-          "trzpień"
-        ]
-      }
-    ]
-  },
-  {
     "id": "r-rodent",
     "word": "rodent",
     "trans": [
@@ -11035,18 +10368,6 @@
         "gramGrp": "N",
         "texts": [
           "gryzoń"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "r-roe",
-    "word": "roe",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "ikra"
         ]
       }
     ]
@@ -11201,18 +10522,6 @@
         "texts": [
           "wałek do ciasta",
           "wałek"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "r-ROM",
-    "word": "ROM",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "pamięć stała"
         ]
       }
     ]
@@ -11673,28 +10982,6 @@
     ]
   },
   {
-    "id": "r-rot",
-    "word": "rot",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "psuć się",
-          "gnić",
-          "powodować psucie"
-        ]
-      },
-      {
-        "gramGrp": "N",
-        "texts": [
-          "gnicie",
-          "zepsuta część",
-          "bzdury"
-        ]
-      }
-    ]
-  },
-  {
     "id": "r-rota",
     "word": "rota",
     "trans": [
@@ -12031,43 +11318,6 @@
     ]
   },
   {
-    "id": "r-row",
-    "word": "row",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "kłótnia",
-          "sprzeczka",
-          "hałas",
-          "harmider"
-        ]
-      },
-      {
-        "gramGrp": "V",
-        "texts": [
-          "kłócić się"
-        ]
-      },
-      {
-        "gramGrp": "N",
-        "texts": [
-          "rząd",
-          "szereg",
-          "przejażdżka łodzią"
-        ]
-      },
-      {
-        "gramGrp": "V",
-        "texts": [
-          "wiosłować",
-          "przewozić łodzią",
-          "pod rząd"
-        ]
-      }
-    ]
-  },
-  {
     "id": "r-rowboat",
     "word": "rowboat",
     "trans": [
@@ -12155,93 +11405,6 @@
         "texts": [
           "rodzina królewska",
           "tantiema"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "r-RP",
-    "word": "RP",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": []
-      }
-    ]
-  },
-  {
-    "id": "r-rpm",
-    "word": "rpm",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "obr./min.",
-          "obroty na minutę"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "r-rps",
-    "word": "rps",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "obr./sek.",
-          "obroty na sekundę"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "r-rt.",
-    "word": "rt.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "prawy"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "r-Rt._Hon.",
-    "word": "Rt. Hon.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "Czcigodny "
-        ]
-      }
-    ]
-  },
-  {
-    "id": "r-rub",
-    "word": "rub",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "trzeć",
-          "się nawzajem",
-          "pocierać",
-          "ocierać się",
-          "ocierać",
-          "A o B",
-          "wcierać",
-          "ścierać"
-        ]
-      },
-      {
-        "gramGrp": "N",
-        "texts": [
-          "tarcie",
-          "czepiać się czegoś",
-          "nadepnąć komuś na odcisk"
         ]
       }
     ]
@@ -12470,20 +11633,6 @@
     ]
   },
   {
-    "id": "r-rug",
-    "word": "rug",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "dywanik",
-          "pled",
-          "koc"
-        ]
-      }
-    ]
-  },
-  {
     "id": "r-rugby",
     "word": "rugby",
     "trans": [
@@ -12617,24 +11766,6 @@
         "texts": [
           "werdykt",
           "orzeczenie"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "r-rum",
-    "word": "rum",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "rum"
-        ]
-      },
-      {
-        "gramGrp": "Adj",
-        "texts": [
-          "dziwaczny"
         ]
       }
     ]
@@ -13059,19 +12190,6 @@
     ]
   },
   {
-    "id": "r-rut",
-    "word": "rut",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "koleina",
-          "ruja"
-        ]
-      }
-    ]
-  },
-  {
     "id": "r-ruthless",
     "word": "ruthless",
     "trans": [
@@ -13079,18 +12197,6 @@
         "gramGrp": "Adj",
         "texts": [
           "bezlitosny"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "r-rye",
-    "word": "rye",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "żyto"
         ]
       }
     ]

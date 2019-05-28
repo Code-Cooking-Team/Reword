@@ -1,90 +1,5 @@
 [
   {
-    "id": "o-o",
-    "word": "o",
-    "trans": [
-      {
-        "gramGrp": "Inter",
-        "texts": [
-          "och",
-          "ach"
-        ]
-      },
-      {
-        "gramGrp": "N",
-        "texts": [
-          "zero"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "o-oaf",
-    "word": "oaf",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "bęcwał"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "o-oak",
-    "word": "oak",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "dąb"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "o-OAP",
-    "word": "OAP",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "emeryt"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "emerytura"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "o-oar",
-    "word": "oar",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "wiosło"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "o-OAS",
-    "word": "OAS",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "Organizacja Państwa Amerykańskich"
-        ]
-      }
-    ]
-  },
-  {
     "id": "o-oasis",
     "word": "oasis",
     "trans": [
@@ -123,30 +38,6 @@
         "gramGrp": "Adj",
         "texts": [
           "jasnobeżowy"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "o-OAU",
-    "word": "OAU",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "Organizacja Jedności Afrykańskiej"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "o-OBE",
-    "word": "OBE",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "Order Imperium Brytyjskiego"
         ]
       }
     ]
@@ -936,30 +827,6 @@
     ]
   },
   {
-    "id": "o-OCR",
-    "word": "OCR",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "optyczne rozpoznawianie znaków"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "o-Oct.",
-    "word": "Oct.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "październik"
-        ]
-      }
-    ]
-  },
-  {
     "id": "o-octagon",
     "word": "octagon",
     "trans": [
@@ -1015,45 +882,6 @@
         "gramGrp": "N",
         "texts": [
           "okulista"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "o-odd",
-    "word": "odd",
-    "trans": [
-      {
-        "gramGrp": "Adj",
-        "texts": [
-          "dziwny",
-          "niedobrany",
-          "nie do pary",
-          "różny",
-          "nieparzysty"
-        ]
-      },
-      {
-        "gramGrp": "Adv",
-        "texts": [
-          "kilkadziesiąt",
-          "ponad dwadzieścia",
-          "coś koło dwudziestu"
-        ]
-      },
-      {
-        "gramGrp": "N",
-        "texts": [
-          "szanse",
-          "jeden nie pasujący",
-          "to dziwne"
-        ]
-      },
-      {
-        "gramGrp": "N Comp",
-        "texts": [
-          "różności",
-          "klamoty"
         ]
       }
     ]
@@ -1128,51 +956,6 @@
         "gramGrp": "N",
         "texts": [
           "zapach"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "o-OECD",
-    "word": "OECD",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "Organizacja Współpracy Ekonomicznej i Rozwoju"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "o-of",
-    "word": "of",
-    "trans": [
-      {
-        "gramGrp": "Prep",
-        "texts": [
-          "filiżanka herbaty",
-          "noga stołu",
-          "Uniwersytet Warszawski",
-          "z",
-          "ze stali",
-          "wielu z nich",
-          "wojna z roku 1991",
-          "ze strony",
-          "jak uprzejmie z jej strony",
-          "na",
-          "umrzeć na raka",
-          "o",
-          "Ustawa o publikacjach",
-          "człowiek-gigant",
-          "w",
-          "my w sześciu",
-          "w wieku lat",
-          "w wieku",
-          "dziewczynka w wieku sześciu lat",
-          "twój przyjaciel",
-          "miasto Oksford",
-          "miasto"
         ]
       }
     ]
@@ -1364,18 +1147,6 @@
     ]
   },
   {
-    "id": "o-offing",
-    "word": "offing",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "zbliżać się"
-        ]
-      }
-    ]
-  },
-  {
     "id": "o-off-licence",
     "word": "off-licence",
     "trans": [
@@ -1561,21 +1332,6 @@
     ]
   },
   {
-    "id": "o-oh",
-    "word": "oh",
-    "trans": [
-      {
-        "gramGrp": "Inter",
-        "texts": [
-          "o",
-          "no",
-          "och",
-          "ach"
-        ]
-      }
-    ]
-  },
-  {
     "id": "o-Ohio",
     "word": "Ohio",
     "trans": [
@@ -1583,69 +1339,6 @@
         "gramGrp": "N",
         "texts": [
           "Ohio"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "o-OHMS",
-    "word": "OHMS",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "w służbie państwa"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "o-oil",
-    "word": "oil",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "ropa naftowa",
-          "olej napędowy",
-          "ropa",
-          "olej",
-          "oliwa",
-          "olejek",
-          "obraz olejny"
-        ]
-      },
-      {
-        "gramGrp": "V",
-        "texts": [
-          "oliwić",
-          "nakładać olejek",
-          "nakładać krem"
-        ]
-      },
-      {
-        "gramGrp": "N Comp",
-        "texts": [
-          "obraz olejny"
-        ]
-      },
-      {
-        "gramGrp": "N Comp",
-        "texts": [
-          "platforma wiertnicza"
-        ]
-      },
-      {
-        "gramGrp": "N Comp",
-        "texts": [
-          "plama ropy naftowej na wodzie",
-          "plama ropy naftowej"
-        ]
-      },
-      {
-        "gramGrp": "N Comp",
-        "texts": [
-          "szyb naftowy"
         ]
       }
     ]
@@ -1737,31 +1430,6 @@
     ]
   },
   {
-    "id": "o-old",
-    "word": "old",
-    "trans": [
-      {
-        "gramGrp": "Adj",
-        "texts": [
-          "stary",
-          "dawny",
-          "mieć 20 lat",
-          "mieć lat",
-          "ile lat pan ma?",
-          "ile lat pani ma?",
-          "ile lat masz?",
-          "jakikolwiek"
-        ]
-      },
-      {
-        "gramGrp": "N Comp",
-        "texts": [
-          "stara panna"
-        ]
-      }
-    ]
-  },
-  {
     "id": "o-old-fashioned",
     "word": "old-fashioned",
     "trans": [
@@ -1770,18 +1438,6 @@
         "texts": [
           "staromodny",
           "staroświecki"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "o-O-level",
-    "word": "O-level",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "mała matura"
         ]
       }
     ]
@@ -1938,39 +1594,6 @@
         "texts": [
           "nadchodzący",
           "nadciągający"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "o-one",
-    "word": "one",
-    "trans": [
-      {
-        "gramGrp": "Num",
-        "texts": [
-          "jeden"
-        ]
-      },
-      {
-        "gramGrp": "Adj",
-        "texts": [
-          "jedyny"
-        ]
-      },
-      {
-        "gramGrp": "Det",
-        "texts": [
-          "pewien",
-          "ta książka nie jest tak dobra jak ta druga",
-          "trzeba być ostrożnym",
-          "jeden po drugim",
-          "jeden za drugim",
-          "wzajemnie",
-          "się",
-          "siebie",
-          "przynajmniej",
-          "przynajmniej ja"
         ]
       }
     ]
@@ -2161,18 +1784,6 @@
     ]
   },
   {
-    "id": "o-o.n.o.",
-    "word": "o.n.o.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "lub oferta najbliższa"
-        ]
-      }
-    ]
-  },
-  {
     "id": "o-onrush",
     "word": "onrush",
     "trans": [
@@ -2314,24 +1925,6 @@
     ]
   },
   {
-    "id": "o-op.",
-    "word": "op.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "dzieło"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "działanie"
-        ]
-      }
-    ]
-  },
-  {
     "id": "o-opal",
     "word": "opal",
     "trans": [
@@ -2353,18 +1946,6 @@
           "nieprzezroczysty",
           "mętny",
           "nieprzenikniony"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "o-OPEC",
-    "word": "OPEC",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "Organizacja Państw Eksportujących Ropę Naftową"
         ]
       }
     ]
@@ -2653,18 +2234,6 @@
     ]
   },
   {
-    "id": "o-opp.",
-    "word": "opp.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "naprzeciw"
-        ]
-      }
-    ]
-  },
-  {
     "id": "o-opponent",
     "word": "opponent",
     "trans": [
@@ -2834,31 +2403,6 @@
     ]
   },
   {
-    "id": "o-opt",
-    "word": "opt",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "optować",
-          "za czymś",
-          "wybierać",
-          "coś",
-          "zrobienie czegoś"
-        ]
-      },
-      {
-        "gramGrp": "V Phras",
-        "texts": [
-          "rezygnować",
-          "z czegoś",
-          "nie udzielać się",
-          "w czymś"
-        ]
-      }
-    ]
-  },
-  {
     "id": "o-optical",
     "word": "optical",
     "trans": [
@@ -2964,22 +2508,6 @@
     ]
   },
   {
-    "id": "o-or",
-    "word": "or",
-    "trans": [
-      {
-        "gramGrp": "Conj",
-        "texts": [
-          "lub",
-          "albo",
-          "czy",
-          "ponieważ",
-          "inaczej"
-        ]
-      }
-    ]
-  },
-  {
     "id": "o-oracle",
     "word": "oracle",
     "trans": [
@@ -3075,18 +2603,6 @@
         "texts": [
           "krążyć wokół czegoś",
           "krążyć"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "o-orch.",
-    "word": "orch.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "orkiestra"
         ]
       }
     ]
@@ -3220,18 +2736,6 @@
         "gramGrp": "N",
         "texts": [
           "wyświęcenie"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "o-ore",
-    "word": "ore",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "ruda"
         ]
       }
     ]
@@ -3374,18 +2878,6 @@
         "texts": [
           "orientalny",
           "wschodni"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "o-orientate",
-    "word": "orientate",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "orientować się"
         ]
       }
     ]
@@ -3575,24 +3067,6 @@
     ]
   },
   {
-    "id": "o-OS",
-    "word": "OS",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "majtek"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "system operacyjny"
-        ]
-      }
-    ]
-  },
-  {
     "id": "o-oscillate",
     "word": "oscillate",
     "trans": [
@@ -3646,18 +3120,6 @@
     ]
   },
   {
-    "id": "o-ostracize",
-    "word": "ostracizeostracise",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "być ostracyzowanym"
-        ]
-      }
-    ]
-  },
-  {
     "id": "o-ostrich",
     "word": "ostrich",
     "trans": [
@@ -3665,18 +3127,6 @@
         "gramGrp": "N",
         "texts": [
           "struś"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "o-OT",
-    "word": "OT",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "Stary Testament"
         ]
       }
     ]
@@ -3741,21 +3191,6 @@
     ]
   },
   {
-    "id": "o-ought",
-    "word": "ought",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "powinien coś zrobić",
-          "powinien",
-          "powinien był coś zrobić",
-          "powinien"
-        ]
-      }
-    ]
-  },
-  {
     "id": "o-ounce",
     "word": "ounce",
     "trans": [
@@ -3764,18 +3199,6 @@
         "texts": [
           "uncja ",
           "odrobina"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "o-our",
-    "word": "our",
-    "trans": [
-      {
-        "gramGrp": "Pron",
-        "texts": [
-          "nasz"
         ]
       }
     ]
@@ -4336,20 +3759,6 @@
           "otwarcie",
           "całkowicie",
           "zginąć na miejscu"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "o-outset",
-    "word": "outset",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "na początku",
-          "od początku",
-          "od razu"
         ]
       }
     ]
@@ -5531,34 +4940,6 @@
     ]
   },
   {
-    "id": "o-ow",
-    "word": "ow",
-    "trans": [
-      {
-        "gramGrp": "Inter",
-        "texts": [
-          "au"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "o-owe",
-    "word": "owe",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "być winnym",
-          "coś komuś",
-          "coś komuś",
-          "zawdzięczać",
-          "coś komuś"
-        ]
-      }
-    ]
-  },
-  {
     "id": "o-owing_to",
     "word": "owing to",
     "trans": [
@@ -5567,37 +4948,6 @@
         "texts": [
           "dzięki",
           "z powodu"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "o-owl",
-    "word": "owl",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "sowa"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "o-own",
-    "word": "own",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "posiadać",
-          "mieć"
-        ]
-      },
-      {
-        "gramGrp": "Adj",
-        "texts": [
-          "własny"
         ]
       }
     ]
@@ -5622,18 +4972,6 @@
         "gramGrp": "N",
         "texts": [
           "własność"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "o-ox",
-    "word": "ox",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "wół"
         ]
       }
     ]
@@ -5682,18 +5020,6 @@
         "gramGrp": "N",
         "texts": [
           "ostryga"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "o-oz.",
-    "word": "oz.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "uncja"
         ]
       }
     ]

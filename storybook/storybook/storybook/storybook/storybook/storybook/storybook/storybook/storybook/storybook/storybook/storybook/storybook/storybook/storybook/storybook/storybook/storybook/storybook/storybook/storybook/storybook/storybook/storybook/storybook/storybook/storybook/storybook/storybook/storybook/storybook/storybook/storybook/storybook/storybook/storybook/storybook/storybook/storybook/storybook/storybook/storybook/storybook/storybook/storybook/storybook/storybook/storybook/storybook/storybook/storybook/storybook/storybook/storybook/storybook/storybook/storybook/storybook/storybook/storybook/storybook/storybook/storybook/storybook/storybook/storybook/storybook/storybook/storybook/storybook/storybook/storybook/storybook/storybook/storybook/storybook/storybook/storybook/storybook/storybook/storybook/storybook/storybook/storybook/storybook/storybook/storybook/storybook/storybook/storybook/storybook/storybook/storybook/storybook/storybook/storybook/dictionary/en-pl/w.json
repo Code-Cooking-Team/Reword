@@ -1,63 +1,5 @@
 [
   {
-    "id": "w-W",
-    "word": "W",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "zachód",
-          "zachodni"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "w-w.",
-    "word": "w.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "tydzień"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "waga"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "szerokość"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "z"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "w-wad",
-    "word": "wad",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "plik",
-          "sterta",
-          "kłębek",
-          "zwitek"
-        ]
-      }
-    ]
-  },
-  {
     "id": "w-waddle",
     "word": "waddle",
     "trans": [
@@ -129,18 +71,6 @@
         "gramGrp": "V",
         "texts": [
           "snuć się"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "w-wag",
-    "word": "wag",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "machać"
         ]
       }
     ]
@@ -442,19 +372,6 @@
     ]
   },
   {
-    "id": "w-walkabout",
-    "word": "walkabout",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "wychodzić do ludzi",
-          "mieszać się z ludźmi"
-        ]
-      }
-    ]
-  },
-  {
     "id": "w-walker",
     "word": "walker",
     "trans": [
@@ -664,18 +581,6 @@
     ]
   },
   {
-    "id": "w-wan",
-    "word": "wan",
-    "trans": [
-      {
-        "gramGrp": "Adj",
-        "texts": [
-          "wybladły"
-        ]
-      }
-    ]
-  },
-  {
     "id": "w-wand",
     "word": "wand",
     "trans": [
@@ -756,18 +661,6 @@
     ]
   },
   {
-    "id": "w-wanting",
-    "word": "wanting",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "nie znajdować się na wysokim poziomie"
-        ]
-      }
-    ]
-  },
-  {
     "id": "w-wanton",
     "word": "wanton",
     "trans": [
@@ -776,25 +669,6 @@
         "texts": [
           "bezmyślny",
           "bezsensowny"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "w-war",
-    "word": "war",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "wojna"
-        ]
-      },
-      {
-        "gramGrp": "V",
-        "texts": [
-          "wojować",
-          "zaczynać wojnę"
         ]
       }
     ]
@@ -1347,18 +1221,6 @@
     ]
   },
   {
-    "id": "w-WASP",
-    "word": "WASP",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "biały anglosaski protestant "
-        ]
-      }
-    ]
-  },
-  {
     "id": "w-wasp",
     "word": "wasp",
     "trans": [
@@ -1733,18 +1595,6 @@
     ]
   },
   {
-    "id": "w-waterside",
-    "word": "waterside",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "wybrzeże"
-        ]
-      }
-    ]
-  },
-  {
     "id": "w-watertight",
     "word": "watertight",
     "trans": [
@@ -1884,31 +1734,6 @@
     ]
   },
   {
-    "id": "w-wax",
-    "word": "wax",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "wosk",
-          "woskowina",
-          "smar do nart",
-          "smar"
-        ]
-      },
-      {
-        "gramGrp": "V",
-        "texts": [
-          "woskować",
-          "pastować",
-          "stawać się",
-          "księżyca przybywa",
-          "księżyc rośnie"
-        ]
-      }
-    ]
-  },
-  {
     "id": "w-waxwork",
     "word": "waxwork",
     "trans": [
@@ -1954,43 +1779,6 @@
         "gramGrp": "Adj",
         "texts": [
           "kapryśny"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "w-WC",
-    "word": "WC",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "WC",
-          "toaleta"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "w-We.",
-    "word": "We.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "środa"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "w-we",
-    "word": "we",
-    "trans": [
-      {
-        "gramGrp": "Pron",
-        "texts": [
-          "my"
         ]
       }
     ]
@@ -2225,12 +2013,6 @@
     "word": "weather",
     "trans": [
       {
-        "gramGrp": "",
-        "texts": [
-          "pogoda"
-        ]
-      },
-      {
         "gramGrp": "V",
         "texts": [
           "wietrzeć",
@@ -2300,18 +2082,6 @@
     ]
   },
   {
-    "id": "w-web",
-    "word": "web",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "pajęczyna"
-        ]
-      }
-    ]
-  },
-  {
     "id": "w-webbed",
     "word": "webbed",
     "trans": [
@@ -2319,18 +2089,6 @@
         "gramGrp": "Adj",
         "texts": [
           "płetwiasty"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "w-Wed.",
-    "word": "Wed.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "środa"
         ]
       }
     ]
@@ -2375,19 +2133,6 @@
         "gramGrp": "N",
         "texts": [
           "środa"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "w-wee",
-    "word": "wee",
-    "trans": [
-      {
-        "gramGrp": "Adj",
-        "texts": [
-          "tyciuchny",
-          "tyci"
         ]
       }
     ]
@@ -3145,28 +2890,6 @@
     ]
   },
   {
-    "id": "w-wet",
-    "word": "wet",
-    "trans": [
-      {
-        "gramGrp": "Adj",
-        "texts": [
-          "mokry",
-          "wilgotny"
-        ]
-      },
-      {
-        "gramGrp": "V",
-        "texts": [
-          "moczyć",
-          "się",
-          "zwilżać",
-          "psujący zabawę"
-        ]
-      }
-    ]
-  },
-  {
     "id": "w-whack",
     "word": "whack",
     "trans": [
@@ -3294,20 +3017,6 @@
         "gramGrp": "N",
         "texts": [
           "pszenica"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "w-wheedle",
-    "word": "wheedle",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "zachęcić kogoś",
-          "by coś zrobił",
-          "wyciągać coś od kogoś"
         ]
       }
     ]
@@ -3467,18 +3176,6 @@
         "gramGrp": "Conj",
         "texts": [
           "gdziekolwiek"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "w-wherewithal",
-    "word": "wherewithal",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "środki"
         ]
       }
     ]
@@ -3946,19 +3643,6 @@
     ]
   },
   {
-    "id": "w-whittle",
-    "word": "whittle",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "kurczyć",
-          "redukować"
-        ]
-      }
-    ]
-  },
-  {
     "id": "w-whizz",
     "word": "whizzwhiz",
     "trans": [
@@ -3985,31 +3669,6 @@
         "gramGrp": "N",
         "texts": [
           "czarodziej"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "w-WHO",
-    "word": "WHO",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "Światowa Organizacja Zdrowia"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "w-who",
-    "word": "who",
-    "trans": [
-      {
-        "gramGrp": "Pron",
-        "texts": [
-          "kto",
-          "który"
         ]
       }
     ]
@@ -4211,39 +3870,6 @@
           "której",
           "których",
           "czyj"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "w-why",
-    "word": "why",
-    "trans": [
-      {
-        "gramGrp": "Adv",
-        "texts": [
-          "dlaczego",
-          "czemu",
-          ",,Ależ!''",
-          ",,O!''"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "w-WI",
-    "word": "WI",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "zachodnioindyjski"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "Indie Zachodnie"
         ]
       }
     ]
@@ -4481,18 +4107,6 @@
         "gramGrp": "N",
         "texts": [
           "żona"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "w-wig",
-    "word": "wig",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "peruka"
         ]
       }
     ]
@@ -5423,22 +5037,6 @@
     ]
   },
   {
-    "id": "w-wit",
-    "word": "wit",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "dowcip",
-          "przytomność umysłu",
-          "inteligencja",
-          "mieć na tyle przytomności umysłu",
-          "aby coś zrobić"
-        ]
-      }
-    ]
-  },
-  {
     "id": "w-witch",
     "word": "witch",
     "trans": [
@@ -5550,12 +5148,6 @@
     "id": "w-wither",
     "word": "wither",
     "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "zamierać"
-        ]
-      },
       {
         "gramGrp": "V",
         "texts": [
@@ -5768,24 +5360,6 @@
     ]
   },
   {
-    "id": "w-wk",
-    "word": "wk",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "tydzień"
-        ]
-      },
-      {
-        "gramGrp": "N",
-        "texts": [
-          "praca"
-        ]
-      }
-    ]
-  },
-  {
     "id": "w-wobble",
     "word": "wobble",
     "trans": [
@@ -5794,18 +5368,6 @@
         "texts": [
           "trząść się",
           "chwiać się"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "w-woe",
-    "word": "woe",
-    "trans": [
-      {
-        "gramGrp": "N",
-        "texts": [
-          "nieszczęście"
         ]
       }
     ]
@@ -5973,21 +5535,6 @@
         "texts": [
           "chwiejny",
           "rozklekotany"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "w-woo",
-    "word": "woo",
-    "trans": [
-      {
-        "gramGrp": "V",
-        "texts": [
-          "zalecać się",
-          "do kogoś",
-          "ubiegać się",
-          "o kogoś"
         ]
       }
     ]
@@ -6321,18 +5868,6 @@
     ]
   },
   {
-    "id": "w-workforce",
-    "word": "workforce",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "siła robocza"
-        ]
-      }
-    ]
-  },
-  {
     "id": "w-working",
     "word": "working",
     "trans": [
@@ -6548,48 +6083,6 @@
     ]
   },
   {
-    "id": "w-worried",
-    "word": "worried",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "zatroskany",
-          "zaniepokojony",
-          "co do czegoś"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "w-worry",
-    "word": "worry",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "martwić się",
-          "niepokoić się",
-          "niepokoić",
-          "zmartwienie",
-          "kłopot"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "w-worrying",
-    "word": "worrying",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "niepokojący"
-        ]
-      }
-    ]
-  },
-  {
     "id": "w-worse",
     "word": "worse",
     "trans": [
@@ -6760,49 +6253,6 @@
         "gramGrp": "V",
         "texts": [
           "ranić"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "w-wow",
-    "word": "wow",
-    "trans": [
-      {
-        "gramGrp": "Inter",
-        "texts": [
-          "oj",
-          "no no"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "w-WP",
-    "word": "WP",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "przetwarzanie tekstu"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "edytor tekstu"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "w-wpb",
-    "word": "wpb",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "kosz na śmieci"
         ]
       }
     ]
@@ -7366,32 +6816,6 @@
         "texts": [
           "misterny",
           "kuty"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "w-wry",
-    "word": "wry",
-    "trans": [
-      {
-        "gramGrp": "Adj",
-        "texts": [
-          "kwaśny",
-          "skrzywiony",
-          "skwaszony"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "w-wt.",
-    "word": "wt.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "ciężar"
         ]
       }
     ]

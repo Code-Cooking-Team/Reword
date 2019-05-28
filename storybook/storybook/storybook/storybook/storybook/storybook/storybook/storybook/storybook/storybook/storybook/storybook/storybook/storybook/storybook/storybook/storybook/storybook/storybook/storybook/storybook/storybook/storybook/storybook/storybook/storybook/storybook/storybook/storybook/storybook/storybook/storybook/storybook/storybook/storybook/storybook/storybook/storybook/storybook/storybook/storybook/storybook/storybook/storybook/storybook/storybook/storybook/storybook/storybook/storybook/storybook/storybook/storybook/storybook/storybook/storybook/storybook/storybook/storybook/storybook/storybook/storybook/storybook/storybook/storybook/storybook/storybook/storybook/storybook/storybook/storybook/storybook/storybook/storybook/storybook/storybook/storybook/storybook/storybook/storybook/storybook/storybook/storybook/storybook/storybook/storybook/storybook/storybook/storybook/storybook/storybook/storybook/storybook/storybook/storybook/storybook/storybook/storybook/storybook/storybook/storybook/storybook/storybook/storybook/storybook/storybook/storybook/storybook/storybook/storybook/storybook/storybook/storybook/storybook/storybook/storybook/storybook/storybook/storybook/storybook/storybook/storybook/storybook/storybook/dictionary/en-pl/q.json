@@ -1,60 +1,5 @@
 [
   {
-    "id": "q-qr.",
-    "word": "qr.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "kwatera",
-          "ćwiartka"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "q-q.t.",
-    "word": "q.t.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "cicho"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "q-qt.",
-    "word": "qt.",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "kwarta"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "q-qu",
-    "word": "qu",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "królowa"
-        ]
-      },
-      {
-        "gramGrp": "",
-        "texts": [
-          "pytanie"
-        ]
-      }
-    ]
-  },
-  {
     "id": "q-quack",
     "word": "quack",
     "trans": [
@@ -281,18 +226,6 @@
         "texts": [
           "skrupuły",
           "wątpliwość"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "q-quandary",
-    "word": "quandary",
-    "trans": [
-      {
-        "gramGrp": "",
-        "texts": [
-          "w trudnej sytuacji"
         ]
       }
     ]
