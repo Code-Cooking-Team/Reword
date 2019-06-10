@@ -5,6 +5,7 @@ import { Header } from '../../components/Header'
 import { Input } from '../../components/Input'
 import React, { useState } from 'react'
 import { firebaseApp } from '../../store/firebase'
+import { Button } from '../../components/Button'
 
 export const Settings = () => {
     const [email, setEmail] = useState('')
@@ -36,7 +37,7 @@ export const Settings = () => {
                     onChange={setPassword}
                     placeholder="password"
                 />
-                <button>Sign up</button>
+                <Button>Sign up</Button>
             </form>
         </div>
     )
