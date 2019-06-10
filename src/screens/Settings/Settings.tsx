@@ -25,20 +25,26 @@ export const Settings = () => {
                         .catch(m => console.log(m))
                 }}
             >
-                <Input
-                    name="email"
-                    value={email}
-                    onChange={setEmail}
-                    placeholder="email"
-                />
-                <Input
-                    name="password"
-                    value={password}
-                    onChange={setPassword}
-                    placeholder="password"
-                />
-                <Button>Sign up</Button>
+                <FormWrapper>
+                    <Input
+                        name="email"
+                        value={email}
+                        onChange={setEmail}
+                        placeholder="email"
+                    />
+                    <Input
+                        name="password"
+                        value={password}
+                        onChange={setPassword}
+                        placeholder="password"
+                    />
+                    <Button>Sign up</Button>
+                </FormWrapper>
             </form>
         </div>
     )
 }
+
+const FormWrapper = styled.div`
+    padding: 30px;
+`
