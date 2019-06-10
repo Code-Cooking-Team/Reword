@@ -1,0 +1,1 @@
+{"version":3,"file":"main.32bd5df26cca67e41205.bundle.js","sources":["webpack:///./src/store/types/RouteName.ts"],"sourcesContent":["export enum RouteName {\n    Home = 'home',\n    Words = 'words',\n    Settings = 'settings',\n    Game = 'game',\n}\n"],"mappings":"AAAA","sourceRoot":""}
