@@ -16,9 +16,8 @@ export type UserState = {
 }
 
 export type State = {
-    loading: boolean
     route: RouteName
     lastRoutes: RouteName[]
-    words: WordsState
-    user: UserState | null
+    words?: WordsState
+    user?: UserState | null
 }

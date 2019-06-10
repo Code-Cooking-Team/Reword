@@ -7,7 +7,6 @@ type Action<T, P = never> = {
 }
 
 export type Actions =
-    | Action<'APP/SET_LOADING', boolean>
     | Action<'ROUTER/SET_ROUTE', { route: RouteName }>
     | Action<'ROUTER/BACK'>
     | Action<'WORDS/SET', WordsState>

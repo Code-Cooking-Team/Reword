@@ -6,9 +6,9 @@ import { Home } from './screens/Home'
 import { Settings } from './screens/Settings'
 import { Words } from './screens/Words'
 import { useRouter, useWordsPersist } from './store'
-import { RouteName } from './store/types/RouteName'
 import { firebaseApp } from './store/firebase'
 import { dispatch } from './store/state/store'
+import { RouteName } from './store/types/RouteName'
 
 const screens: Record<RouteName, ElementType> = {
     [RouteName.Home]: Home,
@@ -19,9 +19,7 @@ const screens: Record<RouteName, ElementType> = {
 
 export const App = () => {
     useWordsPersist()
-
     const { route, setRoute } = useRouter()
-
     const Page = screens[route]
 
     useEffect(() => {

@@ -2,21 +2,21 @@ import React from 'react'
 import styled from 'styled-components'
 import { Logo } from '../../components/Logo'
 import { useWords } from '../../store'
-import { useGlobalState } from '../../store/state/store'
+import { useIsLoading } from '../../store/useIsLoading'
 import { StartButton } from './StartButton'
 
 export const Home = () => {
-    const [loading] = useGlobalState('loading')
+    const isLoading = useIsLoading()
     const { words } = useWords()
 
     return (
         <Container>
             <Logo />
             <Container>
-                <StartButton words={words} loading={loading} />
+                <StartButton words={words} loading={isLoading} />
             </Container>
             <WordsCount>
-                {!loading && (
+                {!isLoading && (
                     <>
                         You added <b>{words.length}</b> words
                     </>

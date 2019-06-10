@@ -1,19 +1,26 @@
+import React, { useState } from 'react'
 import styled from 'styled-components'
-import { useRouter } from '../../store'
-import { RouteName } from '../../store/types/RouteName'
+import { Button } from '../../components/Button'
 import { Header } from '../../components/Header'
 import { Input } from '../../components/Input'
-import React, { useState, useEffect } from 'react'
 import { firebaseApp } from '../../store/firebase'
-import { Button } from '../../components/Button'
 import { useGlobalState } from '../../store/state/store'
+import { useIsLoading } from '../../store/useIsLoading'
 
 export const Settings = () => {
+    const isLoading = useIsLoading()
     const [email, setEmail] = useState('')
     const [password, setPassword] = useState('')
     const [user] = useGlobalState('user')
 
-    console.log(user)
+    if (isLoading) {
+        return (
+            <div>
+                <Header title="Settings" iconName="profile" />
+                <p>Loading…</p>
+            </div>
+        )
+    }
 
     return (
         <div>
