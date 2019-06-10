@@ -5,5 +5,6 @@ export const Button = styled.button`
     display: inline-block;
     padding: 5px 15px;
     border: 2px solid ${brand};
+    border-radius: 5px;
     background: transparent;
 `

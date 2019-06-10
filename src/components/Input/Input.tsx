@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React, { useState, useRef, useEffect } from 'react'
 import styled from 'styled-components'
 import { brand, muted } from '../../styles/colors'
 
@@ -15,19 +15,40 @@ export const Input = (props: InputProps) => {
     const { value, type = 'text', placeholder, onChange, autoFocus, name } = props
 
     const [focus, setFocus] = useState(false)
+    const [linePosition, setLinePosition] = useState(0)
+
+    const labelRef = useRef<HTMLLabelElement>(null)
+
+    const defaultLinePosition = labelRef.current
+        ? labelRef.current.getBoundingClientRect().width / 2
+        : 0
+
+    useEffect(() => {
+        setLinePosition(defaultLinePosition)
+    }, [defaultLinePosition])
 
     return (
-        <Label active={focus}>
+        <Label
+            active={focus}
+            onMouseDown={e => {
+                setLinePosition(e.pageX)
+            }}
+            ref={labelRef}
+        >
             <LabelName move={value !== ''}>{placeholder}</LabelName>
             <InputStyled
                 type={type}
                 value={value}
                 onChange={event => onChange(event.target.value)}
                 onFocus={() => setFocus(true)}
-                onBlur={() => setFocus(false)}
+                onBlur={() => {
+                    setLinePosition(defaultLinePosition)
+                    setFocus(false)
+                }}
                 autoFocus={autoFocus}
                 name={name}
             />
+            <span style={{ transformOrigin: `${linePosition}px 0` }} />
         </Label>
     )
 }
@@ -35,7 +56,7 @@ export const Input = (props: InputProps) => {
 const Label = styled.label<{ active: boolean }>`
     position: relative;
     display: block;
-    &:after {
+    span {
         content: '';
         position: absolute;
         bottom: 0;
@@ -46,10 +67,11 @@ const Label = styled.label<{ active: boolean }>`
         transition: transform 0.25s ease-out;
         transform: scaleX(${props => (props.active ? 1 : 0)});
         background: ${brand};
+        pointer-events: none;
     }
 `
 
-const LabelName = styled.span<{ move: boolean }>`
+const LabelName = styled.div<{ move: boolean }>`
     position: absolute;
     top: 9px;
     left: 0px;

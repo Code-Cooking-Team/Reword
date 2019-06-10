@@ -42,6 +42,12 @@ export const reducer = (state: State, action: Actions) => {
                 words: state.words.filter(word => word.id !== action.payload.id),
             }
 
+        case 'USER/CHANGE':
+            return {
+                ...state,
+                user: action.payload,
+            }
+
         default:
             throw new Error('[reducer] Unknown action type!')
     }

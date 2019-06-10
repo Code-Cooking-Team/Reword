@@ -6,4 +6,5 @@ export const initialState: State = {
     route: RouteName.Home,
     lastRoutes: [],
     words: [],
+    user: null,
 }
