@@ -18,6 +18,7 @@ export const WordsItem = (props: WordsItemProps) => (
         <td>{props.word.example && <small>{props.word.example}</small>}</td>
         <td>
             <button onClick={() => props.removeWord(props.word.id)}>x</button>
+            {props.word.action}
         </td>
     </tr>
 )

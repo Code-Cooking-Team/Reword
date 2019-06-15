@@ -24,7 +24,6 @@ export const App = () => {
 
     useEffect(() => {
         firebaseApp.auth().onAuthStateChanged(function(user) {
-            console.log(user)
             dispatch({
                 type: 'USER/CHANGE',
                 payload: user

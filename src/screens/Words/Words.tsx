@@ -45,15 +45,16 @@ export const Words = () => {
                     </tr>
                 </thead>
                 <tbody>
-                    {words
-                        .filter(word => word.name.includes(search))
-                        .map(word => (
-                            <WordsItem
-                                key={word.id}
-                                word={word}
-                                removeWord={removeWord}
-                            />
-                        ))}
+                    {words &&
+                        words
+                            .filter(word => word.name.includes(search))
+                            .map(word => (
+                                <WordsItem
+                                    key={word.id}
+                                    word={word}
+                                    removeWord={removeWord}
+                                />
+                            ))}
                 </tbody>
             </table>
             <FloatingButton onClick={() => setShowModal(!showModal)} iconName="plus" />
