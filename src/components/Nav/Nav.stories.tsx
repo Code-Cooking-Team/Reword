@@ -9,7 +9,7 @@ import { RouteName } from '../../store/types/RouteName'
 const options = {
     home: RouteName.Home,
     words: RouteName.Words,
-    settings: RouteName.Settings,
+    settings: RouteName.Profile,
 }
 
 storiesOf('Nav', module)

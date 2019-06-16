@@ -31,11 +31,11 @@ export const Nav = (prop: NavProps) => {
                 Words
             </NavButton>
             <NavButton
-                isActive={prop.active === RouteName.Settings}
-                onClick={() => prop.onChange(RouteName.Settings)}
+                isActive={prop.active === RouteName.Profile}
+                onClick={() => prop.onChange(RouteName.Profile)}
             >
                 <Icon name="profile" block />
-                Settings
+                Profile
             </NavButton>
         </Container>
     )

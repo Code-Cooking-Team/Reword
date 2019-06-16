@@ -13,7 +13,7 @@ import { RouteName } from './store/types/RouteName'
 const screens: Record<RouteName, ElementType> = {
     [RouteName.Home]: Home,
     [RouteName.Words]: Words,
-    [RouteName.Settings]: Settings,
+    [RouteName.Profile]: Settings,
     [RouteName.Game]: Game,
 }
 
