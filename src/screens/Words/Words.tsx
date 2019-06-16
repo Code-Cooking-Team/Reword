@@ -23,7 +23,7 @@ export const Words = () => {
     const { results } = useDictionary(word)
 
     const addNewWord = () => {
-        addWord(word.trim(), [translation.trim()], [example.trim()])
+        addWord(word.trim(), [translation], example ? [example] : [])
         setWord('')
         setTranslation('')
         setExample('')
@@ -36,27 +36,18 @@ export const Words = () => {
             <Header title="Words" iconName="words">
                 <Search value={search} onChange={setSearch} />
             </Header>
-            <table>
-                <thead>
-                    <tr>
-                        <td>Word</td>
-                        <td>Translation</td>
-                        <td>Example</td>
-                    </tr>
-                </thead>
-                <tbody>
-                    {words &&
-                        words
-                            .filter(word => word.name.includes(search))
-                            .map(word => (
-                                <WordsItem
-                                    key={word.id}
-                                    word={word}
-                                    removeWord={removeWord}
-                                />
-                            ))}
-                </tbody>
-            </table>
+            <div>
+                {words &&
+                    words
+                        .filter(word => word.name.includes(search))
+                        .map(word => (
+                            <WordsItem
+                                key={word.id}
+                                word={word}
+                                removeWord={() => removeWord(word.id)}
+                            />
+                        ))}
+            </div>
             <FloatingButton onClick={() => setShowModal(!showModal)} iconName="plus" />
             <Modal
                 show={showModal}

@@ -9,7 +9,7 @@ export type Word = {
     id: string
     name: string
     translation: string[]
-    example?: string[]
+    example: string[]
     action?: WordAction
 }
 

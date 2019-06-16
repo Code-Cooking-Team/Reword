@@ -1,24 +1,53 @@
 import React from 'react'
 import styled from 'styled-components'
 import { Word } from '../../store/state/types/State'
+import { light, brand, gray } from '../../styles/colors'
 
 type WordsItemProps = {
     word: Word
-    removeWord: (id: string) => void
+    removeWord: () => void
 }
 
 export const WordsItem = (props: WordsItemProps) => (
-    <tr>
-        <td>
-            <b>{props.word.name}</b>
-        </td>
-        <td>
-            <i>{props.word.translation.join(', ')}</i>
-        </td>
-        <td>{props.word.example && <small>{props.word.example.join(', ')}</small>}</td>
-        <td>
-            <button onClick={() => props.removeWord(props.word.id)}>x</button>
-            {props.word.action}
-        </td>
-    </tr>
+    <Container>
+        <div>
+            <Name>{props.word.name} - </Name>
+            <Translations>{props.word.translation.join(', ')}</Translations>
+
+            {props.word.action && 'Loading…'}
+            {!!props.word.example.length && (
+                <Examples>{props.word.example.join(', ')}</Examples>
+            )}
+        </div>
+
+        <RemoveButton onClick={props.removeWord}>✖</RemoveButton>
+    </Container>
 )
+
+const Container = styled.div`
+    display: grid;
+    grid-template-columns: 1fr auto;
+    padding: 12px;
+    border-bottom: 1px solid ${light};
+`
+
+const Name = styled.strong`
+    font-weight: normal;
+    font-size: 1.2em;
+`
+
+const Translations = styled.span`
+    color: ${brand};
+    font-size: 1.2em;
+`
+
+const Examples = styled.div`
+    color: ${gray};
+    font-size: 0.8em;
+    font-style: italic;
+`
+
+const RemoveButton = styled.button`
+    border: none;
+    background: none;
+`
