@@ -23,7 +23,7 @@ export const Words = () => {
     const { results } = useDictionary(word)
 
     const addNewWord = () => {
-        addWord(word.trim(), translation.trim(), example.trim())
+        addWord(word.trim(), [translation.trim()], [example.trim()])
         setWord('')
         setTranslation('')
         setExample('')

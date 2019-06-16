@@ -8,8 +8,8 @@ export enum WordAction {
 export type Word = {
     id: string
     name: string
-    translation: string
-    example?: string
+    translation: string[]
+    example?: string[]
     action?: WordAction
 }
 
