@@ -13,6 +13,12 @@ export type Word = {
     action?: WordAction
 }
 
+export type UnSavedWord = {
+    name: string
+    translation: string[]
+    example: string[]
+}
+
 export type WordsState = Word[]
 
 export type UserState = {

@@ -1,10 +1,11 @@
 import { dispatch, useGlobalState } from './state/store'
+import { UnSavedWord } from './state/types/State'
 
 export const useWords = () => {
     const [words] = useGlobalState('words')
 
-    const addWord = (name: string, translation: string[], example?: string[]) => {
-        dispatch({ type: 'WORDS/ADD_WORD', payload: { name, translation, example } })
+    const addWord = (word: UnSavedWord) => {
+        dispatch({ type: 'WORDS/ADD_WORD', payload: word })
     }
 
     const removeWord = (id: string) => {
