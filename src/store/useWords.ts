@@ -1,5 +1,5 @@
 import { dispatch, useGlobalState } from './state/store'
-import { UnSavedWord } from './state/types/State'
+import { UnSavedWord, Word } from './state/types/State'
 
 export const useWords = () => {
     const [words] = useGlobalState('words')
@@ -12,7 +12,8 @@ export const useWords = () => {
         dispatch({ type: 'WORDS/REMOVE_WORD', payload: { id } })
     }
 
-    const randomWord = () => {
+    const randomWord = (): Word | null => {
+        if (!words || !words.length) return null
         return words[Math.floor(Math.random() * words.length)]
     }
 

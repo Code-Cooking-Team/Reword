@@ -1,10 +1,9 @@
-import React, { useState } from 'react'
+import React, { useState, useEffect } from 'react'
 import styled from 'styled-components'
 import KeyHandler, { KEYPRESS } from 'react-key-handler'
 import { Keyboard } from '../../components/Keyboard'
 import { Typewriter } from '../../components/Typewriter'
 import { useWords, useRouter } from '../../store'
-import { Word } from '../../store/state/types/State'
 import { Icon } from '../../components/Icon'
 import { good, white } from '../../styles/colors'
 import { floatingShadow } from '../../styles/shadow'
@@ -12,9 +11,17 @@ import ScaleText from 'react-scale-text'
 
 export const Game = () => {
     const { goBack } = useRouter()
-    const { randomWord } = useWords()
+    const { words, randomWord } = useWords()
     const [progress, setProgress] = useState(0)
     const [word, setWord] = useState(randomWord())
+
+    // Update when words changes
+    useEffect(() => {
+        setWord(randomWord())
+    }, [randomWord, words])
+
+    // Generally for development purposes only
+    if (!word) return null
 
     const wordRight = word.name.substr(progress)
     const isComplete = progress === word.name.length
@@ -57,7 +64,7 @@ export const Game = () => {
 
                         <KeyHandler
                             keyEventName={KEYPRESS}
-                            keyValue="Enter" // enter
+                            keyValue="Enter"
                             onKeyHandle={handleNextWord}
                         />
                     </Complete>

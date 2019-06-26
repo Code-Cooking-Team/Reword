@@ -50,37 +50,6 @@ export const EditableList = (props: EditableListProps) => (
     </DragDropContext>
 )
 
-// <DragDropContext onDragEnd={this.onDragEnd}>
-// <Droppable droppableId="droppable">
-//   {(provided, snapshot) => (
-//     <div
-//       {...provided.droppableProps}
-//       ref={provided.innerRef}
-//       style={getListStyle(snapshot.isDraggingOver)}
-//     >
-//       {this.state.items.map((item, index) => (
-//         <Draggable key={item.id} draggableId={item.id} index={index}>
-//           {(provided, snapshot) => (
-//             <div
-//               ref={provided.innerRef}
-//               {...provided.draggableProps}
-//               {...provided.dragHandleProps}
-//               style={getItemStyle(
-//                 snapshot.isDragging,
-//                 provided.draggableProps.style
-//               )}
-//             >
-//               {item.content}
-//             </div>
-//           )}
-//         </Draggable>
-//       ))}
-//       {provided.placeholder}
-//     </div>
-//   )}
-// </Droppable>
-// </DragDropContext>
-
 const remove = (list: string[], index: number) => list.filter((el, i) => index !== i)
 
 const reorder = (list: string[], startIndex: number, endIndex: number) => {
@@ -91,12 +60,11 @@ const reorder = (list: string[], startIndex: number, endIndex: number) => {
     return result
 }
 
-const List = styled.div`
-    background: hotpink;
-`
+const List = styled.div``
 const ListElement = styled.div`
-    display: flex;
-    border: 1px solid #ccc;
+    display: grid;
+    grid-template-columns: 1fr auto;
+    align-items: center;
 `
 const Cross = styled.button`
     border-left: 1px solid #ccc;
