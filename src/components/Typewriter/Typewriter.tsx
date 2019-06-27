@@ -1,7 +1,6 @@
 import React from 'react'
-import ScaleText from 'react-scale-text'
 import styled from 'styled-components'
-import { brand, muted, black } from '../../styles/colors'
+import { muted, black } from '../../styles/colors'
 import { Pipe } from './Pipe'
 
 type TypewriterProps = {
@@ -15,18 +14,16 @@ export const Typewriter = (props: TypewriterProps) => {
 
     return (
         <Container>
-            <ScaleText widthOnly={true} maxFontSize={74}>
-                <TypeWrapper>
-                    {word.split('').map((w, i) => {
-                        return (
-                            <Segment key={w + i}>
-                                {i === progress && <Pipe key={typed} />}
-                                <Letter letterState={progress <= i}>{w}</Letter>
-                            </Segment>
-                        )
-                    })}
-                </TypeWrapper>
-            </ScaleText>
+            <TypeWrapper>
+                {word.split('').map((w, i) => {
+                    return (
+                        <Segment key={w + i}>
+                            {i === progress && <Pipe key={typed} />}
+                            <Letter letterState={progress <= i}>{w}</Letter>
+                        </Segment>
+                    )
+                })}
+            </TypeWrapper>
         </Container>
     )
 }

@@ -1,13 +1,12 @@
-import React, { useState, useEffect } from 'react'
-import styled from 'styled-components'
+import React, { useEffect, useState } from 'react'
 import KeyHandler, { KEYPRESS } from 'react-key-handler'
+import styled from 'styled-components'
+import { Icon } from '../../components/Icon'
 import { Keyboard } from '../../components/Keyboard'
 import { Typewriter } from '../../components/Typewriter'
-import { useWords, useRouter } from '../../store'
-import { Icon } from '../../components/Icon'
+import { useRouter, useWords } from '../../store'
 import { good, white } from '../../styles/colors'
 import { floatingShadow } from '../../styles/shadow'
-import ScaleText from 'react-scale-text'
 
 export const Game = () => {
     const { goBack } = useRouter()
@@ -18,7 +17,8 @@ export const Game = () => {
     // Update when words changes
     useEffect(() => {
         setWord(randomWord())
-    }, [randomWord, words])
+        // eslint-disable-next-line react-hooks/exhaustive-deps
+    }, [words])
 
     // Generally for development purposes only
     if (!word) return null
@@ -41,12 +41,10 @@ export const Game = () => {
     return (
         <Container>
             <Row>
-                <ScaleText maxFontSize={24}>
-                    <div>
-                        <h1>{word.translation}</h1>
-                        <h5>{isComplete ? word.example : '\u00a0'}</h5>
-                    </div>
-                </ScaleText>
+                <div>
+                    <h1>{word.translation}</h1>
+                    <h5>{isComplete ? word.example : '\u00a0'}</h5>
+                </div>
             </Row>
             <Row>
                 <Typewriter word={word.name} progress={progress} key={word.name} />
