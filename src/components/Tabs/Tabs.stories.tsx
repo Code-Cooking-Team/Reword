@@ -7,10 +7,23 @@ storiesOf('Tabs', module)
     .addDecorator(withKnobs)
     .add('default', () => (
         <Tabs>
-            <TabsItem name="Ale">Ale</TabsItem>
-            <TabsItem name="Ma">Ma</TabsItem>
+            <TabsItem name="Ale ma kota i kto ma ale">
+                Ale Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos
+                blanditiis dignissimos aliquam laborum vel iste libero, nulla impedit
+                accusantium eius est odit quaerat consequatur molestiae qui tempore id
+                aspernatur repellat?
+            </TabsItem>
+            <TabsItem name="Ma">
+                Ma Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos
+                blanditiis dignissimos aliquam laborum vel iste libero, nulla impedit
+                accusantium eius est odit quaerat consequatur molestiae qui tempore id
+                aspernatur repellat?
+            </TabsItem>
             <TabsItem name="Kota" isActive>
-                Kota
+                Kota Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos
+                blanditiis dignissimos aliquam laborum vel iste libero, nulla impedit
+                accusantium eius est odit quaerat consequatur molestiae qui tempore id
+                aspernatur repellat?
             </TabsItem>
         </Tabs>
     ))

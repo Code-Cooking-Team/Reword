@@ -8,8 +8,10 @@ import React, {
     ReactElement,
     useRef,
 } from 'react'
-import styled from 'styled-components'
+import styled, { css, keyframes } from 'styled-components'
 import { TabsItemProps } from '.'
+import { brand } from '../../styles/colors'
+import { transition, fast } from '../../styles/transitions'
 
 // <Tabs tabColor={"blue"}>
 //     <tabsEl tabName="ALE MA KOTA" active>
@@ -28,46 +30,156 @@ export const Tabs = (props: TabsProps) => {
     const items = Children.toArray<ReactElement<TabsItemProps>>(props.children)
 
     const currentIndex = items.findIndex(el => el.props.isActive)
-    const [active, setActive] = useState(currentIndex || 0)
-    const [prevActive, setPrevActive] = useState(active)
+    const [active, setActive] = useState(currentIndex > 0 ? currentIndex : 0)
+    const [prevActive, setPrevActive] = useState<number | null>(null)
 
     const refNav = useRef(null)
     const refActive = useRef(null)
 
     const pos = useLinePosition(refNav, refActive, [active])
 
-    const prevActiveItem = items[prevActive]
     const activeItem = items[active]
+    const prevActiveItem = items[prevActive]
+    // debugger
 
     return (
         <Container>
             <Nav ref={refNav}>
                 {items.map((el, index) => (
-                    <button
+                    <NavItem
                         ref={index === active ? refActive : null}
                         key={index}
                         onClick={() => {
+                            if (active === index) return
                             setPrevActive(active)
                             setActive(index)
                         }}
                     >
                         {el.props.name}
-                    </button>
+                    </NavItem>
                 ))}
-                <Line>{pos.left}</Line>
+                <Line
+                    style={{ transform: `translateX(${pos.left}px)`, width: pos.width }}
+                />
             </Nav>
             <Content>
-                <prevActiveItem.type {...prevActiveItem.props} />
-                <activeItem.type {...activeItem.props} />
+                {prevActiveItem && (
+                    <ContentItem
+                        animation={prevActive > active ? 'rightOut' : 'leftOut'}
+                        key={prevActiveItem.props.name}
+                    >
+                        <prevActiveItem.type {...prevActiveItem.props} />
+                    </ContentItem>
+                )}
+                <ContentItem
+                    animation={
+                        prevActiveItem && (prevActive < active ? 'rightIn' : 'leftIn')
+                    }
+                    key={activeItem.props.name}
+                >
+                    <activeItem.type {...activeItem.props} />
+                </ContentItem>
             </Content>
         </Container>
     )
 }
 
 const Container = styled.div``
-const Nav = styled.div``
-const Content = styled.div``
-const Line = styled.div``
+const Nav = styled.div`
+    position: relative;
+    display: grid;
+    grid-auto-columns: 1fr;
+    grid-auto-flow: column;
+`
+const Content = styled.div`
+    position: relative;
+    overflow: hidden;
+`
+
+const rightOut = keyframes`
+  from {
+    transform: translateX(0%);
+  }
+
+  to {
+    transform: translateX(100%);
+  }
+`
+const rightIn = keyframes`
+  from {
+    transform: translateX(100%);
+  }
+
+  to {
+    transform: translateX(0%);
+  }
+`
+const leftOut = keyframes`
+  from {
+    transform: translateX(0%);
+  }
+
+  to {
+    transform: translateX(-100%);
+  }
+`
+const leftIn = keyframes`
+  from {
+    transform: translateX(-100%);
+  }
+
+  to {
+    transform: translateX(0%);
+  }
+`
+
+const animations = {
+    rightOut,
+    rightIn,
+    leftOut,
+    leftIn,
+}
+
+const ContentItem = styled.div<{ animation?: string }>`
+    position: relative;
+    display: block;
+    text-align: center;
+    /* border: 1px solid #ccc; */
+    top: 0;
+    left: 0;
+    width: 100%;
+    ${props =>
+        props.animation &&
+        props.animation.endsWith('Out') &&
+        css`
+            position: absolute;
+        `}
+    ${props =>
+        props.animation &&
+        css`
+            animation: ${animations[props.animation]} ${fast} forwards;
+        `}
+`
+
+const Line = styled.div`
+    height: 2px;
+    ${transition('transform', 'width')}
+    position: absolute;
+    top: 100%;
+    z-index: 10;
+    background: ${brand};
+`
+
+const NavItem = styled.button`
+    display: block;
+    padding: 15px 10px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    background: none;
+    border: none;
+    cursor: pointer;
+`
 
 const useLinePosition = (
     wrapperEl: RefObject<HTMLElement>,
