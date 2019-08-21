@@ -73,8 +73,6 @@ export const Game = () => {
 }
 
 const Container = styled.div`
-    /* display: grid; */
-    /* grid-template-rows: 1fr 2fr auto; */
     height: 100%;
     flex-direction: column;
     display: flex;
@@ -82,6 +80,7 @@ const Container = styled.div`
     justify-items: center;
     text-align: center;
     overflow: hidden;
+    user-select: none;
 `
 const Row = styled.div`
     width: 100%;

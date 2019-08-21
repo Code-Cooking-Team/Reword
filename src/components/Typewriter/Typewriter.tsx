@@ -1,7 +1,7 @@
-import React from 'react'
+import React, { useState } from 'react'
 import styled from 'styled-components'
 import { muted, black } from '../../styles/colors'
-import { Pipe } from './Pipe'
+import { Pointer } from './Pointer'
 
 type TypewriterProps = {
     word: string
@@ -11,15 +11,19 @@ type TypewriterProps = {
 export const Typewriter = (props: TypewriterProps) => {
     const { word, progress } = props
     const typed = word.substr(0, progress)
+    const [preview, setPreview] = useState(false)
 
     return (
-        <Container>
+        <Container
+            onPointerDown={() => setPreview(true)}
+            onPointerOut={() => setPreview(false)}
+        >
             <TypeWrapper>
                 {word.split('').map((w, i) => {
                     return (
                         <Segment key={w + i}>
-                            {i === progress && <Pipe key={typed} />}
-                            <Letter letterState={progress <= i}>{w}</Letter>
+                            {i === progress && <Pointer key={typed} />}
+                            <Letter hide={progress <= i && !preview}>{w}</Letter>
                         </Segment>
                     )
                 })}
@@ -54,7 +58,7 @@ const Segment = styled.span`
     position: relative;
 `
 
-const Letter = styled.span<{ letterState: boolean }>`
+const Letter = styled.span<{ hide: boolean }>`
     display: inline-block;
     text-align: center;
     position: relative;
@@ -62,8 +66,9 @@ const Letter = styled.span<{ letterState: boolean }>`
     height: 100%;
     min-width: 25px;
     transition: transform 0.25s cubic-bezier(0.3, 1.61, 0.43, 1.01);
-    transform: ${props => (props.letterState ? 'scale(0.5)' : 'scale(1)')};
-    color: ${props => (props.letterState ? 'rgba(255,255,255,0)' : black)};
+    transform: ${props => (props.hide ? 'scale(0.5)' : 'scale(1)')};
+    color: ${props => (props.hide ? 'rgba(255,255,255,0)' : black)};
+    font-family: 'Ubuntu Mono', monospace;
 
     &::after {
         content: '*';
@@ -76,7 +81,7 @@ const Letter = styled.span<{ letterState: boolean }>`
         height: 20px;
         transition: transform 0.25s cubic-bezier(0.3, 1.61, 0.43, 1.01);
         color: ${muted};
-        transform: ${props => (props.letterState ? 'scale(2)' : 'scale(0)')};
-        opacity: ${props => (props.letterState ? 1 : 0)};
+        transform: ${props => (props.hide ? 'scale(2)' : 'scale(0)')};
+        opacity: ${props => (props.hide ? 1 : 0)};
     }
 `

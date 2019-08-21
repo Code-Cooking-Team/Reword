@@ -3,7 +3,7 @@ import styled from 'styled-components'
 import { animated, useSpring } from 'react-spring'
 import { brand } from '../../styles/colors'
 
-export const Pipe = () => {
+export const Pointer = () => {
     const pipeSpring = useSpring({
         transform: 'translate(0) scaleX(1)',
         from: {
