@@ -10,17 +10,8 @@ import React, {
 } from 'react'
 import styled, { css, keyframes } from 'styled-components'
 import { TabsItemProps } from '.'
-import { brand } from '../../styles/colors'
+import { brand, black } from '../../styles/colors'
 import { transition, fast } from '../../styles/transitions'
-
-// <Tabs tabColor={"blue"}>
-//     <tabsEl tabName="ALE MA KOTA" active>
-
-//     </tabsEl>
-//     <tabsEl tabName="">
-
-//     </tabsEl>
-// </Tabs>
 
 type TabsProps = {
     children: ReactElement<TabsItemProps>[] | ReactElement<TabsItemProps>
@@ -40,7 +31,6 @@ export const Tabs = (props: TabsProps) => {
 
     const activeItem = items[active]
     const prevActiveItem = items[prevActive]
-    // debugger
 
     return (
         <Container>
@@ -54,6 +44,7 @@ export const Tabs = (props: TabsProps) => {
                             setPrevActive(active)
                             setActive(index)
                         }}
+                        active={index === active}
                     >
                         {el.props.name}
                     </NavItem>
@@ -143,8 +134,6 @@ const animations = {
 const ContentItem = styled.div<{ animation?: string }>`
     position: relative;
     display: block;
-    text-align: center;
-    /* border: 1px solid #ccc; */
     top: 0;
     left: 0;
     width: 100%;
@@ -170,7 +159,7 @@ const Line = styled.div`
     background: ${brand};
 `
 
-const NavItem = styled.button`
+const NavItem = styled.button<{ active: boolean }>`
     display: block;
     padding: 15px 10px;
     white-space: nowrap;
@@ -179,6 +168,7 @@ const NavItem = styled.button`
     background: none;
     border: none;
     cursor: pointer;
+    color: ${p => (p.active ? brand : black)};
 `
 
 const useLinePosition = (

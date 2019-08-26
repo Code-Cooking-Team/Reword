@@ -9,14 +9,11 @@ import { useDictionary } from '../../hooks/useDictionary'
 import { DictionaryTrans } from '../../hooks/useDictionary/types'
 import { UnSavedWord } from '../../store/state/types/State'
 import { light } from '../../styles/colors'
+import { useWords } from '../../store'
 
-type WordFormProps = {
-    show: boolean
-    onClose: () => void
-    onSave: (word: UnSavedWord) => void
-}
+export const WordForm = () => {
+    const { addWord } = useWords()
 
-export const WordForm = (props: WordFormProps) => {
     const [wordInput, setWordInput] = useState('')
     const [translationInput, setTranslationInput] = useState('')
     const [exampleInput, setExampleInput] = useState('')
@@ -27,7 +24,7 @@ export const WordForm = (props: WordFormProps) => {
     const { results } = useDictionary(wordInput)
 
     const addNewWord = () => {
-        props.onSave({
+        addWord({
             name: wordInput,
             translation: translationList,
             example: exampleList,
@@ -35,22 +32,12 @@ export const WordForm = (props: WordFormProps) => {
         setWordInput('')
         setTranslationInput('')
         setExampleInput('')
-        props.onClose()
     }
 
     const getTrans = (trans: DictionaryTrans[]) => trans.map(t => t.texts[0]).join(', ')
 
     return (
-        <Modal
-            show={props.show}
-            footer={() => (
-                <>
-                    <Button onClick={props.onClose}>Close</Button>
-                    <Button onClick={addNewWord}>Save</Button>
-                </>
-            )}
-            close={props.onClose}
-        >
+        <>
             <h4>Word</h4>
             <div>
                 <Input value={wordInput} placeholder="Word" onChange={setWordInput} />
@@ -113,7 +100,10 @@ export const WordForm = (props: WordFormProps) => {
                     +
                 </Button>
             </InputWithButtonWrapper>
-        </Modal>
+
+            {/* <Button onClick={props.onClose}>Close</Button> */}
+            <Button onClick={addNewWord}>Save</Button>
+        </>
     )
 }
 

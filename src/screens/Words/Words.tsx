@@ -3,13 +3,13 @@ import { FloatingButton } from '../../components/FloatingButton'
 import { Header } from '../../components/Header'
 import { Search } from '../../components/Search'
 import { useWords } from '../../store'
-import { WordForm } from './WordForm'
+import { WordModal } from './WordModal'
 import { WordsItem } from './WordsItem'
 
 export const Words = () => {
-    const { words, removeWord, addWord } = useWords()
     const [search, setSearch] = useState('')
 
+    const { words, removeWord } = useWords()
     const [showModal, setShowModal] = useState(false)
 
     return (
@@ -30,11 +30,7 @@ export const Words = () => {
                         ))}
             </div>
             <FloatingButton onClick={() => setShowModal(!showModal)} iconName="plus" />
-            <WordForm
-                show={showModal}
-                onClose={() => setShowModal(false)}
-                onSave={addWord}
-            />
+            <WordModal show={showModal} onClose={() => setShowModal(false)} />
         </div>
     )
 }

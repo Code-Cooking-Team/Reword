@@ -9,7 +9,6 @@ import { floatingShadow } from '../../styles/shadow'
 type ModalProps = {
     show: boolean
     children?: ReactNode
-    footer?: () => ReactNode
     close?: () => void
 }
 
@@ -18,10 +17,7 @@ export const Modal = (props: ModalProps) => {
         <Transition in={props.show} timeout={1000}>
             {status => (
                 <>
-                    <ModalBox status={status}>
-                        {props.children}
-                        {props.footer && props.footer()}
-                    </ModalBox>
+                    <ModalBox status={status}>{props.children}</ModalBox>
                     <Overlay status={status} onClick={props.close} />
                 </>
             )}

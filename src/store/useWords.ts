@@ -8,6 +8,10 @@ export const useWords = () => {
         dispatch({ type: 'WORDS/ADD_WORD', payload: word })
     }
 
+    const addManyWords = (words: UnSavedWord[]) => {
+        dispatch({ type: 'WORDS/ADD_MANY_WORDS', payload: words })
+    }
+
     const removeWord = (id: string) => {
         dispatch({ type: 'WORDS/REMOVE_WORD', payload: { id } })
     }
@@ -17,5 +21,5 @@ export const useWords = () => {
         return words[Math.floor(Math.random() * words.length)]
     }
 
-    return { words, addWord, removeWord, randomWord }
+    return { words, addWord, addManyWords, removeWord, randomWord }
 }

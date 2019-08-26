@@ -5,11 +5,8 @@ export enum WordAction {
     Delete,
 }
 
-export type Word = {
+export type Word = UnSavedWord & {
     id: string
-    name: string
-    translation: string[]
-    example: string[]
     action?: WordAction
 }
 
@@ -17,6 +14,7 @@ export type UnSavedWord = {
     name: string
     translation: string[]
     example: string[]
+    preset?: string
 }
 
 export type WordsState = Word[]

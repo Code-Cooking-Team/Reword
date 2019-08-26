@@ -2,6 +2,8 @@ import uuid from 'uuid'
 import { Actions } from './types/Actions'
 import { State, Word, WordAction } from './types/State'
 
+const localId = () => `local-${uuid()}`
+
 export const reducer = (state: State, action: Actions) => {
     switch (action.type) {
         case 'ROUTER/SET_ROUTE':
@@ -26,13 +28,24 @@ export const reducer = (state: State, action: Actions) => {
 
         case 'WORDS/ADD_WORD':
             const newWord: Word = {
-                id: `local-${uuid()}`,
+                id: localId(),
                 action: WordAction.Add,
                 ...action.payload,
             }
             return {
                 ...state,
                 words: [...state.words, newWord],
+            }
+
+        case 'WORDS/ADD_MANY_WORDS':
+            const newWords: Word[] = action.payload.map(word => ({
+                id: localId(),
+                action: WordAction.Add,
+                ...word,
+            }))
+            return {
+                ...state,
+                words: [...state.words, ...newWords],
             }
 
         case 'WORDS/REMOVE_WORD':
