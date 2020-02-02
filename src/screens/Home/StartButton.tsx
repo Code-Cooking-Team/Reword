@@ -9,17 +9,12 @@ import { floatingShadow } from '../../styles/shadow'
 
 type StartButtonProps = {
     words: WordsState
-    loading: boolean
 }
 
 export const StartButton = (props: StartButtonProps) => {
     const { setRoute } = useRouter()
 
-    if (props.loading) {
-        return <CircleButton>Loading</CircleButton>
-    }
-
-    if (!props.words.length) {
+    if (!props.words && !props.words.length) {
         return (
             <CircleButton onClick={() => setRoute(RouteName.Words)}>
                 <Icon name="Plus" size="large" block />

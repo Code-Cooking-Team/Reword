@@ -4,24 +4,36 @@ import { Logo } from '../../components/Logo'
 import { useWords } from '../../store'
 import { useIsLoading } from '../../store/useIsLoading'
 import { StartButton } from './StartButton'
+import { FullLoading } from '../../components/Loading'
+import { AuthForm } from './AuthForm'
+import { white } from '../../styles/colors'
+import { floatingShadow } from '../../styles/shadow'
 
 export const Home = () => {
-    const isLoading = useIsLoading()
+    const { isLoading, loggedIn } = useIsLoading()
     const { words } = useWords()
+
+    if (isLoading) {
+        return <FullLoading />
+    }
 
     return (
         <Container>
             <Logo />
-            <Container>
-                <StartButton words={words} loading={isLoading} />
-            </Container>
-            <WordsCount>
-                {!isLoading && (
-                    <>
+            {loggedIn ? (
+                <>
+                    <Container>
+                        <StartButton words={words} />
+                    </Container>
+                    <WordsCount>
                         You added <b>{words.length}</b> words
-                    </>
-                )}
-            </WordsCount>
+                    </WordsCount>
+                </>
+            ) : (
+                <AuthFormWrapper>
+                    <AuthForm />
+                </AuthFormWrapper>
+            )}
         </Container>
     )
 }
@@ -37,4 +49,13 @@ const Container = styled.div`
 const WordsCount = styled.div`
     padding: 25px;
     text-align: center;
+`
+
+const AuthFormWrapper = styled.main`
+    background: ${white};
+    box-shadow: ${floatingShadow};
+    border-radius: 5px;
+    width: 100%;
+    max-width: 360px;
+    overflow: hidden;
 `

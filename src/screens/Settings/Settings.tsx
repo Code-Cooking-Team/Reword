@@ -1,35 +1,30 @@
 import React from 'react'
 import { Button } from '../../components/Button'
 import { Header } from '../../components/Header'
-import { useGlobalState } from '../../store/state/store'
 import { useAuthActions } from '../../store/useAuth'
-import { useIsLoading } from '../../store/useIsLoading'
-import { AuthForm } from './AuthForm'
+import styled from 'styled-components'
+import { useGlobalState } from '../../store/state/store'
 
 export const Settings = () => {
-    const isLoading = useIsLoading()
-    const { logOut } = useAuthActions()
+    const { signOut } = useAuthActions()
     const [user] = useGlobalState('user')
-
-    if (isLoading) {
-        return (
-            <div>
-                <Header title="Settings" iconName="Profile" />
-                <p>Loading…</p>
-            </div>
-        )
-    }
 
     return (
         <div>
-            <Header title="Settings" iconName="Profile" />
-            {!user ? (
-                <AuthForm />
-            ) : (
-                <Button type="button" onClick={() => logOut()}>
+            <Header title="Profile" iconName="Profile" />
+            <Center>
+                Logged as <strong>{user.email}</strong>
+            </Center>
+            <Center>
+                <Button type="button" onClick={() => signOut()}>
                     Sign out
                 </Button>
-            )}
+            </Center>
         </div>
     )
 }
+
+const Center = styled.div`
+    text-align: center;
+    padding: 20px;
+`

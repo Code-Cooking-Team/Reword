@@ -5,6 +5,7 @@ import { barShadow } from '../../styles/shadow'
 import { Icon } from '../Icon'
 import { fast } from '../../styles/transitions'
 import { RouteName } from '../../store/types/RouteName'
+import { useIsLoading } from '../../store/useIsLoading'
 
 export const NAV_HEIGHT = 60
 
@@ -14,8 +15,10 @@ type NavProps = {
 }
 
 export const Nav = (prop: NavProps) => {
+    const { loggedIn } = useIsLoading()
+
     return (
-        <Container>
+        <Container show={loggedIn}>
             <NavButton
                 isActive={prop.active === RouteName.Home}
                 onClick={() => prop.onChange(RouteName.Home)}
@@ -41,7 +44,7 @@ export const Nav = (prop: NavProps) => {
     )
 }
 
-const Container = styled.nav`
+const Container = styled.nav<{ show: boolean }>`
     background: ${white};
     display: flex;
     width: 100%;
@@ -49,6 +52,8 @@ const Container = styled.nav`
     justify-content: space-evenly;
     box-shadow: ${barShadow};
     overflow: hidden;
+    transform: translateY(${p => (p.show ? 0 : NAV_HEIGHT)}px);
+    transition: transform 300ms ease;
 `
 
 const NavButton = styled.button<{ isActive: boolean }>`
