@@ -9,7 +9,6 @@ type EditableListProps = {
 export const EditableList = (props: EditableListProps) => (
     <DragDropContext
         onDragEnd={result => {
-            console.log(result)
             if (!result.destination) return
 
             const items = reorder(
