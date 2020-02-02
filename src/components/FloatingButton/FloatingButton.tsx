@@ -12,21 +12,23 @@ type FloatingButtonProps = {
 
 export const FloatingButton = (props: FloatingButtonProps) => (
     <Button onClick={props.onClick}>
-        <Icon name={props.iconName} size="normal" />
+        <Icon name={props.iconName} size="big" />
     </Button>
 )
 
 const Button = styled.button`
-    position: fixed;
-    bottom: ${NAV_HEIGHT + 15}px;
-    right: 15px;
-    padding: 12px;
+    position: relative;
+    display: block;
+    padding: 13px;
     border: 2px solid ${white};
     color: ${brand};
     box-shadow: ${floatingShadow};
     border-radius: 50%;
     background: ${white};
     transition: 0.2s;
+    margin: 15px 15px 17px auto;
+    position: sticky;
+    bottom: 17px;
     &:active {
         border-color: ${brand};
     }

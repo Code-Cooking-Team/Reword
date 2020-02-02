@@ -1,6 +1,7 @@
 import React, { ReactNode } from 'react'
 import styled from 'styled-components'
 import { IconName, Icon } from '../Icon'
+import { grayBg } from '../../styles/colors'
 
 type HeaderProps = {
     title: string
@@ -19,8 +20,10 @@ export const Header = (props: HeaderProps) => {
 }
 
 const HeaderWrapper = styled.header`
+    background: ${grayBg};
     display: flex;
     min-height: 260px;
+    padding: 15px;
     flex-direction: column;
     display: flex;
     align-items: center;

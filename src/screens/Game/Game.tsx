@@ -57,7 +57,7 @@ export const Game = () => {
                         <h2>Done!</h2>
                         <Button onClick={handleNextWord}>
                             Next word
-                            <Icon name="play" />
+                            <Icon name="Play" />
                         </Button>
 
                         <KeyHandler

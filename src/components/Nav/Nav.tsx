@@ -20,21 +20,21 @@ export const Nav = (prop: NavProps) => {
                 isActive={prop.active === RouteName.Home}
                 onClick={() => prop.onChange(RouteName.Home)}
             >
-                <Icon name="home" block />
+                <Icon name="Home" block />
                 Home
             </NavButton>
             <NavButton
                 isActive={prop.active === RouteName.Words}
                 onClick={() => prop.onChange(RouteName.Words)}
             >
-                <Icon name="words" block />
+                <Icon name="Words" block />
                 Words
             </NavButton>
             <NavButton
                 isActive={prop.active === RouteName.Profile}
                 onClick={() => prop.onChange(RouteName.Profile)}
             >
-                <Icon name="profile" block />
+                <Icon name="Profile" block />
                 Profile
             </NavButton>
         </Container>

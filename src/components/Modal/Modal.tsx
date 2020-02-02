@@ -32,6 +32,7 @@ const ModalBox = styled.div<{ status: TransitionStatus }>`
     position: fixed;
     left: 0;
     right: 0;
+    display: block;
     bottom: 15px;
     margin: 0 auto auto;
     width: calc(100vw - 20px);

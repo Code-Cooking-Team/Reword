@@ -2,6 +2,7 @@ import React from 'react'
 import styled from 'styled-components'
 import { Word } from '../../store/state/types/State'
 import { light, brand, gray } from '../../styles/colors'
+import { Icon } from '../../components/Icon'
 
 type WordsItemProps = {
     word: Word
@@ -20,7 +21,9 @@ export const WordsItem = (props: WordsItemProps) => (
             )}
         </div>
 
-        <RemoveButton onClick={props.removeWord}>✖</RemoveButton>
+        <RemoveButton onClick={props.removeWord}>
+            <Icon name="Cross" size="normal" />
+        </RemoveButton>
     </Container>
 )
 

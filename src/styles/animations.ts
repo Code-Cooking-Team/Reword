@@ -53,7 +53,7 @@ export const fadeUpDownAnimation = (status: TransitionStatus) => css`
     ${status === ENTERING && fadeUpAnimation};
     ${status === EXITING && fadeDownAnimation};
     ${status === EXITING && `pointer-events: none;`};
-    ${status === EXITED && 'display: none;'};
+    ${status === EXITED && 'pointer-events: none; opacity: 0;'};
 `
 
 export const fadeInAnimation = css`
@@ -68,5 +68,5 @@ export const fadeInOutAnimation = (status: TransitionStatus) => css`
     ${status === ENTERING && fadeInAnimation};
     ${status === EXITING && fadeOutAnimation};
     ${status === EXITING && `pointer-events: none;`};
-    ${status === EXITED && 'display: none;'};
+    ${status === EXITED && 'pointer-events: none; opacity: 0;'};
 `

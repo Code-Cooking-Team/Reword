@@ -14,7 +14,7 @@ export const Settings = () => {
     if (isLoading) {
         return (
             <div>
-                <Header title="Settings" iconName="profile" />
+                <Header title="Settings" iconName="Profile" />
                 <p>Loading…</p>
             </div>
         )
@@ -22,7 +22,7 @@ export const Settings = () => {
 
     return (
         <div>
-            <Header title="Settings" iconName="profile" />
+            <Header title="Settings" iconName="Profile" />
             {!user ? (
                 <AuthForm />
             ) : (

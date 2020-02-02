@@ -22,7 +22,7 @@ export const StartButton = (props: StartButtonProps) => {
     if (!props.words.length) {
         return (
             <CircleButton onClick={() => setRoute(RouteName.Words)}>
-                <Icon name="plus" size="large" block />
+                <Icon name="Plus" size="large" block />
                 Word
             </CircleButton>
         )
@@ -30,7 +30,7 @@ export const StartButton = (props: StartButtonProps) => {
 
     return (
         <CircleButton onClick={() => setRoute(RouteName.Game)}>
-            <Icon name="play" size="large" block />
+            <Icon name="Play" size="large" block />
             Play
         </CircleButton>
     )
