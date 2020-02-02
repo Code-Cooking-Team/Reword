@@ -4,6 +4,7 @@ import * as icons from './icons'
 
 const sizes = {
     normal: 24,
+    big: 35,
     large: 62,
 }
 
@@ -16,9 +17,14 @@ type IconProps = {
     block?: boolean
 }
 
-export const Icon = ({ name, size = 'normal', block = false }: IconProps) => (
-    <Container block={block}>{icons[name](sizes[size])}</Container>
-)
+export const Icon = ({ name, size = 'normal', block = false }: IconProps) => {
+    const IconContent = icons[name]
+    return (
+        <Container block={block}>
+            <IconContent size={sizes[size]} />
+        </Container>
+    )
+}
 
 const Container = styled.div<{ block: boolean }>`
     display: ${p => (p.block ? 'block' : 'inline-block')};

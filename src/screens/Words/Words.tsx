@@ -5,6 +5,7 @@ import { Search } from '../../components/Search'
 import { useWords } from '../../store'
 import { WordModal } from './WordModal'
 import { WordsItem } from './WordsItem'
+import styled from 'styled-components'
 
 export const Words = () => {
     const [search, setSearch] = useState('')
@@ -13,8 +14,8 @@ export const Words = () => {
     const [showModal, setShowModal] = useState(false)
 
     return (
-        <div>
-            <Header title="Words" iconName="words">
+        <Container>
+            <Header title="Words" iconName="Words">
                 <Search value={search} onChange={setSearch} />
             </Header>
             <div>
@@ -29,8 +30,14 @@ export const Words = () => {
                             />
                         ))}
             </div>
-            <FloatingButton onClick={() => setShowModal(!showModal)} iconName="plus" />
+            <FloatingButton onClick={() => setShowModal(!showModal)} iconName="Plus" />
             <WordModal show={showModal} onClose={() => setShowModal(false)} />
-        </div>
+        </Container>
     )
 }
+
+const Container = styled.div`
+    height: 100%;
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+`

@@ -11,7 +11,7 @@ export const Settings = () => {
 
     return (
         <div>
-            <Header title="Profile" iconName="profile" />
+            <Header title="Profile" iconName="Profile" />
             <Center>
                 Logged as <strong>{user.email}</strong>
             </Center>

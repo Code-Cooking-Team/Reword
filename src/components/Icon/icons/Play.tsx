@@ -1,7 +1,8 @@
 import React from 'react'
+import { IconProps } from '../types'
 
-export const play = (size: number) => (
-    <svg width={size} height={size} viewBox="0 0 61 61">
+export const Play = ({ size, ...props }: IconProps) => (
+    <svg width={size} height={size} viewBox="0 0 61 61" {...props}>
         <path
             fillRule="evenodd"
             clipRule="evenodd"

@@ -1,7 +1,8 @@
 import React from 'react'
+import { IconProps } from '../types'
 
-export const words = (size: number) => (
-    <svg width={size} height={size} viewBox="0 0 24 24">
+export const Words = ({ size, ...props }: IconProps) => (
+    <svg width={size} height={size} viewBox="0 0 24 24" {...props}>
         <path
             fillRule="evenodd"
             clipRule="evenodd"
