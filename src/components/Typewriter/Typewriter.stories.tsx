@@ -8,7 +8,13 @@ storiesOf('Typewriter', module)
     .addDecorator(withKnobs)
     .addDecorator(story => <Center>{story()}</Center>)
     .add('default', () => (
-        <Typewriter word={text('word', 'Hello')} progress={number('progress', 3)} />
+        <div>
+            <Typewriter word="Home" progress={3} />
+            <Typewriter word={text('word', 'Hello')} progress={number('progress', 3)} />
+            <Typewriter word="Homeworks" progress={4} />
+            <Typewriter word="Simply the best" progress={8} />
+            <Typewriter word="Simply the best and unique one" progress={8} />
+        </div>
     ))
     .add('start', () => (
         <Typewriter word={text('word', 'Hello')} progress={number('progress', 0)} />

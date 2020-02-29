@@ -1,6 +1,7 @@
 import React, { useState } from 'react'
 import styled from 'styled-components'
-import { muted, black } from '../../styles/colors'
+import { useElementSize } from '../../hooks/useElementSize'
+import { black, muted } from '../../styles/colors'
 import { Pointer } from './Pointer'
 
 type TypewriterProps = {
@@ -8,15 +9,18 @@ type TypewriterProps = {
     progress: number
 }
 
-export const Typewriter = (props: TypewriterProps) => {
-    const { word, progress } = props
-    const typed = word.substr(0, progress)
+export const Typewriter = ({ word, progress }: TypewriterProps) => {
+    const { width } = useElementSize()
     const [preview, setPreview] = useState(false)
+
+    const typed = word.substr(0, progress)
+    const fontSize = Math.min(width / word.length, 80)
 
     return (
         <Container
             onPointerDown={() => setPreview(true)}
             onPointerOut={() => setPreview(false)}
+            style={{ fontSize }}
         >
             <TypeWrapper>
                 {word.split('').map((w, i) => {
@@ -36,7 +40,7 @@ const Container = styled.div`
     text-align: center;
     font-size: 74px;
     font-weight: normal;
-    padding: 0px 25px;
+    padding: 0;
     overflow: hidden;
     height: 2em;
     width: 100%;
@@ -52,8 +56,8 @@ const TypeWrapper = styled.div`
 const Segment = styled.span`
     display: inline-block;
     line-height: 1em;
-    height: 90px;
-    margin: 0 1px;
+    height: 1em;
+    margin: 0;
     vertical-align: middle;
     position: relative;
 `
@@ -64,21 +68,21 @@ const Letter = styled.span<{ hide: boolean }>`
     position: relative;
     margin: 0 0.025em;
     height: 100%;
-    min-width: 25px;
+    min-width: 0.6em;
     transition: transform 0.25s cubic-bezier(0.3, 1.61, 0.43, 1.01);
     transform: ${props => (props.hide ? 'scale(0.5)' : 'scale(1)')};
-    color: ${props => (props.hide ? 'rgba(255,255,255,0)' : black)};
+    color: ${props => (props.hide ? 'rgba(0,0,0,0.0)' : black)};
     font-family: 'Ubuntu Mono', monospace;
 
     &::after {
         content: '*';
         position: absolute;
         text-align: center;
-        top: 0.5em;
+        top: 0.8em;
         left: 0;
         right: 0;
         line-height: 0.5em;
-        height: 20px;
+        height: 1em;
         transition: transform 0.25s cubic-bezier(0.3, 1.61, 0.43, 1.01);
         color: ${muted};
         transform: ${props => (props.hide ? 'scale(2)' : 'scale(0)')};
