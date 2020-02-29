@@ -1,17 +1,16 @@
 import React, {
-    RefObject,
-    DependencyList,
-    useState,
-    useEffect,
-    ReactNode,
     Children,
+    DependencyList,
     ReactElement,
+    RefObject,
+    useEffect,
     useRef,
+    useState,
 } from 'react'
 import styled, { css, keyframes } from 'styled-components'
 import { TabsItemProps } from '.'
-import { brand, black } from '../../styles/colors'
-import { transition, fast } from '../../styles/transitions'
+import { black, brand } from '../../styles/colors'
+import { fast, transition } from '../../styles/transitions'
 
 type TabsProps = {
     children: ReactElement<TabsItemProps>[] | ReactElement<TabsItemProps>

@@ -8,16 +8,20 @@ export const useAuthActions = () => {
     const { setRoute } = useRouter()
     const [signInError, setSignInError] = useState('')
     const [createAccountError, setCreateAccountError] = useState('')
+    const [loading, setLoading] = useState(false)
 
     const createAccount = async (email: string, password: string) => {
+        setLoading(true)
         try {
             await firebaseApp.auth().createUserWithEmailAndPassword(email, password)
         } catch (e) {
             setCreateAccountError(e.message)
         }
+        setLoading(false)
     }
 
     const signIn = async (email: string, password: string) => {
+        setLoading(true)
         try {
             await firebaseApp.auth().signInWithEmailAndPassword(email, password)
         } catch (e) {
@@ -27,14 +31,17 @@ export const useAuthActions = () => {
                 setSignInError(e.message)
             }
         }
+        setLoading(false)
     }
 
-    const signOut = () => {
+    const signOut = async () => {
+        setLoading(true)
+        await firebaseApp.auth().signOut()
         setRoute(RouteName.Home)
-        firebaseApp.auth().signOut()
+        setLoading(false)
     }
 
-    return { signIn, signOut, createAccount, signInError, createAccountError }
+    return { signIn, signOut, createAccount, signInError, createAccountError, loading }
 }
 
 export const useWatchAuthChange = () => {
