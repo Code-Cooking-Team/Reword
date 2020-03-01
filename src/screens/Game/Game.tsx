@@ -5,8 +5,10 @@ import { Icon } from '../../components/Icon'
 import { Keyboard } from '../../components/Keyboard'
 import { Typewriter } from '../../components/Typewriter'
 import { useRouter, useWords } from '../../store'
-import { good, white } from '../../styles/colors'
+import { brand, good, white, gray } from '../../styles/colors'
 import { floatingShadow } from '../../styles/shadow'
+import { radius } from '../../styles/values'
+import { transition } from '../../styles/transitions'
 
 export const Game = () => {
     const { goBack } = useRouter()
@@ -17,7 +19,6 @@ export const Game = () => {
     // Update when words changes
     useEffect(() => {
         setWord(randomWord())
-        // eslint-disable-next-line react-hooks/exhaustive-deps
     }, [words])
 
     // Generally for development purposes only
@@ -38,6 +39,10 @@ export const Game = () => {
         setProgress(0)
     }
 
+    const handleRetry = () => {
+        setProgress(0)
+    }
+
     return (
         <Container>
             <Row>
@@ -48,17 +53,27 @@ export const Game = () => {
             </Row>
             <Row>
                 <Typewriter word={word.name} progress={progress} key={word.name} />
-                <button onClick={goBack}>Cancel</button>
             </Row>
+            <ActionButtonsWrapper>
+                <ActionButton onClick={goBack}>
+                    <Icon name="Cross" /> <span>End</span>
+                </ActionButton>
+                <ActionButton onClick={handleRetry}>
+                    <Icon name="Reload" /> <span>Retry</span>
+                </ActionButton>
+                <ActionButton onClick={handleNextWord}>
+                    <Icon name="Play" /> <span>Skip</span>
+                </ActionButton>
+            </ActionButtonsWrapper>
             <Bottom>
                 <Keyboard word={wordRight} onPress={handleKeyPress} />
                 {isComplete && (
                     <Complete>
                         <h2>Done!</h2>
-                        <Button onClick={handleNextWord}>
+                        <DoneButton onClick={handleNextWord}>
                             Next word
                             <Icon name="Play" />
-                        </Button>
+                        </DoneButton>
 
                         <KeyHandler
                             keyEventName={KEYPRESS}
@@ -104,7 +119,7 @@ const Complete = styled.div`
     align-items: center;
 `
 
-const Button = styled.button`
+const DoneButton = styled.button`
     padding: 30px 50px;
     border: none;
     color: ${white};
@@ -113,4 +128,30 @@ const Button = styled.button`
     box-shadow: ${floatingShadow};
     font-weight: bold;
     font-size: 24px;
+`
+
+const ActionButtonsWrapper = styled.div`
+    display: grid;
+    grid-auto-columns: 1fr;
+    grid-auto-flow: column;
+    /* grid-template-columns: 1fr 1fr 1fr; */
+    grid-gap: 10px;
+`
+
+const ActionButton = styled.button`
+    padding: 25px 40px;
+    color: ${gray};
+    font-size: 1em;
+    background: none;
+    border: none;
+    border-radius: ${radius};
+    ${transition('background-color')};
+
+    span {
+        vertical-align: middle;
+    }
+
+    &:active {
+        background-color: rgba(0, 0, 0, 0.1);
+    }
 `

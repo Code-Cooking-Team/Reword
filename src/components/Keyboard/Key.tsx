@@ -30,7 +30,7 @@ const Container = styled.button<{ visible?: boolean; isSpace?: boolean }>`
     height: 7vh;
     padding: 0;
     margin: 0 4px;
-    border: 2px solid ${brand};
+    border: 0.4pt solid ${brand};
     opacity: ${p => (p.visible ? 1 : 0.1)};
     border-radius: 4px;
     color: ${brand};

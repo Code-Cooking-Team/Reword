@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import styled from 'styled-components'
 import { useElementSize } from '../../hooks/useElementSize'
-import { black, muted } from '../../styles/colors'
+import { black, muted, light } from '../../styles/colors'
 import { Pointer } from './Pointer'
 
 type TypewriterProps = {
@@ -32,6 +32,7 @@ export const Typewriter = ({ word, progress }: TypewriterProps) => {
                     )
                 })}
             </TypeWrapper>
+            <Hint>Touch to preview</Hint>
         </Container>
     )
 }
@@ -42,9 +43,6 @@ const Container = styled.div`
     font-weight: normal;
     padding: 0;
     overflow: hidden;
-    height: 2em;
-    width: 100%;
-    line-height: 2em;
 `
 
 const TypeWrapper = styled.div`
@@ -88,4 +86,9 @@ const Letter = styled.span<{ hide: boolean }>`
         transform: ${props => (props.hide ? 'scale(2)' : 'scale(0)')};
         opacity: ${props => (props.hide ? 1 : 0)};
     }
+`
+
+const Hint = styled.small`
+    font-size: 11px;
+    color: ${light};
 `
