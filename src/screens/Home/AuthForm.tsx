@@ -3,7 +3,7 @@ import styled from 'styled-components'
 import { Input } from '../../components/Input'
 import { Tabs, TabsItem } from '../../components/Tabs'
 import { useAuthActions } from '../../store/useAuth'
-import { brandColor, white, dangerColor } from '../../styles/colors'
+import { purple, white, dangerColor } from '../../styles/colors'
 import { FullLoading, Loading } from '../../components/Loading'
 
 export const AuthForm = () => {
@@ -113,7 +113,7 @@ const FullButton = styled.button`
     font-weight: bold;
     padding: 18px 0;
     border: none;
-    background: ${brandColor};
+    background: ${purple};
 `
 
 const ErrorMessage = styled.div`

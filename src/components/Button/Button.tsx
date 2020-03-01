@@ -1,5 +1,5 @@
 import styled, { css } from 'styled-components'
-import { black, brandColor, white } from '../../styles/colors'
+import { black, purple, white } from '../../styles/colors'
 import { now, slow } from '../../styles/transitions'
 
 export const Button = styled.button<{ size?: string; color?: string }>`
@@ -17,13 +17,13 @@ export const Button = styled.button<{ size?: string; color?: string }>`
             `
         } else if (p.color == 'primary') {
             return css`
-                border: 2px solid ${brandColor};
+                border: 2px solid ${purple};
                 color: ${white};
-                background: ${brandColor};
+                background: ${purple};
             `
         } else {
             return css`
-                border: 2px solid ${brandColor};
+                border: 2px solid ${purple};
                 color: ${black};
                 background: transparent;
             `

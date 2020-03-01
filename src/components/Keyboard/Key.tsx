@@ -1,6 +1,6 @@
 import React from 'react'
 import styled, { css } from 'styled-components'
-import { brandColor, white } from '../../styles/colors'
+import { purple, white } from '../../styles/colors'
 import { fast } from '../../styles/transitions'
 import KeyHandler, { KEYPRESS } from 'react-key-handler'
 
@@ -30,10 +30,10 @@ const Container = styled.button<{ visible?: boolean; isSpace?: boolean }>`
     height: 7vh;
     padding: 0;
     margin: 0 4px;
-    border: 0.4pt solid ${brandColor};
+    border: 0.4pt solid ${purple};
     opacity: ${p => (p.visible ? 1 : 0.1)};
     border-radius: 4px;
-    color: ${brandColor};
+    color: ${purple};
     font-weight: bold;
     font-size: 24px;
     text-align: center;
@@ -45,7 +45,7 @@ const Container = styled.button<{ visible?: boolean; isSpace?: boolean }>`
 const highlight = css`
     &:active {
         outline: none;
-        background-color: ${brandColor};
+        background-color: ${purple};
         color: ${white};
     }
 `

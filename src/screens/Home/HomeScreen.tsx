@@ -9,7 +9,7 @@ import { AuthForm } from './AuthForm'
 import { white } from '../../styles/colors'
 import { floatingShadow } from '../../styles/shadow'
 
-export const Home = () => {
+export const HomeScreen = () => {
     const { isLoading, loggedIn } = useIsLoading()
     const { words } = useWords()
 

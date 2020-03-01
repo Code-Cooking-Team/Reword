@@ -1,7 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
 import { Word } from '../../store/state/types/State'
-import { black1, brandColor, black6 } from '../../styles/colors'
+import { black1, purple, black6 } from '../../styles/colors'
 import { Icon } from '../../components/Icon'
 
 type WordsItemProps = {
@@ -40,7 +40,7 @@ const Name = styled.strong`
 `
 
 const Translations = styled.span`
-    color: ${brandColor};
+    color: ${purple};
     font-size: 1.2em;
 `
 

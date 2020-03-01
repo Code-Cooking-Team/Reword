@@ -1,7 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
 import { useSpring, animated } from 'react-spring'
-import { brandColor } from '../../styles/colors'
+import { purple } from '../../styles/colors'
 
 export const Logo = () => {
     const reSpring = useSpring({
@@ -58,5 +58,5 @@ const Pipe = styled(animated.span)`
     width: 0.1em;
     margin: 0 0.05em;
     vertical-align: middle;
-    background-color: ${brandColor};
+    background-color: ${purple};
 `

@@ -3,7 +3,7 @@ import { WordsState } from '../../store/state/types/State'
 import { useRouter } from '../../store'
 import { RouteName } from '../../store/types/RouteName'
 import { Icon } from '../../components/Icon'
-import { white, brandColor } from '../../styles/colors'
+import { white, purple } from '../../styles/colors'
 import styled from 'styled-components'
 import { floatingShadow } from '../../styles/shadow'
 
@@ -42,6 +42,6 @@ const CircleButton = styled.button`
     max-width: 260px;
     max-height: 260px;
     border-radius: 100%;
-    color: ${brandColor};
+    color: ${purple};
     font-size: 36px;
 `

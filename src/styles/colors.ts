@@ -1,4 +1,4 @@
-export const brandColor = '#9438EA'
+export const purple = '#9438EA'
 export const white = '#FFFFFF'
 export const black = '#000000'
 export const black05 = 'rgba(0, 0, 0, 0.05)'

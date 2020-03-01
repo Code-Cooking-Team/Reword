@@ -13,7 +13,7 @@ import { FullLoading } from '../../components/Loading'
 import { useGame } from './useGame'
 import { ExampleSentence } from '../../components/Typewriter/ExampleSentence'
 
-export const Game = () => {
+export const GameScreen = () => {
     const { goBack } = useRouter()
     const { word, wordRight, progress, nextWord, retry, keyPress, isComplete } = useGame()
 

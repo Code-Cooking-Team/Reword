@@ -1,1 +1,1 @@
-export * from './Words'
+export * from './WordsScreen'

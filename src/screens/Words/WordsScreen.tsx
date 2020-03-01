@@ -8,7 +8,7 @@ import { WordsItem } from './WordsItem'
 import styled from 'styled-components'
 import { Space } from '../../components/Space/Space'
 
-export const Words = () => {
+export const WordsScreen = () => {
     const [search, setSearch] = useState('')
 
     const { words, removeWord } = useWords()

@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { brandColor } from '../../styles/colors'
+import { purple } from '../../styles/colors'
 
 type ExampleSentenceProps = {
     sentence: string
@@ -54,5 +54,5 @@ const Container = styled.p`
 `
 
 const HiddenWord = styled.span`
-    color: ${brandColor};
+    color: ${purple};
 `

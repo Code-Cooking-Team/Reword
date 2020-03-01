@@ -1,7 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
 import { animated, useSpring } from 'react-spring'
-import { brandColor } from '../../styles/colors'
+import { purple } from '../../styles/colors'
 
 export const Pointer = () => {
     const pipeSpring = useSpring({
@@ -19,5 +19,5 @@ const PipeContainer = styled(animated.span)`
     width: 0.1em;
     margin: 0 -0.05em;
     vertical-align: middle;
-    background-color: ${brandColor};
+    background-color: ${purple};
 `

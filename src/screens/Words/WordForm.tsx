@@ -7,7 +7,7 @@ import { Input } from '../../components/Input'
 import { useDictionary } from '../../hooks/useDictionary'
 import { DictionaryTrans } from '../../hooks/useDictionary/types'
 import { UnSavedWord } from '../../store/state/types/State'
-import { black1, white, black05, brandColor } from '../../styles/colors'
+import { black1, white, black05, purple } from '../../styles/colors'
 import { useWords } from '../../store'
 import { floatingShadow } from '../../styles/shadow'
 import { fadeDuration, easing } from '../../styles/animations'
@@ -159,7 +159,7 @@ const AutocompleteItem = styled.button`
     }
     &:focus {
         background: ${white};
-        box-shadow: 0 0 0 1px ${brandColor} inset;
+        box-shadow: 0 0 0 1px ${purple} inset;
     }
 `
 

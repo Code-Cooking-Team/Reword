@@ -1,19 +1,19 @@
 import React, { ElementType } from 'react'
 import styled from 'styled-components'
 import { Nav, NAV_HEIGHT } from './components/Nav'
-import { Game } from './screens/Game'
-import { Home } from './screens/Home'
-import { Settings } from './screens/Settings'
-import { Words } from './screens/Words'
+import { GameScreen } from './screens/Game'
+import { HomeScreen } from './screens/Home'
+import { SettingsScreen } from './screens/Settings'
 import { useRouter, useWordsPersist } from './store'
 import { RouteName } from './store/types/RouteName'
 import { useWatchAuthChange } from './store/useAuth'
+import { WordsScreen } from './screens/Words'
 
 const screens: Record<RouteName, ElementType> = {
-    [RouteName.Home]: Home,
-    [RouteName.Words]: Words,
-    [RouteName.Profile]: Settings,
-    [RouteName.Game]: Game,
+    [RouteName.Home]: HomeScreen,
+    [RouteName.Words]: WordsScreen,
+    [RouteName.Profile]: SettingsScreen,
+    [RouteName.Game]: GameScreen,
 }
 
 export const App = () => {

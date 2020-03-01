@@ -1,7 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
 import { DragDropContext, Droppable, Draggable } from 'react-beautiful-dnd'
-import { brandColor, white } from '../../styles/colors'
+import { purple, white } from '../../styles/colors'
 import { Icon } from '../Icon'
 
 type EditableListProps = {
@@ -73,6 +73,6 @@ const Cross = styled.button`
     border: none;
     padding: 4px;
     width: 32px;
-    color: ${brandColor};
+    color: ${purple};
     background: none;
 `

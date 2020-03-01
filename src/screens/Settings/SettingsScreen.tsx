@@ -5,7 +5,7 @@ import { useAuthActions } from '../../store/useAuth'
 import styled from 'styled-components'
 import { useGlobalState } from '../../store/state/store'
 
-export const Settings = () => {
+export const SettingsScreen = () => {
     const { signOut } = useAuthActions()
     const [user] = useGlobalState('user')
 

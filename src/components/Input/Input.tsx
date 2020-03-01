@@ -1,6 +1,6 @@
 import React, { useState, useRef, useEffect } from 'react'
 import styled from 'styled-components'
-import { brandColor, black3 } from '../../styles/colors'
+import { purple, black3 } from '../../styles/colors'
 
 type InputProps = {
     value: string
@@ -66,7 +66,7 @@ const Label = styled.label<{ active: boolean }>`
         opacity: 1;
         transition: transform 0.25s ease-out;
         transform: scaleX(${props => (props.active ? 1 : 0)});
-        background: ${brandColor};
+        background: ${purple};
         pointer-events: none;
     }
 `
