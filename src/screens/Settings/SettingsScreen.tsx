@@ -1,10 +1,11 @@
 import React from 'react'
+import styled from 'styled-components'
 import { Button } from '../../components/Button'
 import { Header } from '../../components/Header'
-import { useAuthActions } from '../../store/useAuth'
-import styled from 'styled-components'
-import { useGlobalState } from '../../store/state/store'
 import { FullLoading } from '../../components/Loading'
+import { useGlobalState } from '../../store/state/store'
+import { useAuthActions } from '../../store/useAuth'
+import { navHeight } from '../../styles/values'
 
 export const SettingsScreen = () => {
     const { signOut } = useAuthActions()
@@ -15,7 +16,7 @@ export const SettingsScreen = () => {
     }
 
     return (
-        <div>
+        <Container>
             <Header title="Profile" iconName="Profile" />
             <Center>
                 Logged as <strong>{user.email}</strong>
@@ -25,9 +26,13 @@ export const SettingsScreen = () => {
                     Sign out
                 </Button>
             </Center>
-        </div>
+        </Container>
     )
 }
+
+const Container = styled.div`
+    padding-bottom: ${navHeight};
+`
 
 const Center = styled.div`
     text-align: center;

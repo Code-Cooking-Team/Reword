@@ -1,6 +1,6 @@
 import React, { ElementType } from 'react'
 import styled from 'styled-components'
-import { Nav, NAV_HEIGHT } from './components/Nav'
+import { Nav } from './components/Nav'
 import { GameScreen } from './screens/Game'
 import { HomeScreen } from './screens/Home'
 import { SettingsScreen } from './screens/Settings'
@@ -25,22 +25,13 @@ export const App = () => {
 
     return (
         <>
-            <Content>
-                <Page />
-            </Content>
+            <Page />
             <NavContainer>
                 <Nav active={route} onChange={setRoute} />
             </NavContainer>
         </>
     )
 }
-
-const Content = styled.main`
-    height: calc(100% - ${NAV_HEIGHT}px);
-    position: relative;
-    width: 100%;
-    overflow-y: auto;
-`
 
 const NavContainer = styled.div`
     position: fixed;
