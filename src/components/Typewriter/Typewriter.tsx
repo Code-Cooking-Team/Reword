@@ -43,6 +43,7 @@ const Container = styled.div`
     font-weight: normal;
     padding: 0;
     overflow: hidden;
+    height: 100%;
 `
 
 const TypeWrapper = styled.div`
