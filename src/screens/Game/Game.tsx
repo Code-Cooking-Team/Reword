@@ -1,54 +1,37 @@
-import React, { useEffect, useState } from 'react'
+import React from 'react'
 import KeyHandler, { KEYPRESS } from 'react-key-handler'
 import styled from 'styled-components'
 import { Icon } from '../../components/Icon'
 import { Keyboard } from '../../components/Keyboard'
 import { Typewriter } from '../../components/Typewriter'
-import { useRouter, useWords } from '../../store'
-import { brand, good, white, gray } from '../../styles/colors'
+import { useRouter } from '../../store'
+import { goodColor, black6, white, black1 } from '../../styles/colors'
 import { floatingShadow } from '../../styles/shadow'
-import { radius } from '../../styles/values'
 import { transition } from '../../styles/transitions'
+import { radius } from '../../styles/values'
+import { FullLoading } from '../../components/Loading'
+import { useGame } from './useGame'
+import { ExampleSentence } from '../../components/Typewriter/ExampleSentence'
 
 export const Game = () => {
     const { goBack } = useRouter()
-    const { words, randomWord } = useWords()
-    const [progress, setProgress] = useState(0)
-    const [word, setWord] = useState(randomWord())
+    const { word, wordRight, progress, nextWord, retry, keyPress, isComplete } = useGame()
 
-    // Update when words changes
-    useEffect(() => {
-        setWord(randomWord())
-    }, [words])
-
-    // Generally for development purposes only
-    if (!word) return null
-
-    const wordRight = word.name.substr(progress)
-    const isComplete = progress === word.name.length
-
-    const handleKeyPress = (key: string) => {
-        const currentWord = word.name[progress].toLocaleLowerCase()
-        if (key === currentWord) {
-            setProgress(progress + 1)
-        }
-    }
-
-    const handleNextWord = () => {
-        setWord(randomWord())
-        setProgress(0)
-    }
-
-    const handleRetry = () => {
-        setProgress(0)
-    }
+    if (!word.name) return <FullLoading />
 
     return (
         <Container>
             <Row>
                 <div>
-                    <h1>{word.translation}</h1>
-                    <h5>{isComplete ? word.example : '\u00a0'}</h5>
+                    <h1>{word.translation.join(', ')}</h1>
+                    {word.example.map((sentence, index) => (
+                        <ExampleSentence
+                            key={index}
+                            sentence={sentence}
+                            hiddenWord={word.name}
+                            showWord={isComplete}
+                        />
+                    ))}
                 </div>
             </Row>
             <Row>
@@ -58,19 +41,19 @@ export const Game = () => {
                 <ActionButton onClick={goBack}>
                     <Icon name="Cross" /> <span>End</span>
                 </ActionButton>
-                <ActionButton onClick={handleRetry}>
+                <ActionButton onClick={retry}>
                     <Icon name="Reload" /> <span>Retry</span>
                 </ActionButton>
-                <ActionButton onClick={handleNextWord}>
+                <ActionButton onClick={nextWord}>
                     <Icon name="Play" /> <span>Skip</span>
                 </ActionButton>
             </ActionButtonsWrapper>
             <Bottom>
-                <Keyboard word={wordRight} onPress={handleKeyPress} />
+                <Keyboard word={wordRight} onPress={keyPress} />
                 {isComplete && (
                     <Complete>
                         <h2>Done!</h2>
-                        <DoneButton onClick={handleNextWord}>
+                        <DoneButton onClick={nextWord}>
                             Next word
                             <Icon name="Play" />
                         </DoneButton>
@@ -78,7 +61,7 @@ export const Game = () => {
                         <KeyHandler
                             keyEventName={KEYPRESS}
                             keyValue="Enter"
-                            onKeyHandle={handleNextWord}
+                            onKeyHandle={nextWord}
                         />
                     </Complete>
                 )}
@@ -97,6 +80,7 @@ const Container = styled.div`
     overflow: hidden;
     user-select: none;
 `
+
 const Row = styled.div`
     width: 100%;
     flex: 1 0 auto;
@@ -123,7 +107,7 @@ const DoneButton = styled.button`
     padding: 30px 50px;
     border: none;
     color: ${white};
-    background: ${good};
+    background: ${goodColor};
     border-radius: 4px;
     box-shadow: ${floatingShadow};
     font-weight: bold;
@@ -134,13 +118,12 @@ const ActionButtonsWrapper = styled.div`
     display: grid;
     grid-auto-columns: 1fr;
     grid-auto-flow: column;
-    /* grid-template-columns: 1fr 1fr 1fr; */
     grid-gap: 10px;
 `
 
 const ActionButton = styled.button`
     padding: 25px 40px;
-    color: ${gray};
+    color: ${black6};
     font-size: 1em;
     background: none;
     border: none;
@@ -152,6 +135,6 @@ const ActionButton = styled.button`
     }
 
     &:active {
-        background-color: rgba(0, 0, 0, 0.1);
+        background-color: ${black1};
     }
 `

@@ -1,7 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
 import { IconName, Icon } from '../Icon'
-import { brand, white } from '../../styles/colors'
+import { brandColor, white } from '../../styles/colors'
 import { floatingShadow } from '../../styles/shadow'
 import { NAV_HEIGHT } from '../Nav'
 
@@ -21,7 +21,7 @@ const Button = styled.button`
     display: block;
     padding: 13px;
     border: 2px solid ${white};
-    color: ${brand};
+    color: ${brandColor};
     box-shadow: ${floatingShadow};
     border-radius: 50%;
     background: ${white};
@@ -30,6 +30,6 @@ const Button = styled.button`
     position: sticky;
     bottom: 17px;
     &:active {
-        border-color: ${brand};
+        border-color: ${brandColor};
     }
 `

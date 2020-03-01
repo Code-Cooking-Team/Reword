@@ -3,6 +3,7 @@ import { storiesOf } from '@storybook/react'
 import React from 'react'
 import styled from 'styled-components'
 import { Typewriter } from './Typewriter'
+import { ExampleSentence } from './ExampleSentence'
 
 storiesOf('Typewriter', module)
     .addDecorator(withKnobs)
@@ -21,6 +22,21 @@ storiesOf('Typewriter', module)
     ))
     .add('full', () => (
         <Typewriter word={text('word', 'Hello')} progress={number('progress', 5)} />
+    ))
+    .add('example sentence', () => (
+        <div>
+            <ExampleSentence sentence="We barely hear you" hiddenWord="Barely" />
+            <ExampleSentence sentence="We barely hear you" hiddenWord="Barely" showWord />
+            <ExampleSentence
+                sentence="You are capable of distinguishing reality from fantasy"
+                hiddenWord="distinguish"
+            />
+            <ExampleSentence
+                sentence="You are capable of distinguishing reality from fantasy"
+                hiddenWord="distinguish"
+                showWord
+            />
+        </div>
     ))
 
 const Center = styled.div`

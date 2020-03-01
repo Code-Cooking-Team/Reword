@@ -7,7 +7,7 @@ import { Input } from '../../components/Input'
 import { useDictionary } from '../../hooks/useDictionary'
 import { DictionaryTrans } from '../../hooks/useDictionary/types'
 import { UnSavedWord } from '../../store/state/types/State'
-import { light, white, varyLight, brand } from '../../styles/colors'
+import { black1, white, black05, brandColor } from '../../styles/colors'
 import { useWords } from '../../store'
 import { floatingShadow } from '../../styles/shadow'
 import { fadeDuration, easing } from '../../styles/animations'
@@ -130,7 +130,7 @@ const Autocomplete = styled.div<{ count }>`
         `};
 
     transition: height ${fadeDuration}ms ${easing};
-    background: ${varyLight};
+    background: ${black05};
     border-radius: 5px;
     display: flex;
     flex-direction: column;
@@ -145,7 +145,7 @@ const AutocompleteItem = styled.button`
     width: 100%;
     padding: 15px;
     border: none;
-    border-bottom: 1px solid ${varyLight};
+    border-bottom: 1px solid ${black05};
     background: none;
     text-align: left;
     font-size: 14px;
@@ -159,7 +159,7 @@ const AutocompleteItem = styled.button`
     }
     &:focus {
         background: ${white};
-        box-shadow: 0 0 0 1px ${brand} inset;
+        box-shadow: 0 0 0 1px ${brandColor} inset;
     }
 `
 

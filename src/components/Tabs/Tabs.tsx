@@ -9,7 +9,7 @@ import React, {
 } from 'react'
 import styled, { css, keyframes } from 'styled-components'
 import { TabsItemProps } from '.'
-import { black, brand } from '../../styles/colors'
+import { black, brandColor } from '../../styles/colors'
 import { fast, transition } from '../../styles/transitions'
 
 type TabsProps = {
@@ -155,7 +155,7 @@ const Line = styled.div`
     position: absolute;
     top: 100%;
     z-index: 10;
-    background: ${brand};
+    background: ${brandColor};
 `
 
 const NavItem = styled.button<{ active: boolean }>`
@@ -167,7 +167,7 @@ const NavItem = styled.button<{ active: boolean }>`
     background: none;
     border: none;
     cursor: pointer;
-    color: ${p => (p.active ? brand : black)};
+    color: ${p => (p.active ? brandColor : black)};
 `
 
 const useLinePosition = (

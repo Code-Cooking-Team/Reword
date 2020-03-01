@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import styled from 'styled-components'
 import { useElementSize } from '../../hooks/useElementSize'
-import { black, muted, light } from '../../styles/colors'
+import { black, black3, black1 } from '../../styles/colors'
 import { Pointer } from './Pointer'
 
 type TypewriterProps = {
@@ -83,7 +83,7 @@ const Letter = styled.span<{ hide: boolean }>`
         line-height: 0.5em;
         height: 1em;
         transition: transform 0.25s cubic-bezier(0.3, 1.61, 0.43, 1.01);
-        color: ${muted};
+        color: ${black3};
         transform: ${props => (props.hide ? 'scale(2)' : 'scale(0)')};
         opacity: ${props => (props.hide ? 1 : 0)};
     }
@@ -91,5 +91,5 @@ const Letter = styled.span<{ hide: boolean }>`
 
 const Hint = styled.small`
     font-size: 11px;
-    color: ${light};
+    color: ${black1};
 `

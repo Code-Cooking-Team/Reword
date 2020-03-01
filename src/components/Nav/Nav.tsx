@@ -1,6 +1,6 @@
 import * as React from 'react'
 import styled, { css } from 'styled-components'
-import { white, gray, brand } from '../../styles/colors'
+import { white, black6, brandColor } from '../../styles/colors'
 import { barShadow } from '../../styles/shadow'
 import { Icon } from '../Icon'
 import { fast } from '../../styles/transitions'
@@ -64,7 +64,7 @@ const NavList = styled.div`
 `
 
 const NavButton = styled.button<{ isActive: boolean }>`
-    color: ${props => (props.isActive ? brand : gray)};
+    color: ${props => (props.isActive ? brandColor : black6)};
     display: block;
     background: none;
     border: none;
@@ -89,7 +89,7 @@ const NavButton = styled.button<{ isActive: boolean }>`
         transition: opacity 0.6s ease-out, background 0.6s ease-out, transform 1s ease-out;
         opacity: 0.1;
         transform: scale(1.2);
-        background: ${brand};
+        background: ${brandColor};
     }
 `
 
@@ -97,7 +97,7 @@ const activeCSS = css`
     transition: all ${fast};
     opacity: 0;
     transform: scale(2);
-    background: ${brand};
+    background: ${brandColor};
 `
 
 const inActiveCSS = css`
