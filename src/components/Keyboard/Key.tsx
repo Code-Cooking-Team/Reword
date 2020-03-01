@@ -13,7 +13,7 @@ interface KeyProps {
 export const Key = (props: KeyProps) => (
     <Container
         visible={props.visible}
-        onTouchStart={props.onClick}
+        onPointerDown={props.onClick}
         isSpace={props.symbol === ' '}
     >
         {props.symbol}
