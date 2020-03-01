@@ -64,6 +64,23 @@ export const fadeOutAnimation = css`
     animation: ${fadeOutKeyframes} ${fadeDuration}ms ${easing} forwards;
 `
 
+const scaleInframes = keyframes`
+    from { opacity: 0; transform: scale(0.8) }
+    to { opacity: 1; transform: scale(1) }
+`
+const scaleOutframes = keyframes`
+    from { opacity: 1; transform: scale(1) }
+    to { opacity: 0; transform: scale(0.8) }
+`
+
+export const scaleInAnimation = css`
+    animation: ${scaleInframes} ${fadeDuration}ms ${easing} forwards;
+`
+
+export const scaleOutAnimation = css`
+    animation: ${scaleOutframes} ${fadeDuration}ms ${easing} forwards;
+`
+
 export const fadeInOutAnimation = (status: TransitionStatus) => css`
     ${status === ENTERING && fadeInAnimation};
     ${status === EXITING && fadeOutAnimation};

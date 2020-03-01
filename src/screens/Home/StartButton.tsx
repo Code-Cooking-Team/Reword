@@ -6,6 +6,7 @@ import { Icon } from '../../components/Icon'
 import { white, purple } from '../../styles/colors'
 import styled from 'styled-components'
 import { floatingShadow } from '../../styles/shadow'
+import { scaleInAnimation } from '../../styles/animations'
 
 type StartButtonProps = {
     words: WordsState
@@ -34,6 +35,7 @@ export const StartButton = (props: StartButtonProps) => {
 const playSize = '45vmin'
 
 const CircleButton = styled.button`
+    ${scaleInAnimation}
     background: ${white};
     border: none;
     box-shadow: ${floatingShadow};

@@ -8,6 +8,7 @@ import { FullLoading } from '../../components/Loading'
 import { AuthForm } from './AuthForm'
 import { white } from '../../styles/colors'
 import { floatingShadow } from '../../styles/shadow'
+import { fadeInAnimation } from '../../styles/animations'
 
 export const HomeScreen = () => {
     const { isLoading, loggedIn } = useIsLoading()
@@ -49,6 +50,7 @@ const Container = styled.div`
 const WordsCount = styled.div`
     padding: 25px;
     text-align: center;
+    ${fadeInAnimation}
 `
 
 const AuthFormWrapper = styled.main`
