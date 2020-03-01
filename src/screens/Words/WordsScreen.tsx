@@ -1,12 +1,13 @@
 import React, { useState } from 'react'
+import styled from 'styled-components'
 import { FloatingButton } from '../../components/FloatingButton'
 import { Header } from '../../components/Header'
 import { Search } from '../../components/Search'
+import { Space } from '../../components/Space/Space'
 import { useWords } from '../../store'
+import { navHeight } from '../../styles/values'
 import { WordModal } from './WordModal'
 import { WordsItem } from './WordsItem'
-import styled from 'styled-components'
-import { Space } from '../../components/Space/Space'
 
 export const WordsScreen = () => {
     const [search, setSearch] = useState('')
@@ -43,7 +44,8 @@ export const WordsScreen = () => {
 }
 
 const Container = styled.div`
-    height: 100%;
+    min-height: 100%;
     display: grid;
     grid-template-rows: auto 1fr auto;
+    padding-bottom: ${navHeight};
 `

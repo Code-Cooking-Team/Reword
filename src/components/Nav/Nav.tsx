@@ -1,25 +1,28 @@
 import * as React from 'react'
 import styled, { css } from 'styled-components'
-import { white, black6, purple } from '../../styles/colors'
-import { barShadow } from '../../styles/shadow'
-import { Icon } from '../Icon'
-import { fast } from '../../styles/transitions'
+import { useRouter } from '../../store'
 import { RouteName } from '../../store/types/RouteName'
 import { useIsLoading } from '../../store/useIsLoading'
+import { black6, purple, white } from '../../styles/colors'
+import { barShadow } from '../../styles/shadow'
+import { fast } from '../../styles/transitions'
+import { navHeight } from '../../styles/values'
+import { Icon } from '../Icon'
 import { Space } from '../Space/Space'
-
-export const NAV_HEIGHT = 60
 
 type NavProps = {
     active: RouteName
     onChange(page: RouteName): void
 }
 
+const screensWithoutNav = [RouteName.Game]
+
 export const Nav = (prop: NavProps) => {
     const { loggedIn } = useIsLoading()
+    const { route } = useRouter()
 
     return (
-        <Container show={loggedIn}>
+        <Container show={loggedIn && !screensWithoutNav.includes(route)}>
             <Space>
                 <NavList>
                     <NavButton
@@ -52,10 +55,10 @@ export const Nav = (prop: NavProps) => {
 const Container = styled.nav<{ show: boolean }>`
     background: ${white};
     width: 100%;
-    min-height: ${NAV_HEIGHT}px;
+    min-height: ${navHeight};
     box-shadow: ${barShadow};
     overflow: hidden;
-    transform: translateY(${p => (p.show ? 0 : NAV_HEIGHT)}px);
+    transform: translateY(${p => (p.show ? 0 : navHeight)});
     transition: transform 300ms ease;
 `
 const NavList = styled.div`

@@ -9,6 +9,7 @@ import { AuthForm } from './AuthForm'
 import { white } from '../../styles/colors'
 import { floatingShadow } from '../../styles/shadow'
 import { fadeInAnimation } from '../../styles/animations'
+import { navHeight } from '../../styles/values'
 
 export const HomeScreen = () => {
     const { isLoading, loggedIn } = useIsLoading()
@@ -45,6 +46,7 @@ const Container = styled.div`
     grid-auto-rows: 1fr 3fr 1fr;
     align-items: center;
     justify-items: center;
+    padding-bottom: ${navHeight};
 `
 
 const WordsCount = styled.div`

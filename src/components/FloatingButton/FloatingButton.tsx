@@ -1,9 +1,9 @@
 import React from 'react'
 import styled from 'styled-components'
-import { IconName, Icon } from '../Icon'
 import { purple, white } from '../../styles/colors'
 import { floatingShadow } from '../../styles/shadow'
-import { NAV_HEIGHT } from '../Nav'
+import { navHeight } from '../../styles/values'
+import { Icon, IconName } from '../Icon'
 
 type FloatingButtonProps = {
     onClick: () => void
@@ -17,7 +17,7 @@ export const FloatingButton = (props: FloatingButtonProps) => (
 )
 
 const Button = styled.button`
-    position: relative;
+    position: sticky;
     display: block;
     padding: 13px;
     border: 2px solid ${white};
@@ -27,8 +27,7 @@ const Button = styled.button`
     background: ${white};
     transition: 0.2s;
     margin: 15px 15px 17px auto;
-    position: sticky;
-    bottom: 17px;
+    bottom: calc(17px + ${navHeight});
     &:active {
         border-color: ${purple};
     }
