@@ -4,10 +4,15 @@ import { Header } from '../../components/Header'
 import { useAuthActions } from '../../store/useAuth'
 import styled from 'styled-components'
 import { useGlobalState } from '../../store/state/store'
+import { FullLoading } from '../../components/Loading'
 
 export const SettingsScreen = () => {
     const { signOut } = useAuthActions()
     const [user] = useGlobalState('user')
+
+    if (!user) {
+        return <FullLoading />
+    }
 
     return (
         <div>
