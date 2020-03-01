@@ -31,7 +31,7 @@ export const Words = () => {
                         ))}
             </div>
             <FloatingButton onClick={() => setShowModal(!showModal)} iconName="Plus" />
-            <WordModal show={showModal} onClose={() => setShowModal(false)} />
+            <WordModal show={showModal} onDismiss={() => setShowModal(false)} />
         </Container>
     )
 }

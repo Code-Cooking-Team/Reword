@@ -7,7 +7,7 @@ import {
 import { css, keyframes } from 'styled-components'
 
 export const fadeDuration = 400
-const easing = 'cubic-bezier(0.29, 0.87, 0.54, 0.99)'
+export const easing = 'cubic-bezier(0.29, 0.87, 0.54, 0.99)'
 
 const fadeUpKeyframes = keyframes`
     from {

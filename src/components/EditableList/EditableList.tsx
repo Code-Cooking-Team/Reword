@@ -1,6 +1,8 @@
 import React from 'react'
 import styled from 'styled-components'
 import { DragDropContext, Droppable, Draggable } from 'react-beautiful-dnd'
+import { brand, white } from '../../styles/colors'
+import { Icon } from '../Icon'
 
 type EditableListProps = {
     list: string[]
@@ -37,7 +39,9 @@ export const EditableList = (props: EditableListProps) => (
                                         onClick={() => {
                                             props.onChange(remove(props.list, index))
                                         }}
-                                    />
+                                    >
+                                        <Icon name="Cross" size="normal" />
+                                    </Cross>
                                 </ListElement>
                             )}
                         </Draggable>
@@ -66,10 +70,9 @@ const ListElement = styled.div`
     align-items: center;
 `
 const Cross = styled.button`
-    border-left: 1px solid #ccc;
-    color: red;
-    padding: 3px;
-    :after {
-        content: 'x';
-    }
+    border: none;
+    padding: 4px;
+    width: 32px;
+    color: ${brand};
+    background: none;
 `

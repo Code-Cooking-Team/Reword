@@ -7,15 +7,15 @@ import { WordPresets } from './WordPresets'
 
 type WordModalProps = {
     show: boolean
-    onClose: () => void
+    onDismiss: () => void
 }
 
 export const WordModal = (props: WordModalProps) => {
     return (
-        <Modal show={props.show} close={props.onClose}>
+        <Modal show={props.show} onOverlayClick={props.onDismiss}>
             <Tabs>
                 <TabsItem name="New word">
-                    <WordForm />
+                    <WordForm onSave={props.onDismiss} />
                 </TabsItem>
                 <TabsItem name="Presets">
                     <WordPresets />
