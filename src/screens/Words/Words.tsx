@@ -21,7 +21,11 @@ export const Words = () => {
             <div>
                 {words &&
                     words
-                        .filter(word => word.name.includes(search))
+                        .filter(word =>
+                            word.name
+                                .toLocaleLowerCase()
+                                .includes(search.toLocaleLowerCase())
+                        )
                         .map(word => (
                             <WordsItem
                                 key={word.id}
