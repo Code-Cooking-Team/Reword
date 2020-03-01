@@ -31,6 +31,7 @@ const modalRoot = document.getElementById('modals')
 const ModalBox = styled.div<{ status: TransitionStatus }>`
     position: fixed;
     left: 0;
+    max-width: 750px;
     right: 0;
     display: block;
     bottom: 15px;

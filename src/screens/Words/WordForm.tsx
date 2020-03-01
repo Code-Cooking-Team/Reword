@@ -14,7 +14,7 @@ import { fadeDuration, easing } from '../../styles/animations'
 import { fast } from '../../styles/transitions'
 
 type WordFormProps = {
-    onSave: () => void
+    onDismiss: () => void
 }
 
 export const WordForm = (props: WordFormProps) => {
@@ -30,17 +30,19 @@ export const WordForm = (props: WordFormProps) => {
     const { results } = useDictionary(wordInput)
 
     const addNewWord = () => {
-        addWord({
-            name: wordInput,
-            translation: translationList,
-            example: exampleList,
-        })
-        setWordInput('')
-        setTranslationInput('')
-        setExampleInput('')
-        translationListActions.clear()
-        exampleListActions.clear()
-        props.onSave()
+        if (wordInput && translationList.length) {
+            addWord({
+                name: wordInput,
+                translation: translationList,
+                example: exampleList,
+            })
+            setWordInput('')
+            setTranslationInput('')
+            setExampleInput('')
+            translationListActions.clear()
+            exampleListActions.clear()
+            props.onDismiss()
+        }
     }
 
     const getTrans = (trans: DictionaryTrans[]) => trans.map(t => t.texts[0]).join(', ')
@@ -109,9 +111,14 @@ export const WordForm = (props: WordFormProps) => {
                     +
                 </Button>
             </InputWithButtonWrapper>
-
-            {/* <Button onClick={props.onClose}>Close</Button> */}
-            <Button onClick={addNewWord}>Save</Button>
+            <ModalActions>
+                <Button onClick={props.onDismiss} color="transparent">
+                    Close
+                </Button>
+                <Button onClick={addNewWord} color="primary">
+                    Save
+                </Button>
+            </ModalActions>
         </>
     )
 }
@@ -160,4 +167,13 @@ const InputWithButtonWrapper = styled.div`
     display: grid;
     grid-template-columns: 1fr auto;
     align-items: center;
+`
+
+const ModalActions = styled.div`
+    margin-top: 15px;
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: auto;
+    grid-gap: 15px;
+    justify-content: end;
 `

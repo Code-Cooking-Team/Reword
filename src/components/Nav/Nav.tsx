@@ -6,6 +6,7 @@ import { Icon } from '../Icon'
 import { fast } from '../../styles/transitions'
 import { RouteName } from '../../store/types/RouteName'
 import { useIsLoading } from '../../store/useIsLoading'
+import { Space } from '../Space/Space'
 
 export const NAV_HEIGHT = 60
 
@@ -19,41 +20,47 @@ export const Nav = (prop: NavProps) => {
 
     return (
         <Container show={loggedIn}>
-            <NavButton
-                isActive={prop.active === RouteName.Home}
-                onClick={() => prop.onChange(RouteName.Home)}
-            >
-                <Icon name="Home" block />
-                Home
-            </NavButton>
-            <NavButton
-                isActive={prop.active === RouteName.Words}
-                onClick={() => prop.onChange(RouteName.Words)}
-            >
-                <Icon name="Words" block />
-                Words
-            </NavButton>
-            <NavButton
-                isActive={prop.active === RouteName.Profile}
-                onClick={() => prop.onChange(RouteName.Profile)}
-            >
-                <Icon name="Profile" block />
-                Profile
-            </NavButton>
+            <Space>
+                <NavList>
+                    <NavButton
+                        isActive={prop.active === RouteName.Home}
+                        onClick={() => prop.onChange(RouteName.Home)}
+                    >
+                        <Icon name="Home" block />
+                        Home
+                    </NavButton>
+                    <NavButton
+                        isActive={prop.active === RouteName.Words}
+                        onClick={() => prop.onChange(RouteName.Words)}
+                    >
+                        <Icon name="Words" block />
+                        Words
+                    </NavButton>
+                    <NavButton
+                        isActive={prop.active === RouteName.Profile}
+                        onClick={() => prop.onChange(RouteName.Profile)}
+                    >
+                        <Icon name="Profile" block />
+                        Profile
+                    </NavButton>
+                </NavList>
+            </Space>
         </Container>
     )
 }
 
 const Container = styled.nav<{ show: boolean }>`
     background: ${white};
-    display: flex;
     width: 100%;
     min-height: ${NAV_HEIGHT}px;
-    justify-content: space-evenly;
     box-shadow: ${barShadow};
     overflow: hidden;
     transform: translateY(${p => (p.show ? 0 : NAV_HEIGHT)}px);
     transition: transform 300ms ease;
+`
+const NavList = styled.div`
+    display: flex;
+    justify-content: space-evenly;
 `
 
 const NavButton = styled.button<{ isActive: boolean }>`

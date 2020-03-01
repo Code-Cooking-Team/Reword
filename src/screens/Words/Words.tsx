@@ -6,6 +6,7 @@ import { useWords } from '../../store'
 import { WordModal } from './WordModal'
 import { WordsItem } from './WordsItem'
 import styled from 'styled-components'
+import { Space } from '../../components/Space/Space'
 
 export const Words = () => {
     const [search, setSearch] = useState('')
@@ -18,7 +19,7 @@ export const Words = () => {
             <Header title="Words" iconName="Words">
                 <Search value={search} onChange={setSearch} />
             </Header>
-            <div>
+            <Space>
                 {words &&
                     words
                         .filter(word =>
@@ -26,6 +27,7 @@ export const Words = () => {
                                 .toLocaleLowerCase()
                                 .includes(search.toLocaleLowerCase())
                         )
+                        .sort((a, b) => a.name.localeCompare(b.name))
                         .map(word => (
                             <WordsItem
                                 key={word.id}
@@ -33,7 +35,7 @@ export const Words = () => {
                                 removeWord={() => removeWord(word.id)}
                             />
                         ))}
-            </div>
+            </Space>
             <FloatingButton onClick={() => setShowModal(!showModal)} iconName="Plus" />
             <WordModal show={showModal} onDismiss={() => setShowModal(false)} />
         </Container>

@@ -15,7 +15,7 @@ export const WordModal = (props: WordModalProps) => {
         <Modal show={props.show} onOverlayClick={props.onDismiss}>
             <Tabs>
                 <TabsItem name="New word">
-                    <WordForm onSave={props.onDismiss} />
+                    <WordForm onDismiss={props.onDismiss} />
                 </TabsItem>
                 <TabsItem name="Presets">
                     <WordPresets />
