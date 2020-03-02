@@ -55,7 +55,6 @@ export const Nav = (prop: NavProps) => {
 const Container = styled.nav<{ show: boolean }>`
     background: ${white};
     width: 100%;
-    min-height: ${navHeight};
     box-shadow: ${barShadow};
     overflow: hidden;
     transform: translateY(${p => (p.show ? 0 : navHeight)});
@@ -63,6 +62,7 @@ const Container = styled.nav<{ show: boolean }>`
 `
 const NavList = styled.div`
     display: flex;
+    min-height: ${navHeight};
     justify-content: space-evenly;
 `
 
@@ -73,7 +73,7 @@ const NavButton = styled.button<{ isActive: boolean }>`
     border: none;
     padding: 10px 25px;
     position: relative;
-    line-height: 1.5em;
+    line-height: 2em;
     &::after {
         content: '';
         display: block;
