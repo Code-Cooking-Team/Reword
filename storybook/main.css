@@ -28,6 +28,7 @@ html {
 
 body {
     background: linear-gradient(150deg, #ffffff 0%, #f2f2f2 100%);
+    background-attachment: fixed;
     font-family: 'Source Sans Pro', sans-serif;
     color: rgba(0, 0, 0, 60);
     font-size: 16px;
@@ -39,6 +40,52 @@ body,
 #root {
     height: 100%;
     margin: 0;
+}
+::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+}
+::-webkit-scrollbar-button {
+    width: 0px;
+    height: 0px;
+}
+::-webkit-scrollbar-thumb {
+    background: rgba(196, 196, 196, 0.7);
+    transition: all 1s ease;
+    /* border-radius: calc(var(--mainpaddng) / 4); */
+}
+
+:not(body)::-webkit-scrollbar-thumb {
+    background: #fff;
+}
+:not(body):hover::-webkit-scrollbar-thumb {
+    background: rgba(196, 196, 196, 0.8);
+}
+::-webkit-scrollbar-thumb:hover {
+    background: rgba(196, 196, 196, 0.8);
+}
+
+:not(body):hover::-webkit-scrollbar-thumb:active,
+::-webkit-scrollbar-thumb:active {
+    background: rgba(196, 196, 196, 0.8);
+}
+::-webkit-scrollbar-track {
+    background: #fff;
+    /* border-radius: 10px; */
+}
+::-webkit-scrollbar-track:hover {
+    background: #fff;
+}
+::-webkit-scrollbar-track:active {
+    background: #fff;
+}
+::-webkit-scrollbar-corner {
+    background: transparent;
+}
+
+* {
+    scrollbar-width: thin;
+    scrollbar-color: rgba(196, 196, 196, 0.2) #fff;
 }
 
 
