@@ -1,6 +1,8 @@
 import React from 'react'
 import styled from 'styled-components'
 import { Logo } from '../../components/Logo'
+import { useWords } from '../../store'
+import { useIsLoading } from '../../store/useIsLoading'
 import { StartButton } from './StartButton'
 import { FullLoading } from '../../components/Loading'
 import { AuthForm } from './AuthForm'
@@ -10,9 +12,30 @@ import { fadeInAnimation } from '../../styles/animations'
 import { navHeight } from '../../styles/values'
 
 export const HomeScreen = () => {
+    const { isLoading, loggedIn } = useIsLoading()
+    const { words } = useWords()
+
+    if (isLoading) {
+        return <FullLoading />
+    }
+
     return (
         <Container>
             <Logo />
+            {loggedIn ? (
+                <>
+                    <Container>
+                        <StartButton words={words} />
+                    </Container>
+                    <WordsCount>
+                        You added <b>{words.length}</b> words
+                    </WordsCount>
+                </>
+            ) : (
+                <AuthFormWrapper>
+                    <AuthForm />
+                </AuthFormWrapper>
+            )}
         </Container>
     )
 }

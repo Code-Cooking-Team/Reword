@@ -1,0 +1,89 @@
+{
+  "name": "reword",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "http://reword.9px.pl/",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --coverage",
+    "eject": "react-scripts eject",
+    "lint": "eslint 'src/**/*.{ts,tsx}'",
+    "dictionary": "node dictionary",
+    "typecheck": "tsc --noEmit",
+    "storybook": "start-storybook -s ./build -p 6006",
+    "build:storybook": "build-storybook -s ./build -o build/storybook",
+    "predeploy": "rm -rf dist && npm run build && npm run build:storybook && npm run build:dictionary",
+    "deploy": "gh-pages -d build"
+  },
+  "lint-staged": {
+    "*.{ts,tsx}": [
+      "prettier --write",
+      "eslint --fix",
+      "git add"
+    ],
+    "*.{md,yml,css}": [
+      "prettier --write",
+      "git add"
+    ]
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "dependencies": {
+    "@sentry/browser": "^5.1.1",
+    "@types/uuid": "^3.4.4",
+    "firebase": "^6.0.4",
+    "react": "^16.8.6",
+    "react-beautiful-dnd": "^11.0.4",
+    "react-dom": "^16.8.6",
+    "react-hooks-global-state": "^0.9.0",
+    "react-key-handler": "^1.2.0-beta.3",
+    "react-spring": "^8.0.19",
+    "react-transition-group": "^4.0.1",
+    "react-use": "^9.7.1",
+    "seed-random": "^2.2.0",
+    "styled-components": "^4.2.0",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "@storybook/addon-actions": "^5.0.8",
+    "@storybook/addon-knobs": "^5.0.8",
+    "@storybook/addon-storysource": "^5.0.8",
+    "@storybook/addon-viewport": "^5.0.8",
+    "@storybook/addons": "^5.0.8",
+    "@storybook/react": "^5.0.8",
+    "@types/jest": "^24.0.11",
+    "@types/node": "^11.13.4",
+    "@types/react": "^16.8.13",
+    "@types/react-beautiful-dnd": "^11.0.2",
+    "@types/react-dom": "^16.8.4",
+    "@types/react-transition-group": "^2.9.1",
+    "@types/storybook__addon-actions": "^3.4.2",
+    "@types/storybook__addon-knobs": "^4.0.5",
+    "@types/storybook__addon-viewport": "^4.1.0",
+    "@types/storybook__react": "^4.0.1",
+    "@types/styled-components": "^4.1.14",
+    "@typescript-eslint/eslint-plugin": "^1.6.0",
+    "@typescript-eslint/parser": "^1.6.0",
+    "babel-loader": "^8.0.5",
+    "cheerio": "^1.0.0-rc.3",
+    "eslint": "^5.16.0",
+    "eslint-config-prettier": "^4.1.0",
+    "eslint-plugin-react": "^7.12.4",
+    "eslint-plugin-react-hooks": "^1.6.0",
+    "gh-pages": "^2.0.1",
+    "husky": "^1.3.1",
+    "lint-staged": "^8.1.5",
+    "react-scripts": "^2.1.8",
+    "typescript": "^3.5.2"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

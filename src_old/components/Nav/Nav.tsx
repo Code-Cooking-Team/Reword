@@ -57,7 +57,7 @@ const Container = styled.nav<{ show: boolean }>`
     width: 100%;
     box-shadow: ${barShadow};
     overflow: hidden;
-    transform: translateY(${(p) => (p.show ? 0 : navHeight)});
+    transform: translateY(${p => (p.show ? 0 : navHeight)});
     transition: transform 300ms ease;
 `
 const NavList = styled.div`
@@ -67,7 +67,7 @@ const NavList = styled.div`
 `
 
 const NavButton = styled.button<{ isActive: boolean }>`
-    color: ${(props) => (props.isActive ? purple : black6)};
+    color: ${props => (props.isActive ? purple : black6)};
     display: block;
     background: none;
     border: none;
@@ -86,7 +86,7 @@ const NavButton = styled.button<{ isActive: boolean }>`
         bottom: -50px;
         left: -50px;
         right: -50px;
-        ${(props) => (props.isActive ? activeCSS : inActiveCSS)};
+        ${props => (props.isActive ? activeCSS : inActiveCSS)};
     }
     &:active::after {
         transition: opacity 0.6s ease-out, background 0.6s ease-out, transform 1s ease-out;

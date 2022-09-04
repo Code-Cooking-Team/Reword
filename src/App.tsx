@@ -1,35 +1,25 @@
-import React, { ElementType } from 'react'
+import { BrowserRouter, Routes, Route, Link } from 'react-router-dom'
 import styled from 'styled-components'
 import { Nav } from './components/Nav'
+import { RouteName } from './RouteName'
 import { GameScreen } from './screens/Game'
 import { HomeScreen } from './screens/Home'
 import { SettingsScreen } from './screens/Settings'
-import { useRouter, useWordsPersist } from './store'
-import { RouteName } from './store/types/RouteName'
-import { useWatchAuthChange } from './store/useAuth'
 import { WordsScreen } from './screens/Words'
 
-const screens: Record<RouteName, ElementType> = {
-    [RouteName.Home]: HomeScreen,
-    [RouteName.Words]: WordsScreen,
-    [RouteName.Profile]: SettingsScreen,
-    [RouteName.Game]: GameScreen,
-}
-
-export const App = () => {
-    useWordsPersist()
-    useWatchAuthChange()
-
-    const { route, setRoute } = useRouter()
-    const Page = screens[route]
-
+function App() {
     return (
-        <>
-            <Page />
+        <BrowserRouter>
+            <Routes>
+                <Route path={RouteName.Home} element={<HomeScreen />} />
+                <Route path={RouteName.Words} element={<WordsScreen />} />
+                <Route path={RouteName.Profile} element={<SettingsScreen />} />
+                <Route path={RouteName.Game} element={<GameScreen />} />
+            </Routes>
             <NavContainer>
-                <Nav active={route} onChange={setRoute} />
+                <Nav />
             </NavContainer>
-        </>
+        </BrowserRouter>
     )
 }
 
@@ -39,3 +29,5 @@ const NavContainer = styled.div`
     right: 0;
     left: 0;
 `
+
+export default App
