@@ -1,7 +1,7 @@
-import React, { useState } from 'react'
+import { useState } from 'react'
 import styled from 'styled-components'
 import { useElementSize } from '../../hooks/useElementSize'
-import { black, black3, black1 } from '../../styles/colors'
+import { black, black1, black3 } from '../../styles/colors'
 import { Pointer } from './Pointer'
 
 type TypewriterProps = {
@@ -69,8 +69,8 @@ const Letter = styled.span<{ hide: boolean }>`
     height: 100%;
     min-width: 0.6em;
     transition: transform 0.25s cubic-bezier(0.3, 1.61, 0.43, 1.01);
-    transform: ${props => (props.hide ? 'scale(0.5)' : 'scale(1)')};
-    color: ${props => (props.hide ? 'rgba(0,0,0,0.0)' : black)};
+    transform: ${(props) => (props.hide ? 'scale(0.5)' : 'scale(1)')};
+    color: ${(props) => (props.hide ? 'rgba(0,0,0,0.0)' : black)};
     font-family: 'Ubuntu Mono', monospace;
 
     &::after {
@@ -84,8 +84,8 @@ const Letter = styled.span<{ hide: boolean }>`
         height: 1em;
         transition: transform 0.25s cubic-bezier(0.3, 1.61, 0.43, 1.01);
         color: ${black3};
-        transform: ${props => (props.hide ? 'scale(2)' : 'scale(0)')};
-        opacity: ${props => (props.hide ? 1 : 0)};
+        transform: ${(props) => (props.hide ? 'scale(2)' : 'scale(0)')};
+        opacity: ${(props) => (props.hide ? 1 : 0)};
     }
 `
 

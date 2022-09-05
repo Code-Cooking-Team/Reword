@@ -10,16 +10,25 @@
   },
   "dependencies": {
     "@types/styled-components": "^5.1.26",
+    "firebase": "^9.9.4",
     "react": "^18.2.0",
+    "react-beautiful-dnd": "^13.1.1",
     "react-dom": "^18.2.0",
+    "react-key-handler": "1.2.0-beta.3",
     "react-router-dom": "^6.3.0",
     "react-spring": "^9.5.2",
     "react-transition-group": "^4.4.5",
+    "react-use": "^17.4.0",
+    "reactfire": "^4.2.2",
+    "seed-random": "^2.2.0",
     "styled-components": "^5.3.5"
   },
   "devDependencies": {
     "@types/react": "^18.0.17",
     "@types/react-dom": "^18.0.6",
+    "@types/react-key-handler": "^1.2.0",
+    "@types/react-transition-group": "^4.4.5",
+    "@types/seed-random": "^2.2.1",
     "@vitejs/plugin-react": "^2.0.1",
     "typescript": "^4.6.4",
     "vite": "^3.0.7"

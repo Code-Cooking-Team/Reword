@@ -1,23 +1,19 @@
-import React from 'react'
+import { useNavigate } from 'react-router-dom'
 import KeyHandler, { KEYPRESS } from 'react-key-handler'
 import styled from 'styled-components'
 import { Icon } from '../../components/Icon'
 import { Keyboard } from '../../components/Keyboard'
 import { Typewriter } from '../../components/Typewriter'
-import { useRouter } from '../../store'
-import { goodColor, black6, white, black1 } from '../../styles/colors'
+import { ExampleSentence } from '../../components/Typewriter/ExampleSentence'
+import { black1, black6, goodColor, white } from '../../styles/colors'
 import { floatingShadow } from '../../styles/shadow'
 import { transition } from '../../styles/transitions'
 import { radius } from '../../styles/values'
-import { FullLoading } from '../../components/Loading'
 import { useGame } from './useGame'
-import { ExampleSentence } from '../../components/Typewriter/ExampleSentence'
 
 export const GameScreen = () => {
-    const { goBack } = useRouter()
+    const navigate = useNavigate()
     const { word, wordRight, progress, nextWord, retry, keyPress, isComplete } = useGame()
-
-    if (!word.name) return <FullLoading />
 
     return (
         <Container>
@@ -38,7 +34,7 @@ export const GameScreen = () => {
                 <Typewriter word={word.name} progress={progress} key={word.name} />
             </Row>
             <ActionButtonsWrapper>
-                <ActionButton onClick={goBack}>
+                <ActionButton onClick={() => navigate(-1)}>
                     <Icon name="Cross" /> <span>End</span>
                 </ActionButton>
                 <ActionButton onClick={retry}>
@@ -57,7 +53,6 @@ export const GameScreen = () => {
                             Next word
                             <Icon name="Play" />
                         </DoneButton>
-
                         <KeyHandler
                             keyEventName={KEYPRESS}
                             keyValue="Enter"

@@ -1,12 +1,17 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import App from './App'
+import { FirebaseAppProvider } from 'reactfire'
+import { Root } from './Root'
+import { firebaseConfig } from './firebase/firebaseConfig'
+
 import './styles/global.css'
 
 const root = document.getElementById('root')!
 
 ReactDOM.createRoot(root).render(
     <React.StrictMode>
-        <App />
+        <FirebaseAppProvider firebaseConfig={firebaseConfig} suspense>
+            <Root />
+        </FirebaseAppProvider>
     </React.StrictMode>
 )

@@ -1,16 +1,14 @@
-import React, { useState } from 'react'
+import { useState } from 'react'
 import useList from 'react-use/lib/useList'
-import styled, { keyframes, css } from 'styled-components'
+import styled, { css } from 'styled-components'
 import { Button } from '../../components/Button'
 import { EditableList } from '../../components/EditableList'
 import { Input } from '../../components/Input'
+import { useWords } from '../../firebase/firestore/useWords'
 import { useDictionary } from '../../hooks/useDictionary'
 import { DictionaryTrans } from '../../hooks/useDictionary/types'
-import { UnSavedWord } from '../../store/state/types/State'
-import { black1, white, black05, purple } from '../../styles/colors'
-import { useWords } from '../../store'
-import { floatingShadow } from '../../styles/shadow'
-import { fadeDuration, easing } from '../../styles/animations'
+import { easing, fadeDuration } from '../../styles/animations'
+import { black05, purple, white } from '../../styles/colors'
 import { fast } from '../../styles/transitions'
 
 type WordFormProps = {
@@ -45,7 +43,7 @@ export const WordForm = (props: WordFormProps) => {
         }
     }
 
-    const getTrans = (trans: DictionaryTrans[]) => trans.map(t => t.texts[0]).join(', ')
+    const getTrans = (trans: DictionaryTrans[]) => trans.map((t) => t.texts[0]).join(', ')
 
     return (
         <>
@@ -55,12 +53,12 @@ export const WordForm = (props: WordFormProps) => {
             </div>
             {!translationList.length && (
                 <Autocomplete count={results.length}>
-                    {results.map(item => (
+                    {results.map((item) => (
                         <AutocompleteItem
                             key={item.id}
                             onClick={() => {
                                 setWordInput(item.word)
-                                const translations = item.trans.map(t => t.texts[0])
+                                const translations = item.trans.map((t) => t.texts[0])
                                 translationListActions.set(translations)
                             }}
                         >
@@ -123,8 +121,8 @@ export const WordForm = (props: WordFormProps) => {
     )
 }
 
-const Autocomplete = styled.div<{ count }>`
-    ${p =>
+const Autocomplete = styled.div<{ count: number }>`
+    ${(p) =>
         css`
             height: ${p.count * 46}px;
         `};

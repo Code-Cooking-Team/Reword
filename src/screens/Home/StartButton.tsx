@@ -1,23 +1,21 @@
-import React from 'react'
-import { WordsState } from '../../store/state/types/State'
-import { useRouter } from '../../store'
-import { RouteName } from '../../store/types/RouteName'
-import { Icon } from '../../components/Icon'
-import { white, purple } from '../../styles/colors'
+import { useNavigate } from 'react-router-dom'
 import styled from 'styled-components'
-import { floatingShadow } from '../../styles/shadow'
+import { Icon } from '../../components/Icon'
+import { RouteName } from '../../RouteName'
 import { scaleInAnimation } from '../../styles/animations'
+import { purple, white } from '../../styles/colors'
+import { floatingShadow } from '../../styles/shadow'
 
 type StartButtonProps = {
-    words: WordsState
+    hasWords: boolean
 }
 
-export const StartButton = (props: StartButtonProps) => {
-    const { setRoute } = useRouter()
+export const StartButton = ({ hasWords }: StartButtonProps) => {
+    const navigate = useNavigate()
 
-    if (!props.words && !props.words.length) {
+    if (!hasWords) {
         return (
-            <CircleButton onClick={() => setRoute(RouteName.Words)}>
+            <CircleButton onClick={() => navigate(RouteName.Words)}>
                 <Icon name="Plus" size="large" block />
                 Word
             </CircleButton>
@@ -25,7 +23,7 @@ export const StartButton = (props: StartButtonProps) => {
     }
 
     return (
-        <CircleButton onClick={() => setRoute(RouteName.Game)}>
+        <CircleButton onClick={() => navigate(RouteName.Game)}>
             <Icon name="Play" size="large" block />
             Play
         </CircleButton>

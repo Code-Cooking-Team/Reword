@@ -1,9 +1,8 @@
 import { useEffect, useState } from 'react'
-import { useWords } from '../../store'
-import { Word } from '../../store/state/types/State'
+import { useWords } from '../../firebase/firestore/useWords'
+import { Word } from '../../firebase/types/Word'
 
 const emptyWord: Word = {
-    id: '',
     name: '',
     translation: [],
     example: [],

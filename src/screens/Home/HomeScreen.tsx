@@ -1,18 +1,24 @@
-import React from 'react'
 import styled from 'styled-components'
 import { Logo } from '../../components/Logo'
-import { StartButton } from './StartButton'
-import { FullLoading } from '../../components/Loading'
-import { AuthForm } from './AuthForm'
-import { white } from '../../styles/colors'
-import { floatingShadow } from '../../styles/shadow'
+import { useWords } from '../../firebase/firestore/useWords'
 import { fadeInAnimation } from '../../styles/animations'
 import { navHeight } from '../../styles/values'
+import { StartButton } from './StartButton'
 
 export const HomeScreen = () => {
+    const { words } = useWords()
+
     return (
         <Container>
             <Logo />
+            <>
+                <Container>
+                    <StartButton hasWords={words.length > 0} />
+                </Container>
+                <WordsCount>
+                    You added <b>{words.length}</b> words
+                </WordsCount>
+            </>
         </Container>
     )
 }
@@ -30,13 +36,4 @@ const WordsCount = styled.div`
     padding: 25px;
     text-align: center;
     ${fadeInAnimation}
-`
-
-const AuthFormWrapper = styled.main`
-    background: ${white};
-    box-shadow: ${floatingShadow};
-    border-radius: 5px;
-    width: 100%;
-    max-width: 360px;
-    overflow: hidden;
 `

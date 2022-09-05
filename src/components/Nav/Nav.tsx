@@ -1,8 +1,6 @@
-import * as React from 'react'
+import { useLocation, useNavigate } from 'react-router-dom'
 import styled, { css } from 'styled-components'
-import { useRouter } from '../../store'
-import { RouteName } from '../../store/types/RouteName'
-import { useIsLoading } from '../../store/useIsLoading'
+import { RouteName } from '../../RouteName'
 import { black6, purple, white } from '../../styles/colors'
 import { barShadow } from '../../styles/shadow'
 import { fast } from '../../styles/transitions'
@@ -10,38 +8,31 @@ import { navHeight } from '../../styles/values'
 import { Icon } from '../Icon'
 import { Space } from '../Space/Space'
 
-type NavProps = {
-    active: RouteName
-    onChange(page: RouteName): void
-}
-
-const screensWithoutNav = [RouteName.Game]
-
-export const Nav = (prop: NavProps) => {
-    const { loggedIn } = useIsLoading()
-    const { route } = useRouter()
+export const Nav = () => {
+    const navigate = useNavigate()
+    const location = useLocation()
 
     return (
-        <Container show={loggedIn && !screensWithoutNav.includes(route)}>
+        <Container show={true}>
             <Space>
                 <NavList>
                     <NavButton
-                        isActive={prop.active === RouteName.Home}
-                        onClick={() => prop.onChange(RouteName.Home)}
+                        isActive={location.pathname === RouteName.Home}
+                        onClick={() => navigate(RouteName.Home)}
                     >
                         <Icon name="Home" block />
                         Home
                     </NavButton>
                     <NavButton
-                        isActive={prop.active === RouteName.Words}
-                        onClick={() => prop.onChange(RouteName.Words)}
+                        isActive={location.pathname.includes(RouteName.Words)}
+                        onClick={() => navigate(RouteName.Words)}
                     >
                         <Icon name="Words" block />
                         Words
                     </NavButton>
                     <NavButton
-                        isActive={prop.active === RouteName.Profile}
-                        onClick={() => prop.onChange(RouteName.Profile)}
+                        isActive={location.pathname.includes(RouteName.Profile)}
+                        onClick={() => navigate(RouteName.Profile)}
                     >
                         <Icon name="Profile" block />
                         Profile
@@ -60,6 +51,7 @@ const Container = styled.nav<{ show: boolean }>`
     transform: translateY(${(p) => (p.show ? 0 : navHeight)});
     transition: transform 300ms ease;
 `
+
 const NavList = styled.div`
     display: flex;
     min-height: ${navHeight};

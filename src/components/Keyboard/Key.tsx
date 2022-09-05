@@ -1,8 +1,7 @@
-import React from 'react'
+import KeyHandler, { KEYPRESS } from 'react-key-handler'
 import styled, { css } from 'styled-components'
 import { purple, white } from '../../styles/colors'
 import { fast } from '../../styles/transitions'
-import KeyHandler, { KEYPRESS } from 'react-key-handler'
 
 interface KeyProps {
     onClick(): void
@@ -26,12 +25,12 @@ export const Key = (props: KeyProps) => (
 )
 
 const Container = styled.button<{ visible?: boolean; isSpace?: boolean }>`
-    width: ${p => (p.isSpace ? '47vw' : '8vw')};
+    width: ${(p) => (p.isSpace ? '47vw' : '8vw')};
     height: 7vh;
     padding: 0;
     margin: 0 4px;
     border: 0.4pt solid ${purple};
-    opacity: ${p => (p.visible ? 1 : 0.1)};
+    opacity: ${(p) => (p.visible ? 1 : 0.1)};
     border-radius: 4px;
     color: ${purple};
     font-weight: bold;
@@ -40,7 +39,7 @@ const Container = styled.button<{ visible?: boolean; isSpace?: boolean }>`
     background: none;
     transition: all ${fast};
 
-    ${p => p.visible && highlight}
+    ${(p) => p.visible && highlight}
 `
 const highlight = css`
     &:active {

@@ -1,6 +1,6 @@
 import React, { ReactNode } from 'react'
 import ReactDOM from 'react-dom'
-import Transition, { TransitionStatus } from 'react-transition-group/Transition'
+import { Transition, TransitionStatus } from 'react-transition-group'
 import styled from 'styled-components'
 import { fadeInOutAnimation, fadeUpDownAnimation } from '../../styles/animations'
 import { white } from '../../styles/colors'
@@ -13,9 +13,13 @@ type ModalProps = {
 }
 
 export const Modal = (props: ModalProps) => {
+    if (!modalRoot) {
+        throw new Error('Modal root not found (#modals)')
+    }
+
     return ReactDOM.createPortal(
         <Transition in={props.show} timeout={1000}>
-            {status => (
+            {(status) => (
                 <>
                     <ModalBox status={status}>{props.children}</ModalBox>
                     <Overlay status={status} onClick={props.onOverlayClick} />
@@ -44,7 +48,7 @@ const ModalBox = styled.div<{ status: TransitionStatus }>`
     z-index: 1000;
     padding: 15px;
     box-shadow: ${floatingShadow};
-    ${p => fadeUpDownAnimation(p.status)};
+    ${(p) => fadeUpDownAnimation(p.status)};
 `
 
 const Overlay = styled.div<{ status: TransitionStatus }>`
@@ -55,5 +59,5 @@ const Overlay = styled.div<{ status: TransitionStatus }>`
     bottom: 0;
     background: rgba(0, 0, 0, 0.1);
     z-index: 100;
-    ${p => fadeInOutAnimation(p.status)};
+    ${(p) => fadeInOutAnimation(p.status)};
 `
