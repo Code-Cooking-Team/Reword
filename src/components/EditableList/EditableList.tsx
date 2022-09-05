@@ -1,55 +1,26 @@
 import styled from 'styled-components'
-import { DragDropContext, Droppable, Draggable } from 'react-beautiful-dnd'
-import { purple, white } from '../../styles/colors'
+import { purple } from '../../styles/colors'
 import { Icon } from '../Icon'
 
 type EditableListProps = {
     list: string[]
     onChange: (list: string[]) => void
 }
-export const EditableList = (props: EditableListProps) => (
-    <DragDropContext
-        onDragEnd={(result) => {
-            if (!result.destination) return
-
-            const items = reorder(
-                props.list,
-                result.source.index,
-                result.destination.index
-            )
-            props.onChange(items)
-        }}
-    >
-        <Droppable droppableId="droppable">
-            {(provided, snapshot) => (
-                <List {...provided.droppableProps} ref={provided.innerRef}>
-                    {props.list.map((item, index) => (
-                        <Draggable key={item} draggableId={item} index={index}>
-                            {(provided, snapshot) => (
-                                <ListElement
-                                    key={index}
-                                    ref={provided.innerRef}
-                                    {...provided.draggableProps}
-                                    {...provided.dragHandleProps}
-                                    style={provided.draggableProps.style}
-                                >
-                                    {item}
-                                    <Cross
-                                        onClick={() => {
-                                            props.onChange(remove(props.list, index))
-                                        }}
-                                    >
-                                        <Icon name="Cross" size="normal" />
-                                    </Cross>
-                                </ListElement>
-                            )}
-                        </Draggable>
-                    ))}
-                    {provided.placeholder}
-                </List>
-            )}
-        </Droppable>
-    </DragDropContext>
+export const EditableList = ({ list, onChange }: EditableListProps) => (
+    <>
+        {list.map((item, index) => (
+            <ListElement key={index}>
+                {item}
+                <Cross
+                    onClick={() => {
+                        onChange(remove(list, index))
+                    }}
+                >
+                    <Icon name="Cross" size="normal" />
+                </Cross>
+            </ListElement>
+        ))}
+    </>
 )
 
 const remove = (list: string[], index: number) => list.filter((el, i) => index !== i)

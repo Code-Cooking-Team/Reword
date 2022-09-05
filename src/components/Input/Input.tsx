@@ -1,4 +1,4 @@
-import React, { useState, useRef, useEffect } from 'react'
+import { useState, useRef, useEffect } from 'react'
 import styled from 'styled-components'
 import { purple, black3 } from '../../styles/colors'
 
@@ -8,12 +8,19 @@ type InputProps = {
     name?: string
     placeholder: string
     onChange: (value: string) => void
+    onBlur?: () => void
     autoFocus?: boolean
 }
 
-export const Input = (props: InputProps) => {
-    const { value, type = 'text', placeholder, onChange, autoFocus, name } = props
-
+export const Input = ({
+    value,
+    type = 'text',
+    placeholder,
+    onChange,
+    onBlur,
+    autoFocus,
+    name,
+}: InputProps) => {
     const [focus, setFocus] = useState(false)
     const [linePosition, setLinePosition] = useState(0)
 
@@ -30,7 +37,7 @@ export const Input = (props: InputProps) => {
     return (
         <Label
             active={focus}
-            onMouseDown={e => {
+            onMouseDown={(e) => {
                 setLinePosition(e.pageX)
             }}
             ref={labelRef}
@@ -39,11 +46,12 @@ export const Input = (props: InputProps) => {
             <InputStyled
                 type={type}
                 value={value}
-                onChange={event => onChange(event.target.value)}
+                onChange={(event) => onChange(event.target.value)}
                 onFocus={() => setFocus(true)}
                 onBlur={() => {
                     setLinePosition(defaultLinePosition)
                     setFocus(false)
+                    onBlur?.()
                 }}
                 autoFocus={autoFocus}
                 name={name}
@@ -65,7 +73,7 @@ const Label = styled.label<{ active: boolean }>`
         height: 2px;
         opacity: 1;
         transition: transform 0.25s ease-out;
-        transform: scaleX(${props => (props.active ? 1 : 0)});
+        transform: scaleX(${(props) => (props.active ? 1 : 0)});
         background: ${purple};
         pointer-events: none;
     }
@@ -80,7 +88,7 @@ const LabelName = styled.div<{ move: boolean }>`
     color: ${black3};
     cursor: text;
     transform-origin: 0 0; // top left for scale
-    transform: ${props =>
+    transform: ${(props) =>
         props.move ? `translateY(-17px) scale(0.8)` : `translate(0px)`};
 `
 
@@ -91,5 +99,6 @@ const InputStyled = styled.input`
     display: block;
     width: 100%;
     margin: 15px 0;
+    background: transparent;
     border-bottom: 2px solid ${black3};
 `

@@ -27,13 +27,13 @@ export const Search = (props: SearchProps) => (
 
 const SearchBox = styled.div`
     position: relative;
-    margin-top: 15px;
+    width: 100%;
+    max-width: 290px;
 `
 
 const Input = styled.input`
     padding: 13px 20px;
     width: 100%;
-    max-width: 290px;
     border-radius: 20px;
     border: 1px solid #fff;
     box-shadow: ${barShadow};

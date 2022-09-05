@@ -1,24 +1,26 @@
 import { useState } from 'react'
+import { useNavigate } from 'react-router-dom'
 import styled from 'styled-components'
 import { FloatingButton } from '../../components/FloatingButton'
 import { Header } from '../../components/Header'
 import { Search } from '../../components/Search'
 import { Space } from '../../components/Space/Space'
 import { useWords } from '../../firebase/firestore/useWords'
+import { RouteName } from '../../RouteName'
 import { navHeight } from '../../styles/values'
-import { WordModal } from './WordModal'
 import { WordsItem } from './WordsItem'
 
 export const WordsScreen = () => {
     const [search, setSearch] = useState('')
-
     const { words, removeWord } = useWords()
-    const [showModal, setShowModal] = useState(false)
+    const navigate = useNavigate()
 
     return (
         <Container>
             <Header title="Words" iconName="Words">
-                <Search value={search} onChange={setSearch} />
+                <SearchWrapper>
+                    <Search value={search} onChange={setSearch} />
+                </SearchWrapper>
             </Header>
             <Space>
                 {words
@@ -34,8 +36,10 @@ export const WordsScreen = () => {
                         />
                     ))}
             </Space>
-            <FloatingButton onClick={() => setShowModal(!showModal)} iconName="Plus" />
-            <WordModal show={showModal} onDismiss={() => setShowModal(false)} />
+            <FloatingButton
+                onClick={() => navigate(`/${RouteName.NewWord}`)}
+                iconName="Plus"
+            />
         </Container>
     )
 }
@@ -45,4 +49,11 @@ const Container = styled.div`
     display: grid;
     grid-template-rows: auto 1fr auto;
     padding-bottom: ${navHeight};
+`
+
+const SearchWrapper = styled.div`
+    margin-top: 15px;
+    align-self: stretch;
+    display: flex;
+    justify-content: center;
 `

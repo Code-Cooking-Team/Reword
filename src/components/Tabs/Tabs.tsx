@@ -1,4 +1,4 @@
-import React, {
+import {
     Children,
     DependencyList,
     ReactElement,
@@ -17,11 +17,11 @@ type TabsProps = {
 }
 
 export const Tabs = (props: TabsProps) => {
-    const items = Children.toArray<ReactElement<TabsItemProps>>(props.children)
+    const items = Children.toArray(props.children) as ReactElement<TabsItemProps>[]
 
-    const currentIndex = items.findIndex(el => el.props.isActive)
+    const currentIndex = items.findIndex((el) => el.props.isActive)
     const [active, setActive] = useState(currentIndex > 0 ? currentIndex : 0)
-    const [prevActive, setPrevActive] = useState<number | null>(null)
+    const [prevActive, setPrevActive] = useState<number>()
 
     const refNav = useRef(null)
     const refActive = useRef(null)
@@ -29,7 +29,7 @@ export const Tabs = (props: TabsProps) => {
     const pos = useLinePosition(refNav, refActive, [active])
 
     const activeItem = items[active]
-    const prevActiveItem = items[prevActive]
+    const prevActiveItem = items[prevActive as any]
 
     return (
         <Container>
@@ -55,7 +55,9 @@ export const Tabs = (props: TabsProps) => {
             <Content>
                 {prevActiveItem && (
                     <ContentItem
-                        animation={prevActive > active ? 'rightOut' : 'leftOut'}
+                        animation={
+                            prevActive && prevActive > active ? 'rightOut' : 'leftOut'
+                        }
                         key={prevActiveItem.props.name}
                     >
                         <prevActiveItem.type {...prevActiveItem.props} />
@@ -63,7 +65,8 @@ export const Tabs = (props: TabsProps) => {
                 )}
                 <ContentItem
                     animation={
-                        prevActiveItem && (prevActive < active ? 'rightIn' : 'leftIn')
+                        prevActiveItem &&
+                        (prevActive && prevActive < active ? 'rightIn' : 'leftIn')
                     }
                     key={activeItem.props.name}
                 >
@@ -130,19 +133,19 @@ const animations = {
     leftIn,
 }
 
-const ContentItem = styled.div<{ animation?: string }>`
+const ContentItem = styled.div<{ animation?: keyof typeof animations }>`
     position: relative;
     display: block;
     top: 0;
     left: 0;
     width: 100%;
-    ${props =>
+    ${(props) =>
         props.animation &&
         props.animation.endsWith('Out') &&
         css`
             position: absolute;
         `}
-    ${props =>
+    ${(props) =>
         props.animation &&
         css`
             animation: ${animations[props.animation]} ${fast} forwards;
@@ -167,7 +170,7 @@ const NavItem = styled.button<{ active: boolean }>`
     background: none;
     border: none;
     cursor: pointer;
-    color: ${p => (p.active ? purple : black)};
+    color: ${(p) => (p.active ? purple : black)};
 `
 
 const useLinePosition = (

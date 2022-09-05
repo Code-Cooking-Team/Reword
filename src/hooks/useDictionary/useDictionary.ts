@@ -1,7 +1,7 @@
 import { useState, useMemo } from 'react'
 import { useDebounce } from '../useDebounce'
 import { fetchDictionary } from './fetchDictionary'
-import { DictionaryItem } from './types'
+import { DictionaryItem, DictionaryTrans } from './types'
 
 export const useDictionary = (query: string) => {
     const [currentQuery, setCurrentQuery] = useState('')
@@ -22,7 +22,7 @@ export const useDictionary = (query: string) => {
             }
 
             const results = list
-                .filter(item => item.word.toLowerCase().startsWith(currentQuery))
+                .filter((item) => item.word.toLowerCase().startsWith(currentQuery))
                 .slice(0, 5)
 
             setResults(results)
@@ -33,3 +33,6 @@ export const useDictionary = (query: string) => {
 
     return { results }
 }
+
+export const formatTrans = (trans: DictionaryTrans[]) =>
+    trans.map((t) => t.texts[0]).join(', ')

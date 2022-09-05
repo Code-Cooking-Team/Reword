@@ -5,6 +5,7 @@ import { RouteName } from './RouteName'
 import { GameScreen } from './screens/Game'
 import { HomeScreen } from './screens/Home'
 import { SettingsScreen } from './screens/Settings'
+import { WordFormScreen } from './screens/WordForm'
 import { WordsScreen } from './screens/Words'
 
 export const Routing = () => {
@@ -14,6 +15,12 @@ export const Routing = () => {
                 <Route path={RouteName.Home} element={<NavLayout />}>
                     <Route index element={<HomeScreen />} />
                     <Route path={RouteName.Words} element={<WordsScreen />} />
+                    <Route path={RouteName.Words} element={<WordsScreen />} />
+                    <Route
+                        path={`${RouteName.Words}/:wordName`}
+                        element={<WordFormScreen />}
+                    />
+                    <Route path={`${RouteName.NewWord}`} element={<WordFormScreen />} />
                     <Route path={RouteName.Profile} element={<SettingsScreen />} />
                 </Route>
                 <Route path={RouteName.Game} element={<GameScreen />} />

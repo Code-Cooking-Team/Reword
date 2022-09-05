@@ -4,6 +4,7 @@ import {
     CollectionReference,
     deleteDoc,
     doc,
+    updateDoc,
 } from 'firebase/firestore'
 import { useFirestore, useUser } from 'reactfire'
 import { DBConst } from '../DBConst'
@@ -30,13 +31,21 @@ export const useWords = () => {
         return data[Math.floor(Math.random() * data.length)]
     }
 
-    const removeWord = (id: string) => {
-        return deleteDoc(doc(wordsRef, id))
+    const findWord = (wordName: string) => {
+        return data.find((word) => word.name === wordName)
     }
 
     const addWord = (word: Word) => {
         return addDoc(wordsRef, word)
     }
 
-    return { words: data, randomWord, addWord, removeWord }
+    const removeWord = (id: string) => {
+        return deleteDoc(doc(wordsRef, id))
+    }
+
+    const updateWord = (id: string, word: Word) => {
+        return updateDoc(doc(wordsRef, id), word)
+    }
+
+    return { words: data, findWord, randomWord, addWord, updateWord, removeWord }
 }

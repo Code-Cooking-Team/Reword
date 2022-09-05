@@ -1,49 +1,54 @@
 import { useState } from 'react'
-import useList from 'react-use/lib/useList'
+import { useList } from 'react-use'
 import styled, { css } from 'styled-components'
 import { Button } from '../../components/Button'
 import { EditableList } from '../../components/EditableList'
 import { Input } from '../../components/Input'
-import { useWords } from '../../firebase/firestore/useWords'
-import { useDictionary } from '../../hooks/useDictionary'
-import { DictionaryTrans } from '../../hooks/useDictionary/types'
+import { Word } from '../../firebase/types/Word'
+import { formatTrans, useDictionary } from '../../hooks/useDictionary'
 import { easing, fadeDuration } from '../../styles/animations'
 import { black05, purple, white } from '../../styles/colors'
 import { fast } from '../../styles/transitions'
 
 type WordFormProps = {
-    onDismiss: () => void
+    word?: Word
+    onSubmit(word: Word): void
+    onCancel(): void
 }
 
-export const WordForm = (props: WordFormProps) => {
-    const { addWord } = useWords()
-
-    const [wordInput, setWordInput] = useState('')
+export const WordForm = ({ word, onSubmit, onCancel }: WordFormProps) => {
+    const [wordInput, setWordInput] = useState(word?.name || '')
     const [translationInput, setTranslationInput] = useState('')
     const [exampleInput, setExampleInput] = useState('')
 
-    const [translationList, translationListActions] = useList<string>()
-    const [exampleList, exampleListActions] = useList<string>()
+    const [translationList, translationListActions] = useList<string>(word?.translation)
+    const [exampleList, exampleListActions] = useList<string>(word?.example)
 
     const { results } = useDictionary(wordInput)
 
-    const addNewWord = () => {
+    const handleSubmit = () => {
         if (wordInput && translationList.length) {
-            addWord({
+            onSubmit({
                 name: wordInput,
                 translation: translationList,
                 example: exampleList,
             })
-            setWordInput('')
-            setTranslationInput('')
-            setExampleInput('')
-            translationListActions.clear()
-            exampleListActions.clear()
-            props.onDismiss()
         }
     }
 
-    const getTrans = (trans: DictionaryTrans[]) => trans.map((t) => t.texts[0]).join(', ')
+    const handleAddExample = () => {
+        const example = exampleInput.trim()
+        if (!example) return
+        exampleListActions.push(example)
+        setExampleInput('')
+    }
+
+    const handleAddTranslation = () => {
+        const translation = translationInput.trim()
+        if (!translation) return
+        translationListActions.push(translation)
+        setTranslationInput('')
+    }
 
     return (
         <>
@@ -62,7 +67,7 @@ export const WordForm = (props: WordFormProps) => {
                                 translationListActions.set(translations)
                             }}
                         >
-                            <b>{item.word}</b> - {getTrans(item.trans)}
+                            <b>{item.word}</b> - {formatTrans(item.trans)}
                         </AutocompleteItem>
                     ))}
                 </Autocomplete>
@@ -76,44 +81,31 @@ export const WordForm = (props: WordFormProps) => {
                         value={translationInput}
                         onChange={setTranslationInput}
                         placeholder="Translation"
+                        onBlur={handleAddTranslation}
                     />
                 </div>
-                <Button
-                    onClick={() => {
-                        if (!translationInput) return
-                        translationListActions.push(translationInput)
-                        setTranslationInput('')
-                    }}
-                >
-                    +
-                </Button>
+                <Button onClick={handleAddTranslation}>+</Button>
             </InputWithButtonWrapper>
 
             <h4>Examples</h4>
-            <EditableList list={exampleList} onChange={translationListActions.set} />
+            <EditableList list={exampleList} onChange={exampleListActions.set} />
             <InputWithButtonWrapper>
                 <div>
                     <Input
                         value={exampleInput}
                         onChange={setExampleInput}
                         placeholder="Example"
+                        onBlur={handleAddExample}
                     />
                 </div>
-                <Button
-                    onClick={() => {
-                        if (!exampleInput) return
-                        exampleListActions.push(exampleInput)
-                        setExampleInput('')
-                    }}
-                >
-                    +
-                </Button>
+                <Button onClick={handleAddExample}>+</Button>
             </InputWithButtonWrapper>
+
             <ModalActions>
-                <Button onClick={props.onDismiss} color="transparent">
-                    Close
+                <Button onClick={onCancel} color="transparent">
+                    Cancel
                 </Button>
-                <Button onClick={addNewWord} color="primary">
+                <Button onClick={handleSubmit} color="primary">
                     Save
                 </Button>
             </ModalActions>
