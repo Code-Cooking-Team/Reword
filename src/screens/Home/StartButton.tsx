@@ -1,5 +1,7 @@
 import { useNavigate } from 'react-router-dom'
 import styled from 'styled-components'
+import { useKeyPressEvent } from 'react-use'
+import { Kbd } from '../../components/Button/Kbd'
 import { Icon } from '../../components/Icon'
 import { RouteName } from '../../RouteName'
 import { scaleInAnimation } from '../../styles/animations'
@@ -13,19 +15,26 @@ type StartButtonProps = {
 export const StartButton = ({ hasWords }: StartButtonProps) => {
     const navigate = useNavigate()
 
+    const goToWords = () => navigate(RouteName.Words)
+    const playGame = () => navigate(RouteName.Game)
+
+    useKeyPressEvent('Enter', hasWords ? playGame : goToWords)
+
     if (!hasWords) {
         return (
-            <CircleButton onClick={() => navigate(RouteName.Words)}>
+            <CircleButton onClick={goToWords}>
                 <Icon name="Plus" size="large" block />
                 Word
+                <Kbd>Enter</Kbd>
             </CircleButton>
         )
     }
 
     return (
-        <CircleButton onClick={() => navigate(RouteName.Game)}>
+        <CircleButton onClick={playGame}>
             <Icon name="Play" size="large" block />
             Play
+            <Kbd>Enter</Kbd>
         </CircleButton>
     )
 }
@@ -33,6 +42,11 @@ export const StartButton = ({ hasWords }: StartButtonProps) => {
 const playSize = '45vmin'
 
 const CircleButton = styled.button`
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
     ${scaleInAnimation}
     background: ${white};
     border: none;
@@ -44,4 +58,8 @@ const CircleButton = styled.button`
     border-radius: 100%;
     color: ${purple};
     font-size: 36px;
+
+    ${Kbd} {
+        margin-top: 10px;
+    }
 `

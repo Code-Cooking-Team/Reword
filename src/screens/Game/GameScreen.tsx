@@ -1,6 +1,7 @@
 import { useNavigate } from 'react-router-dom'
-import KeyHandler, { KEYPRESS } from 'react-key-handler'
+import { useKeyPressEvent } from 'react-use'
 import styled from 'styled-components'
+import { Kbd } from '../../components/Button/Kbd'
 import { Icon } from '../../components/Icon'
 import { Keyboard } from '../../components/Keyboard'
 import { Typewriter } from '../../components/Typewriter'
@@ -13,7 +14,15 @@ import { useGame } from './useGame'
 
 export const GameScreen = () => {
     const navigate = useNavigate()
+    const goBack = () => navigate(-1)
+
     const { word, wordRight, progress, nextWord, retry, keyPress, isComplete } = useGame()
+
+    useKeyPressEvent('ArrowLeft', retry)
+    useKeyPressEvent('Backspace', retry)
+    useKeyPressEvent('ArrowRight', nextWord)
+    useKeyPressEvent('Enter', isComplete ? nextWord : undefined)
+    useKeyPressEvent('Escape', goBack)
 
     return (
         <Container>
@@ -34,14 +43,14 @@ export const GameScreen = () => {
                 <Typewriter word={word.name} progress={progress} key={word.name} />
             </Row>
             <ActionButtonsWrapper>
-                <ActionButton onClick={() => navigate(-1)}>
-                    <Icon name="Cross" /> <span>End</span>
+                <ActionButton onClick={goBack}>
+                    <Icon name="Cross" /> <span>End</span> <Kbd>Esc</Kbd>
                 </ActionButton>
                 <ActionButton onClick={retry}>
-                    <Icon name="Reload" /> <span>Retry</span>
+                    <Icon name="Reload" /> <span>Retry</span> <Kbd>←</Kbd>
                 </ActionButton>
                 <ActionButton onClick={nextWord}>
-                    <Icon name="Play" /> <span>Skip</span>
+                    <Icon name="Play" /> <span>Skip</span> <Kbd>→</Kbd>
                 </ActionButton>
             </ActionButtonsWrapper>
             <Bottom>
@@ -52,12 +61,8 @@ export const GameScreen = () => {
                         <DoneButton onClick={nextWord}>
                             Next word
                             <Icon name="Play" />
+                            <Kbd light>Enter</Kbd>
                         </DoneButton>
-                        <KeyHandler
-                            keyEventName={KEYPRESS}
-                            keyValue="Enter"
-                            onKeyHandle={nextWord}
-                        />
                     </Complete>
                 )}
             </Bottom>

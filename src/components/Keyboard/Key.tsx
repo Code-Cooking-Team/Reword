@@ -1,28 +1,23 @@
-import KeyHandler, { KEYPRESS } from 'react-key-handler'
 import styled, { css } from 'styled-components'
 import { purple, white } from '../../styles/colors'
 import { fast } from '../../styles/transitions'
+import { useKeyPressEvent } from 'react-use'
 
 interface KeyProps {
-    onClick(): void
-    symbol?: string
+    onPress(): void
+    symbol: string
     visible?: boolean
 }
 
-export const Key = (props: KeyProps) => (
-    <Container
-        visible={props.visible}
-        onPointerDown={props.onClick}
-        isSpace={props.symbol === ' '}
-    >
-        {props.symbol}
-        <KeyHandler
-            keyEventName={KEYPRESS}
-            keyValue={props.symbol}
-            onKeyHandle={props.onClick}
-        />
-    </Container>
-)
+export const Key = ({ visible, onPress, symbol }: KeyProps) => {
+    useKeyPressEvent((event) => event.key === symbol, onPress)
+
+    return (
+        <Container visible={visible} onPointerDown={onPress} isSpace={symbol === ' '}>
+            {symbol}
+        </Container>
+    )
+}
 
 const Container = styled.button<{ visible?: boolean; isSpace?: boolean }>`
     width: ${(p) => (p.isSpace ? '47vw' : '8vw')};

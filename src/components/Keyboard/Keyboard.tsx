@@ -1,8 +1,7 @@
-import React from 'react'
 import styled from 'styled-components'
-import { getKeysForWord } from './getKeysForWord'
 import { white } from '../../styles/colors'
 import { barShadow } from '../../styles/shadow'
+import { getKeysForWord } from './getKeysForWord'
 import { Key } from './Key'
 
 interface KeyboardProps {
@@ -13,16 +12,16 @@ interface KeyboardProps {
 
 export const Keyboard = (props: KeyboardProps) => (
     <Container>
-        {getKeysForWord(props.word, props.fakeKeys).map((row, i) => (
-            <Row key={i}>
-                {row.map(k => (
+        {getKeysForWord(props.word, props.fakeKeys).map((row, index) => (
+            <Row key={index}>
+                {row.map((key) => (
                     <Key
-                        key={k.key}
-                        symbol={k.key}
-                        visible={k.visible}
-                        onClick={() => {
-                            if (k.visible) {
-                                props.onPress(k.key)
+                        key={key.key}
+                        symbol={key.key}
+                        visible={key.visible}
+                        onPress={() => {
+                            if (key.visible) {
+                                props.onPress(key.key)
                             }
                         }}
                     />

@@ -1,8 +1,10 @@
 import { useState } from 'react'
 import styled from 'styled-components'
+import { useKeyPress } from 'react-use'
 import { useElementSize } from '../../hooks/useElementSize'
 import { black, black1, black3 } from '../../styles/colors'
 import { Pointer } from './Pointer'
+import { Kbd } from '../Button/Kbd'
 
 type TypewriterProps = {
     word: string
@@ -12,27 +14,39 @@ type TypewriterProps = {
 export const Typewriter = ({ word, progress }: TypewriterProps) => {
     const { width } = useElementSize()
     const [preview, setPreview] = useState(false)
+    const [isPrevButton] = useKeyPress('Shift')
 
-    const typed = word.substr(0, progress)
+    const showPreview = isPrevButton || preview
+    const previewIndex = showPreview ? progress + 2 : 0
+
+    const typed = word.substring(0, progress)
     const fontSize = Math.min(width / word.length, 80)
 
     return (
         <Container
             onPointerDown={() => setPreview(true)}
-            onPointerOut={() => setPreview(false)}
+            onPointerUp={() => setPreview(false)}
+            onPointerCancel={() => setPreview(false)}
             style={{ fontSize }}
         >
             <TypeWrapper>
-                {word.split('').map((w, i) => {
+                {word.split('').map((letter, index) => {
                     return (
-                        <Segment key={w + i}>
-                            {i === progress && <Pointer key={typed} />}
-                            <Letter hide={progress <= i && !preview}>{w}</Letter>
+                        <Segment key={letter + index}>
+                            {index === progress && <Pointer key={typed} />}
+                            <Letter
+                                show={progress > index}
+                                preview={previewIndex > index}
+                            >
+                                {letter}
+                            </Letter>
                         </Segment>
                     )
                 })}
             </TypeWrapper>
-            <Hint>Touch to preview</Hint>
+            <Hint>
+                Touch to preview <Kbd block>Shift</Kbd>
+            </Hint>
         </Container>
     )
 }
@@ -61,7 +75,9 @@ const Segment = styled.span`
     position: relative;
 `
 
-const Letter = styled.span<{ hide: boolean }>`
+const transparent = 'rgba(0,0,0,0.0)'
+
+const Letter = styled.span<{ show: boolean; preview: boolean }>`
     display: inline-block;
     text-align: center;
     position: relative;
@@ -69,8 +85,8 @@ const Letter = styled.span<{ hide: boolean }>`
     height: 100%;
     min-width: 0.6em;
     transition: transform 0.25s cubic-bezier(0.3, 1.61, 0.43, 1.01);
-    transform: ${(props) => (props.hide ? 'scale(0.5)' : 'scale(1)')};
-    color: ${(props) => (props.hide ? 'rgba(0,0,0,0.0)' : black)};
+    transform: ${(props) => (props.show || props.preview ? 'scale(1)' : 'scale(0.5)')};
+    color: ${(props) => (props.show ? black : props.preview ? black3 : transparent)};
     font-family: 'Ubuntu Mono', monospace;
 
     &::after {
@@ -84,12 +100,19 @@ const Letter = styled.span<{ hide: boolean }>`
         height: 1em;
         transition: transform 0.25s cubic-bezier(0.3, 1.61, 0.43, 1.01);
         color: ${black3};
-        transform: ${(props) => (props.hide ? 'scale(2)' : 'scale(0)')};
-        opacity: ${(props) => (props.hide ? 1 : 0)};
+        transform: ${(props) => (props.show ? 'scale(0)' : 'scale(2)')};
+        opacity: ${(props) => (props.show || props.preview ? 0 : 1)};
     }
 `
 
 const Hint = styled.small`
-    font-size: 11px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    margin-top: 20px;
+    font-size: 12px;
+    line-height: 1.6;
     color: ${black1};
 `
