@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import { useEffect, useRef, useState } from 'react'
 import styled from 'styled-components'
 import { useKeyPress } from 'react-use'
 import { useElementSize } from '../../hooks/useElementSize'
@@ -9,15 +9,22 @@ import { Kbd } from '../Button/Kbd'
 type TypewriterProps = {
     word: string
     progress: number
+    mistakeCounter: number
+    isMistake: boolean
 }
 
-export const Typewriter = ({ word, progress }: TypewriterProps) => {
+export const Typewriter = ({
+    word,
+    progress,
+    mistakeCounter,
+    isMistake,
+}: TypewriterProps) => {
     const { width } = useElementSize()
     const [preview, setPreview] = useState(false)
     const [isPrevButton] = useKeyPress('Shift')
 
     const showPreview = isPrevButton || preview
-    const previewIndex = showPreview ? progress + 2 : 0
+    const previewIndex = showPreview ? progress + 2 : progress + (isMistake ? 1 : 0)
 
     const typed = word.substring(0, progress)
     const fontSize = Math.min(width / word.length, 80)
@@ -33,7 +40,12 @@ export const Typewriter = ({ word, progress }: TypewriterProps) => {
                 {word.split('').map((letter, index) => {
                     return (
                         <Segment key={letter + index}>
-                            {index === progress && <Pointer key={typed} />}
+                            {index === progress && (
+                                <Pointer
+                                    key={typed + mistakeCounter}
+                                    isMistake={isMistake}
+                                />
+                            )}
                             <Letter
                                 show={progress > index}
                                 preview={previewIndex > index}
@@ -45,7 +57,7 @@ export const Typewriter = ({ word, progress }: TypewriterProps) => {
                 })}
             </TypeWrapper>
             <Hint>
-                Touch to preview <Kbd block>Shift</Kbd>
+                Touch to preview <Kbd block>Shift</Kbd> {mistakeCounter}
             </Hint>
         </Container>
     )

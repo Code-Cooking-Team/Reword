@@ -11,6 +11,8 @@ const emptyWord: Word = {
 export const useGame = () => {
     const { words, randomWord } = useWords()
     const [progress, setProgress] = useState(0)
+    const [mistakeCount, setMistakeCount] = useState(0)
+    const [isMistake, setIsMistake] = useState(false)
     const [word, setWord] = useState(emptyWord)
 
     useEffect(() => {
@@ -24,18 +26,43 @@ export const useGame = () => {
     const keyPress = (key: string) => {
         const currentWord = word.name[progress].toLocaleLowerCase()
         if (key === currentWord) {
+            increaseProgress()
+            setIsMistake(false)
+        } else {
+            setMistakeCount((val) => val + 1)
+            setIsMistake(true)
+        }
+    }
+
+    const increaseProgress = () => {
+        if (progress < word.name.length) {
             setProgress(progress + 1)
         }
+    }
+    const resetWord = () => {
+        setProgress(0)
+        setIsMistake(false)
+        setMistakeCount(0)
     }
 
     const nextWord = () => {
         setWord(randomWord())
-        setProgress(0)
+        resetWord()
     }
 
     const retry = () => {
-        setProgress(0)
+        resetWord()
     }
 
-    return { word, progress, wordRight, nextWord, retry, keyPress, isComplete }
+    return {
+        word,
+        progress,
+        wordRight,
+        nextWord,
+        retry,
+        keyPress,
+        isComplete,
+        mistakeCount,
+        isMistake,
+    }
 }

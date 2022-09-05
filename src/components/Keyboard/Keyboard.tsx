@@ -20,9 +20,7 @@ export const Keyboard = (props: KeyboardProps) => (
                         symbol={key.key}
                         visible={key.visible}
                         onPress={() => {
-                            if (key.visible) {
-                                props.onPress(key.key)
-                            }
+                            props.onPress(key.key)
                         }}
                     />
                 ))}

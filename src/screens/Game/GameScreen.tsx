@@ -16,7 +16,17 @@ export const GameScreen = () => {
     const navigate = useNavigate()
     const goBack = () => navigate(-1)
 
-    const { word, wordRight, progress, nextWord, retry, keyPress, isComplete } = useGame()
+    const {
+        word,
+        wordRight,
+        progress,
+        nextWord,
+        retry,
+        keyPress,
+        isComplete,
+        mistakeCount,
+        isMistake,
+    } = useGame()
 
     useKeyPressEvent('ArrowLeft', retry)
     useKeyPressEvent('Backspace', retry)
@@ -40,7 +50,13 @@ export const GameScreen = () => {
                 </div>
             </Row>
             <Row>
-                <Typewriter word={word.name} progress={progress} key={word.name} />
+                <Typewriter
+                    word={word.name}
+                    progress={progress}
+                    key={word.name}
+                    mistakeCounter={mistakeCount}
+                    isMistake={isMistake}
+                />
             </Row>
             <ActionButtonsWrapper>
                 <ActionButton onClick={goBack}>
