@@ -1,4 +1,3 @@
-import React from 'react'
 import styled from 'styled-components'
 import { DragDropContext, Droppable, Draggable } from 'react-beautiful-dnd'
 import { purple, white } from '../../styles/colors'
@@ -10,7 +9,7 @@ type EditableListProps = {
 }
 export const EditableList = (props: EditableListProps) => (
     <DragDropContext
-        onDragEnd={result => {
+        onDragEnd={(result) => {
             if (!result.destination) return
 
             const items = reorder(

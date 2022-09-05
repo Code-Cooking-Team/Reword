@@ -1,4 +1,3 @@
-import React from 'react'
 import styled from 'styled-components'
 import { useSpring, animated } from 'react-spring'
 import { purple } from '../../styles/colors'

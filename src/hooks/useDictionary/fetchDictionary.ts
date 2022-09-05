@@ -1,7 +1,7 @@
 import { DictionaryItem } from './types'
 
 const alphabet = 'abcdefghijklmnopqrstuvwxyz'.split('')
-const cache = {}
+const cache: Record<string, DictionaryItem[]> = {}
 
 export const fetchDictionary = async (
     letter: string

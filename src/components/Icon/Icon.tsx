@@ -1,4 +1,3 @@
-import React from 'react'
 import styled from 'styled-components'
 import * as icons from './icons'
 
@@ -27,7 +26,7 @@ export const Icon = ({ name, size = 'normal', block = false }: IconProps) => {
 }
 
 const Container = styled.div<{ block: boolean }>`
-    display: ${p => (p.block ? 'block' : 'inline-block')};
+    display: ${(p) => (p.block ? 'block' : 'inline-block')};
     vertical-align: middle;
     svg {
         display: block;

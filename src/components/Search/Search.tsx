@@ -1,4 +1,3 @@
-import React from 'react'
 import styled from 'styled-components'
 import { barShadow } from '../../styles/shadow'
 import { Icon } from '../Icon'
@@ -13,7 +12,7 @@ export const Search = (props: SearchProps) => (
         <Input
             type="text"
             value={props.value}
-            onChange={e => props.onChange(e.target.value)}
+            onChange={(e) => props.onChange(e.target.value)}
             placeholder="Search…"
         />
         <IconPos onClick={() => props.onChange('')}>

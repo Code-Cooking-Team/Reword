@@ -1,4 +1,3 @@
-import React from 'react'
 import styled from 'styled-components'
 import { purple } from '../../styles/colors'
 
@@ -13,7 +12,7 @@ export const ExampleSentence = ({
     hiddenWord,
     showWord,
 }: ExampleSentenceProps) => {
-    const words = splitWords(sentence).map(word => ({
+    const words = splitWords(sentence).map((word) => ({
         word,
         isHidden: matchWord(word, hiddenWord),
     }))

@@ -1,14 +1,8 @@
 {
-    "Import react": {
-        "scope": "javascriptreact,typescriptreact",
-        "prefix": "/ireact",
-        "body": "import React from 'react'"
-    },
     "React components": {
         "scope": "javascript,javascriptreact,typescript,typescriptreact",
         "prefix": "/component",
         "body": [
-            "import React from 'react'",
             "import styled from 'styled-components'\n",
             "type ${1:$TM_FILENAME_BASE}Props = {$2}\n",
             "export const ${1:$TM_FILENAME_BASE} = (props: $1Props) => (",

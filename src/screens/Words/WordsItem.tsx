@@ -1,8 +1,7 @@
-import React from 'react'
 import styled from 'styled-components'
-import { Word } from '../../store/state/types/State'
 import { black1, purple, black6 } from '../../styles/colors'
 import { Icon } from '../../components/Icon'
+import { Word } from '../../firebase/types/Word'
 
 type WordsItemProps = {
     word: Word
@@ -15,7 +14,6 @@ export const WordsItem = (props: WordsItemProps) => (
             <Name>{props.word.name} - </Name>
             <Translations>{props.word.translation.join(', ')}</Translations>
 
-            {props.word.action && 'Loading…'}
             {!!props.word.example.length && (
                 <Examples>{props.word.example.join(', ')}</Examples>
             )}
