@@ -10,7 +10,10 @@ interface KeyProps {
 }
 
 export const Key = ({ visible, onPress, symbol }: KeyProps) => {
-    useKeyPressEvent((event) => event.key === symbol, onPress)
+    useKeyPressEvent(
+        (event) => event.key.toLocaleLowerCase() === symbol.toLocaleLowerCase(),
+        onPress
+    )
 
     return (
         <Container visible={visible} onPointerDown={onPress} isSpace={symbol === ' '}>
