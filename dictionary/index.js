@@ -5,11 +5,11 @@ const cheerioLoad = require('cheerio').load
 
 const alphabet = 'abcdefghijklmnopqrstuvwxyz'.split('')
 
-const OUTPUT = path.resolve(__dirname, '../public/dictionary')
+const OUTPUT = path.resolve(__dirname, '../src/public/dictionary')
 const OUTPUT_EN_PL = `${OUTPUT}/en-pl`
 
-const getDataFilePath = letter => path.resolve(__dirname, `./data/en-pl/${letter}.xml`)
-const getSaveFilePath = letter => `${OUTPUT_EN_PL}/${letter}.json`
+const getDataFilePath = (letter) => path.resolve(__dirname, `./data/en-pl/${letter}.xml`)
+const getSaveFilePath = (letter) => `${OUTPUT_EN_PL}/${letter}.json`
 
 if (!fs.existsSync(OUTPUT_EN_PL)) {
     fs.mkdirSync(OUTPUT)
@@ -18,7 +18,7 @@ if (!fs.existsSync(OUTPUT_EN_PL)) {
 
 let total = 0
 
-alphabet.forEach(letter => {
+alphabet.forEach((letter) => {
     const xmlFile = fs.readFileSync(getDataFilePath(letter), 'utf-8')
     const $ = cheerioLoad(xmlFile, { xmlMode: true, normalizeWhitespace: true })
     const data = []
