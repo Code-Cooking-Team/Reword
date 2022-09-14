@@ -5,8 +5,7 @@ Re|word is available online on: http://reword.9px.pl/ (developer preview)
 ## Development
 
 ```
-npm start
-npm test
-npm run build
-npm run storybook
+pnpm install
+pnpm run dev
+pnpm run build
 ```

@@ -1,25 +1,28 @@
 /* eslint-disable @typescript-eslint/no-var-requires */
-const fs = require('fs')
-const path = require('path')
-const cheerioLoad = require('cheerio').load
+import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'fs'
+import { resolve, dirname } from 'path'
+import { fileURLToPath } from 'url'
+import { load as cheerioLoad } from 'cheerio'
+
+const __dirname = dirname(fileURLToPath(import.meta.url))
 
 const alphabet = 'abcdefghijklmnopqrstuvwxyz'.split('')
 
-const OUTPUT = path.resolve(__dirname, '../src/public/dictionary')
+const OUTPUT = resolve(__dirname, '../public/dictionary')
 const OUTPUT_EN_PL = `${OUTPUT}/en-pl`
 
-const getDataFilePath = (letter) => path.resolve(__dirname, `./data/en-pl/${letter}.xml`)
+const getDataFilePath = (letter) => resolve(__dirname, `./data/en-pl/${letter}.xml`)
 const getSaveFilePath = (letter) => `${OUTPUT_EN_PL}/${letter}.json`
 
-if (!fs.existsSync(OUTPUT_EN_PL)) {
-    fs.mkdirSync(OUTPUT)
-    fs.mkdirSync(OUTPUT_EN_PL)
+if (!existsSync(OUTPUT_EN_PL)) {
+    mkdirSync(OUTPUT)
+    mkdirSync(OUTPUT_EN_PL)
 }
 
 let total = 0
 
 alphabet.forEach((letter) => {
-    const xmlFile = fs.readFileSync(getDataFilePath(letter), 'utf-8')
+    const xmlFile = readFileSync(getDataFilePath(letter), 'utf-8')
     const $ = cheerioLoad(xmlFile, { xmlMode: true, normalizeWhitespace: true })
     const data = []
 
@@ -53,7 +56,7 @@ alphabet.forEach((letter) => {
     console.log(`${letter}: ${data.length} words`)
     total += data.length
 
-    fs.writeFileSync(getSaveFilePath(letter), JSON.stringify(data, null, 2))
+    writeFileSync(getSaveFilePath(letter), JSON.stringify(data, null, 2))
 })
 
 console.log(`--------------\nTotal: ${total} words`)

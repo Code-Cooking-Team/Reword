@@ -1,19 +1,24 @@
 {
-    "editor.formatOnSave": true,
-    "eslint.enable": true,
-    "eslint.autoFixOnSave": true,
-    "eslint.validate": ["javascript", "javascriptreact", "typescript", "typescriptreact"],
-    "cSpell.words": [
-        "asdfghjkl",
-        "Droppable",
-        "firestore",
-        "qwertyuiop",
-        "reactfire",
-        "Signin",
-        "zxcvbnm"
-    ],
-    "typescript.tsdk": "node_modules/typescript/lib",
-    "editor.codeActionsOnSave": {
-        "source.fixAll.eslint": true
-    }
+  "editor.formatOnSave": true,
+  "eslint.enable": true,
+  "eslint.autoFixOnSave": true,
+  "eslint.validate": ["javascript", "javascriptreact", "typescript", "typescriptreact"],
+  "cSpell.words": [
+    "asdfghjkl",
+    "Droppable",
+    "firestore",
+    "pnpm",
+    "predeploy",
+    "qwertyuiop",
+    "reactfire",
+    "Signin",
+    "zxcvbnm"
+  ],
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "yaml.schemas": {
+    "https://json.schemastore.org/github-workflow.json": "file:///Users/kacperkozak/Workspace/GitHub/Reword/.github/workflows/deploy.yml"
+  }
 }

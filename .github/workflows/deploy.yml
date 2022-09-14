@@ -1,0 +1,24 @@
+name: Deploy to gh-pages
+
+on:
+  push:
+    branches: ['master']
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout 🛎️
+        uses: actions/checkout@v3
+
+      - name: Install and Build 🔧
+        run: |
+          pnpm install
+          pnpm run ts
+          pnpm run build
+          pnpm run dictionary
+
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: build
