@@ -1,4 +1,4 @@
-export interface Word {
+export type Word = {
     name: string
     example: string[]
     translation: string[]

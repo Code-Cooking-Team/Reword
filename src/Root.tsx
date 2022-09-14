@@ -4,6 +4,7 @@ import { Suspense } from 'react'
 import { AuthProvider, FirestoreProvider, useFirebaseApp } from 'reactfire'
 import { App } from './App'
 import { FullLoading } from './components/Loading'
+import { ConfigProvider } from './config/ConfigProvider'
 
 export const Root = () => {
     const app = useFirebaseApp()
@@ -14,7 +15,9 @@ export const Root = () => {
         <Suspense fallback={<FullLoading />}>
             <AuthProvider sdk={auth}>
                 <FirestoreProvider sdk={firestore}>
-                    <App />
+                    <ConfigProvider>
+                        <App />
+                    </ConfigProvider>
                 </FirestoreProvider>
             </AuthProvider>
         </Suspense>

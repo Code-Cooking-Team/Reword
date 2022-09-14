@@ -3,7 +3,7 @@ import { purple, white } from '../../styles/colors'
 import { fast } from '../../styles/transitions'
 import { useKeyPressEvent } from 'react-use'
 
-interface KeyProps {
+type KeyProps = {
     onPress(): void
     symbol: string
     visible?: boolean

@@ -1,27 +1,7 @@
-import {
-    addDoc,
-    collection,
-    CollectionReference,
-    deleteDoc,
-    doc,
-    updateDoc,
-} from 'firebase/firestore'
-import { useFirestore, useUser } from 'reactfire'
-import { DBConst } from '../DBConst'
+import { addDoc, deleteDoc, doc, updateDoc } from 'firebase/firestore'
 import { Word } from '../types/Word'
 import { useFirestoreCollectionDataWithId } from './helpers'
-
-export const useWordsCollectionRef = () => {
-    const { data: user } = useUser()
-    const firestore = useFirestore()
-
-    return collection(
-        firestore,
-        DBConst.users,
-        user!.uid,
-        DBConst.words
-    ) as CollectionReference<Word>
-}
+import { useWordsCollectionRef } from './useWordsCollectionRef'
 
 export const useWords = () => {
     const wordsRef = useWordsCollectionRef()
