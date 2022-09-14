@@ -1,10 +1,11 @@
-import { useEffect, useRef, useState } from 'react'
-import styled from 'styled-components'
+import { useState } from 'react'
 import { useKeyPress } from 'react-use'
+import styled from 'styled-components'
+import { useConfig } from '../../config/useConfig'
 import { useElementSize } from '../../hooks/useElementSize'
 import { black, black1, black3 } from '../../styles/colors'
-import { Pointer } from './Pointer'
 import { Kbd } from '../Button/Kbd'
+import { Pointer } from './Pointer'
 
 type TypewriterProps = {
     word: string
@@ -22,9 +23,12 @@ export const Typewriter = ({
     const { width } = useElementSize()
     const [preview, setPreview] = useState(false)
     const [isPrevButton] = useKeyPress('Shift')
+    const { config } = useConfig()
 
     const showPreview = isPrevButton || preview
-    const previewIndex = showPreview ? progress + 2 : progress + (isMistake ? 1 : 0)
+    const previewIndex = showPreview
+        ? progress + config.previewLetters
+        : progress + (isMistake ? 1 : 0)
 
     const typed = word.substring(0, progress)
     const fontSize = Math.min(width / word.length, 80)

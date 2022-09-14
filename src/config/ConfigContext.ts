@@ -1,5 +1,5 @@
 import { createContext } from 'react'
-import { Config, defaultConfig } from './Config'
+import { Config } from './Config'
 
 export const ConfigContext = createContext<
     | {

@@ -1,3 +1,4 @@
+import { ReactNode } from 'react'
 import styled from 'styled-components'
 import { useConfig } from '../../config/useConfig'
 import { isMobile } from '../../styles/mediaQuery'
@@ -5,6 +6,7 @@ import { isMobile } from '../../styles/mediaQuery'
 type KbdProps = {
     light?: boolean
     block?: boolean
+    children?: ReactNode
 }
 
 export const Kbd = (props: KbdProps) => {

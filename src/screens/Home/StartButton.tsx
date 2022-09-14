@@ -58,8 +58,5 @@ const CircleButton = styled.button`
     border-radius: 100%;
     color: ${purple};
     font-size: 36px;
-
-    ${Kbd} {
-        margin-top: 10px;
-    }
+    line-height: 1.4;
 `

@@ -20,7 +20,7 @@ export const useGame = () => {
         if (newWord) setWord(newWord)
     }, [words])
 
-    const wordRight = word.name.substr(progress)
+    const wordRight = word.name.substring(progress)
     const isComplete = progress === word.name.length
 
     const keyPress = (key: string) => {
